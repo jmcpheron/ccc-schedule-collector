@@ -1,12 +1,25 @@
 # Rio Hondo College Schedule Collector
 
-**A GitHub Actions-powered schedule collector for Rio Hondo College, featuring automated HTML parsing and zero-dependency Python scripts using UV.**
+[![Tests](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/test.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/test.yml)
+[![Collect Schedule](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![uv](https://img.shields.io/badge/uv-Package%20Manager-green?logo=python&logoColor=white)](https://github.com/astral-sh/uv)
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-orange)](https://www.crummy.com/software/BeautifulSoup/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## What This Does
+A GitHub Actions-powered schedule collector for Rio Hondo College, featuring automated HTML parsing and zero-dependency Python scripts using UV.
 
-This project implements a **cloud-based collector** that automatically gathers Rio Hondo College's course schedule data and stores it over time in your GitHub repository. No servers to maintain, no hosting costs - just GitHub Actions running your collector in the cloud on a schedule you define.
+## Overview
 
-The collected data accumulates in your repo's `/data` folder, creating a historical record of schedule changes, new courses, and enrollment updates that you can analyze or build applications on top of.
+This project implements a **cloud-based collector** that automatically gathers Rio Hondo College's course schedule data from their Banner 8 system and stores it over time in your GitHub repository. Part of the larger [CCC Schedule](https://github.com/jmcpheron/ccc-schedule) ecosystem, this collector provides the data foundation for building schedule viewers and analysis tools.
+
+### Key Benefits
+
+- 🚀 **Zero Infrastructure**: Runs entirely on GitHub Actions - no servers needed
+- 📊 **Historical Data**: Accumulates schedule snapshots over time
+- 🔄 **Automated Collection**: Runs on schedule or manual trigger
+- 📋 **Structured Output**: Clean JSON data ready for the CCC Schedule viewer
 
 ## Features
 
@@ -141,9 +154,9 @@ rio_hondo:
     end_hh: "11"    # End time filter
 ```
 
-### Analyze Your Collected Data
+## CLI Commands
 
-The CLI provides powerful analysis tools:
+The project includes powerful command-line tools for data analysis:
 
 ```bash
 # View courses by subject or instructor
@@ -179,78 +192,105 @@ uv run cli.py export data/latest.json output.xlsx --format excel
 
 **Educational Focus**: Designed specifically for collecting public course schedule information to help students, researchers, and developers build useful tools.
 
-## Getting Started
+## Quick Start
 
-### Option 1: Quick Start (Recommended)
-1. Fork or clone this repository
-2. Push to your GitHub account
-3. The collector will automatically run on schedule (Mon/Wed/Fri at 6 AM UTC)
-4. Check the `/data` folder for collected schedules
+### For Schedule Collection (GitHub)
 
-### Option 2: Local Development
-1. Clone the repository
-2. Run the setup script:
-   ```bash
-   ./setup.sh
-   ```
-3. Test the collector locally:
-   ```bash
-   uv run collect.py
-   ```
-4. Explore the data:
-   ```bash
-   uv run cli.py info data/schedule_*.json
-   ```
+1. **Fork this repository**
+2. **Enable Actions** in your fork (Settings → Actions → Enable)
+3. **Enable collection** by editing `.github/workflows/collect.yml`:
+   - Uncomment lines 5-7 (schedule trigger)
+   - Uncomment lines 59-64 (actual collection)
+4. **Push changes** - collection will run automatically
+
+### For Local Development
+
+```bash
+# Clone the repository
+git clone https://github.com/jmcpheron/ccc-schedule-collector.git
+cd ccc-schedule-collector
+
+# Install UV if needed
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Run setup
+./setup.sh
+
+# Test with local HTML file
+./test_local.py --save --debug
+
+# Test actual collection (be respectful of servers)
+./test_collection.py --test-connection
+```
 
 ### Manual Collection
-You can trigger a collection manually from GitHub:
+
+Trigger collection manually from GitHub:
 1. Go to Actions → "Collect Rio Hondo Schedule"
 2. Click "Run workflow"
-3. Watch the progress and check `/data` for results
+3. Check `/data` folder for results
+
+## Testing
+
+The project includes comprehensive tests using pytest:
+
+```bash
+# Run all tests
+uv run test_collector.py
+
+# Run specific test
+uv run pytest test_collector.py::TestParser::test_parse_schedule_html -v
+
+# Run with coverage
+uv run pytest --cov
+
+# Lint code
+uv run ruff check .
+
+# Type checking
+uv run mypy .
+```
+
+## Documentation
+
+- [Local Testing Guide](LOCAL_TESTING.md) - Detailed guide for testing locally
+- [Contributing Guidelines](CONTRIBUTING.md) - How to contribute to the project
+- [Claude Code Instructions](CLAUDE.md) - AI assistant guidance
+
+## Integration with CCC Schedule
+
+This collector is designed to work with the [CCC Schedule](https://github.com/jmcpheron/ccc-schedule) viewer:
+
+1. **Collect data** using this repository
+2. **Transform data** to the unified schema format
+3. **Display data** using the CCC Schedule web interface
+
+## Architecture
+
+### Data Flow
+
+```
+Rio Hondo Website → HTML Parser → JSON Data → GitHub Storage
+                                      ↓
+                              CCC Schedule Viewer
+```
+
+### Key Components
+
+- **models.py**: Pydantic models for type-safe data handling
+- **utils/parser.py**: BeautifulSoup HTML parser for Banner 8
+- **utils/storage.py**: JSON storage with compression support
+- **collect.py**: Main collector with retry logic
+- **cli.py**: Analysis and export tools
+
+## Contributing
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## Implementation Details
-
-### Data Models
-
-The project uses comprehensive Pydantic models:
-- **Course**: CRN, subject, title, units, instructor, meeting times, enrollment
-- **MeetingTime**: Days, times, arranged/TBA handling  
-- **Enrollment**: Capacity, actual, remaining seats
-- **ScheduleData**: Complete collection with metadata
-
-### Parser Features
-
-- Handles complex table structures
-- Extracts enrollment numbers and instructor info
-- Parses meeting times and locations
-- Identifies zero-textbook-cost courses
-- Detects online/hybrid/in-person delivery methods
-
-### Storage Options
-
-- JSON format with optional gzip/bzip2 compression
-- Automatic "latest" symlinks for easy access
-- Metadata tracking for collection runs
-- Configurable retention policies
-
-### Configuration Options
-
-The `config.yml` file controls:
-- **Term settings**: Which semester to collect
-- **Departments**: All or specific departments
-- **Collection frequency**: Via GitHub Actions cron
-- **Storage**: Compression, retention, file naming
-- **Network**: Timeouts, retries, delays
-
-### Future Enhancements
-
-- **API Support**: The config includes disabled Claude API settings for potential future LLM-enhanced parsing
-- **Multi-campus**: Extend to other California Community Colleges
-- **Notifications**: Webhook support for collection status
-- **Advanced Analytics**: Enrollment predictions, waitlist analysis
-
----
-
-*Inspired by Simon Willison's git-scraper approach but built specifically for California Community College schedules with modern Python tooling.*
+*Part of the [CCC Schedule](https://github.com/jmcpheron/ccc-schedule) ecosystem. Inspired by Simon Willison's git-scraper approach.*
