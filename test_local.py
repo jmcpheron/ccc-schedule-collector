@@ -19,12 +19,12 @@ from datetime import datetime
 sys.path.insert(0, str(Path(__file__).parent))
 
 from models import ScheduleData
-from utils.parser import RioHondoScheduleParser
+from collectors.rio_hondo.parser import RioHondoScheduleParser
 from utils.storage import ScheduleStorage
 
 
 @click.command()
-@click.option('--html-file', default='rio-hondo-fall-2025.html', help='Path to HTML file')
+@click.option('--html-file', default='tests/fixtures/rio-hondo-fall-2025.html', help='Path to HTML file')
 @click.option('--save', is_flag=True, help='Save parsed data to data directory')
 @click.option('--debug', is_flag=True, help='Show debug information')
 def test_parser(html_file: str, save: bool, debug: bool):
@@ -61,10 +61,13 @@ def test_parser(html_file: str, save: bool, debug: bool):
         print(f"✅ Parsing successful!")
         print(f"\n📊 Results:")
         print(f"  - Total courses: {len(schedule_data.courses)}")
-        print(f"  - Departments: {len(schedule_data.departments)}")
-        print(f"  - Department list: {', '.join(sorted(schedule_data.departments)[:10])}")
-        if len(schedule_data.departments) > 10:
-            print(f"    ... and {len(schedule_data.departments) - 10} more")
+        
+        # Get departments from metadata
+        departments = schedule_data.metadata.get('departments', []) if schedule_data.metadata else []
+        print(f"  - Departments: {len(departments)}")
+        print(f"  - Department list: {', '.join(departments[:10])}")
+        if len(departments) > 10:
+            print(f"    ... and {len(departments) - 10} more")
         
         # Show sample courses
         print(f"\n📚 Sample courses:")
@@ -100,9 +103,11 @@ def test_parser(html_file: str, save: bool, debug: bool):
                 "metadata": {
                     "term": schedule_data.term,
                     "term_code": schedule_data.term_code,
-                    "total_courses": schedule_data.total_courses,
-                    "departments": schedule_data.departments,
-                    "collection_timestamp": schedule_data.collection_timestamp.isoformat()
+                    "total_courses": len(schedule_data.courses),
+                    "departments": departments,
+                    "collection_timestamp": schedule_data.collection_timestamp.isoformat(),
+                    "college_id": schedule_data.college_id,
+                    "collector_version": schedule_data.collector_version
                 },
                 "sample_courses": [c.model_dump() for c in schedule_data.courses[:10]]
             }

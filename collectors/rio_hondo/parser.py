@@ -51,6 +51,8 @@ class RioHondoScheduleParser:
             term_code=term_code,
             collection_timestamp=datetime.now(),
             source_url=source_url,
+            college_id='rio-hondo',
+            collector_version='1.0.0',
             courses=courses,
             total_courses=len(courses),
             departments=sorted(list(set(c.subject for c in courses)))

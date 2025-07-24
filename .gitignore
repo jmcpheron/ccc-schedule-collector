@@ -45,6 +45,10 @@ data/*
 !data/.gitkeep
 !data/sample_*.json
 
+# Output directory - new structure
+output/
+!output/.gitkeep
+
 # Environment files
 .env
 .env.local

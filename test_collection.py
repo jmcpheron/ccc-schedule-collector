@@ -17,11 +17,11 @@ import click
 # Add project root to path
 sys.path.insert(0, str(Path(__file__).parent))
 
-from collect import RioHondoCollector
+from collectors.rio_hondo.collector import RioHondoCollector
 
 
 @click.command()
-@click.option('--config', default='config_local.yml', help='Config file to use')
+@click.option('--config', default='collectors/rio_hondo/config.json', help='Config file to use')
 @click.option('--term-code', help='Specific term code to collect')
 @click.option('--test-connection', is_flag=True, help='Just test the connection')
 def test_collection(config: str, term_code: str, test_connection: bool):
@@ -40,8 +40,8 @@ def test_collection(config: str, term_code: str, test_connection: bool):
             print("🔗 Testing connection to Rio Hondo...")
             import requests
             
-            base_url = collector.config['rio_hondo']['base_url']
-            endpoint = collector.config['rio_hondo']['schedule_endpoint']
+            base_url = collector.config['base_url']
+            endpoint = collector.config['schedule_endpoint']
             url = f"{base_url}/{endpoint}"
             
             print(f"   URL: {url}")
@@ -54,13 +54,16 @@ def test_collection(config: str, term_code: str, test_connection: bool):
         
         # Run the collection
         print("\n🚀 Starting collection...")
-        print(f"   Departments: {collector.config['rio_hondo']['departments']}")
+        print(f"   Departments: {collector.config['departments']}")
         
-        schedule_data = collector.collect_schedule(term_code=term_code)
+        schedule_data = collector.collect(term_code=term_code, save=True)
         
         print(f"\n✅ Collection complete!")
         print(f"   Courses collected: {len(schedule_data.courses)}")
-        print(f"   Departments found: {len(schedule_data.departments)}")
+        
+        # Get departments from metadata
+        departments = schedule_data.metadata.get('departments', []) if schedule_data.metadata else []
+        print(f"   Departments found: {len(departments)}")
         
         # Show some statistics
         if schedule_data.courses:

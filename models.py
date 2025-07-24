@@ -2,7 +2,7 @@
 """Data models for Rio Hondo College course schedule data."""
 
 from datetime import datetime
-from typing import List, Optional
+from typing import List, Optional, Dict, Any
 from pydantic import BaseModel, Field
 
 
@@ -50,16 +50,37 @@ class ScheduleData(BaseModel):
     term_code: str = Field(description="Term code (e.g., '202570')")
     collection_timestamp: datetime = Field(description="When this data was collected")
     source_url: str = Field(description="URL where data was collected from")
+    college_id: str = Field(description="Unique identifier for the college (e.g., 'rio-hondo')")
+    collector_version: str = Field(description="Version of the collector (e.g., '1.0.0')")
     courses: List[Course] = Field(description="List of all courses")
-    total_courses: int = Field(description="Total number of courses collected")
-    departments: List[str] = Field(description="List of unique departments in collection")
+    metadata: Optional[Dict[str, Any]] = Field(default=None, description="Optional additional metadata")
+    
+    # Deprecated fields - moved to metadata
+    total_courses: Optional[int] = Field(default=None, description="Total number of courses collected (deprecated - use metadata)")
+    departments: Optional[List[str]] = Field(default=None, description="List of unique departments (deprecated - use metadata)")
     
     def model_post_init(self, __context):
-        """Calculate derived fields after initialization."""
-        if not self.total_courses:
-            self.total_courses = len(self.courses)
-        if not self.departments:
-            self.departments = sorted(list(set(course.subject for course in self.courses)))
+        """Calculate derived fields and organize metadata."""
+        # Move deprecated fields to metadata
+        if self.metadata is None:
+            self.metadata = {}
+            
+        # Calculate total courses if not in metadata
+        if 'total_courses' not in self.metadata:
+            self.metadata['total_courses'] = len(self.courses)
+            
+        # Calculate departments if not in metadata
+        if 'departments' not in self.metadata:
+            self.metadata['departments'] = sorted(list(set(course.subject for course in self.courses)))
+            
+        # Move deprecated fields to metadata if they were set
+        if self.total_courses is not None:
+            self.metadata['total_courses'] = self.total_courses
+            self.total_courses = None
+            
+        if self.departments is not None:
+            self.metadata['departments'] = self.departments
+            self.departments = None
 
 
 class CollectionMetadata(BaseModel):

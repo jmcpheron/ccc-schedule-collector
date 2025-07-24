@@ -1,0 +1,71 @@
+{
+  "college_id": "rio-hondo",
+  "collector_version": "1.0.0",
+  "base_url": "https://ssb.riohondo.edu:8443/prodssb",
+  "schedule_endpoint": "pw_pub_sched.p_listthislist",
+  "parser_type": "beautifulsoup",
+  
+  "current_term": {
+    "code": "202570",
+    "name": "Fall 2025"
+  },
+  
+  "terms": [
+    {"code": "202570", "name": "Fall 2025"},
+    {"code": "202520", "name": "Spring 2025"},
+    {"code": "202510", "name": "Summer 2025"}
+  ],
+  
+  "departments": ["MATH", "CS"],
+  
+  "search_params": {
+    "sel_day": "dummy",
+    "sel_schd": "dummy",
+    "sel_camp": "%",
+    "sel_ism": "%",
+    "sel_sess": "%",
+    "sel_instr": "%",
+    "sel_ptrm": "%",
+    "sel_zero": "N",
+    "sel_attrib": "%",
+    "begin_hh": "5",
+    "begin_mi": "0",
+    "begin_ap": "a",
+    "end_hh": "11",
+    "end_mi": "0",
+    "end_ap": "p"
+  },
+  
+  "rate_limit": {
+    "requests_per_second": 0.5,
+    "retry_attempts": 3
+  },
+  
+  "http_config": {
+    "timeout": 60,
+    "verify_ssl": true
+  },
+  
+  "user_agent": "CCC-Schedule-Collector/1.0 (https://github.com/jmcpheron/ccc-schedule-collector)",
+  
+  "selectors": {
+    "course_rows": "tr.default1, tr.default2",
+    "subject_header": "td.subject_header",
+    "crn": "td:nth-child(1)",
+    "subject": "td:nth-child(2)",
+    "course_number": "td:nth-child(3)",
+    "credits": "td:nth-child(4)",
+    "title": "td:nth-child(5)",
+    "days": "td:nth-child(6)",
+    "time": "td:nth-child(7)",
+    "instructor": "td:nth-child(8)",
+    "dates": "td:nth-child(9)",
+    "location": "td:nth-child(10)",
+    "available": "td:nth-child(11)",
+    "capacity": "td:nth-child(12)",
+    "actual": "td:nth-child(13)",
+    "remaining": "td:nth-child(14)",
+    "weeks": "td:nth-child(15)",
+    "book_link": "td:nth-child(16) a"
+  }
+}

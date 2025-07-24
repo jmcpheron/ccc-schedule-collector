@@ -37,8 +37,8 @@ python3 -c "
 import sys
 sys.path.append('.')
 try:
-    from collect import RioHondoCollector
-    from utils.parser import RioHondoScheduleParser
+    from collectors.rio_hondo.collector import RioHondoCollector
+    from collectors.rio_hondo.parser import RioHondoScheduleParser
     from utils.storage import ScheduleStorage
     from models import Course, ScheduleData
     print('✅ All imports successful')

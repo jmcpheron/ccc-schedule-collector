@@ -107,7 +107,9 @@
       "WELD",
       "WFT"
     ],
-    "collection_timestamp": "2025-07-23T17:40:56.146559"
+    "collection_timestamp": "2025-07-23T21:13:44.608456",
+    "college_id": "rio-hondo",
+    "collector_version": "1.0.0"
   },
   "sample_courses": [
     {
