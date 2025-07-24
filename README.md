@@ -1,18 +1,20 @@
-# Rio Hondo College Schedule Collector
+# CCC Schedule Collector
 
 [![Tests](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/test.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/test.yml)
-[![Collect Schedule](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml)
+[![Schedule Collection](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![uv](https://img.shields.io/badge/uv-Package%20Manager-green?logo=python&logoColor=white)](https://github.com/astral-sh/uv)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-orange)](https://www.crummy.com/software/BeautifulSoup/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A GitHub Actions-powered schedule collector for Rio Hondo College, featuring automated HTML parsing and zero-dependency Python scripts using UV.
+A GitHub Actions-powered schedule collector for California Community Colleges, featuring automated HTML parsing and zero-dependency Python scripts using UV. Currently supports Rio Hondo College with a framework designed for easy expansion to other colleges.
 
 ## Overview
 
-This project implements a **cloud-based collector** that automatically gathers Rio Hondo College's course schedule data from their Banner 8 system and stores it over time in your GitHub repository. Part of the larger [CCC Schedule](https://github.com/jmcpheron/ccc-schedule) ecosystem, this collector provides the data foundation for building schedule viewers and analysis tools.
+This project implements a **cloud-based collector** that automatically gathers course schedule data from California Community College Banner 8 systems and stores it over time in your GitHub repository. Part of the larger [CCC Schedule](https://github.com/jmcpheron/ccc-schedule) ecosystem, this collector provides the data foundation for building schedule viewers and analysis tools.
+
+The first supported college is **Rio Hondo College**, with the framework designed to easily add support for additional California Community Colleges.
 
 ### Key Benefits
 
@@ -25,7 +27,7 @@ This project implements a **cloud-based collector** that automatically gathers R
 
 - 🤖 **Automated Collection**: Runs 3x per week via GitHub Actions
 - 📊 **Rich Data Models**: Structured Pydantic models for all course data
-- 🔍 **HTML Parsing**: BeautifulSoup-based parser for Rio Hondo's schedule format
+- 🔍 **HTML Parsing**: BeautifulSoup-based parser for Banner 8 schedule formats
 - 💾 **Smart Storage**: JSON files with optional compression and symlinks
 - 🛠️ **CLI Tools**: Analyze, compare, validate, and export collected data
 - 📈 **Historical Tracking**: Compare schedules over time to spot trends
@@ -37,7 +39,7 @@ This project implements a **cloud-based collector** that automatically gathers R
 2. **Push to GitHub**: The collector will start running automatically
 3. **Watch it work**: Check the Actions tab to see your collector in action
 
-That's it! Your collector is now running in the cloud, gathering Rio Hondo's schedule data 3x per week.
+That's it! Your collector is now running in the cloud, gathering schedule data 3x per week.
 
 ## How It Works
 
@@ -47,7 +49,7 @@ All data collection happens in **GitHub Actions runners** - ephemeral Linux cont
 
 ```yaml
 # .github/workflows/collect.yml - The heart of your cloud collector
-name: Collect Rio Hondo Schedule
+name: Collect Schedule
 on:
   schedule:
     - cron: '0 6 * * 1,3,5'  # Runs in the cloud 3x/week
@@ -85,7 +87,7 @@ Each script declares its dependencies inline using modern Python standards (PEP 
 The collector uses BeautifulSoup for reliable HTML parsing:
 
 ```python
-class RioHondoScheduleParser:
+class ScheduleParser:
     def parse_schedule_html(self, html_content: str) -> ScheduleData:
         # Parses course tables, headers, and rows
         # Handles enrollment data, meeting times, locations
@@ -94,11 +96,12 @@ class RioHondoScheduleParser:
 
 ### Robust Parsing Strategy
 
-The parser is designed to handle Rio Hondo's specific HTML structure:
+The parser is designed to handle Banner 8 HTML structures:
 - Extracts course data from nested tables
 - Handles multiple course sections and labs
 - Parses complex meeting time formats
 - Gracefully handles missing or malformed data
+- Currently configured for Rio Hondo College's specific format
 
 ## Project Structure
 
@@ -107,7 +110,7 @@ ccc-schedule-collector/
 ├── collect.py             # Main collector with UV inline deps
 ├── test_collector.py      # Pytest test suite
 ├── cli.py                 # Rich CLI tools (info, validate, compare, etc.)
-├── config.yml             # Rio Hondo configuration
+├── config.yml             # College configuration (currently Rio Hondo)
 ├── models.py              # Pydantic data models
 ├── utils/
 │   ├── parser.py          # BeautifulSoup HTML parser
@@ -138,7 +141,8 @@ schedule:
 Edit `config.yml`:
 
 ```yaml
-rio_hondo:
+# College-specific configuration
+rio_hondo:  # First supported college
   # Current term configuration
   current_term:
     code: "202570"  # Fall 2025
@@ -198,10 +202,11 @@ uv run cli.py export data/latest.json output.xlsx --format excel
 
 1. **Fork this repository**
 2. **Enable Actions** in your fork (Settings → Actions → Enable)
-3. **Enable collection** by editing `.github/workflows/collect.yml`:
+3. **Configure your target college** in `config.yml` (currently set up for Rio Hondo)
+4. **Enable collection** by editing `.github/workflows/collect.yml`:
    - Uncomment lines 5-7 (schedule trigger)
    - Uncomment lines 59-64 (actual collection)
-4. **Push changes** - collection will run automatically
+5. **Push changes** - collection will run automatically
 
 ### For Local Development
 
@@ -226,7 +231,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 ### Manual Collection
 
 Trigger collection manually from GitHub:
-1. Go to Actions → "Collect Rio Hondo Schedule"
+1. Go to Actions → "Collect Schedule"
 2. Click "Run workflow"
 3. Check `/data` folder for results
 
@@ -270,15 +275,15 @@ This collector is designed to work with the [CCC Schedule](https://github.com/jm
 ### Data Flow
 
 ```
-Rio Hondo Website → HTML Parser → JSON Data → GitHub Storage
-                                      ↓
-                              CCC Schedule Viewer
+CCC Website → HTML Parser → JSON Data → GitHub Storage
+                                   ↓
+                           CCC Schedule Viewer
 ```
 
 ### Key Components
 
 - **models.py**: Pydantic models for type-safe data handling
-- **utils/parser.py**: BeautifulSoup HTML parser for Banner 8
+- **utils/parser.py**: BeautifulSoup HTML parser for Banner 8 (configured for Rio Hondo)
 - **utils/storage.py**: JSON storage with compression support
 - **collect.py**: Main collector with retry logic
 - **cli.py**: Analysis and export tools
