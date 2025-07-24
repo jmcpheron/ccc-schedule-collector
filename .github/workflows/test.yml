@@ -51,12 +51,12 @@ jobs:
         # This would need mock data or test configuration
         echo "Testing collector imports and configuration..."
         python3 -c "
-import sys
-sys.path.append('.')
-from collect import RioHondoCollector
-from utils.parser import RioHondoScheduleParser
-from utils.storage import ScheduleStorage
-print('✅ All imports successful')
+        import sys
+        sys.path.append('.')
+        from collect import RioHondoCollector
+        from utils.parser import RioHondoScheduleParser
+        from utils.storage import ScheduleStorage
+        print('✅ All imports successful')
         "
     
     - name: Lint Python code
@@ -81,24 +81,24 @@ print('✅ All imports successful')
       run: |
         # Check that YAML files are valid
         python3 -c "
-import yaml
-import sys
-
-files = ['config.yml', '.github/workflows/collect.yml', '.github/workflows/test.yml']
-errors = []
-
-for file in files:
-    try:
-        with open(file, 'r') as f:
-            yaml.safe_load(f)
-        print(f'✅ {file} is valid YAML')
-    except Exception as e:
-        errors.append(f'❌ {file}: {e}')
+        import yaml
+        import sys
         
-if errors:
-    for error in errors:
-        print(error)
-    sys.exit(1)
+        files = ['config.yml', '.github/workflows/collect.yml', '.github/workflows/test.yml']
+        errors = []
+        
+        for file in files:
+            try:
+                with open(file, 'r') as f:
+                    yaml.safe_load(f)
+                print(f'✅ {file} is valid YAML')
+            except Exception as e:
+                errors.append(f'❌ {file}: {e}')
+                
+        if errors:
+            for error in errors:
+                print(error)
+            sys.exit(1)
         "
     
     - name: Check file permissions

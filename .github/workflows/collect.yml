@@ -1,9 +1,10 @@
 name: Collect Rio Hondo Schedule
 
 on:
-  schedule:
-    # Run 3 times per week: Monday, Wednesday, Friday at 6 AM UTC
-    - cron: '0 6 * * 1,3,5'
+  # DISABLED FOR TESTING - Uncomment schedule to enable automatic runs
+  # schedule:
+  #   # Run 3 times per week: Monday, Wednesday, Friday at 6 AM UTC
+  #   - cron: '0 6 * * 1,3,5'
   workflow_dispatch:
     inputs:
       term_code:
@@ -37,16 +38,31 @@ jobs:
         uv run test_collector.py
       continue-on-error: true  # Don't fail collection if tests fail
     
-    - name: Collect schedule data
+    - name: Collect schedule data (DISABLED FOR TESTING)
       run: |
+        echo "⚠️ COLLECTION DISABLED - Not hitting Rio Hondo servers yet"
+        echo "To enable collection, uncomment the collection code in .github/workflows/collect.yml"
+        
+        # For now, just test that the collector can be imported
         chmod +x collect.py
-        if [ "${{ github.event.inputs.term_code }}" != "" ]; then
-          echo "Collecting specific term: ${{ github.event.inputs.term_code }}"
-          # Would need to modify collect.py to accept term_code argument
-          uv run collect.py
-        else
-          uv run collect.py
-        fi
+        python3 -c "
+        import sys
+        sys.path.append('.')
+        from collect import RioHondoCollector
+        print('✅ Collector can be imported successfully')
+        "
+        
+        # Create a dummy file for the rest of the workflow to process
+        mkdir -p data
+        echo '{"term": "Test", "term_code": "TEST", "collection_timestamp": "'$(date -u +%Y-%m-%dT%H:%M:%S)'", "source_url": "test", "courses": [], "total_courses": 0, "departments": []}' > data/schedule_TEST_$(date +%Y%m%d_%H%M%S).json
+        
+        # UNCOMMENT BELOW TO ENABLE ACTUAL COLLECTION:
+        # if [ "${{ github.event.inputs.term_code }}" != "" ]; then
+        #   echo "Collecting specific term: ${{ github.event.inputs.term_code }}"
+        #   uv run collect.py
+        # else
+        #   uv run collect.py
+        # fi
       env:
         ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
     
