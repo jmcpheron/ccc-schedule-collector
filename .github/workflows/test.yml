@@ -25,8 +25,6 @@ jobs:
     
     - name: Install uv
       uses: yezz123/setup-uv@v4
-      with:
-        uv-version: "latest"
     
     - name: Run unit tests
       run: |
