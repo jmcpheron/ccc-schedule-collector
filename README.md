@@ -25,7 +25,7 @@ The first supported college is **Rio Hondo College**, with the framework designe
 
 ## Features
 
-- 🤖 **Automated Collection**: Runs 3x per week via GitHub Actions
+- 🤖 **Automated Collection**: Designed to run 3x per week via GitHub Actions (currently in development)
 - 📊 **Rich Data Models**: Structured Pydantic models for all course data
 - 🔍 **HTML Parsing**: BeautifulSoup-based parser for Banner 8 schedule formats
 - 💾 **Smart Storage**: JSON files with optional compression and symlinks
@@ -39,7 +39,7 @@ The first supported college is **Rio Hondo College**, with the framework designe
 2. **Push to GitHub**: The collector will start running automatically
 3. **Watch it work**: Check the Actions tab to see your collector in action
 
-That's it! Your collector is now running in the cloud, gathering schedule data 3x per week.
+That's it! Once enabled, your collector will run in the cloud, gathering schedule data 3x per week.
 
 ## How It Works
 
@@ -52,7 +52,7 @@ All data collection happens in **GitHub Actions runners** - ephemeral Linux cont
 name: Collect Schedule
 on:
   schedule:
-    - cron: '0 6 * * 1,3,5'  # Runs in the cloud 3x/week
+    - cron: '0 6 * * 1,3,5'  # Will run in the cloud 3x/week when enabled
   workflow_dispatch:         # Manual trigger button
 
 jobs:
@@ -116,7 +116,7 @@ ccc-schedule-collector/
 │   ├── parser.py          # BeautifulSoup HTML parser
 │   └── storage.py         # JSON storage with compression
 ├── .github/workflows/
-│   ├── collect.yml        # Scheduled collection (Mon/Wed/Fri)
+│   ├── collect.yml        # Scheduled collection (Mon/Wed/Fri - currently disabled for testing)
 │   └── test.yml           # CI/CD tests on push/PR
 └── data/                  # Collected schedule data
     ├── schedule_202570_latest.json  # Symlink to latest
@@ -204,9 +204,9 @@ uv run cli.py export data/latest.json output.xlsx --format excel
 2. **Enable Actions** in your fork (Settings → Actions → Enable)
 3. **Configure your target college** in `config.yml` (currently set up for Rio Hondo)
 4. **Enable collection** by editing `.github/workflows/collect.yml`:
-   - Uncomment lines 5-7 (schedule trigger)
-   - Uncomment lines 59-64 (actual collection)
-5. **Push changes** - collection will run automatically
+   - Uncomment lines 5-7 (schedule trigger) to enable the 3x/week schedule
+   - Uncomment lines 59-64 (actual collection) to activate data collection
+5. **Push changes** - collection will run automatically on the schedule or via manual trigger
 
 ### For Local Development
 
@@ -298,4 +298,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Part of the [CCC Schedule](https://github.com/jmcpheron/ccc-schedule) ecosystem. Inspired by Simon Willison's git-scraper approach.*
+*Part of the [CCC Schedule](https://github.com/jmcpheron/ccc-schedule) ecosystem. Inspired by Simon Willison's [git-scraper](https://github.com/simonw/git-scraper-template) approach for using Git as a data store.*
