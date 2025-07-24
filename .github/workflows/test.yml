@@ -1,0 +1,121 @@
+name: Run Tests
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.9', '3.10', '3.11']
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ matrix.python-version }}
+    
+    - name: Install uv
+      uses: yezz123/setup-uv@v4
+      with:
+        uv-version: "latest"
+    
+    - name: Run unit tests
+      run: |
+        chmod +x test_collector.py
+        uv run test_collector.py -v
+    
+    - name: Test CLI commands
+      run: |
+        chmod +x cli.py
+        # Test help commands
+        uv run cli.py --help
+        uv run cli.py info --help
+        uv run cli.py validate --help
+        uv run cli.py compare --help
+        uv run cli.py report --help
+        uv run cli.py export --help
+    
+    - name: Test collector with sample HTML
+      run: |
+        chmod +x collect.py
+        # Create a test run with sample data
+        # This would need mock data or test configuration
+        echo "Testing collector imports and configuration..."
+        python3 -c "
+import sys
+sys.path.append('.')
+from collect import RioHondoCollector
+from utils.parser import RioHondoScheduleParser
+from utils.storage import ScheduleStorage
+print('✅ All imports successful')
+        "
+    
+    - name: Lint Python code
+      run: |
+        uv pip install ruff
+        uv run ruff check . || true
+    
+    - name: Type checking
+      run: |
+        uv pip install mypy types-requests types-pyyaml types-beautifulsoup4
+        uv run mypy . --ignore-missing-imports || true
+      continue-on-error: true
+    
+  validate-config:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Validate YAML files
+      run: |
+        # Check that YAML files are valid
+        python3 -c "
+import yaml
+import sys
+
+files = ['config.yml', '.github/workflows/collect.yml', '.github/workflows/test.yml']
+errors = []
+
+for file in files:
+    try:
+        with open(file, 'r') as f:
+            yaml.safe_load(f)
+        print(f'✅ {file} is valid YAML')
+    except Exception as e:
+        errors.append(f'❌ {file}: {e}')
+        
+if errors:
+    for error in errors:
+        print(error)
+    sys.exit(1)
+        "
+    
+    - name: Check file permissions
+      run: |
+        # Ensure scripts are executable
+        for script in collect.py test_collector.py cli.py; do
+          if [ -f "$script" ]; then
+            echo "Checking $script..."
+            head -1 "$script" | grep -q "^#!/usr/bin/env" || echo "Warning: $script missing shebang"
+          fi
+        done
+    
+    - name: Validate dependencies
+      run: |
+        # Check that all script dependencies are properly declared
+        echo "Checking inline dependencies..."
+        for script in collect.py test_collector.py cli.py; do
+          echo "=== $script ==="
+          sed -n '/# dependencies = \[/,/# \]/p' "$script" | grep -v "^#" | grep '"' || true
+        done

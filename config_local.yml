@@ -1,0 +1,74 @@
+# Local testing configuration for Rio Hondo College Schedule Collector
+
+rio_hondo:
+  base_url: "https://ssb.riohondo.edu:8443/prodssb"
+  
+  # Schedule search endpoint
+  schedule_endpoint: "pw_pub_sched.p_listthislist"
+  
+  # Current term configuration
+  current_term:
+    code: "202570"  # Fall 2025
+    name: "Fall 2025"
+  
+  # For local testing, let's start with just a few departments
+  departments:
+    # - "ALL"  # Uncomment to test all departments
+    - "ACCT"
+    - "MATH"
+    - "ENGL"
+    - "CS"
+  
+  # Search parameters (same as production)
+  search_params:
+    sel_day: "dummy"
+    sel_schd: "dummy"
+    sel_camp: "%"
+    sel_ism: "%"
+    sel_sess: "%"
+    sel_instr: "%"
+    sel_ptrm: "%"
+    sel_zero: "N"
+    sel_attrib: "%"
+    begin_hh: "5"
+    begin_mi: "0"
+    begin_ap: "a"
+    end_hh: "11"
+    end_mi: "0"
+    end_ap: "p"
+
+# Collection settings for local testing
+collection:
+  # Fewer retries for testing
+  max_retries: 2
+  
+  # Shorter timeout
+  timeout: 30
+  
+  # Longer delay to be nice to the server during testing
+  request_delay: 3
+  
+  # User agent
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+  
+  # Whether to validate SSL certificates
+  verify_ssl: true
+
+# Output settings
+output:
+  # Use a test data directory
+  data_dir: "data/test"
+  
+  # File naming pattern
+  filename_pattern: "schedule_test_{term_code}_{timestamp}.json"
+  
+  # Whether to create a 'latest' symlink
+  create_latest_link: true
+  
+  # No compression for testing
+  compression: "none"
+
+# Logging settings - more verbose for testing
+logging:
+  level: "DEBUG"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

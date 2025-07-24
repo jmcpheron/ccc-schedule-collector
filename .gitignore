@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.ruff_cache/
+
+# Virtual environments
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+data/*.json.gz
+data/*.json.bz2
+data/collection_metadata.json
+*.log
+
+# Keep data directory but ignore contents except samples
+data/*
+!data/.gitkeep
+!data/sample_*.json
+
+# Environment files
+.env
+.env.local
+
+# UV
+.uv/

@@ -1,0 +1,434 @@
+{
+  "metadata": {
+    "term": "Fall 2025",
+    "term_code": "202570",
+    "total_courses": 1630,
+    "departments": [
+      "ACCT",
+      "ADN",
+      "AET",
+      "AJ",
+      "ANIM",
+      "ANTH",
+      "ARCH",
+      "ART",
+      "ASL",
+      "ASTR",
+      "AUTO",
+      "BIOL",
+      "BIOT",
+      "BUSL",
+      "CD",
+      "CHEM",
+      "CHIN",
+      "CHST",
+      "CIT",
+      "CIV",
+      "COMM",
+      "CORR",
+      "COUN",
+      "CS",
+      "DANC",
+      "DSCI",
+      "ECON",
+      "ED",
+      "EDEV",
+      "EGSS",
+      "ELEC",
+      "EMT",
+      "ENGL",
+      "ENGR",
+      "ENGT",
+      "ET",
+      "ETEC",
+      "FAC",
+      "FIN",
+      "FR",
+      "FTEC",
+      "FTVE",
+      "GAD",
+      "GDSN",
+      "GEOG",
+      "GEOL",
+      "GIS",
+      "HET",
+      "HIST",
+      "HMLD",
+      "HOND",
+      "HOSP",
+      "HS",
+      "HUM",
+      "HUSR",
+      "JAPN",
+      "JOUR",
+      "KIN",
+      "KINA",
+      "LIT",
+      "LOG",
+      "MATH",
+      "MGMT",
+      "MRKT",
+      "MSCM",
+      "MUS",
+      "MUST",
+      "NAJ",
+      "NBAS",
+      "NBIZ",
+      "NBSS",
+      "NCOA",
+      "NCOM",
+      "NESL",
+      "NFIR",
+      "NHSL",
+      "NHSN",
+      "NSCI",
+      "NTTR",
+      "NUTR",
+      "NVOC",
+      "ORTH",
+      "PAC",
+      "PHIL",
+      "PHTO",
+      "PHY",
+      "POLS",
+      "PSY",
+      "PSYC",
+      "READ",
+      "SOC",
+      "SPAN",
+      "SPCH",
+      "STAT",
+      "STEM",
+      "TCED",
+      "TESL",
+      "THTR",
+      "TV",
+      "VN",
+      "WELD",
+      "WFT"
+    ],
+    "collection_timestamp": "2025-07-23T17:40:56.146559"
+  },
+  "sample_courses": [
+    {
+      "crn": "75065",
+      "subject": "ACCT",
+      "course_number": "100",
+      "title": "Introduction to Accounting",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75065')"
+    },
+    {
+      "crn": "77649",
+      "subject": "ACCT",
+      "course_number": "100",
+      "title": "Introduction to Accounting",
+      "units": 3.0,
+      "instructor": "Scott  Andersen",
+      "instructor_email": "sandersen@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "06:00pm",
+          "end_time": "09:10pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Online SYNC",
+      "enrollment": {
+        "capacity": 40,
+        "actual": 18,
+        "remaining": 22
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Online SYNC",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77649')"
+    },
+    {
+      "crn": "70998",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70998')"
+    },
+    {
+      "crn": "71216",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "To Be  Assigned",
+      "instructor_email": "",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Business 119",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 10,
+        "remaining": 32
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71216')"
+    },
+    {
+      "crn": "71259",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71259')"
+    },
+    {
+      "crn": "71278",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "To Be  Assigned",
+      "instructor_email": "",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:30am",
+          "end_time": "10:35am",
+          "is_arranged": false
+        }
+      ],
+      "location": "El Rancho High School",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 0,
+        "remaining": 45
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71278')"
+    },
+    {
+      "crn": "71279",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "Jeannie  Liu",
+      "instructor_email": "jliu@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Business 119",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 33,
+        "remaining": 12
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71279')"
+    },
+    {
+      "crn": "74111",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74111')"
+    },
+    {
+      "crn": "74147",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "To Be  Assigned",
+      "instructor_email": "",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Online SYNC",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 5,
+        "remaining": 40
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Online SYNC",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74147')"
+    },
+    {
+      "crn": "74600",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74600')"
+    }
+  ]
+}
