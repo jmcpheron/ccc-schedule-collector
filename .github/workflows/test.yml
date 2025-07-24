@@ -54,13 +54,13 @@ jobs:
     
     - name: Lint Python code
       run: |
-        uv pip install ruff
-        uv run ruff check . || true
+        uv pip install --system ruff
+        ruff check . || true
     
     - name: Type checking
       run: |
-        uv pip install mypy types-requests types-pyyaml types-beautifulsoup4
-        uv run mypy . --ignore-missing-imports || true
+        uv pip install --system mypy types-requests types-pyyaml types-beautifulsoup4
+        mypy . --ignore-missing-imports || true
       continue-on-error: true
     
   validate-config:
