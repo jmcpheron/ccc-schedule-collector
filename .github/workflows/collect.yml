@@ -65,17 +65,17 @@ jobs:
         echo "## Collection Report - $(date)" > data/latest_report.md
         echo "" >> data/latest_report.md
         uv run cli.py info "$LATEST_FILE" --format json | python3 -c "
-import sys, json
-data = json.load(sys.stdin)
-print(f'Total courses collected: {len(data)}')
-subjects = {}
-for course in data:
-    subj = course['subject']
-    subjects[subj] = subjects.get(subj, 0) + 1
-print(f'Departments: {len(subjects)}')
-print('\\nTop departments:')
-for subj, count in sorted(subjects.items(), key=lambda x: x[1], reverse=True)[:10]:
-    print(f'  - {subj}: {count} courses')
+        import sys, json
+        data = json.load(sys.stdin)
+        print(f'Total courses collected: {len(data)}')
+        subjects = {}
+        for course in data:
+            subj = course['subject']
+            subjects[subj] = subjects.get(subj, 0) + 1
+        print(f'Departments: {len(subjects)}')
+        print('\\nTop departments:')
+        for subj, count in sorted(subjects.items(), key=lambda x: x[1], reverse=True)[:10]:
+            print(f'  - {subj}: {count} courses')
         " >> data/latest_report.md
     
     - name: Commit and push changes
