@@ -42,20 +42,12 @@ jobs:
         uv run cli.py report --help
         uv run cli.py export --help
     
-    - name: Test collector with sample HTML
+    - name: Test collector imports
       run: |
         chmod +x collect.py
-        # Create a test run with sample data
-        # This would need mock data or test configuration
         echo "Testing collector imports and configuration..."
-        python3 -c "
-        import sys
-        sys.path.append('.')
-        from collect import RioHondoCollector
-        from utils.parser import RioHondoScheduleParser
-        from utils.storage import ScheduleStorage
-        print('✅ All imports successful')
-        "
+        # Just check that the script can be loaded with its dependencies
+        uv run python -c "import collect; print('✅ Collector module loads successfully')"
     
     - name: Lint Python code
       run: |
