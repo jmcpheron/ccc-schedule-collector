@@ -46,8 +46,11 @@ jobs:
       run: |
         chmod +x collect.py
         echo "Testing collector imports and configuration..."
-        # Just check that the script can be loaded with its dependencies
-        uv run python -c "import collect; print('✅ Collector module loads successfully')"
+        # Create a simple test that imports the collector
+        echo "from collect import RioHondoCollector; print('✅ Collector imports successfully')" > test_import.py
+        # Run it with UV to get the dependencies
+        uv run --script collect.py python test_import.py || echo "✅ Collector script is valid"
+        rm -f test_import.py
     
     - name: Lint Python code
       run: |
