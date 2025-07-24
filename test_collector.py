@@ -237,7 +237,8 @@ class TestStorage:
     
     def test_list_schedules(self):
         """Test listing schedule files."""
-        # Save multiple schedules
+        # Save multiple schedules with small delay to ensure different timestamps
+        import time
         for i in range(3):
             schedule = ScheduleData(
                 term="Fall 2025",
@@ -249,9 +250,12 @@ class TestStorage:
                 departments=[]
             )
             self.storage.save_schedule(schedule)
+            # Small delay to ensure different filenames
+            time.sleep(0.1)
         
         # List schedules
         files = self.storage.list_schedules()
+        # Should have at least 3 files plus the latest symlink
         assert len(files) >= 3
         
         # List by term code
