@@ -35,15 +35,15 @@ pyvenv.cfg
 .DS_Store
 
 # Project specific
-data/*.json.gz
-data/*.json.bz2
-data/collection_metadata.json
 *.log
 
-# Keep data directory but ignore contents except samples
-data/*
-!data/.gitkeep
-!data/sample_*.json
+# Keep data directory and track schedule files (git scraping pattern)
+# Only ignore compressed files and test data
+data/*.gz
+data/*.bz2
+data/collection_metadata.json
+data/.detail_collection_progress.json
+data/test/
 
 # Output directory - new structure
 output/
@@ -59,6 +59,5 @@ output/
 # Personal changelog
 JJM.md
 
-# Test data
-data/test/
-data/.detail_collection_progress.json
+# HAR files (browser recordings)
+*.har

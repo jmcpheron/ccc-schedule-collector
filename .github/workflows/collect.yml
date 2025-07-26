@@ -1,7 +1,6 @@
 name: Collect Rio Hondo Schedule
 
 on:
-  push:
   workflow_dispatch:
     inputs:
       term_code:
