@@ -18,7 +18,7 @@ from rich.console import Console
 from rich.table import Table
 
 # Add parent directory for imports
-sys.path.append(str(Path(__file__).parent))
+sys.path.append(str(Path(__file__).parent.parent))
 
 from collectors.rio_hondo.parser import RioHondoScheduleParser
 from models import ScheduleData

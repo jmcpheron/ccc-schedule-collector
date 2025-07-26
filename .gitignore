@@ -55,3 +55,10 @@ output/
 
 # UV
 .uv/
+
+# Personal changelog
+JJM.md
+
+# Test data
+data/test/
+data/.detail_collection_progress.json

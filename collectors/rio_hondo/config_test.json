@@ -48,9 +48,9 @@
   
   "user_agent": "CCC-Schedule-Collector/1.0 (https://github.com/jmcpheron/ccc-schedule-collector)",
   
-  "collect_details": true,
-  "detail_delay": 2,
-  "detail_batch_size": 5,
+  "collect_details": false,
+  "detail_delay": 1.5,
+  "detail_batch_size": 100,
   
   "selectors": {
     "course_rows": "tr.default1, tr.default2",
