@@ -31,6 +31,8 @@ jobs:
     
     - name: Install uv
       uses: yezz123/setup-uv@v4
+      with:
+        uv-version: "0.5.16"
     
     
     - name: Collect schedule data
