@@ -88,15 +88,8 @@ output:
   # Compression (none, gzip, bzip2)
   compression: "none"
 
-# API Configuration (for future LLM integration)
-api:
-  # Claude API settings (to be configured when ready)
-  anthropic:
-    enabled: false
-    # api_key: set via ANTHROPIC_API_KEY environment variable
-    model: "claude-3-sonnet-20240229"
-    max_tokens: 4096
-    temperature: 0.0
+# API Configuration
+# Reserved for future enhancements
 
 # Logging settings
 logging:

@@ -45,6 +45,10 @@ class RioHondoCollector(BaseCollector):
     def fetch_data(self, term_code: Optional[str] = None) -> str:
         """Fetch raw HTML data from Rio Hondo's schedule system.
         
+        This implements a two-phase process:
+        1. POST to p_search endpoint to select term
+        2. POST to p_listthislist endpoint to get course data
+        
         Args:
             term_code: Term code to fetch or None for current term
             
@@ -57,7 +61,10 @@ class RioHondoCollector(BaseCollector):
             
         logger.info(f"Fetching data for term {term_code}")
         
-        # Build URL
+        # Phase 1: Select term
+        self._select_term(term_code)
+        
+        # Phase 2: Fetch schedule data
         base_url = self.config['base_url']
         endpoint = self.config['schedule_endpoint']
         url = f"{base_url}/{endpoint}"
@@ -122,8 +129,45 @@ class RioHondoCollector(BaseCollector):
             
         return schedule_data
     
+    def _select_term(self, term_code: str) -> None:
+        """Select the term in the search interface.
+        
+        This is the first phase of the two-phase collection process.
+        
+        Args:
+            term_code: Term code to select
+        """
+        base_url = self.config['base_url']
+        search_endpoint = self.config.get('search_endpoint', 'pw_pub_sched.p_search')
+        url = f"{base_url}/{search_endpoint}"
+        
+        params = {
+            'p_menu2use': 'A',
+            'term': term_code
+        }
+        
+        try:
+            logger.debug(f"Selecting term {term_code} at {url}")
+            response = self.session.post(
+                url,
+                data=params,
+                timeout=self.config['http_config']['timeout'],
+                verify=self.config['http_config']['verify_ssl']
+            )
+            response.raise_for_status()
+            logger.debug("Term selection successful")
+            
+            # Apply rate limiting
+            self.rate_limit_delay()
+            
+        except requests.exceptions.RequestException as e:
+            logger.error(f"Failed to select term: {e}")
+            raise
+    
     def _fetch_schedule_page(self, url: str, term_code: str, subject: str = "ALL") -> str:
         """Fetch a single schedule HTML page.
+        
+        This is the second phase of the two-phase collection process.
         
         Args:
             url: Base URL for schedule endpoint
@@ -133,17 +177,51 @@ class RioHondoCollector(BaseCollector):
         Returns:
             HTML content as string
         """
-        # Build request parameters
-        params = {
-            'term': term_code,
-            'sel_subj': ['dummy', subject] if subject != "ALL" else 'dummy',
-            **self.config['search_params']
-        }
+        # Get term name for TERM_DESC parameter
+        term_name = self._get_term_name(term_code)
         
-        # Special handling for ALL subjects
+        # Build request parameters as list of tuples to maintain order and allow duplicates
+        params_list = [
+            ('TERM', term_code),
+            ('TERM_DESC', term_name),
+            ('sel_subj', 'dummy'),
+            ('sel_day', 'dummy'),
+            ('sel_schd', 'dummy'),
+            ('sel_camp', 'dummy'),
+            ('sel_ism', 'dummy'),
+            ('sel_sess', 'dummy'),
+            ('sel_instr', 'dummy'),
+            ('sel_ptrm', 'dummy'),
+            ('sel_attrib', 'dummy'),
+        ]
+        
+        # Add subject selection
         if subject == "ALL":
-            # Include all subject codes
-            params['sel_subj'] = ['dummy'] + self._get_all_subject_codes()
+            params_list.append(('sel_subj', '%'))  # Use % not %25 - requests will encode it
+        else:
+            params_list.append(('sel_subj', subject))
+            
+        # Add remaining parameters
+        params_list.extend([
+            ('sel_crse', ''),
+            ('sel_crn', ''),
+            ('sel_title', ''),
+            ('sel_ptrm', '%'),
+            ('sel_ism', '%'),
+            ('sel_instr', '%'),
+            ('sel_attrib', '%'),
+            ('sel_sess', '%'),
+            ('begin_hh', self.config['search_params'].get('begin_hh', '5')),
+            ('begin_mi', self.config['search_params'].get('begin_mi', '0')),
+            ('begin_ap', self.config['search_params'].get('begin_ap', 'a')),
+            ('end_hh', self.config['search_params'].get('end_hh', '11')),
+            ('end_mi', self.config['search_params'].get('end_mi', '0')),
+            ('end_ap', self.config['search_params'].get('end_ap', 'p')),
+            ('aa', 'N'),
+            ('sel_zero', self.config['search_params'].get('sel_zero', 'N')),
+            ('ee', 'N'),
+            ('sel_camp', '%')
+        ])
         
         max_retries = self.config['rate_limit']['retry_attempts']
         timeout = self.config['http_config']['timeout']
@@ -153,7 +231,7 @@ class RioHondoCollector(BaseCollector):
                 logger.debug(f"Fetching {url} with subject={subject}")
                 response = self.session.post(
                     url,
-                    data=params,
+                    data=params_list,
                     timeout=timeout,
                     verify=self.config['http_config']['verify_ssl']
                 )

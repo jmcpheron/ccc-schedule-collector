@@ -2,6 +2,7 @@
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
   "base_url": "https://ssb.riohondo.edu:8443/prodssb",
+  "search_endpoint": "pw_pub_sched.p_search",
   "schedule_endpoint": "pw_pub_sched.p_listthislist",
   "parser_type": "beautifulsoup",
   
@@ -19,8 +20,6 @@
   "departments": ["ALL"],
   
   "search_params": {
-    "sel_day": "dummy",
-    "sel_schd": "dummy",
     "sel_camp": "%",
     "sel_ism": "%",
     "sel_sess": "%",
