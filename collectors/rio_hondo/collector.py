@@ -474,7 +474,7 @@ class RioHondoCollector(BaseCollector):
         if save:
             from utils.storage import ScheduleStorage
             storage = ScheduleStorage(
-                data_dir=self.config.get('output_dir', 'output/rio-hondo'),
+                data_dir=self.config.get('output_dir', 'data'),
                 compression=self.config.get('compression', 'none')
             )
             storage.save_schedule(schedule_data)

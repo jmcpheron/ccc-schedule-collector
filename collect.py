@@ -80,7 +80,7 @@ def collect(college: str, config: Optional[str], term_code: Optional[str], save:
         print(f"- Timestamp: {schedule_data.collection_timestamp}")
         
         if save:
-            print(f"\n💾 Data saved to output/{schedule_data.college_id}/")
+            print(f"\n💾 Data saved to data/")
         
     except Exception as e:
         logger.error(f"Collection failed: {e}")

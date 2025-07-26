@@ -216,7 +216,7 @@ class BaseCollector(ABC):
             Path to saved file
         """
         # Create output directory structure
-        output_dir = Path('output') / self.college_id / data.term_code
+        output_dir = Path('data')
         output_dir.mkdir(parents=True, exist_ok=True)
         
         # Create timestamped filename
