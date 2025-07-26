@@ -143,3 +143,26 @@ All Python scripts use UV with inline dependencies:
 ```
 
 This ensures zero-dependency execution in GitHub Actions.
+
+## Development Workflow
+
+### Personal Changelog
+
+After completing significant updates to the codebase (new features, bug fixes, major refactoring), use the jjm-personal-changelog agent to document your changes in JJM.md:
+
+```bash
+# Tell Claude to update your personal changelog after completing work
+"Update my changelog" or "Document this in JJM.md"
+```
+
+This will create/update a JJM.md file with:
+- Date headers with weather information for Chino Hills, California
+- Detailed entries about the changes made
+- Personal notes and context
+
+Use this for:
+- After implementing new features
+- After fixing bugs
+- After major refactoring
+- When completing work sessions
+- Documenting design decisions and learnings

@@ -2,7 +2,7 @@
 """Data models for Rio Hondo College course schedule data."""
 
 from datetime import datetime
-from typing import List, Optional, Dict, Any
+from typing import List, Optional, Dict, Any, Union
 from pydantic import BaseModel, Field
 
 
@@ -44,6 +44,21 @@ class Course(BaseModel):
     book_link: Optional[str] = Field(None, description="Link to bookstore for textbooks")
 
 
+class DetailedCourse(Course):
+    """Extended course model with additional details from course popup pages."""
+    description: Optional[str] = Field(None, description="Full course description")
+    prerequisites: Optional[str] = Field(None, description="Course prerequisites")
+    advisory: Optional[str] = Field(None, description="Course advisory/recommendations")
+    transfers_to: Optional[str] = Field(None, description="Transfer information (e.g., 'CSU', 'UC')")
+    former_course_number: Optional[str] = Field(None, description="Previous course number if renamed")
+    critical_dates: Optional[Dict[str, str]] = Field(None, description="Important dates (add/drop/withdraw)")
+    instructional_method: Optional[str] = Field(None, description="Detailed instructional method")
+    section_corequisites: Optional[str] = Field(None, description="Section-specific corequisites")
+    syllabus_link: Optional[str] = Field(None, description="Link to course syllabus/learning outcomes")
+    seating_detail: Optional[Dict[str, int]] = Field(None, description="Detailed seating (capacity/taken/available)")
+    detail_fetched_at: Optional[datetime] = Field(None, description="When detail data was fetched")
+
+
 class ScheduleData(BaseModel):
     """Container for all collected schedule data."""
     term: str = Field(description="Term identifier (e.g., 'Fall 2025')")
@@ -52,7 +67,7 @@ class ScheduleData(BaseModel):
     source_url: str = Field(description="URL where data was collected from")
     college_id: str = Field(description="Unique identifier for the college (e.g., 'rio-hondo')")
     collector_version: str = Field(description="Version of the collector (e.g., '1.0.0')")
-    courses: List[Course] = Field(description="List of all courses")
+    courses: List[Union[Course, DetailedCourse]] = Field(description="List of all courses")
     metadata: Optional[Dict[str, Any]] = Field(default=None, description="Optional additional metadata")
     
     # Deprecated fields - moved to metadata

@@ -1,4 +1,4 @@
-# Rio Hondo College Schedule Collector Configuration
+# Rio Hondo College Schedule Collector Configuration - Detail Collection Test
 
 rio_hondo:
   base_url: "https://ssb.riohondo.edu:8443/prodssb"
@@ -15,23 +15,12 @@ rio_hondo:
   terms:
     - code: "202570"
       name: "Fall 2025"
-    - code: "202520"
-      name: "Spring 2025"
-    - code: "202510"
-      name: "Summer 2025"
   
-  # Departments to collect (use "ALL" to collect everything)
+  # Departments to collect - start with a small set for testing
   departments:
-    - "ALL"  # Collect all departments
-    # Alternatively, specify specific departments:
-    # - "ACCT"
-    # - "ENGL"
-    # - "MATH"
-    # - "CS"
-    # - "PSYC"
-    # - "COMM"
-    # - "POLS"
-    # - "STAT"
+    - "ACCT"  # Accounting - small department
+    - "CS"    # Computer Science - medium size
+    # Will expand to ALL after testing
   
   # Search parameters
   search_params:
@@ -69,18 +58,18 @@ collection:
   verify_ssl: true
   
   # Detail collection settings
-  collect_details: false  # Set to true to fetch detailed course information
-  detail_delay: 1  # Seconds between detail requests (be respectful)
-  detail_batch_size: 50  # Process details in batches to show progress
-  detail_max_concurrent: 1  # Max concurrent detail requests (1 = sequential)
+  collect_details: true  # ENABLED for testing
+  detail_delay: 2  # 2 seconds between detail requests (respectful)
+  detail_batch_size: 10  # Small batches for testing
+  detail_max_concurrent: 1  # Sequential for now
 
 # Output settings
 output:
   # Directory to store collected data
-  data_dir: "data"
+  data_dir: "data/test"
   
   # File naming pattern (supports strftime format codes)
-  filename_pattern: "schedule_{term_code}_{timestamp}.json"
+  filename_pattern: "schedule_{term_code}_detailed_{timestamp}.json"
   
   # Whether to create a 'latest' symlink
   create_latest_link: true

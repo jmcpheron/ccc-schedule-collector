@@ -15,7 +15,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from collectors.base_collector import BaseCollector
-from models import ScheduleData, Course
+from models import ScheduleData, Course, DetailedCourse
 from .parser import RioHondoScheduleParser
 
 
@@ -276,5 +276,129 @@ class RioHondoCollector(BaseCollector):
                 'collection_errors': errors if errors else None
             }
         )
+        
+        return schedule_data
+    
+    def collect_course_details(self, courses: List[Course], term_code: str, 
+                               batch_size: Optional[int] = None,
+                               detail_delay: Optional[float] = None) -> List[DetailedCourse]:
+        """Collect detailed information for a list of courses.
+        
+        Args:
+            courses: List of Course objects to get details for
+            term_code: Term code for the courses
+            batch_size: Number of courses to process before showing progress
+            detail_delay: Seconds to wait between detail requests
+            
+        Returns:
+            List of DetailedCourse objects with additional information
+        """
+        # Get config values or use defaults
+        if batch_size is None:
+            batch_size = self.config.get('detail_batch_size', 50)
+        if detail_delay is None:
+            detail_delay = self.config.get('detail_delay', 1.0)
+            
+        detailed_courses = []
+        total = len(courses)
+        
+        for i, course in enumerate(courses):
+            try:
+                # Build detail URL
+                detail_url = self.parser.build_course_detail_url(course, term_code)
+                
+                # Fetch detail page
+                logger.debug(f"Fetching details for {course.subject} {course.course_number} (CRN: {course.crn})")
+                response = self.session.get(
+                    detail_url,
+                    timeout=self.config['http_config']['timeout'],
+                    verify=self.config['http_config']['verify_ssl']
+                )
+                response.raise_for_status()
+                
+                # Parse details
+                detailed_course = self.parser.parse_course_detail(response.text, course)
+                detailed_courses.append(detailed_course)
+                
+                # Progress logging
+                if (i + 1) % batch_size == 0 or (i + 1) == total:
+                    logger.info(f"Collected details for {i + 1}/{total} courses")
+                
+                # Rate limiting
+                if i < total - 1:  # Don't delay after last request
+                    time.sleep(detail_delay)
+                    
+            except Exception as e:
+                logger.error(f"Failed to get details for {course.crn}: {e}")
+                # Add course without details on error
+                detailed_courses.append(DetailedCourse(**course.model_dump()))
+        
+        return detailed_courses
+    
+    def collect_all_departments_with_details(self, term_code: Optional[str] = None) -> ScheduleData:
+        """Collect schedule data with optional course details.
+        
+        This method collects all departments and optionally fetches detailed
+        information for each course based on configuration.
+        
+        Args:
+            term_code: Term code to collect or None for current term
+            
+        Returns:
+            ScheduleData object with courses (detailed or regular based on config)
+        """
+        # First collect basic schedule data
+        schedule_data = self.collect_all_departments(term_code)
+        
+        # Check if detail collection is enabled
+        collect_details = self.config.get('collect_details', False)
+        
+        if collect_details and schedule_data.courses:
+            logger.info(f"Collecting detailed information for {len(schedule_data.courses)} courses")
+            
+            # Get detail collection settings
+            detail_batch_size = self.config.get('detail_batch_size', 50)
+            detail_delay = self.config.get('detail_delay', 1.0)
+            
+            # Collect details
+            detailed_courses = self.collect_course_details(
+                schedule_data.courses,
+                schedule_data.term_code,
+                batch_size=detail_batch_size,
+                detail_delay=detail_delay
+            )
+            
+            # Replace courses with detailed versions
+            schedule_data.courses = detailed_courses
+            
+            # Update metadata
+            if not schedule_data.metadata:
+                schedule_data.metadata = {}
+            schedule_data.metadata['details_collected'] = True
+            schedule_data.metadata['detail_collection_timestamp'] = datetime.now().isoformat()
+            
+        return schedule_data
+    
+    def collect(self, term_code: Optional[str] = None, save: bool = True) -> ScheduleData:
+        """Override base collect to use detailed collection if configured.
+        
+        Args:
+            term_code: Term code to collect or None for current term
+            save: Whether to save the output (handled by base class)
+            
+        Returns:
+            ScheduleData object with courses (detailed or regular based on config)
+        """
+        # Use the detailed collection method which checks config internally
+        schedule_data = self.collect_all_departments_with_details(term_code)
+        
+        # The base class handles validation and saving
+        if save:
+            from utils.storage import ScheduleStorage
+            storage = ScheduleStorage(
+                data_dir=self.config.get('output_dir', 'output/rio-hondo'),
+                compression=self.config.get('compression', 'none')
+            )
+            storage.save_schedule(schedule_data)
         
         return schedule_data

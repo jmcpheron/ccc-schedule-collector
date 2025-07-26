@@ -1,4 +1,4 @@
-# Rio Hondo College Schedule Collector Configuration
+# Rio Hondo College Schedule Collector Configuration - Full Fall 2025 Collection with Details
 
 rio_hondo:
   base_url: "https://ssb.riohondo.edu:8443/prodssb"
@@ -15,23 +15,10 @@ rio_hondo:
   terms:
     - code: "202570"
       name: "Fall 2025"
-    - code: "202520"
-      name: "Spring 2025"
-    - code: "202510"
-      name: "Summer 2025"
   
-  # Departments to collect (use "ALL" to collect everything)
+  # Departments to collect - ALL for complete collection
   departments:
-    - "ALL"  # Collect all departments
-    # Alternatively, specify specific departments:
-    # - "ACCT"
-    # - "ENGL"
-    # - "MATH"
-    # - "CS"
-    # - "PSYC"
-    # - "COMM"
-    # - "POLS"
-    # - "STAT"
+    - "ALL"
   
   # Search parameters
   search_params:
@@ -69,10 +56,10 @@ collection:
   verify_ssl: true
   
   # Detail collection settings
-  collect_details: false  # Set to true to fetch detailed course information
-  detail_delay: 1  # Seconds between detail requests (be respectful)
-  detail_batch_size: 50  # Process details in batches to show progress
-  detail_max_concurrent: 1  # Max concurrent detail requests (1 = sequential)
+  collect_details: true  # ENABLED for full collection
+  detail_delay: 1.5  # 1.5 seconds between detail requests
+  detail_batch_size: 100  # Progress update every 100 courses
+  detail_max_concurrent: 1  # Sequential to be respectful
 
 # Output settings
 output:
@@ -80,13 +67,13 @@ output:
   data_dir: "data"
   
   # File naming pattern (supports strftime format codes)
-  filename_pattern: "schedule_{term_code}_{timestamp}.json"
+  filename_pattern: "schedule_{term_code}_detailed_{timestamp}.json"
   
   # Whether to create a 'latest' symlink
   create_latest_link: true
   
   # Compression (none, gzip, bzip2)
-  compression: "none"
+  compression: "gzip"  # Compress due to large size with details
 
 # API Configuration (for future LLM integration)
 api:

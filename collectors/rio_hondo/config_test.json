@@ -12,11 +12,11 @@
   
   "terms": [
     {"code": "202570", "name": "Fall 2025"},
-    {"code": "202520", "name": "Spring 2025"},
+    {"code": "202530", "name": "Spring 2025"},
     {"code": "202510", "name": "Summer 2025"}
   ],
   
-  "departments": ["MATH", "CS"],
+  "departments": ["ALL"],
   
   "search_params": {
     "sel_day": "dummy",
@@ -47,6 +47,10 @@
   },
   
   "user_agent": "CCC-Schedule-Collector/1.0 (https://github.com/jmcpheron/ccc-schedule-collector)",
+  
+  "collect_details": true,
+  "detail_delay": 2,
+  "detail_batch_size": 5,
   
   "selectors": {
     "course_rows": "tr.default1, tr.default2",

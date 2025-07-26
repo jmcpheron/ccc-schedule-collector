@@ -7,7 +7,7 @@ from typing import List, Optional, Dict, Any
 from bs4 import BeautifulSoup, Tag
 from datetime import datetime
 
-from models import Course, MeetingTime, Enrollment, ScheduleData
+from models import Course, MeetingTime, Enrollment, ScheduleData, DetailedCourse
 
 logger = logging.getLogger(__name__)
 
@@ -365,3 +365,120 @@ class RioHondoScheduleParser:
             return "Arranged"
         else:
             return "In-Person"
+    
+    def parse_course_detail(self, html_content: str, course: Course) -> DetailedCourse:
+        """Parse additional course details from the popup page HTML."""
+        soup = BeautifulSoup(html_content, 'html.parser')
+        
+        # Start with existing course data
+        detailed = DetailedCourse(**course.model_dump())
+        detailed.detail_fetched_at = datetime.now()
+        
+        # Extract course description
+        desc_text = soup.get_text()
+        if "Course Description:" in desc_text:
+            desc_start = desc_text.find("Course Description:") + len("Course Description:")
+            desc_end = desc_text.find("View Book", desc_start)
+            if desc_end == -1:
+                desc_end = desc_text.find("Course Corequisites:", desc_start)
+            if desc_end != -1:
+                description = desc_text[desc_start:desc_end].strip()
+                
+                # Parse out components
+                if "(Formerly" in description:
+                    former_start = description.find("(Formerly")
+                    former_end = description.find(")", former_start) + 1
+                    detailed.former_course_number = description[former_start:former_end]
+                    description = description.replace(detailed.former_course_number, "").strip()
+                
+                if "Prerequisite:" in description:
+                    prereq_start = description.find("Prerequisite:")
+                    prereq_end = description.find("Advisory:", prereq_start) if "Advisory:" in description else len(description)
+                    prereq_end = prereq_end if prereq_end > prereq_start else description.find("Transfers to:", prereq_start)
+                    prereq_end = prereq_end if prereq_end > prereq_start else len(description)
+                    detailed.prerequisites = description[prereq_start:prereq_end].replace("Prerequisite:", "").strip()
+                
+                if "Advisory:" in description:
+                    adv_start = description.find("Advisory:")
+                    adv_end = description.find("Transfers to:", adv_start) if "Transfers to:" in description else len(description)
+                    detailed.advisory = description[adv_start:adv_end].replace("Advisory:", "").strip()
+                
+                if "Transfers to:" in description:
+                    trans_start = description.find("Transfers to:")
+                    trans_end = description.find("This course", trans_start) if "This course" in description else len(description)
+                    detailed.transfers_to = description[trans_start:trans_end].replace("Transfers to:", "").strip()
+                
+                # Clean description to just the main text
+                main_desc_start = description.find("This course") if "This course" in description else 0
+                if main_desc_start > 0:
+                    detailed.description = description[main_desc_start:].strip()
+                else:
+                    # If no "This course", look for other patterns
+                    detailed.description = description
+                    # Remove already extracted parts
+                    for part in [detailed.former_course_number, detailed.prerequisites, detailed.advisory, detailed.transfers_to]:
+                        if part:
+                            detailed.description = detailed.description.replace(part, "").strip()
+        
+        # Extract instructional method and section corequisites
+        for li in soup.find_all('li'):
+            text = li.get_text().strip()
+            if "Weekly Instructional Method" in text:
+                detailed.instructional_method = text
+            elif "Section Corequisites:" in text:
+                detailed.section_corequisites = text.replace("Section Corequisites:", "").strip()
+        
+        # Extract syllabus link
+        syllabus_link = soup.find('a', string=lambda x: x and 'Learning Outcomes' in x)
+        if syllabus_link and syllabus_link.get('href'):
+            detailed.syllabus_link = syllabus_link['href']
+        
+        # Extract seating information
+        seating_table = None
+        for table in soup.find_all('table'):
+            if table.find('td', string='Capacity'):
+                seating_table = table
+                break
+        
+        if seating_table:
+            rows = seating_table.find_all('tr')
+            for row in rows:
+                cells = row.find_all('td', class_='default3')
+                if len(cells) == 3:
+                    detailed.seating_detail = {
+                        'capacity': int(cells[0].get_text()),
+                        'taken': int(cells[1].get_text()),
+                        'available': int(cells[2].get_text())
+                    }
+        
+        # Extract critical dates
+        dates_table = None
+        for table in soup.find_all('table'):
+            if table.find('td', string=lambda x: x and 'Critical Dates' in x):
+                dates_table = table
+                break
+        
+        if dates_table:
+            detailed.critical_dates = {}
+            for row in dates_table.find_all('tr'):
+                cells = row.find_all('td', class_='default1')
+                if len(cells) == 2:
+                    key = cells[0].get_text().strip().rstrip(':')
+                    value = cells[1].get_text().strip()
+                    if key and value and key != 'Term':
+                        detailed.critical_dates[key] = value
+        
+        return detailed
+    
+    def build_course_detail_url(self, course: Course, term_code: str) -> str:
+        """Build the URL to fetch detailed course information."""
+        base_url = "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_course_popup"
+        params = {
+            'vsub': course.subject,
+            'vcrse': course.course_number,
+            'vterm': term_code,
+            'vcrn': course.crn
+        }
+        # Build URL with parameters
+        param_str = '&'.join([f"{k}={v}" for k, v in params.items()])
+        return f"{base_url}?{param_str}"
