@@ -166,7 +166,14 @@ def validate(ctx, file_paths: tuple):
             
             # Report results
             click.echo(f"  Total courses: {len(schedule_data.courses)}")
-            click.echo(f"  Departments: {len(schedule_data.departments)}")
+            
+            # Get departments from metadata or calculate from courses
+            if schedule_data.metadata and 'departments' in schedule_data.metadata:
+                dept_count = len(schedule_data.metadata['departments'])
+            else:
+                departments = set(c.subject for c in schedule_data.courses)
+                dept_count = len(departments)
+            click.echo(f"  Departments: {dept_count}")
             
             if issues:
                 click.echo("  Issues found:")
