@@ -14,7 +14,7 @@ import csv
 from pathlib import Path
 from datetime import datetime
 from typing import List, Optional, Dict, Any
-from collections import Counter, defaultdict
+from collections import Counter
 
 import click
 import pandas as pd
@@ -195,32 +195,17 @@ def validate(ctx, file_paths: tuple):
 @cli.command()
 @click.option('--file1', '-f1', type=click.Path(exists=True), help='First schedule file')
 @click.option('--file2', '-f2', type=click.Path(exists=True), help='Second schedule file')
-@click.option('--weeks', '-w', type=int, help='Compare schedules from N weeks ago to latest')
 @click.pass_context
-def compare(ctx, file1: Optional[str], file2: Optional[str], weeks: Optional[int]):
+def compare(ctx, file1: Optional[str], file2: Optional[str]):
     """Compare two schedule files to find changes."""
     storage = ctx.obj['storage']
     
     # Determine files to compare
-    if weeks:
-        # Compare with file from N weeks ago
-        latest = storage.get_latest_schedule()
-        if not latest:
-            click.echo("No schedule files found.")
-            return
-            
-        all_files = storage.list_schedules()
-        # Simple approximation: assume 3 collections per week
-        target_index = min(weeks * 3, len(all_files) - 1)
-        if target_index >= len(all_files):
-            click.echo(f"Not enough historical data for {weeks} weeks comparison.")
-            return
-            
-        file1 = str(all_files[target_index])
-        file2 = str(latest)
-    
-    elif not file1 or not file2:
-        click.echo("Please provide two files to compare or use --weeks option.")
+    if not file1 or not file2:
+        click.echo("Please provide two files to compare.")
+        click.echo("\nNote: Historical comparisons now require using git history since we overwrite the latest file.")
+        click.echo("Example: git show HEAD~1:data/schedule_202570_latest.json > old.json")
+        click.echo("Then: uv run cli.py compare -f1 old.json -f2 data/schedule_202570_latest.json")
         return
     
     # Load schedules
@@ -306,9 +291,8 @@ def compare(ctx, file1: Optional[str], file2: Optional[str], weeks: Optional[int
 
 @cli.command()
 @click.option('--term', '-t', help='Filter by term code')
-@click.option('--days', '-d', type=int, default=30, help='Number of days to analyze')
 @click.pass_context
-def report(ctx, term: Optional[str], days: int):
+def report(ctx, term: Optional[str]):
     """Generate summary report of collected data."""
     storage = ctx.obj['storage']
     
@@ -318,22 +302,20 @@ def report(ctx, term: Optional[str], days: int):
         click.echo("No schedule files found.")
         return
     
-    # Filter by date
-    cutoff_date = datetime.now().timestamp() - (days * 24 * 60 * 60)
-    recent_files = [f for f in files if f.stat().st_mtime > cutoff_date]
+    # With the new approach we only have latest files
+    recent_files = files
     
     if not recent_files:
-        click.echo(f"No files found in the last {days} days.")
+        click.echo("No schedule files found.")
         return
     
-    click.echo(f"\n📊 Schedule Collection Report")
-    click.echo(f"Period: Last {days} days")
-    click.echo(f"Files analyzed: {len(recent_files)}")
+    click.echo(f"\n📊 Current Schedule Report")
+    click.echo(f"Terms analyzed: {len(recent_files)}")
+    click.echo("\nNote: Historical trends now require analyzing git history.")
     
     # Aggregate statistics
     all_departments = Counter()
     all_instructors = Counter()
-    enrollment_trends = defaultdict(list)
     course_counts = []
     
     for file_path in recent_files:
@@ -341,12 +323,13 @@ def report(ctx, term: Optional[str], days: int):
             schedule = storage.load_schedule(file_path)
             course_counts.append(len(schedule.courses))
             
-            for dept in schedule.departments:
+            # Get unique departments from courses
+            departments_in_schedule = set(course.subject for course in schedule.courses)
+            for dept in departments_in_schedule:
                 all_departments[dept] += 1
             
             for course in schedule.courses:
                 all_instructors[course.instructor] += 1
-                enrollment_trends[course.crn].append(course.enrollment.actual)
                 
         except Exception as e:
             click.echo(f"Error loading {file_path}: {e}")
@@ -371,25 +354,27 @@ def report(ctx, term: Optional[str], days: int):
         if instructor and instructor != "TBA":
             click.echo(f"  {instructor}: {count} courses")
     
-    # Find courses with biggest enrollment changes
-    click.echo(f"\n📊 Largest Enrollment Changes:")
-    enrollment_changes = []
-    for crn, enrollments in enrollment_trends.items():
-        if len(enrollments) > 1:
-            change = enrollments[-1] - enrollments[0]
-            if abs(change) > 0:
-                enrollment_changes.append((crn, change, enrollments[0], enrollments[-1]))
-    
-    enrollment_changes.sort(key=lambda x: abs(x[1]), reverse=True)
-    
-    for crn, change, start, end in enrollment_changes[:10]:
-        # Find course details
+    # Show current enrollment status instead of changes
+    click.echo(f"\n📊 Current Enrollment Status:")
+    if recent_files and len(recent_files) > 0:
+        full_courses = []
+        nearly_full_courses = []
+        
         for course in latest_schedule.courses:
-            if course.crn == crn:
-                sign = "+" if change > 0 else ""
-                click.echo(f"  {crn}: {course.subject} {course.course_number} - "
-                          f"{start} → {end} ({sign}{change})")
-                break
+            if course.enrollment.capacity > 0:
+                fill_rate = course.enrollment.actual / course.enrollment.capacity
+                if fill_rate >= 1.0:
+                    full_courses.append(course)
+                elif fill_rate >= 0.9:
+                    nearly_full_courses.append(course)
+        
+        click.echo(f"  Full courses: {len(full_courses)}")
+        click.echo(f"  Nearly full (≥90%): {len(nearly_full_courses)}")
+        
+        if full_courses:
+            click.echo("\n  Example full courses:")
+            for course in full_courses[:5]:
+                click.echo(f"    {course.subject} {course.course_number} - {course.title[:30]} ({course.enrollment.actual}/{course.enrollment.capacity})")
 
 
 @cli.command()

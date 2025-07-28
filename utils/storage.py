@@ -24,16 +24,10 @@ class ScheduleStorage:
         self.compression = compression
         self.data_dir.mkdir(exist_ok=True)
         
-    def save_schedule(self, schedule_data: ScheduleData, 
-                     filename_pattern: str = "schedule_{term_code}_{timestamp}.json",
-                     create_latest_link: bool = True) -> str:
+    def save_schedule(self, schedule_data: ScheduleData) -> str:
         """Save schedule data to file."""
-        # Generate filename
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        filename = filename_pattern.format(
-            term_code=schedule_data.term_code,
-            timestamp=timestamp
-        )
+        # Generate fixed filename
+        filename = f"schedule_{schedule_data.term_code}_latest.json"
         
         # Add compression extension if needed
         if self.compression == "gzip":
@@ -59,10 +53,6 @@ class ScheduleStorage:
                     json.dump(data_dict, f, indent=2)
                     
             logger.info(f"Saved schedule data to {filepath}")
-            
-            # Create latest symlink
-            if create_latest_link:
-                self._create_latest_link(filepath, schedule_data.term_code)
                 
             return str(filepath)
             
@@ -98,14 +88,32 @@ class ScheduleStorage:
     
     def list_schedules(self, term_code: Optional[str] = None) -> List[Path]:
         """List all saved schedule files, optionally filtered by term."""
-        pattern = f"schedule_{term_code}_*.json*" if term_code else "schedule_*.json*"
+        pattern = f"schedule_{term_code}_latest.json*" if term_code else "schedule_*_latest.json*"
         files = list(self.data_dir.glob(pattern))
-        return sorted(files, reverse=True)  # Most recent first
+        return sorted(files)  # Alphabetical order by term code
     
     def get_latest_schedule(self, term_code: Optional[str] = None) -> Optional[Path]:
-        """Get the most recent schedule file."""
-        files = self.list_schedules(term_code)
-        return files[0] if files else None
+        """Get the latest schedule file for a given term."""
+        if term_code:
+            filename = f"schedule_{term_code}_latest.json"
+        else:
+            # If no term specified, find any latest file
+            pattern = "schedule_*_latest.json"
+            if self.compression == "gzip":
+                pattern += ".gz"
+            elif self.compression == "bzip2":
+                pattern += ".bz2"
+            files = list(self.data_dir.glob(pattern))
+            return files[0] if files else None
+            
+        # Add compression extension if needed
+        if self.compression == "gzip":
+            filename += ".gz"
+        elif self.compression == "bzip2":
+            filename += ".bz2"
+            
+        filepath = self.data_dir / filename
+        return filepath if filepath.exists() else None
     
     def save_metadata(self, metadata: CollectionMetadata, 
                      filename: str = "collection_metadata.json") -> str:
@@ -133,42 +141,9 @@ class ScheduleStorage:
             
         return str(filepath)
     
-    def _create_latest_link(self, filepath: Path, term_code: str):
-        """Create a 'latest' symlink to the most recent file."""
-        link_name = f"schedule_{term_code}_latest.json"
-        if self.compression == "gzip":
-            link_name += ".gz"
-        elif self.compression == "bzip2":
-            link_name += ".bz2"
-            
-        link_path = self.data_dir / link_name
-        
-        # Remove existing link if it exists
-        if link_path.exists() or link_path.is_symlink():
-            link_path.unlink()
-            
-        # Create new symlink (relative path)
-        try:
-            link_path.symlink_to(filepath.name)
-            logger.info(f"Created latest symlink: {link_path}")
-        except Exception as e:
-            logger.warning(f"Could not create symlink: {e}")
     
     def cleanup_old_files(self, keep_count: int = 30):
-        """Remove old schedule files, keeping the most recent ones."""
-        all_files = self.list_schedules()
-        
-        if len(all_files) <= keep_count:
-            return
-            
-        # Sort by modification time
-        files_with_time = [(f, f.stat().st_mtime) for f in all_files]
-        files_with_time.sort(key=lambda x: x[1], reverse=True)
-        
-        # Remove old files
-        for filepath, _ in files_with_time[keep_count:]:
-            try:
-                filepath.unlink()
-                logger.info(f"Removed old file: {filepath}")
-            except Exception as e:
-                logger.error(f"Failed to remove {filepath}: {e}")
+        """No longer needed - keeping only latest file per term."""
+        # This method is kept for backward compatibility but does nothing
+        # since we now overwrite the same file each time
+        pass
