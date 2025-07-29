@@ -1,6 +1,6 @@
-## Collection Report - Tue Jul 29 14:36:18 UTC 2025
+## Collection Report - Tue Jul 29 22:34:52 UTC 2025
 
-Total courses collected: 1638
+Total courses collected: 1641
 Departments: 102
 
 Top departments:
@@ -12,5 +12,5 @@ Top departments:
   - MATH: 52 courses
   - HIST: 49 courses
   - AJ: 37 courses
-  - CD: 36 courses
-  - NCOA: 36 courses
+  - CD: 37 courses
+  - NCOA: 37 courses
