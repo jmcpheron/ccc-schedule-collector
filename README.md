@@ -1,7 +1,8 @@
 # CCC Schedule Collector
 
 [![Tests](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/test.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/test.yml)
-[![Schedule Collection](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml)
+[![Rio Hondo Collection](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml)
+[![Citrus Collection](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect-citrus.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect-citrus.yml)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![uv](https://img.shields.io/badge/uv-Package%20Manager-green?logo=python&logoColor=white)](https://github.com/astral-sh/uv)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
@@ -14,11 +15,14 @@ A GitHub Actions-powered schedule collector for California Community Colleges, f
 
 This project implements a **cloud-based collector** that automatically gathers course schedule data from California Community College Banner 8 systems and stores it over time in your GitHub repository. Part of the larger [CCC Schedule](https://github.com/jmcpheron/ccc-schedule) ecosystem, this collector provides the data foundation for building schedule viewers and analysis tools.
 
-Currently supports:
-- **Rio Hondo College** - Full implementation with automated collection
-- **Citrus College** - New implementation ready for testing
+### Currently Supported Colleges
 
-The framework is designed to easily add support for additional California Community Colleges.
+| College | Status | Term Format | Departments | Workflow |
+|---------|--------|-------------|-------------|----------|
+| **Rio Hondo College** | ✅ Production | 202570 (Fall 2025) | ~50 departments | Automated 3x daily |
+| **Citrus College** | 🧪 Testing | 202620 (Fall 2025) | 30 departments | Manual trigger ready |
+
+The framework is designed to easily add support for additional California Community Colleges. See [Adding New Colleges](docs/adding-new-colleges.md) for details.
 
 ### Key Benefits
 
@@ -30,9 +34,10 @@ The framework is designed to easily add support for additional California Commun
 ## Features
 
 - 🤖 **Automated Collection**: Designed to run 3x per week via GitHub Actions (currently in development)
+- 🏫 **Multi-College Support**: Plugin-based architecture for easy addition of new colleges
 - 📊 **Rich Data Models**: Structured Pydantic models for all course data
 - 🔍 **HTML Parsing**: BeautifulSoup-based parser for Banner 8 schedule formats
-- 💾 **Smart Storage**: JSON files with optional compression and symlinks
+- 💾 **Smart Storage**: College-specific directories with JSON files and optional compression
 - 🛠️ **CLI Tools**: Analyze, compare, validate, and export collected data
 - 📈 **Historical Tracking**: Compare schedules over time to spot trends
 - 🧪 **Comprehensive Tests**: Full test suite with pytest
@@ -52,20 +57,21 @@ That's it! Once enabled, your collector will run in the cloud, gathering schedul
 All data collection happens in **GitHub Actions runners** - ephemeral Linux containers that spin up, run your collector, commit the results, and disappear. You never need to run anything locally except for development.
 
 ```yaml
-# .github/workflows/collect.yml - The heart of your cloud collector
-name: Collect Schedule
+# Each college has its own workflow for independent scheduling
+name: Collect Rio Hondo Schedule
 on:
   schedule:
-    - cron: '0 6 * * 1,3,5'  # Will run in the cloud 3x/week when enabled
-  workflow_dispatch:         # Manual trigger button
+    - cron: '26 6,14,22 * * *'  # 3x daily at offset times
+  workflow_dispatch:             # Manual trigger button
 
 jobs:
   collect:
-    runs-on: ubuntu-latest   # Fresh Linux container every time
+    runs-on: ubuntu-latest       # Fresh Linux container every time
     steps:
-    - name: Install uv       # Modern Python tooling
-    - name: Run collector    # Your Python script with inline deps
-    - name: Commit results   # Git stores the data automatically
+    - name: Install uv           # Modern Python tooling
+    - name: Run collector        # College-specific collector
+    - name: Save to data/rio-hondo/  # College-specific storage
+    - name: Commit results       # Git stores the data automatically
 ```
 
 ### Self-Contained Python Scripts
@@ -275,6 +281,7 @@ uv run mypy .
 
 - [Local Testing Guide](LOCAL_TESTING.md) - Detailed guide for testing locally
 - [Contributing Guidelines](CONTRIBUTING.md) - How to contribute to the project
+- [Adding New Colleges](docs/adding-new-colleges.md) - Guide for adding support for new colleges
 - [Claude Code Instructions](CLAUDE.md) - AI assistant guidance
 
 ## Integration with CCC Schedule
@@ -305,6 +312,39 @@ CCC Website → HTML Parser → JSON Data → GitHub Storage
 - **utils/storage.py**: JSON storage with compression and college-specific directories
 - **collect.py**: Main collector with college selection
 - **cli.py**: Analysis and export tools
+
+### Multi-College Architecture
+
+The collector uses a plugin-based architecture that makes adding new colleges straightforward:
+
+```
+ccc-schedule-collector/
+├── collectors/
+│   ├── base_collector.py      # Abstract base class
+│   ├── rio_hondo/            # Rio Hondo implementation
+│   │   ├── collector.py      # Fetches HTML data
+│   │   ├── parser.py         # Parses HTML to JSON
+│   │   └── config.json       # College-specific settings
+│   └── citrus/               # Citrus College implementation
+│       ├── collector.py
+│       ├── parser.py
+│       └── config.json
+├── data/
+│   ├── rio-hondo/           # Rio Hondo schedule data
+│   │   └── schedule_202570_latest.json
+│   └── citrus/              # Citrus schedule data
+│       └── schedule_202620_latest.json
+└── .github/workflows/
+    ├── collect.yml          # Rio Hondo workflow
+    └── collect-citrus.yml   # Citrus workflow
+```
+
+Each college:
+- Has its own collector class extending `BaseCollector`
+- Stores data in its own directory under `/data/<college-id>/`
+- Can have custom parsing logic for its specific HTML format
+- Runs on its own schedule via separate GitHub Actions workflows
+- Uses standardized output format for compatibility
 
 ## Contributing
 

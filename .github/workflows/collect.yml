@@ -35,6 +35,10 @@ jobs:
         uv-version: "0.5.16"
     
     
+    - name: Create Rio Hondo data directory
+      run: |
+        mkdir -p data/rio-hondo
+    
     - name: Collect schedule data
       run: |
         chmod +x collect.py
@@ -50,17 +54,22 @@ jobs:
       run: |
         chmod +x cli.py
         # Use the fixed latest file
-        LATEST_FILE="data/schedule_*_latest.json"
-        echo "Validating $LATEST_FILE"
-        uv run cli.py validate $LATEST_FILE
+        LATEST_FILE="data/rio-hondo/schedule_*_latest.json"
+        if ls $LATEST_FILE 1> /dev/null 2>&1; then
+          echo "Validating $LATEST_FILE"
+          uv run cli.py validate $LATEST_FILE
+        else
+          echo "No latest file found, checking data directory"
+          ls -la data/rio-hondo/
+        fi
     
     - name: Generate collection report
       run: |
-        # Generate a simple report
-        LATEST_FILE="data/schedule_*_latest.json"
-        echo "## Collection Report - $(date)" > data/latest_report.md
-        echo "" >> data/latest_report.md
-        uv run cli.py info $LATEST_FILE --format json | python3 -c "
+        LATEST_FILE="data/rio-hondo/schedule_*_latest.json"
+        if ls $LATEST_FILE 1> /dev/null 2>&1; then
+          echo "## Rio Hondo Collection Report - $(date)" > data/rio-hondo/latest_report.md
+          echo "" >> data/rio-hondo/latest_report.md
+          uv run cli.py info $LATEST_FILE --format json | python3 -c "
 import sys, json
 data = json.load(sys.stdin)
 print(f'Total courses collected: {len(data)}')
@@ -72,27 +81,34 @@ print(f'Departments: {len(subjects)}')
 print('\\nTop departments:')
 for subj, count in sorted(subjects.items(), key=lambda x: x[1], reverse=True)[:10]:
     print(f'  - {subj}: {count} courses')
-" >> data/latest_report.md
+" >> data/rio-hondo/latest_report.md
+        else
+          echo "No data to report on"
+        fi
     
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # Add all changes in data directory
-        git add data/
+        # Add all changes in rio-hondo data directory
+        git add data/rio-hondo/
         
         # Check if there are changes to commit
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
           # Create commit message with statistics
-          LATEST_FILE="data/schedule_*_latest.json"
-          COURSE_COUNT=$(uv run cli.py info $LATEST_FILE --format json | python3 -c "import sys, json; print(len(json.load(sys.stdin)))")
+          LATEST_FILE="data/rio-hondo/schedule_*_latest.json"
+          if ls $LATEST_FILE 1> /dev/null 2>&1; then
+            COURSE_COUNT=$(uv run cli.py info $LATEST_FILE --format json | python3 -c "import sys, json; print(len(json.load(sys.stdin)))")
+          else
+            COURSE_COUNT="0"
+          fi
           
           # Create commit message in git scraping style
           TIMESTAMP=$(date -u)
-          git commit -m "Latest data: ${TIMESTAMP} - ${COURSE_COUNT} courses"
+          git commit -m "Latest Rio Hondo data: ${TIMESTAMP} - ${COURSE_COUNT} courses"
           
           git push
         fi
