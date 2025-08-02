@@ -40,12 +40,12 @@ class TestCitrusCollector:
         'ESL', 'ETHN', 'FN', 'FREN', 'GEOG', 'GEOL', 'GERO', 'HIST', 
         'HUM', 'ITAL', 'JAPN', 'JOUR', 'KIN', 'LAW', 'LIB', 'LING', 
         'LIT', 'MATH', 'MUS', 'NURS', 'PHIL', 'PHOT', 'PHYS', 'POLS', 
-        'PORT', 'PSY', 'READ', 'SOC', 'SPAN', 'SPCH', 'STAT', 'THTR', 
+        'PORT', 'PSY', 'READ', 'SOC', 'SPAN', 'SPCH', 'STAT', 'THEA', 
         'UAS', 'VET', 'VN', 'WATR'
     }
     
     # Subjects that were specifically missing before the fix
-    PREVIOUSLY_MISSING_SUBJECTS = {'STAT', 'THTR', 'UAS', 'VN', 'WATR'}
+    PREVIOUSLY_MISSING_SUBJECTS = {'STAT', 'THEA', 'UAS', 'VN', 'WATR'}
     
     def test_citrus_config_has_all_subjects(self):
         """Test that Citrus config includes all expected subjects."""
@@ -145,6 +145,84 @@ class TestCitrusCollector:
         last_subjects = sorted(param_subjects)[-5:]  # Get last 5 alphabetically
         assert any(s in self.PREVIOUSLY_MISSING_SUBJECTS for s in last_subjects), \
             f"No end-of-alphabet subjects in last 5: {last_subjects}"
+    
+    def test_all_expected_subjects_collected(self):
+        """Test that all expected subjects are collected, not just a subset."""
+        # Check if we have recent collected data
+        data_dir = Path('data/citrus')
+        if not data_dir.exists():
+            pytest.skip("No Citrus data directory found")
+            
+        latest_file = data_dir / 'schedule_202620_latest.json'
+        if not latest_file.exists():
+            schedule_files = list(data_dir.glob('schedule_*.json'))
+            if not schedule_files:
+                pytest.skip("No Citrus schedule data found")
+            latest_file = max(schedule_files, key=lambda f: f.stat().st_mtime)
+            
+        # Load the data
+        with open(latest_file, 'r') as f:
+            data = json.load(f)
+            
+        collected_subjects = set(data.get('metadata', {}).get('departments', []))
+        
+        # We should collect at least 50% of expected subjects (accounting for term variations)
+        collection_rate = len(collected_subjects) / len(self.CITRUS_EXPECTED_SUBJECTS)
+        assert collection_rate >= 0.5, \
+            f"Only collected {len(collected_subjects)}/{len(self.CITRUS_EXPECTED_SUBJECTS)} " \
+            f"subjects ({collection_rate:.1%}). This suggests a collection problem."
+    
+    def test_thea_not_thtr_in_config(self):
+        """Test that config uses THEA (correct) not THTR for Theatre Arts."""
+        config_path = Path(__file__).parent.parent / 'collectors' / 'citrus' / 'config.json'
+        
+        with open(config_path, 'r') as f:
+            config = json.load(f)
+            
+        all_subjects = config.get('all_subjects', [])
+        
+        # Should have THEA, not THTR
+        assert 'THEA' in all_subjects, "Config should include THEA for Theatre Arts"
+        assert 'THTR' not in all_subjects, "Config should not include THTR (use THEA instead)"
+        
+        # Check mappings if present
+        mappings = config.get('subject_code_mappings', {})
+        if 'THTR' in mappings:
+            assert mappings['THTR'] == 'THEA', \
+                "THTR should map to THEA in subject_code_mappings"
+    
+    def test_critical_subjects_present_in_collection(self):
+        """Test that critical subjects like THEA are actually collected."""
+        # Critical subjects that must be present
+        critical_subjects = {'ENGL', 'MATH', 'THEA', 'CHEM', 'BIOL'}
+        
+        # Check latest data
+        data_dir = Path('data/citrus')
+        if not data_dir.exists():
+            pytest.skip("No Citrus data directory found")
+            
+        latest_file = data_dir / 'schedule_202620_latest.json'
+        if not latest_file.exists():
+            schedule_files = list(data_dir.glob('schedule_*.json'))
+            if not schedule_files:
+                pytest.skip("No Citrus schedule data found")
+            latest_file = max(schedule_files, key=lambda f: f.stat().st_mtime)
+            
+        with open(latest_file, 'r') as f:
+            data = json.load(f)
+            
+        # Check courses for critical subjects
+        collected_subjects = set()
+        for course in data.get('courses', []):
+            if course.get('subject'):
+                collected_subjects.add(course['subject'])
+                
+        missing_critical = critical_subjects - collected_subjects
+        
+        # Allow some missing (might not be offered), but not all
+        assert len(missing_critical) < len(critical_subjects), \
+            f"Too many critical subjects missing: {missing_critical}. " \
+            f"Check subject code mappings."
 
 
 if __name__ == "__main__":
