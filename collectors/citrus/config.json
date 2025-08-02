@@ -43,6 +43,17 @@
     "UAS", "VET", "VN", "WATR"
   ],
   
+  "expected_subjects": [
+    "ACCT", "ADS", "ANTH", "ART", "AUTO", "BIOL", "BIOT", "BUS", 
+    "CDEV", "CHEM", "CIS", "COMM", "COUN", "CS", "DANC", "DH", 
+    "DS", "ECE", "ECON", "EDUC", "EET", "ENGL", "ENGR", "ENV", 
+    "ESL", "ETHN", "FN", "FREN", "GEOG", "GEOL", "GERO", "HIST", 
+    "HUM", "ITAL", "JAPN", "JOUR", "KIN", "LAW", "LIB", "LING", 
+    "LIT", "MATH", "MUS", "NURS", "PHIL", "PHOT", "PHYS", "POLS", 
+    "PORT", "PSY", "READ", "SOC", "SPAN", "SPCH", "STAT", "THTR", 
+    "UAS", "VET", "VN", "WATR"
+  ],
+  
   "search_params": {
     "sel_subj": "%",
     "sel_day": "dummy",

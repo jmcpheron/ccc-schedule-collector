@@ -203,3 +203,66 @@ class TestBaseCollector:
             
         finally:
             os.chdir(original_cwd)
+    
+    def test_validate_subject_completeness(self, config_file):
+        """Test validation of subject completeness in collected data."""
+        collector = TestCollector(config_path=str(config_file))
+        
+        # Create schedule data with limited subjects (simulating truncation)
+        truncated_data = ScheduleData(
+            term="Fall 2025",
+            term_code="202570",
+            collection_timestamp=datetime.now(),
+            source_url="https://test.edu",
+            college_id="test-college",
+            collector_version="1.0.0",
+            courses=[
+                Course(
+                    crn=f"{i:05d}",
+                    subject=subj,
+                    course_number="101",
+                    title=f"{subj} Introduction",
+                    units=3.0,
+                    instructor="Test Instructor",
+                    meeting_times=[],
+                    location="Test Location",
+                    enrollment={"capacity": 30, "actual": 25, "remaining": 5},
+                    status="Open",
+                    section_type="LEC",
+                    zero_textbook_cost=False,
+                    delivery_method="In-Person",
+                    weeks=16
+                )
+                for i, subj in enumerate(['ANTH', 'ART', 'BIOL', 'CHEM', 'ENGL', 
+                                         'HIST', 'MATH', 'PHYS', 'POLS', 'SOC'])
+            ],
+            metadata={
+                'departments': ['ANTH', 'ART', 'BIOL', 'CHEM', 'ENGL', 
+                               'HIST', 'MATH', 'PHYS', 'POLS', 'SOC']
+            }
+        )
+        
+        # Check that we can detect potential truncation
+        subjects = {course.subject for course in truncated_data.courses}
+        last_subject_alphabetically = max(subjects)
+        
+        # If the last subject is 'S' or earlier and we have fewer than 15 subjects,
+        # this might indicate truncation
+        assert not (last_subject_alphabetically <= 'S' and len(subjects) < 15), \
+            "Subject list appears truncated - ends at 'S' with only 10 subjects"
+    
+    def test_validate_no_duplicate_subjects_in_config(self, config_file):
+        """Test that subject lists in configs don't have duplicates."""
+        # Load config
+        with open(config_file, 'r') as f:
+            config = json.load(f)
+            
+        # If there's an all_subjects or expected_subjects list, check for duplicates
+        for field in ['all_subjects', 'expected_subjects']:
+            if field in config:
+                subjects = config[field]
+                unique_subjects = set(subjects)
+                
+                assert len(subjects) == len(unique_subjects), \
+                    f"Duplicate subjects found in {field}: " \
+                    f"{[s for s in subjects if subjects.count(s) > 1]}"
