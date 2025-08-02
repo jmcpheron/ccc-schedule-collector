@@ -1,7 +1,6 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-08-02T16:08:07.847147",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -2201,8 +2200,8 @@
       "location": "TE 102",
       "enrollment": {
         "capacity": 30,
-        "actual": 15,
-        "remaining": 15
+        "actual": 16,
+        "remaining": 14
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3097,8 +3096,8 @@
       "location": "LS 119",
       "enrollment": {
         "capacity": 23,
-        "actual": 22,
-        "remaining": 1
+        "actual": 23,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3225,8 +3224,8 @@
       "location": "MA 227",
       "enrollment": {
         "capacity": 23,
-        "actual": 21,
-        "remaining": 2
+        "actual": 22,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -5337,8 +5336,8 @@
       "location": "TC 127",
       "enrollment": {
         "capacity": 26,
-        "actual": 17,
-        "remaining": 9
+        "actual": 18,
+        "remaining": 8
       },
       "status": "Open",
       "section_type": "LEC",
@@ -7769,8 +7768,8 @@
       "location": "P1 104",
       "enrollment": {
         "capacity": 25,
-        "actual": 24,
-        "remaining": 1
+        "actual": 25,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "LEC",
@@ -9209,8 +9208,8 @@
       "location": "ED 215",
       "enrollment": {
         "capacity": 30,
-        "actual": 5,
-        "remaining": 25
+        "actual": 6,
+        "remaining": 24
       },
       "status": "Open",
       "section_type": "LEC",
@@ -14437,10 +14436,746 @@
       "end_date": "12/12",
       "additional_hours": null,
       "book_link": null
+    },
+    {
+      "crn": "24958",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Berberyan, Toros",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "MW",
+          "start_time": "07:40AM",
+          "end_time": "09:45AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 124",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 36,
+        "remaining": 0
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "25003",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Gonzalez, Rudy",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "MW",
+          "start_time": "10:50AM",
+          "end_time": "12:55PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 109",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 36,
+        "remaining": 0
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24972",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Berberyan, Toros",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "MW",
+          "start_time": "11:30AM",
+          "end_time": "01:35PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 124",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 36,
+        "remaining": 0
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24999",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Swan, Alfie",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "MW",
+          "start_time": "03:50PM",
+          "end_time": "05:55PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 130",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 36,
+        "remaining": 0
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "25009",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Swan, Alfie",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "MW",
+          "start_time": "06:10PM",
+          "end_time": "08:15PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 130",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 36,
+        "remaining": 0
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24962",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Berberyan, Toros",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "08:00AM",
+          "end_time": "10:05AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 130",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 36,
+        "remaining": 0
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "25017",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Nguyen, Jennifer",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "09:15AM",
+          "end_time": "11:20AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "ES 612",
+      "enrollment": {
+        "capacity": 15,
+        "actual": 24,
+        "remaining": 0
+      },
+      "status": "Closed",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "25005",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Nguyen, Tracy",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "11:30AM",
+          "end_time": "01:35PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 222",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 36,
+        "remaining": 0
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24967",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Berberyan, Toros",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "11:30AM",
+          "end_time": "01:35PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 130",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 36,
+        "remaining": 0
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "25007",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Swan, Alfie",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "03:00PM",
+          "end_time": "05:05PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 130",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 36,
+        "remaining": 0
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24991",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Everest, Rob",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "M",
+          "start_time": "01:15PM",
+          "end_time": "03:45PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 108",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 18,
+        "remaining": 18
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "25011",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Nguyen, Tracy",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "MW",
+          "start_time": "09:00AM",
+          "end_time": "11:05AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "ONLINE",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 34,
+        "remaining": 2
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Online Asynchronous",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "25013",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Chun, Mina",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "MWF",
+          "start_time": "09:55AM",
+          "end_time": "11:50AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "ONLINE",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 6,
+        "remaining": 30
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Online Asynchronous",
+      "weeks": 12,
+      "start_date": "09/22",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "25015",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Chau, Evelyn",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "07:10AM",
+          "end_time": "10:15AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "ONLINE",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 11,
+        "remaining": 25
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Online Asynchronous",
+      "weeks": 12,
+      "start_date": "09/22",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "25018",
+      "subject": "STAT",
+      "course_number": "C1000H",
+      "title": "Small Group Communication",
+      "units": 4.0,
+      "instructor": "Nguyen, Jennifer",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "09:15AM",
+          "end_time": "11:20AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "ES 612",
+      "enrollment": {
+        "capacity": 3,
+        "actual": 3,
+        "remaining": 0
+      },
+      "status": "Closed",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24971",
+      "subject": "STAT",
+      "course_number": "S1000",
+      "title": "Small Group Communication",
+      "units": 2.0,
+      "instructor": "Berberyan, Toros",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "MW",
+          "start_time": "01:45PM",
+          "end_time": "02:50PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 124",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 36,
+        "remaining": 0
+      },
+      "status": "Closed",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24961",
+      "subject": "STAT",
+      "course_number": "S1000",
+      "title": "Small Group Communication",
+      "units": 2.0,
+      "instructor": "Berberyan, Toros",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "10:15AM",
+          "end_time": "11:20AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 130",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 36,
+        "remaining": 0
+      },
+      "status": "Closed",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24966",
+      "subject": "STAT",
+      "course_number": "S1000",
+      "title": "Small Group Communication",
+      "units": 2.0,
+      "instructor": "Berberyan, Toros",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "01:45PM",
+          "end_time": "02:50PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 130",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 36,
+        "remaining": 0
+      },
+      "status": "Closed",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24957",
+      "subject": "STAT",
+      "course_number": "S1000",
+      "title": "Small Group Communication",
+      "units": 2.0,
+      "instructor": "Berberyan, Toros",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "F",
+          "start_time": "07:45AM",
+          "end_time": "09:35AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 124",
+      "enrollment": {
+        "capacity": 36,
+        "actual": 36,
+        "remaining": 0
+      },
+      "status": "Closed",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24979",
+      "subject": "UAS",
+      "course_number": "100",
+      "title": "Intro to Un-crewed Aerial Sys",
+      "units": 3.0,
+      "instructor": "Woolford, Ryan",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "09:30AM",
+          "end_time": "10:55AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "ONLINE",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 6,
+        "remaining": 29
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Online Asynchronous",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "20972",
+      "subject": "WATR",
+      "course_number": "150",
+      "title": "Introduction to Water Systems",
+      "units": 3.0,
+      "instructor": "Gramling, Gary",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "M",
+          "start_time": "07:00PM",
+          "end_time": "10:10PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "AQ 100",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 17,
+        "remaining": 18
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "22895",
+      "subject": "WATR",
+      "course_number": "156",
+      "title": "Water Treatment I",
+      "units": 3.0,
+      "instructor": "Gramling, Gary",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "M",
+          "start_time": "01:00PM",
+          "end_time": "04:10PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "AQ 100",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 24,
+        "remaining": 11
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "23193",
+      "subject": "WATR",
+      "course_number": "162",
+      "title": "Water Use Efficiency I",
+      "units": 3.0,
+      "instructor": "Martinez, Jose",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "06:30PM",
+          "end_time": "09:40PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "AQ 100",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 29,
+        "remaining": 6
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
     }
   ],
   "metadata": {
-    "total_courses": 451,
+    "total_courses": 474,
     "departments": [
       "ACCT",
       "ANTH",
@@ -14471,7 +15206,10 @@
       "PSY",
       "SOC",
       "SPAN",
-      "SPCH"
+      "SPCH",
+      "STAT",
+      "UAS",
+      "WATR"
     ]
   },
   "total_courses": null,
