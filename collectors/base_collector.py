@@ -215,26 +215,24 @@ class BaseCollector(ABC):
         Returns:
             Path to saved file
         """
-        # Create output directory structure
-        output_dir = Path('data')
-        output_dir.mkdir(parents=True, exist_ok=True)
+        # Use storage utility with college-specific directory
+        from utils.storage import ScheduleStorage
         
-        # Create timestamped filename
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        filename = f"schedule_{data.term_code}_{timestamp}.json"
-        filepath = output_dir / filename
+        # Get output directory from config or use default
+        output_dir = self.config.get('output_dir', 'data')
+        compression = self.config.get('compression', 'none')
         
-        # Save with proper formatting
-        with open(filepath, 'w') as f:
-            json.dump(data.model_dump(), f, indent=2, default=str)
-            
-        # Update latest symlink
-        latest_path = output_dir / f"schedule_{data.term_code}_latest.json"
-        with open(latest_path, 'w') as f:
-            json.dump(data.model_dump(), f, indent=2, default=str)
-            
+        # Create storage instance with college ID
+        storage = ScheduleStorage(
+            data_dir=output_dir,
+            compression=compression,
+            college_id=data.college_id
+        )
+        
+        # Save and return the path
+        filepath = storage.save_schedule(data)
         logger.info(f"Saved output to {filepath}")
-        return filepath
+        return Path(filepath)
     
     def rate_limit_delay(self) -> None:
         """Apply rate limiting delay between requests."""

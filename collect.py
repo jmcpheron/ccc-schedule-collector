@@ -32,10 +32,20 @@ logger = logging.getLogger(__name__)
 # Registry of available collectors
 COLLECTORS = {
     'rio-hondo': RioHondoCollector,
+    'citrus': None,  # Will be imported dynamically
     # Future collectors can be added here:
     # 'pasadena': PasadenaCollector,
     # 'mt-sac': MtSacCollector,
 }
+
+# Lazy import for Citrus to avoid circular imports
+def get_citrus_collector():
+    """Lazy import of CitrusCollector."""
+    from collectors.citrus.collector import CitrusCollector
+    return CitrusCollector
+
+# Update registry with lazy-loaded collector
+COLLECTORS['citrus'] = get_citrus_collector
 
 
 @click.command()
@@ -58,6 +68,10 @@ def collect(college: str, config: Optional[str], term_code: Optional[str], save:
     try:
         # Get the appropriate collector class
         CollectorClass = COLLECTORS[college]
+        
+        # Handle lazy-loaded collectors
+        if callable(CollectorClass) and not isinstance(CollectorClass, type):
+            CollectorClass = CollectorClass()
         
         # Initialize collector
         if config:

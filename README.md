@@ -8,13 +8,17 @@
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-orange)](https://www.crummy.com/software/BeautifulSoup/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A GitHub Actions-powered schedule collector for California Community Colleges, featuring automated HTML parsing and zero-dependency Python scripts using UV. Currently supports Rio Hondo College with a framework designed for easy expansion to other colleges.
+A GitHub Actions-powered schedule collector for California Community Colleges, featuring automated HTML parsing and zero-dependency Python scripts using UV. Supports multiple colleges including Rio Hondo and Citrus College, with a framework designed for easy expansion.
 
 ## Overview
 
 This project implements a **cloud-based collector** that automatically gathers course schedule data from California Community College Banner 8 systems and stores it over time in your GitHub repository. Part of the larger [CCC Schedule](https://github.com/jmcpheron/ccc-schedule) ecosystem, this collector provides the data foundation for building schedule viewers and analysis tools.
 
-The first supported college is **Rio Hondo College**, with the framework designed to easily add support for additional California Community Colleges.
+Currently supports:
+- **Rio Hondo College** - Full implementation with automated collection
+- **Citrus College** - New implementation ready for testing
+
+The framework is designed to easily add support for additional California Community Colleges.
 
 ### Key Benefits
 
@@ -202,10 +206,13 @@ uv run cli.py export data/latest.json output.xlsx --format excel
 
 1. **Fork this repository**
 2. **Enable Actions** in your fork (Settings → Actions → Enable)
-3. **Configure your target college** in `config.yml` (currently set up for Rio Hondo)
-4. **Enable collection** by editing `.github/workflows/collect.yml`:
-   - Uncomment lines 5-7 (schedule trigger) to enable the 3x/week schedule
-   - Uncomment lines 59-64 (actual collection) to activate data collection
+3. **Choose your college(s)**:
+   - Rio Hondo: Already configured, just enable the workflow
+   - Citrus: Enable `.github/workflows/collect-citrus.yml`
+   - Both: Enable both workflows
+4. **Enable collection** by editing the workflow files:
+   - Uncomment the schedule trigger to enable automatic collection
+   - Or use manual triggers via the Actions tab
 5. **Push changes** - collection will run automatically on the schedule or via manual trigger
 
 ### For Local Development
@@ -221,19 +228,27 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 # Run setup
 ./setup.sh
 
-# Test with local HTML file
+# Test Rio Hondo with local HTML file
 ./test_local.py --save --debug
 
 # Test actual collection (be respectful of servers)
 ./test_collection.py --test-connection
+
+# Collect from specific colleges
+./collect.py --college rio-hondo
+./collect.py --college citrus
 ```
 
 ### Manual Collection
 
 Trigger collection manually from GitHub:
-1. Go to Actions → "Collect Schedule"
+1. Go to Actions → Choose your workflow:
+   - "Collect Rio Hondo Schedule" for Rio Hondo
+   - "Collect Citrus Schedule" for Citrus
 2. Click "Run workflow"
-3. Check `/data` folder for results
+3. Check the appropriate folder for results:
+   - Rio Hondo: `/data/rio-hondo/`
+   - Citrus: `/data/citrus/`
 
 ## Testing
 
@@ -283,9 +298,12 @@ CCC Website → HTML Parser → JSON Data → GitHub Storage
 ### Key Components
 
 - **models.py**: Pydantic models for type-safe data handling
-- **utils/parser.py**: BeautifulSoup HTML parser for Banner 8 (configured for Rio Hondo)
-- **utils/storage.py**: JSON storage with compression support
-- **collect.py**: Main collector with retry logic
+- **collectors/**: College-specific implementations
+  - **base_collector.py**: Abstract base class for all collectors
+  - **rio_hondo/**: Rio Hondo specific parser and collector
+  - **citrus/**: Citrus College specific parser and collector
+- **utils/storage.py**: JSON storage with compression and college-specific directories
+- **collect.py**: Main collector with college selection
 - **cli.py**: Analysis and export tools
 
 ## Contributing
