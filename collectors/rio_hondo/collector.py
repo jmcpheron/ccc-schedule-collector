@@ -3,7 +3,7 @@
 import json
 import logging
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, Any, Optional, List
 from urllib.parse import urljoin
@@ -343,7 +343,7 @@ class RioHondoCollector(BaseCollector):
         schedule_data = ScheduleData(
             term=term_name,
             term_code=term_code,
-            collection_timestamp=datetime.now(),
+            collection_timestamp=datetime.now(timezone.utc),
             source_url=source_url,
             college_id=self.college_id,
             collector_version=self.collector_version,
@@ -453,7 +453,7 @@ class RioHondoCollector(BaseCollector):
             if not schedule_data.metadata:
                 schedule_data.metadata = {}
             schedule_data.metadata['details_collected'] = True
-            schedule_data.metadata['detail_collection_timestamp'] = datetime.now().isoformat()
+            schedule_data.metadata['detail_collection_timestamp'] = datetime.now(timezone.utc).isoformat() + "Z"
             
         return schedule_data
     

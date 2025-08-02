@@ -105,6 +105,35 @@ Key config sections:
 
 ## Important Context
 
+### Timestamp Standards
+
+**All timestamps in this project MUST use UTC timezone**. This ensures consistency across all data collection regardless of where the GitHub Actions runner or developer is located.
+
+#### Correct Usage
+```python
+from datetime import datetime, timezone
+
+# CORRECT - Use timezone-aware UTC datetime
+timestamp = datetime.now(timezone.utc)
+timestamp_str = datetime.now(timezone.utc).isoformat()  # Includes timezone info
+timestamp_str_z = datetime.now(timezone.utc).isoformat() + "Z"  # Explicit UTC indicator
+
+# INCORRECT - Never use these
+timestamp = datetime.now()  # Local timezone - DO NOT USE
+timestamp = datetime.utcnow()  # Deprecated - DO NOT USE
+```
+
+#### Storage Format
+- Always store timestamps in ISO 8601 format with "Z" suffix: `2025-01-24T12:00:00.123456Z`
+- This clearly indicates UTC time to any consumer of the data
+- Example: `collection_timestamp: "2025-01-24T18:30:00.123456Z"`
+
+#### Key Files Requiring UTC
+- `models.py` - All datetime fields
+- `collectors/*/parser.py` - When setting `collection_timestamp`
+- `collectors/base_collector.py` - Collection metadata timestamps
+- Any script that creates or modifies `ScheduleData` objects
+
 ### Git Tracking of Collected Data
 
 **Important**: We intentionally track collected data files (e.g., `data/citrus/schedule_*.json`) and status files in Git. This is by design because:

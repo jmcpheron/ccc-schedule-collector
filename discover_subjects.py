@@ -17,7 +17,7 @@ This script helps maintain accurate subject lists by:
 
 import json
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List, Set, Optional, Tuple
 
@@ -142,7 +142,7 @@ class SubjectDiscovery:
             Tuple of (updated_config, was_modified)
         """
         modified = False
-        timestamp = datetime.now().strftime('%Y-%m-%d')
+        timestamp = datetime.now(timezone.utc).strftime('%Y-%m-%d')
         
         # Initialize subject management section if needed
         if 'subject_management' not in config:
@@ -158,7 +158,7 @@ class SubjectDiscovery:
         subject_mgmt = config['subject_management']
         
         # Update last discovery timestamp
-        subject_mgmt['last_discovery'] = datetime.now().isoformat()
+        subject_mgmt['last_discovery'] = datetime.now(timezone.utc).isoformat() + "Z"
         
         # Handle new subjects
         if analysis['new_subjects']:

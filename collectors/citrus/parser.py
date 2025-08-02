@@ -2,7 +2,7 @@
 
 import logging
 import re
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import List, Optional, Dict, Tuple
 from bs4 import BeautifulSoup
 
@@ -43,7 +43,7 @@ class CitrusScheduleParser:
             return ScheduleData(
                 term=term_name,
                 term_code=term_code,
-                collection_timestamp=datetime.now(),
+                collection_timestamp=datetime.now(timezone.utc),
                 source_url=source_url,
                 college_id='citrus',
                 collector_version='1.0.0',
@@ -100,7 +100,7 @@ class CitrusScheduleParser:
         return ScheduleData(
             term=term_name,
             term_code=term_code,
-            collection_timestamp=datetime.now(),
+            collection_timestamp=datetime.now(timezone.utc),
             source_url=source_url,
             college_id='citrus',
             collector_version='1.0.0',

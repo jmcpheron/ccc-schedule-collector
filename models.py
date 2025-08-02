@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Data models for Rio Hondo College course schedule data."""
 
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import List, Optional, Dict, Any, Union
 from pydantic import BaseModel, Field
 
@@ -56,14 +56,14 @@ class DetailedCourse(Course):
     section_corequisites: Optional[str] = Field(None, description="Section-specific corequisites")
     syllabus_link: Optional[str] = Field(None, description="Link to course syllabus/learning outcomes")
     seating_detail: Optional[Dict[str, int]] = Field(None, description="Detailed seating (capacity/taken/available)")
-    detail_fetched_at: Optional[datetime] = Field(None, description="When detail data was fetched")
+    detail_fetched_at: Optional[datetime] = Field(None, description="When detail data was fetched (UTC)")
 
 
 class ScheduleData(BaseModel):
     """Container for all collected schedule data."""
     term: str = Field(description="Term identifier (e.g., 'Fall 2025')")
     term_code: str = Field(description="Term code (e.g., '202570')")
-    collection_timestamp: datetime = Field(description="When this data was collected")
+    collection_timestamp: datetime = Field(description="When this data was collected (UTC)")
     source_url: str = Field(description="URL where data was collected from")
     college_id: str = Field(description="Unique identifier for the college (e.g., 'rio-hondo')")
     collector_version: str = Field(description="Version of the collector (e.g., '1.0.0')")
@@ -100,8 +100,8 @@ class ScheduleData(BaseModel):
 
 class CollectionMetadata(BaseModel):
     """Metadata about a collection run."""
-    start_time: datetime
-    end_time: datetime
+    start_time: datetime  # UTC timestamp
+    end_time: datetime    # UTC timestamp
     duration_seconds: float
     courses_collected: int
     errors: List[str] = Field(default_factory=list)

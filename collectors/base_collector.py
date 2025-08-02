@@ -4,7 +4,7 @@ import json
 import logging
 import time
 from abc import ABC, abstractmethod
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, Any, Optional, List
 
@@ -99,7 +99,7 @@ class BaseCollector(ABC):
         Returns:
             ScheduleData object with collected courses
         """
-        start_time = datetime.now()
+        start_time = datetime.now(timezone.utc)
         errors = []
         
         try:
@@ -130,7 +130,7 @@ class BaseCollector(ABC):
             
         finally:
             # Record metadata
-            end_time = datetime.now()
+            end_time = datetime.now(timezone.utc)
             self.collection_metadata = CollectionMetadata(
                 start_time=start_time,
                 end_time=end_time,
