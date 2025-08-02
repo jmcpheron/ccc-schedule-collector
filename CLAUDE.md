@@ -105,6 +105,20 @@ Key config sections:
 
 ## Important Context
 
+### Git Tracking of Collected Data
+
+**Important**: We intentionally track collected data files (e.g., `data/citrus/schedule_*.json`) and status files in Git. This is by design because:
+- Git provides a complete history of schedule changes over time
+- We can see exactly when courses were added, removed, or modified
+- The diffs show specific changes in enrollment, instructors, times, etc.
+- This creates a valuable historical archive of college schedule data
+
+**Note about conflicts**: You may encounter merge conflicts with files like:
+- `data/*/schedule_*_latest.json` - Updated by collections
+- `docs/status.json` - Updated by the status dashboard workflow
+
+These conflicts are expected when multiple sources update the same files. Simply resolve by choosing the most recent version or the one with the correct data.
+
 ### HTML Parsing Specifics
 
 The Rio Hondo HTML has quirks:
