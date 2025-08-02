@@ -1,10 +1,10 @@
-## Collection Report - Mon Jul 28 23:02:20 UTC 2025
+## Collection Report - Fri Aug  1 22:34:25 UTC 2025
 
-Total courses collected: 1636
+Total courses collected: 1627
 Departments: 102
 
 Top departments:
-  - ENGL: 115 courses
+  - ENGL: 113 courses
   - KINA: 104 courses
   - ART: 65 courses
   - ADN: 62 courses
@@ -12,5 +12,5 @@ Top departments:
   - MATH: 52 courses
   - HIST: 49 courses
   - AJ: 37 courses
-  - CD: 36 courses
-  - NCOA: 36 courses
+  - CD: 37 courses
+  - NCOA: 35 courses
