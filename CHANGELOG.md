@@ -7,6 +7,55 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- **Multi-College Architecture**: Complete plugin-based system for supporting multiple colleges
+  - Abstract `BaseCollector` class providing common functionality for all collectors
+  - College-specific implementations in `collectors/<college_name>/` directories
+  - Standardized configuration format with `config.json` per college
+  - College-specific data storage in `/data/<college-id>/` directories
+- **Citrus College Support**: Full implementation as second supported institution
+  - Custom collector handling Citrus's two-phase search process
+  - Parser adapted for Citrus's HTML structure with `deheader` class
+  - Support for Citrus's term code format (202620 vs Rio Hondo's 202570)
+  - Successfully collects 451 courses from 30 departments
+  - Dedicated GitHub Actions workflow (`.github/workflows/collect-citrus.yml`)
+- **Documentation**:
+  - Comprehensive guide for adding new colleges (`docs/adding-new-colleges.md`)
+  - Updated README with multi-college architecture details
+  - College support status table
+  - Workflow badges for each college
+- **Storage Enhancements**:
+  - `ScheduleStorage` class now supports college-specific subdirectories
+  - Automatic directory creation for each college
+  - Consistent file naming: `schedule_<term>_latest.json` per college
+
+### Changed
+- **Rio Hondo Workflow Updates**:
+  - Updated to use new college-specific directory structure (`data/rio-hondo/`)
+  - Added directory creation step to ensure proper structure
+  - Modified validation, reporting, and commit steps for new paths
+  - Commit messages now specify "Rio Hondo data" for clarity
+- **Collector Registry**:
+  - `collect.py` now uses lazy loading for college collectors to avoid circular imports
+  - Added `--college` flag for selecting target college (defaults to rio-hondo)
+  - Dynamic collector loading based on selection
+- **Base Infrastructure**:
+  - All collectors now extend `BaseCollector` for consistency
+  - Standardized validation and output methods
+  - College ID embedded in output data for identification
+
+### Fixed
+- Python indentation errors in GitHub Actions workflows
+  - Fixed inline Python code in report generation steps
+  - Corrected YAML string formatting for multi-line Python scripts
+- Import handling for multi-college support with proper lazy loading
+
+### Technical Details
+- **Architecture Pattern**: Plugin-based system where each college is self-contained
+- **Data Format**: Unchanged - maintains backward compatibility
+- **Term Code Handling**: Each college can have its own term numbering system
+- **Scalability**: Easy to add new colleges by following established patterns
+
 ## [0.2.0] - 2025-01-26
 
 ### Added
