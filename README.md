@@ -33,7 +33,7 @@ The framework is designed to easily add support for additional California Commun
 
 ## Features
 
-- 🤖 **Automated Collection**: Designed to run 3x per week via GitHub Actions (currently in development)
+- 🤖 **Automated Collection**: Designed to run 3x daily via GitHub Actions (currently in development)
 - 🏫 **Multi-College Support**: Plugin-based architecture for easy addition of new colleges
 - 📊 **Rich Data Models**: Structured Pydantic models for all course data
 - 🔍 **HTML Parsing**: BeautifulSoup-based parser for Banner 8 schedule formats
@@ -48,7 +48,7 @@ The framework is designed to easily add support for additional California Commun
 2. **Push to GitHub**: The collector will start running automatically
 3. **Watch it work**: Check the Actions tab to see your collector in action
 
-That's it! Once enabled, your collector will run in the cloud, gathering schedule data 3x per week.
+That's it! Once enabled, your collector will run in the cloud, gathering schedule data 3x daily.
 
 ## How It Works
 
