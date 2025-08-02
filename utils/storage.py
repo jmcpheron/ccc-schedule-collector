@@ -6,7 +6,7 @@ import gzip
 import bz2
 import os
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Optional, List
 import logging
 
@@ -90,7 +90,11 @@ class ScheduleStorage:
                     
             # Convert collection_timestamp string back to datetime
             if isinstance(data.get('collection_timestamp'), str):
-                data['collection_timestamp'] = datetime.fromisoformat(data['collection_timestamp'])
+                # Handle both with and without 'Z' suffix
+                timestamp_str = data['collection_timestamp']
+                if timestamp_str.endswith('Z'):
+                    timestamp_str = timestamp_str[:-1] + '+00:00'
+                data['collection_timestamp'] = datetime.fromisoformat(timestamp_str)
                 
             return ScheduleData(**data)
             

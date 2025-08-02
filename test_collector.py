@@ -14,7 +14,7 @@
 import json
 import tempfile
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 from unittest.mock import Mock, patch, MagicMock
 
 import pytest
@@ -117,7 +117,7 @@ class TestModels:
             college_id="rio_hondo",
             term="Fall 2025",
             term_code="202570",
-            collection_timestamp=datetime.now(),
+            collection_timestamp=datetime.now(timezone.utc),
             source_url="https://example.com",
             courses=[],
             total_courses=0,
@@ -222,7 +222,7 @@ class TestStorage:
             college_id="rio_hondo",
             term="Fall 2025",
             term_code="202570",
-            collection_timestamp=datetime.now(),
+            collection_timestamp=datetime.now(timezone.utc),
             source_url="https://example.com",
             courses=[],
             total_courses=0,
@@ -248,7 +248,7 @@ class TestStorage:
                 college_id="rio_hondo",
                 term="Fall 2025",
                 term_code="202570",
-                collection_timestamp=datetime.now(),
+                collection_timestamp=datetime.now(timezone.utc),
                 source_url="https://example.com",
                 courses=[],
                 total_courses=0,
@@ -279,7 +279,7 @@ class TestStorage:
             college_id="rio_hondo",
             term="Fall 2025",
             term_code="202570",
-            collection_timestamp=datetime.now(),
+            collection_timestamp=datetime.now(timezone.utc),
             source_url="https://example.com",
             courses=[],
             total_courses=0,

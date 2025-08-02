@@ -16,7 +16,7 @@ import json
 import time
 import yaml
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import List, Optional
 from rich.console import Console
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, TimeRemainingColumn
@@ -179,7 +179,7 @@ class DetailCollector:
         detailed_schedule = ScheduleData(
             term=schedule_data.term,
             term_code=schedule_data.term_code,
-            collection_timestamp=datetime.now(),
+            collection_timestamp=datetime.now(timezone.utc),
             source_url=schedule_data.source_url,
             college_id=schedule_data.college_id,
             collector_version=schedule_data.collector_version,
@@ -187,7 +187,7 @@ class DetailCollector:
             metadata={
                 **schedule_data.metadata,
                 'details_collected': True,
-                'detail_collection_timestamp': datetime.now().isoformat(),
+                'detail_collection_timestamp': datetime.now(timezone.utc).isoformat() + "Z",
                 'courses_with_details': sum(1 for c in detailed_courses if isinstance(c, DetailedCourse)),
                 'collection_errors': errors if errors else None
             }
@@ -216,7 +216,7 @@ class DetailCollector:
         progress = {
             'schedule_file': schedule_file,
             'completed_crns': list(completed_crns),
-            'last_update': datetime.now().isoformat(),
+            'last_update': datetime.now(timezone.utc).isoformat() + "Z",
             'output_file': f"data/schedule_detailed_{schedule_data.term_code}_partial.json"
         }
         self.save_progress(progress)

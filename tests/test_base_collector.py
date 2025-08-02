@@ -2,7 +2,7 @@
 
 import json
 import pytest
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from unittest.mock import Mock, patch
 
@@ -25,7 +25,7 @@ class TestCollector(BaseCollector):
         return ScheduleData(
             term="Test Term",
             term_code="202570",
-            collection_timestamp=datetime.now(),
+            collection_timestamp=datetime.now(timezone.utc),
             source_url="https://test.edu",
             college_id=self.college_id,
             collector_version=self.collector_version,
@@ -104,7 +104,7 @@ class TestBaseCollector:
         schedule_data = ScheduleData(
             term="Fall 2025",
             term_code="202570",
-            collection_timestamp=datetime.now(),
+            collection_timestamp=datetime.now(timezone.utc),
             source_url="https://test.edu",
             college_id="test-college",
             collector_version="1.0.0",
@@ -143,7 +143,7 @@ class TestBaseCollector:
         schedule_data = ScheduleData(
             term="Fall 2025",
             term_code="202570",
-            collection_timestamp=datetime.now(),
+            collection_timestamp=datetime.now(timezone.utc),
             source_url="https://test.edu",
             college_id="",  # Empty college_id
             collector_version="1.0.0",
@@ -157,9 +157,9 @@ class TestBaseCollector:
         """Test rate limiting delay."""
         collector = TestCollector(config_path=str(config_file))
         
-        start_time = datetime.now()
+        start_time = datetime.now(timezone.utc)
         collector.rate_limit_delay()
-        end_time = datetime.now()
+        end_time = datetime.now(timezone.utc)
         
         # With 2 requests per second, delay should be ~0.5 seconds
         duration = (end_time - start_time).total_seconds()
@@ -172,7 +172,7 @@ class TestBaseCollector:
         schedule_data = ScheduleData(
             term="Fall 2025",
             term_code="202570",
-            collection_timestamp=datetime.now(),
+            collection_timestamp=datetime.now(timezone.utc),
             source_url="https://test.edu",
             college_id="test-college",
             collector_version="1.0.0",
@@ -212,7 +212,7 @@ class TestBaseCollector:
         truncated_data = ScheduleData(
             term="Fall 2025",
             term_code="202570",
-            collection_timestamp=datetime.now(),
+            collection_timestamp=datetime.now(timezone.utc),
             source_url="https://test.edu",
             college_id="test-college",
             collector_version="1.0.0",

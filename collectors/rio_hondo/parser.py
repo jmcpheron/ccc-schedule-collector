@@ -5,7 +5,7 @@ import re
 import logging
 from typing import List, Optional, Dict, Any
 from bs4 import BeautifulSoup, Tag
-from datetime import datetime
+from datetime import datetime, timezone
 
 from models import Course, MeetingTime, Enrollment, ScheduleData, DetailedCourse
 
@@ -49,7 +49,7 @@ class RioHondoScheduleParser:
         return ScheduleData(
             term=term,
             term_code=term_code,
-            collection_timestamp=datetime.now(),
+            collection_timestamp=datetime.now(timezone.utc),
             source_url=source_url,
             college_id='rio-hondo',
             collector_version='1.0.0',
@@ -372,7 +372,7 @@ class RioHondoScheduleParser:
         
         # Start with existing course data
         detailed = DetailedCourse(**course.model_dump())
-        detailed.detail_fetched_at = datetime.now()
+        detailed.detail_fetched_at = datetime.now(timezone.utc)
         
         # Extract course description
         desc_text = soup.get_text()

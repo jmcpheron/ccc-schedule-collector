@@ -346,6 +346,52 @@ Each college:
 - Runs on its own schedule via separate GitHub Actions workflows
 - Uses standardized output format for compatibility
 
+## Data Standards
+
+### Timestamps
+
+**All timestamps are standardized to UTC (Coordinated Universal Time)**. This ensures consistent data collection regardless of the collector's location or time zone.
+
+#### Format
+- **Standard**: ISO 8601 with "Z" suffix indicating UTC
+- **Example**: `2025-01-24T18:30:00.123456Z`
+- **Python**: `datetime.now(timezone.utc).isoformat() + "Z"`
+
+#### Rationale
+- **Global Consistency**: Data remains comparable across different time zones
+- **No Ambiguity**: UTC timestamps are unambiguous (no DST issues)
+- **Frontend Flexibility**: Consumer applications can convert to local time as needed
+- **GitHub Actions**: Runners may be in any time zone, UTC ensures consistency
+
+#### Implementation
+```python
+from datetime import datetime, timezone
+
+# All timestamps must use UTC
+collection_timestamp = datetime.now(timezone.utc)
+
+# When storing as string, include Z suffix
+timestamp_str = datetime.now(timezone.utc).isoformat() + "Z"
+```
+
+### Data Files
+
+#### Naming Convention
+- Pattern: `schedule_{term_code}_{timestamp}.json`
+- Example: `schedule_202570_20250124_183000.json`
+- Latest symlink: `schedule_{term_code}_latest.json`
+
+#### Storage Structure
+```
+data/
+├── rio-hondo/
+│   ├── schedule_202570_20250124_183000.json  # UTC timestamp
+│   └── schedule_202570_latest.json          # Symlink to latest
+└── citrus/
+    ├── schedule_202620_20250124_183000.json  # UTC timestamp
+    └── schedule_202620_latest.json          # Symlink to latest
+```
+
 ## Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.

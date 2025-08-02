@@ -9,7 +9,7 @@
 
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List, Optional
 import requests
@@ -197,7 +197,7 @@ def main():
     
     # Create the final status object
     status_data = {
-        "last_updated": datetime.utcnow().isoformat() + "Z",
+        "last_updated": datetime.now(timezone.utc).isoformat() + "Z",
         "colleges": colleges_status,
         "metadata": {
             "generator": "generate_status.py",
