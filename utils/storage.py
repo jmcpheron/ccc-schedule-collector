@@ -18,11 +18,23 @@ logger = logging.getLogger(__name__)
 class ScheduleStorage:
     """Handles storage operations for schedule data."""
     
-    def __init__(self, data_dir: str = "data", compression: str = "none"):
-        """Initialize storage with data directory and compression settings."""
+    def __init__(self, data_dir: str = "data", compression: str = "none", college_id: Optional[str] = None):
+        """Initialize storage with data directory and compression settings.
+        
+        Args:
+            data_dir: Base data directory
+            compression: Compression type (none, gzip, bzip2)
+            college_id: Optional college ID for college-specific subdirectory
+        """
         self.data_dir = Path(data_dir)
         self.compression = compression
-        self.data_dir.mkdir(exist_ok=True)
+        self.college_id = college_id
+        
+        # Create college-specific subdirectory if college_id provided
+        if college_id:
+            self.data_dir = self.data_dir / college_id
+            
+        self.data_dir.mkdir(parents=True, exist_ok=True)
         
     def save_schedule(self, schedule_data: ScheduleData) -> str:
         """Save schedule data to file."""

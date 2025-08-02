@@ -472,11 +472,6 @@ class RioHondoCollector(BaseCollector):
         
         # The base class handles validation and saving
         if save:
-            from utils.storage import ScheduleStorage
-            storage = ScheduleStorage(
-                data_dir=self.config.get('output_dir', 'data'),
-                compression=self.config.get('compression', 'none')
-            )
-            storage.save_schedule(schedule_data)
+            self.save_output(schedule_data)
         
         return schedule_data
