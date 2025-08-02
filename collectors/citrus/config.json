@@ -3,6 +3,7 @@
   "collector_version": "1.0.0",
   "base_url": "https://ssb.citruscollege.edu/PROD",
   "search_endpoint": "az_tw_zipsched.P_SEARCH",
+  "results_endpoint": "az_tw_zipsched.p_list_this",
   "schedule_endpoint": "az_tw_zipsched.P_SEARCH",
   "parser_type": "beautifulsoup",
   

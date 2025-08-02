@@ -36,11 +36,7 @@ class CitrusScheduleParser:
         courses = []
         
         # Find the main schedule table
-        # Citrus might use different table structure than Rio Hondo
         schedule_table = soup.find('table', class_='datadisplaytable')
-        if not schedule_table:
-            # Try alternative selectors
-            schedule_table = soup.find('table', {'summary': re.compile('schedule|course', re.I)})
         
         if not schedule_table:
             logger.warning("Could not find schedule table in HTML")
@@ -57,32 +53,46 @@ class CitrusScheduleParser:
         # Parse table rows
         rows = schedule_table.find_all('tr')
         current_subject = None
+        current_course_info = None
         
-        for row in rows:
+        for i, row in enumerate(rows):
             try:
-                # Skip header rows
+                # Check if this is a subject header row (MATH - Mathematics)
+                cells = row.find_all('td')
+                if cells and 'deheader' in cells[0].get('class', []):
+                    header_text = cells[0].get_text(strip=True)
+                    
+                    # Check for subject line (e.g., "MATH - Mathematics")
+                    subject_match = re.match(r'^([A-Z]+)\s*-\s*(.+)$', header_text)
+                    if subject_match:
+                        current_subject = subject_match.group(1)
+                        continue
+                    
+                    # Check for course header (e.g., "MATH 075 - Co-Req Support for Pre-Calc")
+                    course_match = re.match(r'^([A-Z]+)\s+(\d+[A-Z]?)\s*-\s*(.+)$', header_text)
+                    if course_match:
+                        current_course_info = {
+                            'subject': course_match.group(1),
+                            'course_number': course_match.group(2),
+                            'title': course_match.group(3)
+                        }
+                        continue
+                
+                # Skip header rows with th elements
                 if row.find('th'):
                     continue
                     
-                # Check if this is a subject header row
-                subject_header = row.find('td', class_='ddheader')
-                if subject_header:
-                    # Extract subject from header text
-                    header_text = subject_header.get_text(strip=True)
-                    subject_match = re.search(r'^([A-Z]+)', header_text)
-                    if subject_match:
-                        current_subject = subject_match.group(1)
-                    continue
-                
-                # Parse course data row
-                cells = row.find_all('td')
-                if len(cells) >= 10:  # Minimum expected columns
-                    course = self._parse_course_row(cells, current_subject)
-                    if course:
-                        courses.append(course)
+                # Parse course data row - must have the status cell
+                if cells and len(cells) >= 15 and cells[0].get_text(strip=True):
+                    # Check if this looks like a course row (has CRN in second cell)
+                    crn_text = cells[1].get_text(strip=True)
+                    if crn_text and crn_text.isdigit():
+                        course = self._parse_course_row(cells, current_subject, current_course_info)
+                        if course:
+                            courses.append(course)
                         
             except Exception as e:
-                logger.error(f"Error parsing row: {e}")
+                logger.error(f"Error parsing row {i}: {e}")
                 continue
         
         logger.info(f"Parsed {len(courses)} courses")
@@ -97,12 +107,14 @@ class CitrusScheduleParser:
             courses=courses
         )
     
-    def _parse_course_row(self, cells: List, current_subject: Optional[str]) -> Optional[Course]:
+    def _parse_course_row(self, cells: List, current_subject: Optional[str], 
+                         current_course_info: Optional[Dict[str, str]]) -> Optional[Course]:
         """Parse a single course row.
         
         Args:
             cells: List of td elements from the row
             current_subject: Current subject context
+            current_course_info: Current course info (subject, number, title)
             
         Returns:
             Course object or None if parsing fails
@@ -111,33 +123,85 @@ class CitrusScheduleParser:
             # Extract cell texts
             cell_texts = [cell.get_text(strip=True) for cell in cells]
             
-            # Map cells to expected positions (may need adjustment based on actual HTML)
-            crn = cell_texts[0] if len(cell_texts) > 0 else ""
-            subject = cell_texts[1] if len(cell_texts) > 1 else current_subject
-            course_num = cell_texts[2] if len(cell_texts) > 2 else ""
-            section = cell_texts[3] if len(cell_texts) > 3 else ""
-            units = cell_texts[4] if len(cell_texts) > 4 else "0"
-            title = cell_texts[5] if len(cell_texts) > 5 else ""
-            days = cell_texts[6] if len(cell_texts) > 6 else ""
-            time = cell_texts[7] if len(cell_texts) > 7 else ""
-            instructor = cell_texts[8] if len(cell_texts) > 8 else "Staff"
-            location = cell_texts[9] if len(cell_texts) > 9 else ""
+            # Citrus format has these columns:
+            # 0: Status (OPEN, CLOSED, etc)
+            # 1: CRN
+            # 2: Subject
+            # 3: Course Number
+            # 4: Section
+            # 5: Credits
+            # 6: Meeting Time
+            # 7: Location
+            # 8: Capacity
+            # 9: Actual (enrolled)
+            # 10: Remaining
+            # 11: Instructor
+            # 12: Date
+            # 13: Weeks
+            # 14: Bookstore
+            # 15: Zero Textbook Cost (if present)
+            
+            status_text = cell_texts[0] if len(cell_texts) > 0 else ""
+            crn = cell_texts[1] if len(cell_texts) > 1 else ""
+            subject = cell_texts[2] if len(cell_texts) > 2 else current_subject
+            course_num = cell_texts[3] if len(cell_texts) > 3 else ""
+            section = cell_texts[4] if len(cell_texts) > 4 else ""
+            units = cell_texts[5] if len(cell_texts) > 5 else "0"
+            meeting_time = cell_texts[6] if len(cell_texts) > 6 else ""
+            location = cell_texts[7] if len(cell_texts) > 7 else ""
+            capacity = cell_texts[8] if len(cell_texts) > 8 else "0"
+            actual = cell_texts[9] if len(cell_texts) > 9 else "0"
+            remaining = cell_texts[10] if len(cell_texts) > 10 else "0"
+            instructor = cell_texts[11] if len(cell_texts) > 11 else "Staff"
+            dates = cell_texts[12] if len(cell_texts) > 12 else ""
+            weeks = cell_texts[13] if len(cell_texts) > 13 else "16"
             
             # Skip if no CRN
             if not crn or not crn.isdigit():
                 return None
             
-            # Parse meeting times
+            # Use course info if available
+            if current_course_info:
+                title = current_course_info.get('title', '')
+                if not subject:
+                    subject = current_course_info.get('subject', '')
+                if not course_num:
+                    course_num = current_course_info.get('course_number', '')
+            else:
+                title = f"{subject} {course_num}"
+            
+            # Parse meeting times from the combined time string
+            days, time = self._split_meeting_time(meeting_time)
             meeting_times = self._parse_meeting_times(days, time)
             
-            # Parse enrollment (if available)
-            enrollment = self._parse_enrollment(cells)
+            # Parse enrollment
+            try:
+                cap = int(capacity) if capacity.isdigit() else 30
+                act = int(actual) if actual.isdigit() else 0
+                rem = int(remaining) if remaining.isdigit() else 0
+            except:
+                cap, act, rem = 30, 0, 30
+                
+            enrollment = Enrollment(
+                capacity=cap,
+                actual=act,
+                remaining=rem
+            )
+            
+            # Determine status from status text
+            status = "Open" if "OPEN" in status_text.upper() else "Closed"
             
             # Determine delivery method
             delivery_method = self._determine_delivery_method(location, days, time)
             
             # Check for zero textbook cost
             ztc = self._check_zero_textbook_cost(cells, cell_texts)
+            
+            # Parse weeks
+            try:
+                weeks_num = int(weeks) if weeks.isdigit() else 16
+            except:
+                weeks_num = 16
             
             # Create course object
             return Course(
@@ -150,13 +214,13 @@ class CitrusScheduleParser:
                 meeting_times=meeting_times,
                 location=location,
                 enrollment=enrollment,
-                status="Open" if enrollment.remaining > 0 else "Closed",
+                status=status,
                 section_type=self._determine_section_type(course_num),
                 zero_textbook_cost=ztc,
                 delivery_method=delivery_method,
-                weeks=16,  # Default, may need to parse from dates
-                start_date=None,  # Would need to parse from schedule
-                end_date=None
+                weeks=weeks_num,
+                start_date=self._parse_date(dates, True) if dates else None,
+                end_date=self._parse_date(dates, False) if dates else None
             )
             
         except Exception as e:
@@ -318,6 +382,45 @@ class CitrusScheduleParser:
                 return True
         
         return False
+    
+    def _split_meeting_time(self, meeting_time: str) -> Tuple[str, str]:
+        """Split meeting time into days and time components.
+        
+        Args:
+            meeting_time: Combined string like "MW  02:25PM - 03:30PM"
+            
+        Returns:
+            Tuple of (days, time)
+        """
+        if not meeting_time or meeting_time.strip() == "TBA":
+            return "TBA", ""
+            
+        # Split by first space that's followed by a digit (time)
+        match = re.match(r'^([A-Z]+)\s+(.+)$', meeting_time.strip())
+        if match:
+            return match.group(1), match.group(2)
+        
+        return "", meeting_time
+    
+    def _parse_date(self, date_str: str, start: bool) -> Optional[str]:
+        """Parse start or end date from date string.
+        
+        Args:
+            date_str: Date string like "08/19 - 12/13"
+            start: True for start date, False for end date
+            
+        Returns:
+            Date string or None
+        """
+        if not date_str or date_str == "TBA":
+            return None
+            
+        # Split by dash
+        parts = date_str.split('-')
+        if len(parts) == 2:
+            return parts[0].strip() if start else parts[1].strip()
+            
+        return None
     
     def build_course_detail_url(self, course: Course, term_code: str) -> str:
         """Build URL for course detail page.

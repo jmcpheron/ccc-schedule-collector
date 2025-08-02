@@ -5,7 +5,7 @@ import logging
 import time
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, Any, Optional, List
+from typing import Dict, Any, Optional, List, Tuple
 from urllib.parse import urljoin, urlencode
 
 import requests
@@ -45,6 +45,10 @@ class CitrusCollector(BaseCollector):
     def fetch_data(self, term_code: Optional[str] = None) -> str:
         """Fetch raw HTML data from Citrus's schedule system.
         
+        This implements a two-phase process:
+        1. Load search page with term selection
+        2. Submit search to get results
+        
         Args:
             term_code: Term code to fetch or None for current term
             
@@ -57,25 +61,38 @@ class CitrusCollector(BaseCollector):
             
         logger.info(f"Fetching data for term {term_code}")
         
-        # Build URL
+        # Build URLs
         base_url = self.config['base_url']
-        endpoint = self.config['schedule_endpoint']
+        search_endpoint = self.config['search_endpoint']
+        results_endpoint = self.config.get('results_endpoint', 'az_tw_zipsched.p_list_this')
         
-        # Citrus uses GET requests with term parameter
-        url = f"{base_url}/{endpoint}"
+        # Phase 1: Load search page with term
+        search_url = f"{base_url}/{search_endpoint}"
         params = {'term': term_code}
         
-        # Get departments to collect
-        departments = self.config['departments']
+        logger.debug(f"Loading search page: {search_url}")
+        response = self.session.get(search_url, params=params, timeout=self.config['http_config']['timeout'])
+        response.raise_for_status()
         
-        if departments == ["ALL"]:
-            # Collect all departments in one request
-            return self._fetch_schedule_page(url, params)
-        else:
-            # For specific departments, we'll need to handle this differently
-            # For now, just collect all and filter later
-            logger.warning("Department-specific collection not yet implemented for Citrus")
-            return self._fetch_schedule_page(url, params)
+        # Apply rate limiting
+        self.rate_limit_delay()
+        
+        # Phase 2: Submit search form to get results
+        results_url = f"{base_url}/{results_endpoint}"
+        
+        # Build search parameters
+        search_params = self._build_search_params(term_code)
+        
+        logger.debug(f"Submitting search to: {results_url}")
+        response = self.session.post(
+            results_url,
+            data=search_params,
+            timeout=self.config['http_config']['timeout'],
+            verify=self.config['http_config']['verify_ssl']
+        )
+        response.raise_for_status()
+        
+        return response.text
     
     def parse_data(self, raw_data: str, term_code: Optional[str] = None) -> ScheduleData:
         """Parse HTML data into ScheduleData format.
@@ -173,7 +190,7 @@ class CitrusCollector(BaseCollector):
                 return term['name']
         return f"Term {term_code}"
     
-    def _build_search_params(self, term_code: str, subject: str = "ALL") -> Dict[str, Any]:
+    def _build_search_params(self, term_code: str, subject: str = "ALL") -> List[Tuple[str, str]]:
         """Build search parameters for Citrus's system.
         
         Args:
@@ -181,45 +198,59 @@ class CitrusCollector(BaseCollector):
             subject: Subject code or "ALL"
             
         Returns:
-            Dictionary of search parameters
+            List of tuples for search parameters (to maintain order)
         """
-        # Base parameters
-        params = {
-            'term': term_code,
-            'sel_subj': 'dummy',
-            'sel_day': 'dummy',
-            'sel_schd': 'dummy',
-            'sel_camp': 'dummy',
-            'sel_sess': 'dummy',
-            'sel_instr': 'dummy',
-            'sel_ptrm': 'dummy',
-            'sel_attr': 'dummy',
-        }
+        # Get term name
+        term_name = self._get_term_name(term_code)
         
-        # Add subject selection
+        # Build parameters as list of tuples to maintain order
+        params = [
+            ('TERM', term_code),
+            ('TERM_DESC', term_name),
+            ('sel_subj', 'dummy'),
+            ('sel_day', 'dummy'),
+            ('sel_schd', 'dummy'),
+            ('sel_camp', 'dummy'),
+            ('sel_sess', 'dummy'),
+            ('sel_instr', 'dummy'),
+            ('sel_ptrm', 'dummy'),
+            ('sel_meth', 'dummy'),
+        ]
+        
+        # Add all subjects
         if subject == "ALL":
-            params['sel_subj'] = '%'
+            # Add all subject codes
+            subjects = self.config.get('all_subjects', [
+                'ACCT', 'ADS', 'ANTH', 'ART', 'AUTO', 'BIOL', 'BIOT', 'BUS', 
+                'CDEV', 'CHEM', 'CIS', 'COMM', 'COUN', 'CS', 'DANC', 'DH', 
+                'DS', 'ECE', 'ECON', 'EDUC', 'EET', 'ENGL', 'ENGR', 'ENV', 
+                'ESL', 'ETHN', 'FN', 'FREN', 'GEOG', 'GEOL', 'GERO', 'HIST', 
+                'HUM', 'ITAL', 'JAPN', 'JOUR', 'KIN', 'LAW', 'LIB', 'LING', 
+                'LIT', 'MATH', 'MUS', 'NURS', 'PHIL', 'PHOT', 'PHYS', 'POLS', 
+                'PORT', 'PSY', 'READ', 'SOC', 'SPAN', 'SPCH', 'THTR', 'VET'
+            ])
+            for subj in subjects:
+                params.append(('sel_subj', subj))
         else:
-            params['sel_subj'] = subject
+            params.append(('sel_subj', subject))
             
-        # Add search criteria
-        params.update({
-            'sel_crse': '',
-            'sel_title': '',
-            'sel_from_cred': '',
-            'sel_to_cred': '',
-            'sel_levl': '',
-            'sel_instr': '%',
-            'sel_attr': '%',
-            'begin_hh': '0',
-            'begin_mi': '0',
-            'begin_ap': 'a',
-            'end_hh': '0',
-            'end_mi': '0',
-            'end_ap': 'a',
-            'SUB_BTN': 'Section+Search',
-            'path': '1'
-        })
+        # Add remaining parameters
+        params.extend([
+            ('sel_crse', ''),
+            ('sel_camp', '%'),
+            ('sel_levl', '%'),
+            ('sel_schd', '%'),
+            ('sel_ptrm', '%'),
+            ('sel_instr', '%'),
+            ('sel_meth', '%'),
+            ('sel_sess', '%'),
+            ('begin_hh', '1'),
+            ('begin_mi', '0'),
+            ('begin_ap', 'a'),
+            ('end_hh', '11'),
+            ('end_mi', '0'),
+            ('end_ap', 'p'),
+        ])
         
         return params
     
