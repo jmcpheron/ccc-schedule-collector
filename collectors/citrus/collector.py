@@ -227,7 +227,8 @@ class CitrusCollector(BaseCollector):
                 'ESL', 'ETHN', 'FN', 'FREN', 'GEOG', 'GEOL', 'GERO', 'HIST', 
                 'HUM', 'ITAL', 'JAPN', 'JOUR', 'KIN', 'LAW', 'LIB', 'LING', 
                 'LIT', 'MATH', 'MUS', 'NURS', 'PHIL', 'PHOT', 'PHYS', 'POLS', 
-                'PORT', 'PSY', 'READ', 'SOC', 'SPAN', 'SPCH', 'THTR', 'VET'
+                'PORT', 'PSY', 'READ', 'SOC', 'SPAN', 'SPCH', 'STAT', 'THTR', 
+                'UAS', 'VET', 'VN', 'WATR'
             ])
             for subj in subjects:
                 params.append(('sel_subj', subj))
