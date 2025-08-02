@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CCC Schedule Collector Status Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>California Community College Schedule Collector Status</h1>
+            <p class="subtitle">Real-time health monitoring for automated schedule collection</p>
+        </header>
+
+        <div class="last-updated">
+            <span>Last Updated: </span>
+            <span id="last-updated-time">Loading...</span>
+        </div>
+
+        <div class="status-grid" id="status-grid">
+            <div class="loading">Loading status data...</div>
+        </div>
+
+        <footer>
+            <p>
+                <a href="https://github.com/jmcpheron/ccc-schedule-collector" target="_blank">View on GitHub</a>
+                |
+                <a href="https://github.com/jmcpheron/ccc-schedule-collector/actions" target="_blank">Actions</a>
+            </p>
+        </footer>
+    </div>
+
+    <script src="dashboard.js"></script>
+</body>
+</html>
