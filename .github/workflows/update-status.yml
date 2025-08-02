@@ -1,0 +1,70 @@
+name: Update Status Dashboard
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Collect Rio Hondo Schedule", "Collect Citrus Schedule"]
+    types:
+      - completed
+  push:
+    paths:
+      - 'data/**/*.json'
+      - '.github/workflows/update-status.yml'
+
+jobs:
+  update-status:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+      actions: read
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install uv
+      uses: yezz123/setup-uv@v4
+      with:
+        uv-version: "0.5.16"
+    
+    - name: Generate status data
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        chmod +x generate_status.py
+        uv run generate_status.py
+    
+    - name: Commit status updates
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # Check if there are changes
+        if git diff --quiet docs/status.json; then
+          echo "No changes to status.json"
+        else
+          git add docs/status.json
+          git commit -m "Update status dashboard data [skip ci]"
+          git push
+        fi
+    
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+    
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: ./docs
+    
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4

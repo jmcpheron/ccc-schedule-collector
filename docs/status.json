@@ -1,0 +1,29 @@
+{
+  "last_updated": "2025-08-02T17:53:14.874664Z",
+  "colleges": [
+    {
+      "id": "rio-hondo",
+      "name": "Rio Hondo College",
+      "status": "success",
+      "last_run": "2025-08-01T23:47:38.957068",
+      "courses_collected": 1627,
+      "error": null,
+      "workflow_run_url": null,
+      "duration": null
+    },
+    {
+      "id": "citrus",
+      "name": "Citrus College",
+      "status": "success",
+      "last_run": "2025-08-01T23:47:38.955289",
+      "courses_collected": 451,
+      "error": null,
+      "workflow_run_url": null,
+      "duration": null
+    }
+  ],
+  "metadata": {
+    "generator": "generate_status.py",
+    "version": "1.0.0"
+  }
+}
