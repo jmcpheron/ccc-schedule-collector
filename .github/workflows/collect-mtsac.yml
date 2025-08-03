@@ -1,0 +1,266 @@
+name: Collect Mt SAC Schedule
+
+on:
+  workflow_dispatch:
+    inputs:
+      term_code:
+        description: 'Term code to collect (e.g., 202520 for Fall 2025)'
+        required: false
+        type: string
+      save_data:
+        description: 'Save collected data'
+        required: false
+        type: boolean
+        default: true
+  schedule:
+    # Run at different times than other colleges to spread API load
+    # 8:30 AM, 4:30 PM, 12:30 AM UTC (offset from Banner 8 collections)
+    - cron: '30 8,16,0 * * *'
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install uv
+      uses: yezz123/setup-uv@v4
+      with:
+        uv-version: "0.5.16"
+    
+    - name: Create Mt SAC data directory
+      run: |
+        mkdir -p data/mtsac
+    
+    - name: Test Banner 9 API connectivity
+      run: |
+        echo "Testing Mt SAC Banner 9 API connectivity..."
+        curl -s --connect-timeout 10 --max-time 30 \
+          -H "User-Agent: CCC-Schedule-Collector/1.0" \
+          "https://prodrg.mtsac.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search" \
+          -o /dev/null && echo "✅ Mt SAC Banner 9 API is accessible" \
+          || (echo "❌ Mt SAC Banner 9 API is not accessible" && exit 1)
+    
+    - name: Collect Mt SAC schedule data
+      run: |
+        chmod +x collect.py
+        
+        # Set term code - use input if provided, otherwise use default
+        TERM_CODE="${{ github.event.inputs.term_code }}"
+        SAVE_FLAG=""
+        
+        if [ "${{ github.event.inputs.save_data }}" = "false" ]; then
+          SAVE_FLAG="--no-save"
+        fi
+        
+        if [ "$TERM_CODE" != "" ]; then
+          echo "🎯 Collecting specific term: $TERM_CODE"
+          uv run collect.py --college mtsac --term-code "$TERM_CODE" $SAVE_FLAG
+        else
+          echo "📚 Collecting current term schedule for Mt SAC"
+          uv run collect.py --college mtsac $SAVE_FLAG
+        fi
+      timeout-minutes: 15  # Banner 9 API can handle large datasets quickly
+    
+    - name: Validate collected data quality
+      run: |
+        chmod +x cli.py
+        LATEST_FILE=$(ls data/mtsac/schedule_*_latest.json 2>/dev/null | head -1)
+        if [ -f "$LATEST_FILE" ]; then
+          echo "🔍 Validating collected data: $LATEST_FILE"
+          uv run cli.py validate "$LATEST_FILE"
+          
+          # Banner 9 specific validations
+          echo "🔬 Running Banner 9 specific quality checks..."
+          
+          # Check for minimum expected course count (Mt SAC is large)
+          COURSE_COUNT=$(uv run cli.py info "$LATEST_FILE" --format json | python3 -c "import sys, json; print(len(json.load(sys.stdin)))")
+          echo "📊 Course count: $COURSE_COUNT"
+          
+          if [ "$COURSE_COUNT" -lt 1000 ]; then
+            echo "⚠️ Warning: Course count ($COURSE_COUNT) is lower than expected for Mt SAC"
+          else
+            echo "✅ Course count looks healthy for Mt SAC"
+          fi
+          
+          # Check for expected departments (Mt SAC has 100+ departments)
+          DEPT_COUNT=$(uv run cli.py info "$LATEST_FILE" --format json | python3 -c "import sys, json; data = json.load(sys.stdin); subjects = set(course['subject'] for course in data); print(len(subjects))")
+          echo "🏢 Department count: $DEPT_COUNT"
+          
+          if [ "$DEPT_COUNT" -lt 50 ]; then
+            echo "⚠️ Warning: Department count ($DEPT_COUNT) is lower than expected for Mt SAC"
+          else
+            echo "✅ Department count looks good for Mt SAC"
+          fi
+          
+        else
+          echo "❌ No latest file found, checking data directory structure"
+          ls -la data/mtsac/
+          exit 1
+        fi
+    
+    - name: Generate Banner 9 collection report
+      run: |
+        LATEST_FILE=$(ls data/mtsac/schedule_*_latest.json 2>/dev/null | head -1)
+        if [ -f "$LATEST_FILE" ]; then
+          echo "# Mt SAC Collection Report - $(date)" > data/mtsac/latest_report.md
+          echo "" >> data/mtsac/latest_report.md
+          echo "**Collection System:** Banner 9 REST API" >> data/mtsac/latest_report.md
+          echo "**College:** Mt. San Antonio College" >> data/mtsac/latest_report.md
+          echo "" >> data/mtsac/latest_report.md
+          
+          # Extract collection metadata using CLI
+          uv run cli.py info "$LATEST_FILE" --format json | python3 -c "
+import sys, json
+data = json.load(sys.stdin)
+course_count = len(data)
+subjects = {}
+for course in data:
+    subj = course['subject']
+    subjects[subj] = subjects.get(subj, 0) + 1
+
+print(f'**Total Courses:** {course_count}')
+print(f'**Departments:** {len(subjects)}')
+print(f'**Collection Method:** Banner 9 JSON API')
+print('')
+print('## Top Departments by Course Count')
+for subj, count in sorted(subjects.items(), key=lambda x: x[1], reverse=True)[:15]:
+    print(f'- **{subj}**: {count} courses')
+
+print('')
+print('## Collection Statistics')
+print(f'- Average courses per department: {course_count // len(subjects) if len(subjects) > 0 else 0}')
+print(f'- Banner 9 API efficiency: ~{course_count // 8} courses per page')
+          " >> data/mtsac/latest_report.md
+          
+          echo "" >> data/mtsac/latest_report.md
+          echo "_Generated by Mt SAC Banner 9 Collector_" >> data/mtsac/latest_report.md
+        else
+          echo "No data to report on - collection may have failed"
+          exit 1
+        fi
+    
+    - name: Run Banner 9 unit tests
+      run: |
+        echo "🧪 Running Banner 9 unit tests to verify system health..."
+        chmod +x tests/test_banner9_core.py
+        ./tests/test_banner9_core.py || (echo "❌ Banner 9 tests failed" && exit 1)
+        echo "✅ All Banner 9 tests passed"
+    
+    - name: Commit and push Banner 9 data
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action - Mt SAC Banner 9"
+        
+        # Add all changes in mtsac data directory  
+        git add data/mtsac/
+        
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "📝 No new data changes to commit"
+        else
+          # Create detailed commit message with Banner 9 specific info
+          LATEST_FILE=$(ls data/mtsac/schedule_*_latest.json 2>/dev/null | head -1)
+          if [ -f "$LATEST_FILE" ]; then
+            STATS=$(uv run cli.py info "$LATEST_FILE" --format json | python3 -c "
+import sys, json
+data = json.load(sys.stdin)
+subjects = set(course['subject'] for course in data)
+print(f'{len(data)} courses - {len(subjects)} departments')
+            ")
+          else
+            STATS="collection failed"
+          fi
+          
+          # Create commit message in git scraping style with Banner 9 identifier
+          TIMESTAMP=$(date -u)
+          git commit -m "Latest Mt SAC data (Banner 9): ${TIMESTAMP} - ${STATS}"
+          
+          git push
+          echo "✅ Successfully committed and pushed Mt SAC Banner 9 data"
+        fi
+    
+    - name: Update collection status
+      run: |
+        # Create status indicator for monitoring
+        LATEST_FILE=$(ls data/mtsac/schedule_*_latest.json 2>/dev/null | head -1)
+        if [ -f "$LATEST_FILE" ]; then
+          COURSE_COUNT=$(uv run cli.py info "$LATEST_FILE" --format json | python3 -c "import sys, json; print(len(json.load(sys.stdin)))")
+          echo "Mt SAC Banner 9 collection successful: $COURSE_COUNT courses at $(date -u)" >> data/mtsac/collection_status.log
+        else
+          echo "Mt SAC Banner 9 collection failed at $(date -u)" >> data/mtsac/collection_status.log
+        fi
+    
+    - name: Create issue on Banner 9 API failure
+      if: failure() && github.event_name == 'schedule'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: 'Mt SAC Banner 9 collection failed',
+            body: `## Mt SAC Banner 9 Collection Failure
+            
+            The scheduled collection for Mt. San Antonio College (Banner 9) failed.
+            
+            **System:** Banner 9 REST API
+            **Time:** ${new Date().toISOString()}
+            **Workflow:** [View logs](${context.payload.repository.html_url}/actions/runs/${context.runId})
+            
+            ### Possible Causes:
+            - Banner 9 API downtime or maintenance
+            - Network connectivity issues
+            - Session/CSRF token problems
+            - Term code changes or scheduling updates
+            - Rate limiting by Mt SAC servers
+            
+            ### Next Steps:
+            1. Check Mt SAC's Banner 9 system status
+            2. Verify term codes are current
+            3. Test API connectivity manually
+            4. Review workflow logs for specific errors
+            
+            This issue will auto-close when the next collection succeeds.`,
+            labels: ['bug', 'mtsac', 'banner-9', 'api-failure']
+          })
+    
+    - name: Close previous failure issues on success
+      if: success() && github.event_name == 'schedule'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          // Close any open Banner 9 failure issues when collection succeeds
+          const issues = await github.rest.issues.listForRepo({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            labels: 'mtsac,banner-9,api-failure',
+            state: 'open'
+          });
+          
+          for (const issue of issues.data) {
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issue.number,
+              state: 'closed'
+            });
+            
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issue.number,
+              body: '✅ Mt SAC Banner 9 collection has recovered. Auto-closing this failure issue.'
+            });
+          }
