@@ -1,16 +1,16 @@
-## Citrus Collection Report - Sat Aug  2 23:20:16 UTC 2025
+## Citrus Collection Report - Sun Aug  3 04:01:42 UTC 2025
 
-Total courses collected: 513
-Departments: 34
+Total courses collected: 515
+Departments: 31
 
 Top departments:
-  - MATH: 55 courses
-  - ART: 49 courses
-  - ENGL: 46 courses
-  - BIOL: 41 courses
-  - THEA: 39 courses
-  - DANC: 27 courses
-  - KIN: 27 courses
-  - CHEM: 24 courses
-  - COMM: 19 courses
-  - STAT: 19 courses
+  - MATH: 86 courses
+  - ENGL: 57 courses
+  - BIOL: 42 courses
+  - ART: 40 courses
+  - THEA: 37 courses
+  - KIN: 26 courses
+  - CHEM: 23 courses
+  - PSY: 22 courses
+  - DANC: 21 courses
+  - SPCH: 19 courses
