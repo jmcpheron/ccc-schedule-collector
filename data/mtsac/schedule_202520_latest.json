@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202520",
-  "collection_timestamp": "2025-08-03T17:32:27.446816Z",
+  "collection_timestamp": "2025-08-03T18:29:23.124413Z",
   "source_url": "https://prodrg.mtsac.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
   "college_id": "mtsac",
   "collector_version": "1.0.0",
@@ -1535,8 +1535,8 @@
       "location": "67A 108 - Mt. San Antonio College",
       "enrollment": {
         "capacity": 35,
-        "actual": 19,
-        "remaining": 16
+        "actual": 20,
+        "remaining": 15
       },
       "status": "Open",
       "section_type": "Lecture and/or discussion",
@@ -6539,8 +6539,8 @@
       "location": "60 2511 - Mt. San Antonio College, 7 1104 - Mt. San Antonio College",
       "enrollment": {
         "capacity": 30,
-        "actual": 30,
-        "remaining": 0
+        "actual": 29,
+        "remaining": 1
       },
       "status": "Closed",
       "section_type": "Lecture/Lab",
@@ -26861,8 +26861,8 @@
       "location": "ONLINE ASYNC - Mt. San Antonio College",
       "enrollment": {
         "capacity": 36,
-        "actual": 35,
-        "remaining": 1
+        "actual": 36,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "Dist. Ed Internet Delayed",
@@ -27376,7 +27376,7 @@
         "actual": 35,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "Dist. Ed Internet Delayed",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -27565,8 +27565,8 @@
       "location": "78 3180 - Mt. San Antonio College",
       "enrollment": {
         "capacity": 36,
-        "actual": 24,
-        "remaining": 12
+        "actual": 25,
+        "remaining": 11
       },
       "status": "Open",
       "section_type": "Lecture and/or discussion",
@@ -29300,7 +29300,7 @@
         "actual": 34,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "Dist. Ed Internet Delayed",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -36157,8 +36157,8 @@
       "location": "ONLINE ASYNC - Mt. San Antonio College",
       "enrollment": {
         "capacity": 24,
-        "actual": 14,
-        "remaining": 10
+        "actual": 15,
+        "remaining": 9
       },
       "status": "Open",
       "section_type": "Dist. Ed Internet Delayed",
@@ -40433,8 +40433,8 @@
       "location": "ONLINE ASYNC - Mt. San Antonio College",
       "enrollment": {
         "capacity": 30,
-        "actual": 12,
-        "remaining": 18
+        "actual": 11,
+        "remaining": 19
       },
       "status": "Open",
       "section_type": "Dist. Ed Internet Delayed",
@@ -46920,7 +46920,7 @@
         "actual": 25,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "Laboratory/Studio/Activity",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -48013,8 +48013,8 @@
       "location": "ONLINE ASYNC - Mt. San Antonio College",
       "enrollment": {
         "capacity": 21,
-        "actual": 19,
-        "remaining": 2
+        "actual": 20,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "Dist. Ed Internet Delayed",
@@ -59661,8 +59661,8 @@
       "location": "26A 3891 - Mt. San Antonio College",
       "enrollment": {
         "capacity": 30,
-        "actual": 18,
-        "remaining": 12
+        "actual": 19,
+        "remaining": 11
       },
       "status": "Open",
       "section_type": "Lecture and/or discussion",
@@ -60965,8 +60965,8 @@
       "location": "26A 3821 - Mt. San Antonio College, ONLINE ASYNC - Mt. San Antonio College",
       "enrollment": {
         "capacity": 30,
-        "actual": 24,
-        "remaining": 6
+        "actual": 23,
+        "remaining": 7
       },
       "status": "Open",
       "section_type": "Hybrid Online Course",
@@ -65633,8 +65633,8 @@
       "location": "ONLINE ASYNC - Mt. San Antonio College",
       "enrollment": {
         "capacity": 30,
-        "actual": 25,
-        "remaining": 5
+        "actual": 26,
+        "remaining": 4
       },
       "status": "Open",
       "section_type": "Dist. Ed Internet Delayed",
@@ -66519,8 +66519,8 @@
       "location": "ONLINE ASYNC - Mt. San Antonio College, ONLINE SYNCH - Mt. San Antonio College",
       "enrollment": {
         "capacity": 36,
-        "actual": 35,
-        "remaining": 1
+        "actual": 34,
+        "remaining": 2
       },
       "status": "Open",
       "section_type": "Dist. Ed Internet Delayed",
@@ -69315,8 +69315,8 @@
       "location": "ONLINE ASYNC - Mt. San Antonio College",
       "enrollment": {
         "capacity": 35,
-        "actual": 20,
-        "remaining": 15
+        "actual": 21,
+        "remaining": 14
       },
       "status": "Open",
       "section_type": "Dist. Ed Internet Delayed",
@@ -73465,8 +73465,8 @@
       "location": "710P1 1 - Mt. San Antonio College",
       "enrollment": {
         "capacity": 30,
-        "actual": 20,
-        "remaining": 10
+        "actual": 21,
+        "remaining": 9
       },
       "status": "Open",
       "section_type": "Laboratory/Studio/Activity",
@@ -75031,8 +75031,8 @@
       "location": "742 1100 - Mt. San Antonio College",
       "enrollment": {
         "capacity": 10,
-        "actual": 9,
-        "remaining": 1
+        "actual": 10,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "Laboratory/Studio/Activity",
@@ -84695,8 +84695,8 @@
       "location": "61 2410 - Mt. San Antonio College",
       "enrollment": {
         "capacity": 36,
-        "actual": 18,
-        "remaining": 18
+        "actual": 19,
+        "remaining": 17
       },
       "status": "Open",
       "section_type": "Lecture and/or discussion",
@@ -84823,8 +84823,8 @@
       "location": "61 2410 - Mt. San Antonio College",
       "enrollment": {
         "capacity": 36,
-        "actual": 18,
-        "remaining": 18
+        "actual": 19,
+        "remaining": 17
       },
       "status": "Open",
       "section_type": "Lecture and/or discussion",
@@ -87744,7 +87744,7 @@
         "actual": 34,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "Lecture and/or discussion",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -95633,8 +95633,8 @@
       "location": "ONLINE ASYNC - Mt. San Antonio College",
       "enrollment": {
         "capacity": 35,
-        "actual": 34,
-        "remaining": 1
+        "actual": 35,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "Dist. Ed Internet Delayed",
@@ -96093,8 +96093,8 @@
       "location": "78 1150 - Mt. San Antonio College",
       "enrollment": {
         "capacity": 35,
-        "actual": 26,
-        "remaining": 9
+        "actual": 27,
+        "remaining": 8
       },
       "status": "Open",
       "section_type": "Lecture and/or discussion",
@@ -96291,8 +96291,8 @@
       "location": "78 1140 - Mt. San Antonio College",
       "enrollment": {
         "capacity": 21,
-        "actual": 11,
-        "remaining": 10
+        "actual": 10,
+        "remaining": 11
       },
       "status": "Open",
       "section_type": "Lecture/Lab",
@@ -108747,8 +108747,8 @@
       "location": "ONLINE ASYNC - Mt. San Antonio College",
       "enrollment": {
         "capacity": 43,
-        "actual": 42,
-        "remaining": 1
+        "actual": 43,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "Dist. Ed Internet Delayed",
@@ -109529,8 +109529,8 @@
       "location": "26D 3290 - Mt. San Antonio College",
       "enrollment": {
         "capacity": 35,
-        "actual": 27,
-        "remaining": 8
+        "actual": 28,
+        "remaining": 7
       },
       "status": "Open",
       "section_type": "Lecture and/or discussion",
@@ -110169,8 +110169,8 @@
       "location": "ONLINE ASYNC - Mt. San Antonio College",
       "enrollment": {
         "capacity": 35,
-        "actual": 26,
-        "remaining": 9
+        "actual": 27,
+        "remaining": 8
       },
       "status": "Open",
       "section_type": "Dist. Ed Internet Delayed",
@@ -110839,8 +110839,8 @@
       "location": "ONLINE ASYNC - Mt. San Antonio College, ONLINE SYNCH - Mt. San Antonio College",
       "enrollment": {
         "capacity": 35,
-        "actual": 19,
-        "remaining": 16
+        "actual": 20,
+        "remaining": 15
       },
       "status": "Open",
       "section_type": "Dist. Ed Internet Delayed",
@@ -118009,8 +118009,8 @@
       "location": "ONLINE ASYNC - Mt. San Antonio College",
       "enrollment": {
         "capacity": 20,
-        "actual": 19,
-        "remaining": 1
+        "actual": 20,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "Dist. Ed Internet Delayed",
