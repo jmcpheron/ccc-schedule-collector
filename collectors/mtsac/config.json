@@ -1,0 +1,123 @@
+{
+  "college_id": "mtsac",
+  "collector_version": "1.0.0",
+  "base_url": "https://prodrg.mtsac.edu",
+  "ssb_path": "/StudentRegistrationSsb/ssb",
+  "parser_type": "json",
+  "current_term": {
+    "code": "202520",
+    "name": "Fall 2025"
+  },
+  "terms": [
+    {
+      "code": "202520",
+      "name": "Fall 2025"
+    },
+    {
+      "code": "202510",
+      "name": "Summer 2025"
+    },
+    {
+      "code": "202440",
+      "name": "Spring 2025"
+    }
+  ],
+  "departments": [
+    "ALL"
+  ],
+  "search_params": {
+    "txt_subject": "",
+    "txt_courseNumber": "",
+    "txt_campus": "",
+    "startDatepicker": "",
+    "endDatepicker": "",
+    "sortColumn": "subjectDescription",
+    "sortDirection": "asc"
+  },
+  "api_config": {
+    "page_size": 500,
+    "max_pages": 100,
+    "search_timeout": 30
+  },
+  "rate_limit": {
+    "requests_per_second": 1.0,
+    "retry_attempts": 3,
+    "backoff_factor": 2
+  },
+  "http_config": {
+    "timeout": 60,
+    "verify_ssl": true
+  },
+  "user_agent": "CCC-Schedule-Collector/1.0 (https://github.com/jmcpheron/ccc-schedule-collector)",
+  "endpoints": {
+    "term_selection": "term/termSelection?mode=search",
+    "term_search": "term/search?mode=search",
+    "get_terms": "classSearch/getTerms",
+    "get_terms_alt": "classRegistration/getTerms",
+    "get_subjects": "classSearch/get_subject",
+    "search_results": "searchResults/searchResults",
+    "course_details": {
+      "class_details": "searchResults/getClassDetails",
+      "course_description": "searchResults/getCourseDescription",
+      "attributes": "searchResults/getSectionAttributes",
+      "restrictions": "searchResults/getRestrictions",
+      "enrollment_info": "searchResults/getEnrollmentInfo",
+      "corequisites": "searchResults/getCorequisites",
+      "prerequisites": "searchResults/getSectionPrerequisites",
+      "mutual_exclusions": "searchResults/getCourseMutuallyExclusions",
+      "cross_listed": "searchResults/getXlstSections",
+      "linked_sections": "searchResults/getLinkedSections",
+      "fees": "searchResults/getFees",
+      "catalog_details": "searchResults/getSectionCatalogDetails",
+      "faculty_meeting_times": "searchResults/getFacultyMeetingTimes"
+    }
+  },
+  "field_mapping": {
+    "crn": "courseReferenceNumber",
+    "subject": "subject",
+    "course_number": "courseNumber",
+    "sequence_number": "sequenceNumber",
+    "title": "courseTitle",
+    "credits_low": "creditHourLow",
+    "credits_high": "creditHourHigh",
+    "max_enrollment": "maximumEnrollment",
+    "enrollment": "enrollment",
+    "seats_available": "seatsAvailable",
+    "open_section": "openSection",
+    "faculty": "faculty",
+    "meeting_faculty": "meetingsFaculty"
+  },
+  "banner9_features": {
+    "requires_csrf_token": true,
+    "requires_term_handshake": true,
+    "supports_pagination": true,
+    "faculty_in_bulk_response": true,
+    "meeting_times_in_bulk_response": true,
+    "detail_endpoints_available": true
+  },
+  "subject_management": {
+    "expected_subjects": [
+      "ACCT", "ANTH", "ART", "ASTR", "AUTO", "BIOL", "BUS", "CHEM", "COMM",
+      "CS", "ECON", "ENGL", "GEOL", "HIST", "MATH", "MUS", "PHIL", "PHYS",
+      "POLS", "PSY", "SOC", "SPAN"
+    ],
+    "optional_subjects": [
+      "ADMJ", "AGRI", "ARCH", "BIOT", "CDEV", "CIT", "DANC", "DSPS", "ECE",
+      "ENGR", "ESL", "ETHN", "FIRE", "FREN", "GEOG", "GERM", "HLTH", "HORT",
+      "ITAL", "JAPN", "JOUR", "KIN", "LING", "MGMT", "MKTG", "NURS", "NUTR",
+      "ORTH", "PHOT", "PORT", "READ", "RT", "SPCH", "STAT", "THEA", "TV"
+    ],
+    "discovered_subjects": {},
+    "deprecated_subjects": {},
+    "last_discovery": null
+  },
+  "all_subjects": [
+    "ACCT", "ADMJ", "AGRI", "ANTH", "ARCH", "ART", "ASTR", "AUTO", "BIOL",
+    "BIOT", "BUS", "CDEV", "CHEM", "CIT", "COMM", "CS", "DANC", "DSPS",
+    "ECE", "ECON", "ENGL", "ENGR", "ESL", "ETHN", "FIRE", "FREN", "GEOG",
+    "GEOL", "GERM", "HIST", "HLTH", "HORT", "ITAL", "JAPN", "JOUR", "KIN",
+    "LING", "MATH", "MGMT", "MKTG", "MUS", "NURS", "NUTR", "ORTH", "PHIL",
+    "PHOT", "PHYS", "POLS", "PORT", "PSY", "READ", "RT", "SOC", "SPAN",
+    "SPCH", "STAT", "THEA", "TV"
+  ]
+}

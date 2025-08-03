@@ -9,18 +9,19 @@
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-orange)](https://www.crummy.com/software/BeautifulSoup/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A GitHub Actions-powered schedule collector for California Community Colleges, featuring automated HTML parsing and zero-dependency Python scripts using UV. Supports multiple colleges including Rio Hondo and Citrus College, with a framework designed for easy expansion.
+A GitHub Actions-powered schedule collector for California Community Colleges, supporting both Banner 8 (HTML parsing) and Banner 9 (REST API) systems. Features zero-dependency Python scripts using UV and supports multiple colleges with a framework designed for easy expansion.
 
 ## Overview
 
-This project implements a **cloud-based collector** that automatically gathers course schedule data from California Community College Banner 8 systems and stores it over time in your GitHub repository. Part of the larger [CCC Schedule](https://github.com/jmcpheron/ccc-schedule) ecosystem, this collector provides the data foundation for building schedule viewers and analysis tools.
+This project implements a **cloud-based collector** that automatically gathers course schedule data from California Community College systems. It supports both Banner 8 (HTML parsing) and Banner 9 (REST API) platforms, storing data over time in your GitHub repository. Part of the larger [CCC Schedule](https://github.com/jmcpheron/ccc-schedule) ecosystem, this collector provides the data foundation for building schedule viewers and analysis tools.
 
 ### Currently Supported Colleges
 
-| College | Status | Term Format | Departments | Workflow |
-|---------|--------|-------------|-------------|----------|
-| **Rio Hondo College** | ✅ Production | 202570 (Fall 2025) | ~50 departments | Automated 3x daily |
-| **Citrus College** | 🧪 Testing | 202620 (Fall 2025) | 30 departments | Manual trigger ready |
+| College | System | Status | Term Format | Departments | Workflow |
+|---------|--------|--------|-------------|-------------|----------|
+| **Rio Hondo College** | Banner 8 | ✅ Production | 202570 (Fall 2025) | ~50 departments | Automated 3x daily |
+| **Citrus College** | Banner 8 | 🧪 Testing | 202620 (Fall 2025) | 30 departments | Manual trigger ready |
+| **Mt. San Antonio College** | Banner 9 | ✅ Production | 202520 (Fall 2025) | 127 departments | Manual trigger ready |
 
 The framework is designed to easily add support for additional California Community Colleges. See [Adding New Colleges](docs/adding-new-colleges.md) for details.
 
@@ -36,7 +37,7 @@ The framework is designed to easily add support for additional California Commun
 - 🤖 **Automated Collection**: Designed to run 3x daily via GitHub Actions (currently in development)
 - 🏫 **Multi-College Support**: Plugin-based architecture for easy addition of new colleges
 - 📊 **Rich Data Models**: Structured Pydantic models for all course data
-- 🔍 **HTML Parsing**: BeautifulSoup-based parser for Banner 8 schedule formats
+- 🔍 **Multi-Platform Support**: Banner 8 HTML parsing and Banner 9 REST API collection
 - 💾 **Smart Storage**: College-specific directories with JSON files and optional compression
 - 🛠️ **CLI Tools**: Analyze, compare, validate, and export collected data
 - 📈 **Historical Tracking**: Compare schedules over time to spot trends
@@ -92,9 +93,13 @@ Each script declares its dependencies inline using modern Python standards (PEP 
 # Your collection code here - runs in the cloud
 ```
 
-### Traditional HTML Parsing
+### Multi-Platform Collection
 
-The collector uses BeautifulSoup for reliable HTML parsing:
+The collector supports both Banner 8 and Banner 9 platforms used by California Community Colleges:
+
+#### Banner 8 HTML Parsing
+
+Traditional HTML scraping using BeautifulSoup for older systems:
 
 ```python
 class ScheduleParser:
@@ -104,14 +109,34 @@ class ScheduleParser:
         # Returns structured Pydantic models
 ```
 
-### Robust Parsing Strategy
+The Banner 8 parser handles:
+- Nested table structures with course data
+- Multiple course sections and labs
+- Complex meeting time formats
+- Missing or malformed data gracefully
+- College-specific HTML variations
 
-The parser is designed to handle Banner 8 HTML structures:
-- Extracts course data from nested tables
-- Handles multiple course sections and labs
-- Parses complex meeting time formats
-- Gracefully handles missing or malformed data
-- Currently configured for Rio Hondo College's specific format
+#### Banner 9 REST API Collection
+
+Modern API-based collection for newer Ellucian Banner 9 systems:
+
+```python
+class Banner9Collector:
+    def fetch_data(self, term_code: str) -> List[Dict[str, Any]]:
+        # 1. Initialize session with CSRF tokens
+        # 2. Declare term (required handshake)
+        # 3. Fetch paginated JSON course data
+        # Returns structured course dictionaries
+```
+
+The Banner 9 collector handles:
+- **Session Management**: CSRF tokens and unique session IDs
+- **Term Declaration**: Required API handshake before searching
+- **Paginated Responses**: Efficiently handles large datasets (500 courses/page)
+- **Rich JSON Data**: Faculty and meeting times included in bulk responses
+- **Error Handling**: 302 redirects, intermittent failures, retry logic
+
+**Mt. San Antonio College** serves as the first Banner 9 implementation, successfully collecting 3,989 courses across 127 departments. The Banner 9 foundation enables rapid addition of other modern community college systems.
 
 ## Project Structure
 
@@ -241,8 +266,9 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 ./test_collection.py --test-connection
 
 # Collect from specific colleges
-./collect.py --college rio-hondo
-./collect.py --college citrus
+./collect.py --college rio-hondo    # Banner 8 HTML parsing
+./collect.py --college citrus       # Banner 8 HTML parsing  
+./collect.py --college mtsac        # Banner 9 REST API
 ```
 
 ### Manual Collection
@@ -307,8 +333,10 @@ CCC Website → HTML Parser → JSON Data → GitHub Storage
 - **models.py**: Pydantic models for type-safe data handling
 - **collectors/**: College-specific implementations
   - **base_collector.py**: Abstract base class for all collectors
-  - **rio_hondo/**: Rio Hondo specific parser and collector
-  - **citrus/**: Citrus College specific parser and collector
+  - **base_banner9_collector.py**: Banner 9 API base class with session management
+  - **rio_hondo/**: Rio Hondo specific parser and collector (Banner 8)
+  - **citrus/**: Citrus College specific parser and collector (Banner 8)
+  - **mtsac/**: Mt. San Antonio College implementation (Banner 9)
 - **utils/storage.py**: JSON storage with compression and college-specific directories
 - **collect.py**: Main collector with college selection
 - **cli.py**: Analysis and export tools
