@@ -33,9 +33,9 @@ logger = logging.getLogger(__name__)
 COLLECTORS = {
     'rio-hondo': RioHondoCollector,
     'citrus': None,  # Will be imported dynamically
+    'mtsac': None,   # Will be imported dynamically
     # Future collectors can be added here:
     # 'pasadena': PasadenaCollector,
-    # 'mt-sac': MtSacCollector,
 }
 
 # Lazy import for Citrus to avoid circular imports
@@ -44,8 +44,15 @@ def get_citrus_collector():
     from collectors.citrus.collector import CitrusCollector
     return CitrusCollector
 
-# Update registry with lazy-loaded collector
+# Lazy import for Mt SAC to avoid circular imports
+def get_mtsac_collector():
+    """Lazy import of MtSacCollector."""
+    from collectors.mtsac.collector import MtSacCollector
+    return MtSacCollector
+
+# Update registry with lazy-loaded collectors
 COLLECTORS['citrus'] = get_citrus_collector
+COLLECTORS['mtsac'] = get_mtsac_collector
 
 
 @click.command()
