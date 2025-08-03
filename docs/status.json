@@ -1,21 +1,21 @@
 {
-  "last_updated": "2025-08-03T04:25:09.398395+00:00Z",
+  "last_updated": "2025-08-03T06:38:17.396949+00:00Z",
   "colleges": [
     {
       "id": "rio-hondo",
       "name": "Rio Hondo College",
       "status": "error",
-      "last_run": "2025-08-03T04:25:05.494318",
+      "last_run": "2025-08-03T06:38:15.156972",
       "courses_collected": 1627,
       "error": "Workflow failed",
-      "workflow_run_url": "https://github.com/jmcpheron/ccc-schedule-collector/actions/runs/16698404874",
-      "duration": 14
+      "workflow_run_url": "https://github.com/jmcpheron/ccc-schedule-collector/actions/runs/16702127957",
+      "duration": 15
     },
     {
       "id": "citrus",
       "name": "Citrus College",
       "status": "success",
-      "last_run": "2025-08-03T04:25:05.490318",
+      "last_run": "2025-08-03T06:38:15.152972",
       "courses_collected": 513,
       "error": null,
       "workflow_run_url": "https://github.com/jmcpheron/ccc-schedule-collector/actions/runs/16701092638",
