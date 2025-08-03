@@ -3,16 +3,65 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test Dashboard Locally</title>
+    <title>Dashboard Test</title>
 </head>
 <body>
-    <h1>Test Dashboard Locally</h1>
-    <p>To test the dashboard locally:</p>
-    <ol>
-        <li>Open a terminal in the project root</li>
-        <li>Run: <code>cd docs && python3 -m http.server 8000</code></li>
-        <li>Open: <a href="http://localhost:8000">http://localhost:8000</a></li>
-    </ol>
-    <p>The dashboard will load and display the current status from status.json</p>
+    <h1>Dashboard Data Test</h1>
+    <div id="test-results"></div>
+    
+    <script>
+        // Test the dashboard data loading
+        const COLLEGES = [
+            {
+                id: 'rio-hondo',
+                name: 'Rio Hondo College',
+                dataUrl: 'data/rio-hondo/schedule_202570_latest.json'
+            },
+            {
+                id: 'citrus', 
+                name: 'Citrus College',
+                dataUrl: 'data/citrus/schedule_202620_latest.json'
+            },
+            {
+                id: 'mtsac',
+                name: 'Mt. San Antonio College', 
+                dataUrl: 'data/mtsac/schedule_202520_latest.json'
+            }
+        ];
+
+        async function testDataLoading() {
+            const results = document.getElementById('test-results');
+            results.innerHTML = '<p>Testing data loading...</p>';
+            
+            for (const college of COLLEGES) {
+                try {
+                    const response = await fetch(college.dataUrl);
+                    const data = await response.json();
+                    
+                    const courseCount = data.courses ? data.courses.length : 0;
+                    const timestamp = data.collection_timestamp || 'Unknown';
+                    const term = data.term || 'Unknown';
+                    
+                    results.innerHTML += `
+                        <div style="border: 1px solid #ccc; margin: 10px; padding: 10px;">
+                            <h3>${college.name} ✅</h3>
+                            <p><strong>Term:</strong> ${term}</p>
+                            <p><strong>Courses:</strong> ${courseCount}</p>
+                            <p><strong>Collected:</strong> ${timestamp}</p>
+                        </div>
+                    `;
+                } catch (error) {
+                    results.innerHTML += `
+                        <div style="border: 1px solid red; margin: 10px; padding: 10px;">
+                            <h3>${college.name} ❌</h3>
+                            <p><strong>Error:</strong> ${error.message}</p>
+                        </div>
+                    `;
+                }
+            }
+        }
+        
+        testDataLoading();
+    </script>
 </body>
 </html>

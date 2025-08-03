@@ -91,7 +91,7 @@ jobs:
         import sys
         
         files = ['config.yml', '.github/workflows/collect.yml', '.github/workflows/test.yml', 
-                 '.github/workflows/collect-citrus.yml', '.github/workflows/update-status.yml', 
+                 '.github/workflows/collect-citrus.yml', 
                  '.github/workflows/discover-subjects.yml']
         errors = []
         
@@ -123,7 +123,7 @@ jobs:
       run: |
         # Check that all script dependencies are properly declared
         echo "Checking inline dependencies..."
-        for script in collect.py test_collector.py cli.py discover_subjects.py generate_status.py; do
+        for script in collect.py test_collector.py cli.py discover_subjects.py; do
           if [ -f "$script" ]; then
             echo "=== $script ==="
             sed -n '/# dependencies = \[/,/# \]/p' "$script" | grep -v "^#" | grep '"' || true
