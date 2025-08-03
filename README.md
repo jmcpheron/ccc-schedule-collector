@@ -1,13 +1,22 @@
 # CCC Schedule Collector
 
-[![Tests](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/test.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/test.yml)
-[![Rio Hondo Collection](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml)
-[![Citrus Collection](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect-citrus.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect-citrus.yml)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![uv](https://img.shields.io/badge/uv-Package%20Manager-green?logo=python&logoColor=white)](https://github.com/astral-sh/uv)
-[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-orange)](https://www.crummy.com/software/BeautifulSoup/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Status & Build
+
+- [![Tests](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/test.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/test.yml) **Test Suite** - Automated testing across Python 3.9-3.11
+
+## College Collection Status
+
+- [![Rio Hondo Collection](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect.yml) **Rio Hondo College** - Banner 8 HTML Parser
+- [![Citrus Collection](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect-citrus.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect-citrus.yml) **Citrus College** - Banner 8 HTML Parser  
+- [![Mt SAC Collection](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect-mtsac.yml/badge.svg)](https://github.com/jmcpheron/ccc-schedule-collector/actions/workflows/collect-mtsac.yml) **Mt. San Antonio College** - Banner 9 REST API
+
+## Technology Stack
+
+- [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/) **Python 3.9+** - Modern Python with type hints
+- [![uv](https://img.shields.io/badge/uv-Package%20Manager-green?logo=python&logoColor=white)](https://github.com/astral-sh/uv) **UV Package Manager** - Fast dependency management
+- [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff) **Ruff** - Lightning-fast linting
+- [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-orange)](https://www.crummy.com/software/BeautifulSoup/) **BeautifulSoup 4** - HTML parsing for Banner 8
+- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) **MIT License** - Open source
 
 A GitHub Actions-powered schedule collector for California Community Colleges, supporting both Banner 8 (HTML parsing) and Banner 9 (REST API) systems. Features zero-dependency Python scripts using UV and supports multiple colleges with a framework designed for easy expansion.
 
