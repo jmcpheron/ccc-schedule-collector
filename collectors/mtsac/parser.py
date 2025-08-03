@@ -51,7 +51,10 @@ class MtSacScheduleParser:
                     courses.append(course)
                     self.courses_parsed += 1
             except Exception as e:
-                error_msg = f"Error parsing course CRN {course_data.get('courseReferenceNumber', 'unknown')}: {e}"
+                crn = 'unknown'
+                if course_data and hasattr(course_data, 'get'):
+                    crn = course_data.get('courseReferenceNumber', 'unknown')
+                error_msg = f"Error parsing course CRN {crn}: {e}"
                 logger.error(error_msg)
                 self.parsing_errors.append(error_msg)
                 continue
@@ -90,6 +93,10 @@ class MtSacScheduleParser:
         Returns:
             Course object or None if parsing fails
         """
+        # Handle None input
+        if course_data is None:
+            return None
+            
         # Required fields
         crn = course_data.get('courseReferenceNumber')
         subject = course_data.get('subject')
