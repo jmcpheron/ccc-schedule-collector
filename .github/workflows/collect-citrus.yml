@@ -52,10 +52,10 @@ jobs:
     - name: Validate collected data
       run: |
         chmod +x cli.py
-        LATEST_FILE="data/citrus/schedule_*_latest.json"
-        if ls $LATEST_FILE 1> /dev/null 2>&1; then
+        LATEST_FILE=$(ls data/citrus/schedule_*_latest.json 2>/dev/null | head -1)
+        if [ -f "$LATEST_FILE" ]; then
           echo "Validating $LATEST_FILE"
-          uv run cli.py validate $LATEST_FILE
+          uv run cli.py validate "$LATEST_FILE"
         else
           echo "No latest file found, checking data directory"
           ls -la data/citrus/
@@ -63,11 +63,11 @@ jobs:
     
     - name: Generate collection report
       run: |
-        LATEST_FILE="data/citrus/schedule_*_latest.json"
-        if ls $LATEST_FILE 1> /dev/null 2>&1; then
+        LATEST_FILE=$(ls data/citrus/schedule_*_latest.json 2>/dev/null | head -1)
+        if [ -f "$LATEST_FILE" ]; then
           echo "## Citrus Collection Report - $(date)" > data/citrus/latest_report.md
           echo "" >> data/citrus/latest_report.md
-          uv run cli.py info $LATEST_FILE --format json | python3 -c "import sys, json; data = json.load(sys.stdin); print(f'Total courses collected: {len(data)}'); subjects = {}; [subjects.update({course['subject']: subjects.get(course['subject'], 0) + 1}) for course in data]; print(f'Departments: {len(subjects)}'); print('\nTop departments:'); [print(f'  - {subj}: {count} courses') for subj, count in sorted(subjects.items(), key=lambda x: x[1], reverse=True)[:10]]" >> data/citrus/latest_report.md
+          uv run cli.py info "$LATEST_FILE" --format json | python3 -c "import sys, json; data = json.load(sys.stdin); print(f'Total courses collected: {len(data)}'); subjects = {}; [subjects.update({course['subject']: subjects.get(course['subject'], 0) + 1}) for course in data]; print(f'Departments: {len(subjects)}'); print('\nTop departments:'); [print(f'  - {subj}: {count} courses') for subj, count in sorted(subjects.items(), key=lambda x: x[1], reverse=True)[:10]]" >> data/citrus/latest_report.md
         else
           echo "No data to report on"
         fi
@@ -85,9 +85,9 @@ jobs:
           echo "No changes to commit"
         else
           # Create commit message with statistics
-          LATEST_FILE="data/citrus/schedule_*_latest.json"
-          if ls $LATEST_FILE 1> /dev/null 2>&1; then
-            COURSE_COUNT=$(uv run cli.py info $LATEST_FILE --format json | python3 -c "import sys, json; print(len(json.load(sys.stdin)))")
+          LATEST_FILE=$(ls data/citrus/schedule_*_latest.json 2>/dev/null | head -1)
+          if [ -f "$LATEST_FILE" ]; then
+            COURSE_COUNT=$(uv run cli.py info "$LATEST_FILE" --format json | python3 -c "import sys, json; print(len(json.load(sys.stdin)))")
           else
             COURSE_COUNT="0"
           fi
