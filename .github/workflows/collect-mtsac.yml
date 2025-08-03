@@ -7,15 +7,6 @@ on:
         description: 'Term code to collect (e.g., 202520 for Fall 2025)'
         required: false
         type: string
-      save_data:
-        description: 'Save collected data'
-        required: false
-        type: boolean
-        default: true
-  schedule:
-    # Run at different times than other colleges to spread API load
-    # 8:30 AM, 4:30 PM, 12:30 AM UTC (offset from Banner 8 collections)
-    - cron: '30 8,16,0 * * *'
 
 jobs:
   collect:
@@ -40,136 +31,43 @@ jobs:
         uv-version: "0.5.16"
     
     - name: Create Mt SAC data directory
-      run: |
-        mkdir -p data/mtsac
-    
-    - name: Test Banner 9 API connectivity
-      run: |
-        echo "Testing Mt SAC Banner 9 API connectivity..."
-        curl -s --connect-timeout 10 --max-time 30 \
-          -H "User-Agent: CCC-Schedule-Collector/1.0" \
-          "https://prodrg.mtsac.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search" \
-          -o /dev/null && echo "✅ Mt SAC Banner 9 API is accessible" \
-          || (echo "❌ Mt SAC Banner 9 API is not accessible" && exit 1)
+      run: mkdir -p data/mtsac
     
     - name: Collect Mt SAC schedule data
       run: |
         chmod +x collect.py
-        
-        # Set term code - use input if provided, otherwise use default
-        TERM_CODE="${{ github.event.inputs.term_code }}"
-        SAVE_FLAG=""
-        
-        if [ "${{ github.event.inputs.save_data }}" = "false" ]; then
-          SAVE_FLAG="--no-save"
-        fi
-        
-        if [ "$TERM_CODE" != "" ]; then
-          echo "🎯 Collecting specific term: $TERM_CODE"
-          uv run collect.py --college mtsac --term-code "$TERM_CODE" $SAVE_FLAG
+        if [ "${{ github.event.inputs.term_code }}" != "" ]; then
+          echo "Collecting specific term: ${{ github.event.inputs.term_code }}"
+          uv run collect.py --college mtsac --term-code "${{ github.event.inputs.term_code }}"
         else
-          echo "📚 Collecting current term schedule for Mt SAC"
-          uv run collect.py --college mtsac $SAVE_FLAG
+          echo "Collecting current term schedule for Mt SAC"
+          uv run collect.py --college mtsac
         fi
       timeout-minutes: 15
     
-    - name: Validate collected data quality
+    - name: Validate collected data
       run: |
         chmod +x cli.py
         LATEST_FILE=$(ls data/mtsac/schedule_*_latest.json 2>/dev/null | head -1)
         if [ -f "$LATEST_FILE" ]; then
-          echo "🔍 Validating collected data: $LATEST_FILE"
+          echo "Validating $LATEST_FILE"
           uv run cli.py validate "$LATEST_FILE"
-          
-          # Banner 9 specific validations
-          echo "🔬 Running Banner 9 specific quality checks..."
-          
-          # Check for minimum expected course count (Mt SAC is large)
-          COURSE_COUNT=$(uv run cli.py info "$LATEST_FILE" --format json | python3 -c "import sys, json; print(len(json.load(sys.stdin)))")
-          echo "📊 Course count: $COURSE_COUNT"
-          
-          if [ "$COURSE_COUNT" -lt 1000 ]; then
-            echo "⚠️ Warning: Course count ($COURSE_COUNT) is lower than expected for Mt SAC"
-          else
-            echo "✅ Course count looks healthy for Mt SAC"
-          fi
-          
         else
-          echo "❌ No latest file found, checking data directory structure"
+          echo "No latest file found"
           ls -la data/mtsac/
-          exit 1
         fi
     
-    - name: Run Banner 9 unit tests
-      run: |
-        echo "🧪 Running Banner 9 unit tests to verify system health..."
-        chmod +x tests/test_banner9_core.py
-        ./tests/test_banner9_core.py || (echo "❌ Banner 9 tests failed" && exit 1)
-        echo "✅ All Banner 9 tests passed"
-    
-    - name: Commit and push Banner 9 data
+    - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action - Mt SAC Banner 9"
+        git config --local user.name "GitHub Action - Mt SAC"
         
-        # Add all changes in mtsac data directory
         git add data/mtsac/
         
-        # Check if there are changes to commit
         if git diff --staged --quiet; then
-          echo "📝 No new data changes to commit"
+          echo "No changes to commit"
         else
-          # Create detailed commit message with Banner 9 specific info
-          LATEST_FILE=$(ls data/mtsac/schedule_*_latest.json 2>/dev/null | head -1)
-          if [ -f "$LATEST_FILE" ]; then
-            STATS=$(uv run cli.py info "$LATEST_FILE" --format json | python3 -c "
-import sys, json
-data = json.load(sys.stdin)
-subjects = set(course['subject'] for course in data)
-print(f'{len(data)} courses - {len(subjects)} departments')
-            ")
-          else
-            STATS="collection failed"
-          fi
-          
-          # Create commit message in git scraping style with Banner 9 identifier
           TIMESTAMP=$(date -u)
-          git commit -m "Latest Mt SAC data (Banner 9): ${TIMESTAMP} - ${STATS}"
-          
+          git commit -m "Latest Mt SAC data: ${TIMESTAMP}"
           git push
-          echo "✅ Successfully committed and pushed Mt SAC Banner 9 data"
         fi
-    
-    - name: Create issue on Banner 9 API failure
-      if: failure() && github.event_name == 'schedule'
-      uses: actions/github-script@v7
-      with:
-        script: |
-          github.rest.issues.create({
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            title: 'Mt SAC Banner 9 collection failed',
-            body: `## Mt SAC Banner 9 Collection Failure
-            
-            The scheduled collection for Mt. San Antonio College (Banner 9) failed.
-            
-            **System:** Banner 9 REST API
-            **Time:** ${new Date().toISOString()}
-            **Workflow:** [View logs](${context.payload.repository.html_url}/actions/runs/${context.runId})
-            
-            ### Possible Causes:
-            - Banner 9 API downtime or maintenance
-            - Network connectivity issues
-            - Session/CSRF token problems
-            - Term code changes or scheduling updates
-            - Rate limiting by Mt SAC servers
-            
-            ### Next Steps:
-            1. Check Mt SAC's Banner 9 system status
-            2. Verify term codes are current
-            3. Test API connectivity manually
-            4. Review workflow logs for specific errors
-            
-            This issue will auto-close when the next collection succeeds.`,
-            labels: ['bug', 'mtsac', 'banner-9', 'api-failure']
-          })
