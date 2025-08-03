@@ -2,22 +2,22 @@
 
 const REFRESH_INTERVAL = 60000; // Refresh every minute
 
-// College configurations - points directly to latest data files
+// College configurations - points directly to latest data files from GitHub raw content
 const COLLEGES = [
     {
         id: 'rio-hondo',
         name: 'Rio Hondo College',
-        dataUrl: '../data/rio-hondo/schedule_202570_latest.json'
+        dataUrl: 'https://raw.githubusercontent.com/jmcpheron/ccc-schedule-collector/main/data/rio-hondo/schedule_202570_latest.json'
     },
     {
         id: 'citrus', 
         name: 'Citrus College',
-        dataUrl: '../data/citrus/schedule_202620_latest.json'
+        dataUrl: 'https://raw.githubusercontent.com/jmcpheron/ccc-schedule-collector/main/data/citrus/schedule_202620_latest.json'
     },
     {
         id: 'mtsac',
         name: 'Mt. San Antonio College', 
-        dataUrl: '../data/mtsac/schedule_202520_latest.json'
+        dataUrl: 'https://raw.githubusercontent.com/jmcpheron/ccc-schedule-collector/main/data/mtsac/schedule_202520_latest.json'
     }
 ];
 

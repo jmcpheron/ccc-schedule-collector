@@ -18,10 +18,10 @@ This directory contains the GitHub Pages site that displays the real-time status
 
 ## Data Sources
 
-The dashboard reads directly from:
-- `../data/rio-hondo/schedule_202570_latest.json` - Rio Hondo College data
-- `../data/citrus/schedule_202620_latest.json` - Citrus College data  
-- `../data/mtsac/schedule_202520_latest.json` - Mt. San Antonio College data
+The dashboard reads directly from GitHub raw content:
+- `https://raw.githubusercontent.com/jmcpheron/ccc-schedule-collector/main/data/rio-hondo/schedule_202570_latest.json` - Rio Hondo College data
+- `https://raw.githubusercontent.com/jmcpheron/ccc-schedule-collector/main/data/citrus/schedule_202620_latest.json` - Citrus College data  
+- `https://raw.githubusercontent.com/jmcpheron/ccc-schedule-collector/main/data/mtsac/schedule_202520_latest.json` - Mt. San Antonio College data
 
 ## Testing Locally
 
