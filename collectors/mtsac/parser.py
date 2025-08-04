@@ -195,6 +195,34 @@ class MtSacScheduleParser:
             
         return "TBA"
     
+    def _convert_banner9_days_to_string(self, meeting_time_data: Dict[str, Any]) -> str:
+        """Convert Banner 9 individual day booleans to day string format.
+        
+        Args:
+            meeting_time_data: Meeting time dictionary with day boolean fields
+            
+        Returns:
+            Day string like "MW", "TR", "F", or "ARR" if no days
+        """
+        # Banner 9 day field names to standard abbreviations mapping
+        day_mapping = {
+            'sunday': 'Su',
+            'monday': 'M', 
+            'tuesday': 'T',
+            'wednesday': 'W',
+            'thursday': 'R',  # Thursday = R to avoid confusion with Tuesday
+            'friday': 'F',
+            'saturday': 'S'
+        }
+        
+        days_parts = []
+        for day_field, abbreviation in day_mapping.items():
+            if meeting_time_data.get(day_field, False):
+                days_parts.append(abbreviation)
+        
+        # Return concatenated day string or 'ARR' if no days
+        return ''.join(days_parts) if days_parts else 'ARR'
+    
     def _extract_meeting_times(self, meetings_faculty: List[Dict[str, Any]]) -> List[MeetingTime]:
         """Extract meeting times from meetingsFaculty array.
         
@@ -212,7 +240,7 @@ class MtSacScheduleParser:
             if not meeting_time_data:
                 continue
                 
-            days = meeting_time_data.get('days', '')
+            days = self._convert_banner9_days_to_string(meeting_time_data)
             start_time = meeting_time_data.get('beginTime', '')
             end_time = meeting_time_data.get('endTime', '')
             
