@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-08-06T07:21:10.772952Z",
+  "collection_timestamp": "2025-08-06T15:20:41.707344Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -3452,7 +3452,7 @@
         "actual": 23,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -4508,7 +4508,7 @@
         "actual": 24,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10425,8 +10425,8 @@
       "location": "AQ POOL",
       "enrollment": {
         "capacity": 20,
-        "actual": 9,
-        "remaining": 11
+        "actual": 8,
+        "remaining": 12
       },
       "status": "Open",
       "section_type": "LEC",
@@ -11161,8 +11161,8 @@
       "location": "MA 230",
       "enrollment": {
         "capacity": 36,
-        "actual": 13,
-        "remaining": 23
+        "actual": 14,
+        "remaining": 22
       },
       "status": "Open",
       "section_type": "LEC",
@@ -12089,8 +12089,8 @@
       "location": "MA 230",
       "enrollment": {
         "capacity": 36,
-        "actual": 13,
-        "remaining": 23
+        "actual": 14,
+        "remaining": 22
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13561,8 +13561,8 @@
       "location": "CI 158",
       "enrollment": {
         "capacity": 25,
-        "actual": 25,
-        "remaining": 0
+        "actual": 24,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -14617,8 +14617,8 @@
       "location": "MA 130",
       "enrollment": {
         "capacity": 36,
-        "actual": 35,
-        "remaining": 1
+        "actual": 34,
+        "remaining": 2
       },
       "status": "Open",
       "section_type": "LEC",
@@ -16167,38 +16167,6 @@
       "book_link": null
     },
     {
-      "crn": "23146",
-      "subject": "THEA",
-      "course_number": "245",
-      "title": "Stage and Project Mgt",
-      "units": 3.0,
-      "instructor": "Holbrook, Joseph",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "M",
-          "start_time": "02:40PM",
-          "end_time": "03:30PM",
-          "is_arranged": false
-        }
-      ],
-      "location": "VT 208",
-      "enrollment": {
-        "capacity": 15,
-        "actual": 0,
-        "remaining": 15
-      },
-      "status": "Open",
-      "section_type": "LEC",
-      "zero_textbook_cost": true,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
       "crn": "22016",
       "subject": "THEA",
       "course_number": "262",
@@ -16488,7 +16456,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 515,
+    "total_courses": 514,
     "departments": [
       "ACCT",
       "ANTH",
