@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-08-07T06:38:51.288356Z",
+  "collection_timestamp": "2025-08-07T14:36:10.453059Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -57,8 +57,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 21,
-        "remaining": 19
+        "actual": 22,
+        "remaining": 18
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -121,8 +121,8 @@
       "location": "Business 119",
       "enrollment": {
         "capacity": 45,
-        "actual": 12,
-        "remaining": 30
+        "actual": 13,
+        "remaining": 29
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -2521,8 +2521,8 @@
       "location": "Science 210",
       "enrollment": {
         "capacity": 40,
-        "actual": 29,
-        "remaining": 11
+        "actual": 30,
+        "remaining": 10
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -6105,8 +6105,8 @@
       "location": "Business 011",
       "enrollment": {
         "capacity": 26,
-        "actual": 25,
-        "remaining": 1
+        "actual": 26,
+        "remaining": 0
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -8025,8 +8025,8 @@
       "location": "Science 236",
       "enrollment": {
         "capacity": 72,
-        "actual": 55,
-        "remaining": 17
+        "actual": 56,
+        "remaining": 16
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -9401,8 +9401,8 @@
       "location": "Science 221",
       "enrollment": {
         "capacity": 24,
-        "actual": 17,
-        "remaining": 7
+        "actual": 16,
+        "remaining": 8
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -9913,8 +9913,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -13209,8 +13209,8 @@
       "location": "Science 221",
       "enrollment": {
         "capacity": 24,
-        "actual": 14,
-        "remaining": 10
+        "actual": 15,
+        "remaining": 9
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -14201,8 +14201,8 @@
       "location": "Business 115",
       "enrollment": {
         "capacity": 35,
-        "actual": 21,
-        "remaining": 14
+        "actual": 22,
+        "remaining": 13
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -14777,8 +14777,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 30,
-        "remaining": 5
+        "actual": 31,
+        "remaining": 4
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -18521,10 +18521,10 @@
       "location": "Administration 224",
       "enrollment": {
         "capacity": 45,
-        "actual": 44,
-        "remaining": 1
+        "actual": 45,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -19129,10 +19129,10 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 40,
-        "actual": 40,
-        "remaining": 0
+        "actual": 39,
+        "remaining": 1
       },
-      "status": "CLOSED",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -20249,8 +20249,8 @@
       "location": "Administration 215",
       "enrollment": {
         "capacity": 20,
-        "actual": 11,
-        "remaining": 9
+        "actual": 12,
+        "remaining": 8
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -22873,10 +22873,10 @@
       "location": "Learning Resource Center (LRC) 124",
       "enrollment": {
         "capacity": 28,
-        "actual": 27,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -27097,8 +27097,8 @@
       "location": "Science 221",
       "enrollment": {
         "capacity": 72,
-        "actual": 40,
-        "remaining": 32
+        "actual": 39,
+        "remaining": 33
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -27225,8 +27225,8 @@
       "location": "Science 229",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -28089,8 +28089,8 @@
       "location": "Administration 208",
       "enrollment": {
         "capacity": 25,
-        "actual": 4,
-        "remaining": 21
+        "actual": 5,
+        "remaining": 20
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -32857,8 +32857,8 @@
       "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
-        "actual": 18,
-        "remaining": 12
+        "actual": 19,
+        "remaining": 11
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -39993,8 +39993,8 @@
       "location": "Pico Educational Center 401",
       "enrollment": {
         "capacity": 35,
-        "actual": 11,
-        "remaining": 24
+        "actual": 12,
+        "remaining": 23
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -40025,8 +40025,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 30,
-        "actual": 19,
-        "remaining": 11
+        "actual": 20,
+        "remaining": 10
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44985,8 +44985,8 @@
       "location": "Science 224",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 24,
+        "remaining": 0
       },
       "status": "Waitlisted",
       "section_type": "LEC",
