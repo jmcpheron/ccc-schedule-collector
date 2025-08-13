@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-08-13T14:34:58.699257Z",
+  "collection_timestamp": "2025-08-13T17:14:00.926974Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -473,8 +473,8 @@
       "location": "Business 117",
       "enrollment": {
         "capacity": 45,
-        "actual": 18,
-        "remaining": 27
+        "actual": 19,
+        "remaining": 26
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -5260,8 +5260,8 @@
       "course_number": "101",
       "title": "Introduction to Technical Drawings & Graphics (Same as CIV 101, ENGT 101)",
       "units": 3.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
+      "instructor": "Farrah  Nakatani",
+      "instructor_email": "fnakatani@riohondo.edu",
       "meeting_times": [
         {
           "days": "TBA",
@@ -5337,8 +5337,8 @@
       "location": "Science 307",
       "enrollment": {
         "capacity": 24,
-        "actual": 22,
-        "remaining": 2
+        "actual": 21,
+        "remaining": 3
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -5753,8 +5753,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 45,
-        "actual": 38,
-        "remaining": 7
+        "actual": 37,
+        "remaining": 8
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -9817,8 +9817,8 @@
       "location": "Science 136",
       "enrollment": {
         "capacity": 48,
-        "actual": 18,
-        "remaining": 30
+        "actual": 17,
+        "remaining": 31
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -11094,13 +11094,13 @@
           "is_arranged": false
         }
       ],
-      "location": "Business 113",
+      "location": "Business",
       "enrollment": {
         "capacity": 0,
         "actual": 0,
         "remaining": 0
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13017,10 +13017,10 @@
       "location": "Science 331",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -14329,8 +14329,8 @@
       "location": "Business 115",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 26,
+        "remaining": 9
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -14924,8 +14924,8 @@
       "course_number": "101",
       "title": "Introduction to Technical Drawing & Graphics (Same as ARCH 101, ENGT 101)",
       "units": 3.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
+      "instructor": "Farrah  Nakatani",
+      "instructor_email": "fnakatani@riohondo.edu",
       "meeting_times": [
         {
           "days": "TBA",
@@ -16185,8 +16185,8 @@
       "location": "Business 109",
       "enrollment": {
         "capacity": 35,
-        "actual": 27,
-        "remaining": 8
+        "actual": 28,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -16377,8 +16377,8 @@
       "location": "Business 109",
       "enrollment": {
         "capacity": 35,
-        "actual": 33,
-        "remaining": 2
+        "actual": 34,
+        "remaining": 1
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -16825,8 +16825,8 @@
       "location": "California High School",
       "enrollment": {
         "capacity": 35,
-        "actual": 4,
-        "remaining": 31
+        "actual": 5,
+        "remaining": 30
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -18649,8 +18649,8 @@
       "location": "Administration 207",
       "enrollment": {
         "capacity": 45,
-        "actual": 32,
-        "remaining": 13
+        "actual": 31,
+        "remaining": 14
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -21177,10 +21177,10 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 28,
-        "actual": 27,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -21977,8 +21977,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 28,
-        "actual": 20,
-        "remaining": 8
+        "actual": 21,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -22265,8 +22265,8 @@
       "location": "Administration 227",
       "enrollment": {
         "capacity": 28,
-        "actual": 14,
-        "remaining": 14
+        "actual": 13,
+        "remaining": 15
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -23468,8 +23468,8 @@
       "course_number": "101",
       "title": "Introduction to Technical Drawing & Graphics (Same as ARCH 101, CIV 101)",
       "units": 3.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
+      "instructor": "Farrah  Nakatani",
+      "instructor_email": "fnakatani@riohondo.edu",
       "meeting_times": [
         {
           "days": "TBA",
@@ -23481,8 +23481,8 @@
       "location": "Science 310",
       "enrollment": {
         "capacity": 13,
-        "actual": 11,
-        "remaining": 2
+        "actual": 10,
+        "remaining": 3
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -23577,8 +23577,8 @@
       "location": "Science 306",
       "enrollment": {
         "capacity": 20,
-        "actual": 18,
-        "remaining": 2
+        "actual": 19,
+        "remaining": 1
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -27449,8 +27449,8 @@
       "location": "Science 305",
       "enrollment": {
         "capacity": 24,
-        "actual": 10,
-        "remaining": 14
+        "actual": 9,
+        "remaining": 15
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -28697,8 +28697,8 @@
       "location": "Administration 228",
       "enrollment": {
         "capacity": 45,
-        "actual": 27,
-        "remaining": 18
+        "actual": 28,
+        "remaining": 17
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -33177,8 +33177,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 25,
-        "actual": 24,
-        "remaining": 1
+        "actual": 25,
+        "remaining": 0
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -36857,8 +36857,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 35,
-        "actual": 20,
-        "remaining": 15
+        "actual": 21,
+        "remaining": 14
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -39928,11 +39928,11 @@
       ],
       "location": "Monte Vista Elem - Whittier",
       "enrollment": {
-        "capacity": 35,
-        "actual": 1,
-        "remaining": 34
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -39990,7 +39990,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Pico Educational Center 401",
+      "location": "Pico Educational Center 701",
       "enrollment": {
         "capacity": 15,
         "actual": 13,
@@ -40345,8 +40345,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 12,
-        "remaining": 28
+        "actual": 11,
+        "remaining": 29
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -40473,8 +40473,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 30,
-        "remaining": 10
+        "actual": 31,
+        "remaining": 9
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -41767,13 +41767,45 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78426')"
     },
     {
-      "crn": "78050",
+      "crn": "78047",
       "subject": "NCOM",
       "course_number": "012",
       "title": "Academic Enrichment",
       "units": 0.0,
       "instructor": "To Be  Assigned",
       "instructor_email": "",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "01:40pm",
+          "end_time": "03:30pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "East Whittier Middle School",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 11,
+      "start_date": "09/09",
+      "end_date": "11/18",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78047')"
+    },
+    {
+      "crn": "78050",
+      "subject": "NCOM",
+      "course_number": "012",
+      "title": "Academic Enrichment",
+      "units": 0.0,
+      "instructor": "Kendra  Davidson",
+      "instructor_email": "KDavidson@riohondo.edu",
       "meeting_times": [
         {
           "days": "T",
@@ -41804,8 +41836,8 @@
       "course_number": "012",
       "title": "Academic Enrichment",
       "units": 0.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
+      "instructor": "Veronica  Aguilar Garcia",
+      "instructor_email": "vaguilargarcia@riohondo.edu",
       "meeting_times": [
         {
           "days": "T",
@@ -41836,8 +41868,8 @@
       "course_number": "012",
       "title": "Academic Enrichment",
       "units": 0.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
+      "instructor": "Jeffrey  Grajeda",
+      "instructor_email": "JGrajeda@riohondo.edu",
       "meeting_times": [
         {
           "days": "T",
@@ -41868,8 +41900,8 @@
       "course_number": "012",
       "title": "Academic Enrichment",
       "units": 0.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
+      "instructor": "Nicole  Morales",
+      "instructor_email": "nmorales@riohondo.edu",
       "meeting_times": [
         {
           "days": "TBA",
@@ -41893,6 +41925,102 @@
       "end_date": "11/19",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78053')"
+    },
+    {
+      "crn": "78054",
+      "subject": "NCOM",
+      "course_number": "012",
+      "title": "Academic Enrichment",
+      "units": 0.0,
+      "instructor": "To Be  Assigned",
+      "instructor_email": "",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "STEAM Academy at Burke Middle",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "09/24",
+      "end_date": "11/12",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78054')"
+    },
+    {
+      "crn": "78055",
+      "subject": "NCOM",
+      "course_number": "012",
+      "title": "Academic Enrichment",
+      "units": 0.0,
+      "instructor": "To Be  Assigned",
+      "instructor_email": "",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "North Park Middle School",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "09/24",
+      "end_date": "11/12",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78055')"
+    },
+    {
+      "crn": "78056",
+      "subject": "NCOM",
+      "course_number": "012",
+      "title": "Academic Enrichment",
+      "units": 0.0,
+      "instructor": "To Be  Assigned",
+      "instructor_email": "",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Rivera Middle School",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "09/24",
+      "end_date": "11/12",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78056')"
     },
     {
       "crn": "78067",
@@ -42358,11 +42486,11 @@
           "is_arranged": true
         }
       ],
-      "location": "Pico Educational Center 801",
+      "location": "Pico Educational Center 201",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 23,
+        "remaining": 12
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -42422,7 +42550,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Pico Educational Center 801",
+      "location": "Pico Educational Center 201",
       "enrollment": {
         "capacity": 35,
         "actual": 12,
@@ -42649,8 +42777,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 15,
-        "remaining": 20
+        "actual": 16,
+        "remaining": 19
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -42681,8 +42809,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 24,
-        "remaining": 16
+        "actual": 25,
+        "remaining": 15
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -42745,8 +42873,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 30,
-        "remaining": 10
+        "actual": 29,
+        "remaining": 11
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44958,7 +45086,7 @@
       },
       "status": "OPEN",
       "section_type": "LEC",
-      "zero_textbook_cost": false,
+      "zero_textbook_cost": true,
       "delivery_method": "In-Person",
       "weeks": 16,
       "start_date": "08/16",
@@ -46361,8 +46489,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 45,
-        "actual": 32,
-        "remaining": 13
+        "actual": 31,
+        "remaining": 14
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -46712,11 +46840,11 @@
       ],
       "location": "Administration 225",
       "enrollment": {
-        "capacity": 25,
+        "capacity": 30,
         "actual": 25,
-        "remaining": 0
+        "remaining": 5
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
@@ -46808,9 +46936,9 @@
       ],
       "location": "Administration 225",
       "enrollment": {
-        "capacity": 20,
+        "capacity": 15,
         "actual": 1,
-        "remaining": 19
+        "remaining": 14
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -47769,8 +47897,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 38,
-        "remaining": 7
+        "actual": 39,
+        "remaining": 6
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -52296,7 +52424,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1634,
+    "total_courses": 1638,
     "departments": [
       "ACCT",
       "ADN",
