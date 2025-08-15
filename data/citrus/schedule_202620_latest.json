@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-08-14T23:20:02.985955Z",
+  "collection_timestamp": "2025-08-15T07:19:59.854695Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -697,8 +697,8 @@
       "location": "VA 331",
       "enrollment": {
         "capacity": 24,
-        "actual": 10,
-        "remaining": 14
+        "actual": 9,
+        "remaining": 15
       },
       "status": "Open",
       "section_type": "LEC",
@@ -1113,8 +1113,8 @@
       "location": "VA 331",
       "enrollment": {
         "capacity": 24,
-        "actual": 8,
-        "remaining": 16
+        "actual": 9,
+        "remaining": 15
       },
       "status": "Open",
       "section_type": "LEC",
@@ -1241,8 +1241,8 @@
       "location": "VA 303",
       "enrollment": {
         "capacity": 15,
-        "actual": 7,
-        "remaining": 8
+        "actual": 8,
+        "remaining": 7
       },
       "status": "Open",
       "section_type": "LEC",
@@ -1849,8 +1849,8 @@
       "location": "VA 130",
       "enrollment": {
         "capacity": 45,
-        "actual": 42,
-        "remaining": 3
+        "actual": 45,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "LEC",
@@ -2681,8 +2681,8 @@
       "location": "LH 101",
       "enrollment": {
         "capacity": 23,
-        "actual": 20,
-        "remaining": 3
+        "actual": 22,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -2713,8 +2713,8 @@
       "location": "LH 103",
       "enrollment": {
         "capacity": 23,
-        "actual": 21,
-        "remaining": 2
+        "actual": 20,
+        "remaining": 3
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3929,8 +3929,8 @@
       "location": "ED 103",
       "enrollment": {
         "capacity": 45,
-        "actual": 9,
-        "remaining": 36
+        "actual": 8,
+        "remaining": 37
       },
       "status": "Open",
       "section_type": "LEC",
@@ -4153,8 +4153,8 @@
       "location": "ONLINE",
       "enrollment": {
         "capacity": 45,
-        "actual": 9,
-        "remaining": 36
+        "actual": 10,
+        "remaining": 35
       },
       "status": "Open",
       "section_type": "LEC",
@@ -4633,8 +4633,8 @@
       "location": "ED 203",
       "enrollment": {
         "capacity": 26,
-        "actual": 26,
-        "remaining": 0
+        "actual": 25,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -4697,8 +4697,8 @@
       "location": "PS 222",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -4953,8 +4953,8 @@
       "location": "PS 211",
       "enrollment": {
         "capacity": 20,
-        "actual": 20,
-        "remaining": 0
+        "actual": 19,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LAB",
@@ -5241,8 +5241,8 @@
       "location": "TC 127",
       "enrollment": {
         "capacity": 26,
-        "actual": 20,
-        "remaining": 6
+        "actual": 21,
+        "remaining": 5
       },
       "status": "Open",
       "section_type": "LEC",
@@ -5369,8 +5369,8 @@
       "location": "P1 103",
       "enrollment": {
         "capacity": 26,
-        "actual": 25,
-        "remaining": 1
+        "actual": 24,
+        "remaining": 2
       },
       "status": "Open",
       "section_type": "LEC",
@@ -6713,8 +6713,8 @@
       "location": "ED 112",
       "enrollment": {
         "capacity": 45,
-        "actual": 25,
-        "remaining": 20
+        "actual": 26,
+        "remaining": 19
       },
       "status": "Open",
       "section_type": "LEC",
@@ -7001,8 +7001,8 @@
       "location": "P1 104",
       "enrollment": {
         "capacity": 30,
-        "actual": 29,
-        "remaining": 1
+        "actual": 30,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "LEC",
@@ -7321,8 +7321,8 @@
       "location": "P1 104",
       "enrollment": {
         "capacity": 30,
-        "actual": 29,
-        "remaining": 1
+        "actual": 30,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "LEC",
@@ -8601,8 +8601,8 @@
       "location": "LI 204",
       "enrollment": {
         "capacity": 25,
-        "actual": 8,
-        "remaining": 17
+        "actual": 7,
+        "remaining": 18
       },
       "status": "Open",
       "section_type": "LEC",
@@ -8665,8 +8665,8 @@
       "location": "LI 204",
       "enrollment": {
         "capacity": 25,
-        "actual": 5,
-        "remaining": 20
+        "actual": 4,
+        "remaining": 21
       },
       "status": "Open",
       "section_type": "LEC",
@@ -8761,8 +8761,8 @@
       "location": "ED 104",
       "enrollment": {
         "capacity": 45,
-        "actual": 39,
-        "remaining": 6
+        "actual": 38,
+        "remaining": 7
       },
       "status": "Open",
       "section_type": "LEC",
@@ -8793,8 +8793,8 @@
       "location": "ED 104",
       "enrollment": {
         "capacity": 45,
-        "actual": 15,
-        "remaining": 30
+        "actual": 16,
+        "remaining": 29
       },
       "status": "Open",
       "section_type": "LEC",
@@ -9273,8 +9273,8 @@
       "location": "ED 102",
       "enrollment": {
         "capacity": 38,
-        "actual": 29,
-        "remaining": 9
+        "actual": 30,
+        "remaining": 8
       },
       "status": "Open",
       "section_type": "LEC",
@@ -9529,8 +9529,8 @@
       "location": "ED 102",
       "enrollment": {
         "capacity": 38,
-        "actual": 28,
-        "remaining": 10
+        "actual": 27,
+        "remaining": 11
       },
       "status": "Open",
       "section_type": "LEC",
@@ -9657,8 +9657,8 @@
       "location": "ED 102",
       "enrollment": {
         "capacity": 38,
-        "actual": 10,
-        "remaining": 28
+        "actual": 9,
+        "remaining": 29
       },
       "status": "Open",
       "section_type": "LEC",
@@ -10073,8 +10073,8 @@
       "location": "AP 110",
       "enrollment": {
         "capacity": 30,
-        "actual": 21,
-        "remaining": 9
+        "actual": 22,
+        "remaining": 8
       },
       "status": "Open",
       "section_type": "LEC",
@@ -10713,8 +10713,8 @@
       "location": "MA 125",
       "enrollment": {
         "capacity": 36,
-        "actual": 22,
-        "remaining": 14
+        "actual": 24,
+        "remaining": 12
       },
       "status": "Open",
       "section_type": "LEC",
@@ -10745,10 +10745,10 @@
       "location": "ONLINE",
       "enrollment": {
         "capacity": 36,
-        "actual": 35,
-        "remaining": 1
+        "actual": 36,
+        "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Online Asynchronous",
@@ -11321,8 +11321,8 @@
       "location": "MA 125",
       "enrollment": {
         "capacity": 36,
-        "actual": 22,
-        "remaining": 14
+        "actual": 24,
+        "remaining": 12
       },
       "status": "Open",
       "section_type": "LEC",
@@ -11481,8 +11481,8 @@
       "location": "ONLINE",
       "enrollment": {
         "capacity": 36,
-        "actual": 5,
-        "remaining": 31
+        "actual": 6,
+        "remaining": 30
       },
       "status": "Open",
       "section_type": "LEC",
@@ -11673,8 +11673,8 @@
       "location": "ONLINE",
       "enrollment": {
         "capacity": 36,
-        "actual": 35,
-        "remaining": 1
+        "actual": 36,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "LEC",
@@ -11897,8 +11897,8 @@
       "location": "MA 124",
       "enrollment": {
         "capacity": 36,
-        "actual": 32,
-        "remaining": 4
+        "actual": 33,
+        "remaining": 3
       },
       "status": "Open",
       "section_type": "LEC",
@@ -11929,8 +11929,8 @@
       "location": "MA 206",
       "enrollment": {
         "capacity": 36,
-        "actual": 19,
-        "remaining": 17
+        "actual": 18,
+        "remaining": 18
       },
       "status": "Open",
       "section_type": "LEC",
@@ -12025,8 +12025,8 @@
       "location": "ONLINE",
       "enrollment": {
         "capacity": 36,
-        "actual": 36,
-        "remaining": 0
+        "actual": 35,
+        "remaining": 1
       },
       "status": "Closed",
       "section_type": "LEC",
@@ -12217,10 +12217,10 @@
       "location": "ONLINE",
       "enrollment": {
         "capacity": 36,
-        "actual": 36,
-        "remaining": 0
+        "actual": 35,
+        "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -12249,8 +12249,8 @@
       "location": "ONLINE",
       "enrollment": {
         "capacity": 36,
-        "actual": 36,
-        "remaining": 0
+        "actual": 35,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -12473,8 +12473,8 @@
       "location": "ED 213",
       "enrollment": {
         "capacity": 45,
-        "actual": 34,
-        "remaining": 11
+        "actual": 35,
+        "remaining": 10
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13081,8 +13081,8 @@
       "location": "ED 111",
       "enrollment": {
         "capacity": 45,
-        "actual": 14,
-        "remaining": 31
+        "actual": 15,
+        "remaining": 30
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13433,8 +13433,8 @@
       "location": "PC 314",
       "enrollment": {
         "capacity": 45,
-        "actual": 21,
-        "remaining": 24
+        "actual": 22,
+        "remaining": 23
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13625,8 +13625,8 @@
       "location": "ED 214",
       "enrollment": {
         "capacity": 45,
-        "actual": 7,
-        "remaining": 38
+        "actual": 6,
+        "remaining": 39
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13849,8 +13849,8 @@
       "location": "PC 314",
       "enrollment": {
         "capacity": 45,
-        "actual": 25,
-        "remaining": 20
+        "actual": 26,
+        "remaining": 19
       },
       "status": "Open",
       "section_type": "LEC",
@@ -14041,8 +14041,8 @@
       "location": "ED 212",
       "enrollment": {
         "capacity": 30,
-        "actual": 7,
-        "remaining": 23
+        "actual": 8,
+        "remaining": 22
       },
       "status": "Open",
       "section_type": "LEC",
@@ -14521,8 +14521,8 @@
       "location": "MA 108",
       "enrollment": {
         "capacity": 36,
-        "actual": 27,
-        "remaining": 9
+        "actual": 28,
+        "remaining": 8
       },
       "status": "Open",
       "section_type": "LEC",
@@ -14809,8 +14809,8 @@
       "location": "VA 132",
       "enrollment": {
         "capacity": 45,
-        "actual": 32,
-        "remaining": 13
+        "actual": 33,
+        "remaining": 12
       },
       "status": "Open",
       "section_type": "LEC",
@@ -16217,8 +16217,8 @@
       "location": "AQ 100",
       "enrollment": {
         "capacity": 35,
-        "actual": 35,
-        "remaining": 0
+        "actual": 34,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
