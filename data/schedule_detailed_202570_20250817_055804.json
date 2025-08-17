@@ -57,7 +57,7 @@
         "taken": 40,
         "available": 0
       },
-      "detail_fetched_at": "2025-08-17T05:20:47.376332Z"
+      "detail_fetched_at": "2025-08-17T05:58:03.135130Z"
     },
     {
       "crn": "77649",
@@ -110,11 +110,11 @@
         "taken": 34,
         "available": 6
       },
-      "detail_fetched_at": "2025-08-17T05:20:49.443820Z"
+      "detail_fetched_at": "2025-08-17T05:58:04.703310Z"
     }
   ],
   "metadata": {
-    "total_courses": 1648,
+    "total_courses": 2,
     "departments": [
       "ACCT",
       "ADN",
@@ -223,7 +223,10 @@
     "partial": true,
     "details_collected": true,
     "courses_processed": 2,
-    "detail_collection_errors": null
+    "detail_collection_errors": null,
+    "detail_collection_timestamp": "2025-08-17T05:58:04.709576+00:00Z",
+    "courses_with_details": 2,
+    "detail_rate_limit": 1.5
   },
   "total_courses": null,
   "departments": null
