@@ -1,0 +1,279 @@
+name: Collect Rio Hondo Course Details
+
+on:
+  workflow_dispatch:
+    inputs:
+      schedule_file:
+        description: 'Specific schedule file to process (optional - auto-detects latest if not provided)'
+        required: false
+        type: string
+      limit:
+        description: 'Limit number of courses to process (for testing)'
+        required: false
+        type: number
+      rate_limit:
+        description: 'Seconds between requests (default: 1.5)'
+        required: false
+        type: number
+        default: 1.5
+      no_resume:
+        description: 'Start fresh instead of resuming'
+        required: false
+        type: boolean
+        default: false
+  schedule:
+    # Run daily at 3:26 AM UTC (low traffic time)
+    - cron: '26 3 * * *'
+
+jobs:
+  collect-details:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install uv
+      uses: yezz123/setup-uv@v4
+      with:
+        uv-version: "0.5.16"
+    
+    - name: Verify basic schedule data exists
+      run: |
+        if [ "${{ github.event.inputs.schedule_file }}" != "" ]; then
+          SCHEDULE_FILE="${{ github.event.inputs.schedule_file }}"
+          echo "Using specified schedule file: $SCHEDULE_FILE"
+        else
+          SCHEDULE_FILE=$(ls data/rio-hondo/schedule_*_latest.json 2>/dev/null | head -1)
+          echo "Auto-detected schedule file: $SCHEDULE_FILE"
+        fi
+        
+        if [ ! -f "$SCHEDULE_FILE" ]; then
+          echo "ERROR: No basic schedule data found. Run basic collection first."
+          echo "Available files in data/rio-hondo/:"
+          ls -la data/rio-hondo/ || echo "Directory does not exist"
+          exit 1
+        fi
+        
+        # Export for next steps
+        echo "SCHEDULE_FILE=$SCHEDULE_FILE" >> $GITHUB_ENV
+        
+        # Show schedule info
+        echo "Schedule file details:"
+        uv run cli.py info "$SCHEDULE_FILE" | head -10
+    
+    - name: Collect course details
+      run: |
+        chmod +x collect_rio_details.py
+        
+        # Build command with inputs
+        CMD="uv run collect_rio_details.py"
+        
+        if [ "${{ github.event.inputs.schedule_file }}" != "" ]; then
+          CMD="$CMD --input '${{ github.event.inputs.schedule_file }}'"
+        fi
+        
+        if [ "${{ github.event.inputs.limit }}" != "" ]; then
+          CMD="$CMD --limit ${{ github.event.inputs.limit }}"
+        fi
+        
+        RATE_LIMIT="${{ github.event.inputs.rate_limit }}"
+        if [ "$RATE_LIMIT" == "" ]; then
+          RATE_LIMIT="1.5"
+        fi
+        CMD="$CMD --rate-limit $RATE_LIMIT"
+        
+        if [ "${{ github.event.inputs.no_resume }}" == "true" ]; then
+          CMD="$CMD --no-resume"
+        fi
+        
+        echo "Running: $CMD"
+        eval $CMD
+        
+        # Clean up any progress files on success
+        rm -f data/.rio_detail_progress.json
+    
+    - name: Validate detailed data
+      run: |
+        # Find the most recent detailed schedule file
+        DETAILED_FILE=$(ls data/schedule_detailed_*.json 2>/dev/null | sort -r | head -1)
+        
+        if [ -f "$DETAILED_FILE" ]; then
+          echo "Validating detailed schedule: $DETAILED_FILE"
+          uv run cli.py validate "$DETAILED_FILE"
+          
+          # Store for next steps
+          echo "DETAILED_FILE=$DETAILED_FILE" >> $GITHUB_ENV
+        else
+          echo "ERROR: No detailed schedule file found"
+          ls -la data/
+          exit 1
+        fi
+    
+    - name: Generate detail collection report
+      run: |
+        echo "## Rio Hondo Detail Collection Report - $(date -u)" > data/detail_collection_report.md
+        echo "" >> data/detail_collection_report.md
+        
+        if [ -f "$DETAILED_FILE" ]; then
+          # Extract metadata from the detailed file
+          python3 << 'EOF' >> data/detail_collection_report.md
+import json
+import sys
+from datetime import datetime
+
+with open(sys.argv[1], 'r') as f:
+    data = json.load(f)
+
+metadata = data.get('metadata', {})
+courses = data.get('courses', [])
+total_courses = len(courses)
+detailed_courses = metadata.get('courses_with_details', 0)
+detail_timestamp = metadata.get('detail_collection_timestamp', 'Unknown')
+rate_limit = metadata.get('detail_rate_limit', 'Unknown')
+errors = metadata.get('detail_collection_errors', [])
+
+print(f"### Collection Summary")
+print(f"- **Total Courses**: {total_courses}")
+print(f"- **Courses with Details**: {detailed_courses}")
+print(f"- **Success Rate**: {(detailed_courses/total_courses*100):.1f}%" if total_courses > 0 else "- **Success Rate**: N/A")
+print(f"- **Rate Limit**: {rate_limit} seconds")
+print(f"- **Collection Time**: {detail_timestamp}")
+print()
+
+if errors:
+    print(f"### Errors ({len(errors)})")
+    for error in errors[:10]:  # Show first 10 errors
+        print(f"- {error}")
+    if len(errors) > 10:
+        print(f"- ... and {len(errors) - 10} more errors")
+    print()
+
+# Subject breakdown
+subjects = {}
+detailed_subjects = {}
+for course in courses:
+    subject = course.get('subject', 'Unknown')
+    subjects[subject] = subjects.get(subject, 0) + 1
+    if course.get('detail_fetched_at'):
+        detailed_subjects[subject] = detailed_subjects.get(subject, 0) + 1
+
+print("### Department Summary")
+print("| Department | Total | With Details | Success Rate |")
+print("|------------|-------|--------------|--------------|")
+for subject in sorted(subjects.keys())[:20]:  # Top 20 departments
+    total = subjects[subject]
+    detailed = detailed_subjects.get(subject, 0)
+    rate = f"{(detailed/total*100):.1f}%" if total > 0 else "0%"
+    print(f"| {subject} | {total} | {detailed} | {rate} |")
+
+if len(subjects) > 20:
+    print(f"| ... | ... | ... | ... |")
+    print(f"| **Total** | **{total_courses}** | **{detailed_courses}** | **{(detailed_courses/total_courses*100):.1f}%** |")
+EOF
+        python3 $GITHUB_WORKSPACE/$(basename "$0") "$DETAILED_FILE"
+        else
+          echo "No detailed file to report on"
+        fi
+    
+    - name: Move detailed file to rio-hondo directory
+      run: |
+        # Move the detailed file to the proper location for organization
+        if [ -f "$DETAILED_FILE" ]; then
+          mkdir -p data/rio-hondo
+          mv "$DETAILED_FILE" data/rio-hondo/
+          
+          # Update the environment variable
+          DETAILED_FILE="data/rio-hondo/$(basename $DETAILED_FILE)"
+          echo "DETAILED_FILE=$DETAILED_FILE" >> $GITHUB_ENV
+          echo "Moved detailed file to: $DETAILED_FILE"
+        fi
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Add all changes
+        git add data/
+        
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          # Create commit message with statistics
+          if [ -f "$DETAILED_FILE" ]; then
+            # Extract statistics from the detailed file
+            STATS=$(python3 -c "
+import json
+with open('$DETAILED_FILE', 'r') as f:
+    data = json.load(f)
+metadata = data.get('metadata', {})
+total = len(data.get('courses', []))
+detailed = metadata.get('courses_with_details', 0)
+print(f'{detailed}/{total} courses with details')
+")
+          else
+            STATS="collection failed"
+          fi
+          
+          # Create commit message
+          TIMESTAMP=$(date -u)
+          git commit -m "Rio Hondo course details: ${TIMESTAMP} - ${STATS}"
+          
+          git push
+        fi
+    
+    - name: Create issue on failure
+      if: failure() && github.event_name == 'schedule'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const title = 'Rio Hondo Detail Collection Failed';
+          const body = `
+          ## Detail Collection Failure
+          
+          The automated Rio Hondo course detail collection failed.
+          
+          **Run Details:**
+          - Workflow: ${{ github.workflow }}
+          - Run ID: ${{ github.run_id }}
+          - Trigger: ${{ github.event_name }}
+          - Time: ${{ github.event.head_commit.timestamp }}
+          
+          **Next Steps:**
+          1. Check the workflow logs for specific error details
+          2. Verify the basic schedule data is available
+          3. Consider running manually with \`--limit 10\` to test
+          4. Check if Rio Hondo's servers are accessible
+          
+          **Manual Trigger:**
+          You can manually retry the collection by running the "Collect Rio Hondo Course Details" workflow.
+          `;
+          
+          github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: title,
+            body: body,
+            labels: ['bug', 'automation', 'rio-hondo']
+          });
+    
+    - name: Summary
+      if: success()
+      run: |
+        echo "✅ Rio Hondo detail collection completed successfully!"
+        if [ -f "$DETAILED_FILE" ]; then
+          echo "📁 Detailed schedule saved to: $DETAILED_FILE"
+          echo "📊 Collection report: data/detail_collection_report.md"
+        fi

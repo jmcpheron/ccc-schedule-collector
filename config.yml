@@ -68,8 +68,8 @@ collection:
   # Whether to validate SSL certificates
   verify_ssl: true
   
-  # Detail collection settings
-  collect_details: true  # Set to true to fetch detailed course information
+  # Detail collection settings (for integrated collection - now handled by separate workflow)
+  collect_details: false  # Set to true to fetch detailed course information during basic collection
   detail_delay: 1.5  # Seconds between detail requests (be respectful to server)
   detail_batch_size: 50  # Process details in batches to show progress
   detail_max_concurrent: 1  # Max concurrent detail requests (1 = sequential)

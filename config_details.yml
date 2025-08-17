@@ -1,0 +1,49 @@
+# Configuration for Rio Hondo course detail collection
+# This config is used by the collect_rio_details.py script and workflow
+
+# Detail collection specific settings
+detail_collection:
+  # Rate limiting - be respectful to Rio Hondo's servers
+  rate_limit: 1.5  # Seconds between detail requests
+  
+  # Batch processing
+  batch_size: 50  # Save progress every N courses
+  
+  # Timeout settings
+  timeout: 60  # HTTP timeout in seconds
+  
+  # Retry settings  
+  max_retries: 3  # Number of retries for failed requests
+  retry_delay: 2.0  # Seconds to wait between retries
+  
+  # Progress tracking
+  enable_progress_tracking: true
+  progress_file: "data/.rio_detail_progress.json"
+  
+  # Output settings
+  output_directory: "data"
+  filename_pattern: "schedule_detailed_{term_code}_{timestamp}.json"
+  
+  # Error handling
+  continue_on_error: true  # Continue processing other courses if one fails
+  max_errors: 100  # Stop if more than this many errors occur
+  
+# HTTP settings specific to detail requests
+http:
+  user_agent: "CCC-Schedule-Collector/1.0 (Detail Collection)"
+  verify_ssl: true
+  
+# Logging
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+# Workflow-specific settings
+workflow:
+  # GitHub Actions environment
+  commit_detailed_data: true
+  create_report: true
+  
+  # Issue creation on failure (for scheduled runs)
+  create_issue_on_failure: true
+  issue_labels: ["bug", "automation", "rio-hondo", "detail-collection"]
