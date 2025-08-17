@@ -1,0 +1,49 @@
+name: Test Rio Hondo Course Details
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Limit number of courses to process (for testing)'
+        required: false
+        type: number
+        default: 5
+
+jobs:
+  test-details:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install uv
+      uses: yezz123/setup-uv@v4
+      with:
+        uv-version: "0.5.16"
+    
+    - name: Test detail collection
+      run: |
+        chmod +x collect_rio_details.py
+        
+        LIMIT="${{ github.event.inputs.limit }}"
+        if [ "$LIMIT" == "" ]; then
+          LIMIT="5"
+        fi
+        
+        echo "Testing detail collection with limit: $LIMIT"
+        uv run collect_rio_details.py --limit $LIMIT --rate-limit 2.0 --no-resume
+    
+    - name: Show results
+      run: |
+        echo "Detail collection test completed"
+        ls -la data/schedule_detailed_*.json || echo "No detailed files found"
