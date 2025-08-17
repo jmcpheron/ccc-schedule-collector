@@ -1,0 +1,47 @@
+{
+  "crn": "71278",
+  "subject": "ACCT",
+  "course_number": "101",
+  "title": "Financial Accounting",
+  "units": 3.0,
+  "instructor": "Edward Jimenez",
+  "instructor_email": null,
+  "meeting_times": [],
+  "location": "Online ASYNC",
+  "enrollment": {
+    "capacity": 45,
+    "actual": 11,
+    "remaining": 34
+  },
+  "status": "Open",
+  "section_type": "LEC",
+  "zero_textbook_cost": false,
+  "delivery_method": "Online ASYNC",
+  "weeks": 16,
+  "start_date": null,
+  "end_date": null,
+  "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+  "book_link": null,
+  "description": "This course is an introduction to the theory, principles, and practice of accounting and financial reporting for corporations. Topics include analysis and recording of financial transactions; preparation, analysis, and interpretation of financial statements; and accounting for assets, liabilities, and equities. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+  "prerequisites": null,
+  "advisory": "ACCT 100; It is advised that students have a knowledge of elementary algebra concepts and be able to read college-level texts.",
+  "transfers_to": "UC (credit limit*) CSU (*students will receive credit for only one of the following courses: ACCT 101 or ACCT 101H)",
+  "former_course_number": null,
+  "critical_dates": {
+    "Last day to add class": "26-AUG-2025",
+    "Last day to drop with a refund": "26-AUG-2025",
+    "Last day to drop without a \"W\"": "17-SEP-2025",
+    "Last day to drop with a \"W\"": "03-NOV-2025",
+    "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+    "Census Date": "08-SEP-2025"
+  },
+  "instructional_method": null,
+  "section_corequisites": null,
+  "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71278",
+  "seating_detail": {
+    "capacity": 45,
+    "taken": 11,
+    "available": 34
+  },
+  "detail_fetched_at": "2025-08-17T05:05:07.293231Z"
+}

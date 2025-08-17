@@ -374,64 +374,104 @@ class RioHondoScheduleParser:
         detailed = DetailedCourse(**course.model_dump())
         detailed.detail_fetched_at = datetime.now(timezone.utc)
         
-        # Extract course description
-        desc_text = soup.get_text()
-        if "Course Description:" in desc_text:
-            desc_start = desc_text.find("Course Description:") + len("Course Description:")
-            desc_end = desc_text.find("View Book", desc_start)
-            if desc_end == -1:
-                desc_end = desc_text.find("Course Corequisites:", desc_start)
-            if desc_end != -1:
-                description = desc_text[desc_start:desc_end].strip()
-                
-                # Parse out components
-                if "(Formerly" in description:
-                    former_start = description.find("(Formerly")
-                    former_end = description.find(")", former_start) + 1
-                    detailed.former_course_number = description[former_start:former_end]
-                    description = description.replace(detailed.former_course_number, "").strip()
-                
-                if "Prerequisite:" in description:
-                    prereq_start = description.find("Prerequisite:")
-                    prereq_end = description.find("Advisory:", prereq_start) if "Advisory:" in description else len(description)
-                    prereq_end = prereq_end if prereq_end > prereq_start else description.find("Transfers to:", prereq_start)
-                    prereq_end = prereq_end if prereq_end > prereq_start else len(description)
-                    detailed.prerequisites = description[prereq_start:prereq_end].replace("Prerequisite:", "").strip()
-                
-                if "Advisory:" in description:
-                    adv_start = description.find("Advisory:")
-                    adv_end = description.find("Transfers to:", adv_start) if "Transfers to:" in description else len(description)
-                    detailed.advisory = description[adv_start:adv_end].replace("Advisory:", "").strip()
-                
-                if "Transfers to:" in description:
-                    trans_start = description.find("Transfers to:")
-                    trans_end = description.find("This course", trans_start) if "This course" in description else len(description)
-                    detailed.transfers_to = description[trans_start:trans_end].replace("Transfers to:", "").strip()
-                
-                # Clean description to just the main text
-                main_desc_start = description.find("This course") if "This course" in description else 0
-                if main_desc_start > 0:
-                    detailed.description = description[main_desc_start:].strip()
-                else:
-                    # If no "This course", look for other patterns
-                    detailed.description = description
-                    # Remove already extracted parts
-                    for part in [detailed.former_course_number, detailed.prerequisites, detailed.advisory, detailed.transfers_to]:
-                        if part:
-                            detailed.description = detailed.description.replace(part, "").strip()
+        # Extract course description and requirements from the structured paragraph
+        # Look for the paragraph containing course description
+        desc_paragraph = None
+        for p in soup.find_all('p'):
+            if "Course Description:" in p.get_text():
+                desc_paragraph = p
+                break
         
-        # Extract instructional method and section corequisites
-        for li in soup.find_all('li'):
-            text = li.get_text().strip()
-            if "Weekly Instructional Method" in text:
-                detailed.instructional_method = text
-            elif "Section Corequisites:" in text:
-                detailed.section_corequisites = text.replace("Section Corequisites:", "").strip()
+        if desc_paragraph:
+            # Get the HTML content to better parse structured data
+            p_html = str(desc_paragraph)
+            p_text = desc_paragraph.get_text()
+            
+            # Extract advisory
+            if "<b>Advisory:</b>" in p_html:
+                adv_start = p_text.find("Advisory:") + len("Advisory:")
+                adv_end = p_text.find("Transfers to:", adv_start) if "Transfers to:" in p_text else len(p_text)
+                detailed.advisory = p_text[adv_start:adv_end].strip()
+            
+            # Extract prerequisites (if present)
+            if "<b>Prerequisite:</b>" in p_html:
+                prereq_start = p_text.find("Prerequisite:") + len("Prerequisite:")
+                prereq_end = p_text.find("Advisory:", prereq_start) if "Advisory:" in p_text else p_text.find("Transfers to:", prereq_start)
+                if prereq_end == -1:
+                    prereq_end = len(p_text)
+                detailed.prerequisites = p_text[prereq_start:prereq_end].strip()
+            
+            # Extract transfer information
+            if "<b>Transfers to:</b>" in p_html:
+                trans_start = p_text.find("Transfers to:") + len("Transfers to:")
+                # Find the next <p> or the start of course description
+                next_p_start = p_text.find("This course", trans_start) if "This course" in p_text[trans_start:] else len(p_text)
+                detailed.transfers_to = p_text[trans_start:next_p_start].strip()
+            
+            # Extract the main course description - look for nested <p> containing "This course"
+            # Try to find the actual description within the paragraph structure
+            inner_p = desc_paragraph.find('p')
+            if inner_p:
+                inner_text = inner_p.get_text()
+                if "This course" in inner_text:
+                    # Find just the description part ending with ".."
+                    desc_match = re.search(r'This course.*?\.\.', inner_text, re.DOTALL)
+                    if desc_match:
+                        raw_description = desc_match.group(0)
+                        # Clean up double periods and extra whitespace
+                        cleaned_description = re.sub(r'\.\.+', '.', raw_description)
+                        cleaned_description = re.sub(r'\s+', ' ', cleaned_description).strip()
+                        detailed.description = cleaned_description
+            
+            # Fallback: if no inner paragraph, look in the main paragraph text
+            if not detailed.description:
+                desc_start = p_text.find("This course")
+                if desc_start != -1:
+                    # Find the end of the description - look for common patterns
+                    desc_text = p_text[desc_start:]
+                    
+                    # Look for the end of the sentence containing "majors."
+                    end_match = re.search(r'This course.*?majors\.', desc_text, re.DOTALL)
+                    if end_match:
+                        raw_description = end_match.group(0)
+                        # Clean up double periods and extra whitespace
+                        cleaned_description = re.sub(r'\.\.+', '.', raw_description)
+                        cleaned_description = re.sub(r'\s+', ' ', cleaned_description).strip()
+                        detailed.description = cleaned_description
         
-        # Extract syllabus link
+        # Extract instructional method (more precise parsing)
+        method_li = soup.find('li', string=lambda x: x and 'Weekly Instructional Method' in x)
+        if method_li:
+            detailed.instructional_method = method_li.get_text().strip()
+        
+        # Extract section corequisites separately
+        coreq_li = soup.find('li', string=lambda x: x and 'Section Corequisites:' in x)
+        if coreq_li:
+            coreq_text = coreq_li.get_text().strip()
+            detailed.section_corequisites = coreq_text.replace("Section Corequisites:", "").strip()
+        
+        # Extract weekly hours information
+        hours_info = soup.find('td', string=lambda x: x and 'Hrs/Wk' in x)
+        if hours_info:
+            hours_text = hours_info.get_text().strip()
+            detailed.additional_hours = hours_text
+        
+        # Extract syllabus link and clean it up
         syllabus_link = soup.find('a', string=lambda x: x and 'Learning Outcomes' in x)
         if syllabus_link and syllabus_link.get('href'):
-            detailed.syllabus_link = syllabus_link['href']
+            href = syllabus_link['href']
+            # Convert JavaScript link to proper URL
+            if href.startswith("JavaScript:winOpen('") and href.endswith("')"):
+                # Extract the URL from the JavaScript call
+                url_part = href[20:-2]  # Remove "JavaScript:winOpen('" and "')"
+                if not url_part.startswith('http'):
+                    # Relative URL, make it absolute
+                    base_url = "https://ssb.riohondo.edu:8443/prodssb/"
+                    detailed.syllabus_link = base_url + url_part
+                else:
+                    detailed.syllabus_link = url_part
+            else:
+                detailed.syllabus_link = href
         
         # Extract seating information
         seating_table = None
