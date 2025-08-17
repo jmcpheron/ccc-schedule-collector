@@ -126,16 +126,13 @@ jobs:
         echo "" >> data/detail_collection_report.md
         
         if [ -f "$DETAILED_FILE" ]; then
-          # Create Python script to generate report
-          cat > generate_report.py << 'EOF'
+          # Generate report using inline Python
+          python3 -c "
 import json
 import sys
 
-if len(sys.argv) < 2:
-    print("Usage: python generate_report.py <detailed_file>")
-    sys.exit(1)
-
-with open(sys.argv[1], 'r') as f:
+# Read the detailed file
+with open('$DETAILED_FILE', 'r') as f:
     data = json.load(f)
 
 metadata = data.get('metadata', {})
@@ -146,23 +143,24 @@ detail_timestamp = metadata.get('detail_collection_timestamp', 'Unknown')
 rate_limit = metadata.get('detail_rate_limit', 'Unknown')
 errors = metadata.get('detail_collection_errors', [])
 
-print(f"### Collection Summary")
-print(f"- **Total Courses**: {total_courses}")
-print(f"- **Courses with Details**: {detailed_courses}")
+print('### Collection Summary')
+print(f'- **Total Courses**: {total_courses}')
+print(f'- **Courses with Details**: {detailed_courses}')
 if total_courses > 0:
-    print(f"- **Success Rate**: {(detailed_courses/total_courses*100):.1f}%")
+    success_rate = (detailed_courses/total_courses*100)
+    print(f'- **Success Rate**: {success_rate:.1f}%')
 else:
-    print(f"- **Success Rate**: N/A")
-print(f"- **Rate Limit**: {rate_limit} seconds")
-print(f"- **Collection Time**: {detail_timestamp}")
+    print('- **Success Rate**: N/A')
+print(f'- **Rate Limit**: {rate_limit} seconds')
+print(f'- **Collection Time**: {detail_timestamp}')
 print()
 
 if errors:
-    print(f"### Errors ({len(errors)})")
+    print(f'### Errors ({len(errors)})')
     for error in errors[:10]:
-        print(f"- {error}")
+        print(f'- {error}')
     if len(errors) > 10:
-        print(f"- ... and {len(errors) - 10} more errors")
+        print(f'- ... and {len(errors) - 10} more errors')
     print()
 
 # Subject breakdown
@@ -174,28 +172,25 @@ for course in courses:
     if course.get('detail_fetched_at'):
         detailed_subjects[subject] = detailed_subjects.get(subject, 0) + 1
 
-print("### Department Summary")
-print("| Department | Total | With Details | Success Rate |")
-print("|------------|-------|--------------|--------------|")
-for subject in sorted(subjects.keys())[:20]:
+print('### Department Summary')
+print('| Department | Total | With Details | Success Rate |')
+print('|------------|-------|--------------|--------------|')
+for subject in sorted(subjects.keys())[:15]:
     total = subjects[subject]
     detailed = detailed_subjects.get(subject, 0)
-    if total > 0:
-        rate = f"{(detailed/total*100):.1f}%"
-    else:
-        rate = "0%"
-    print(f"| {subject} | {total} | {detailed} | {rate} |")
+    rate = f'{(detailed/total*100):.1f}%' if total > 0 else '0%'
+    print(f'| {subject} | {total} | {detailed} | {rate} |')
 
-if len(subjects) > 20:
-    print(f"| ... | ... | ... | ... |")
-    if total_courses > 0:
-        print(f"| **Total** | **{total_courses}** | **{detailed_courses}** | **{(detailed_courses/total_courses*100):.1f}%** |")
-EOF
-          
-          # Run the report generator
-          python3 generate_report.py "$DETAILED_FILE" >> data/detail_collection_report.md
+if len(subjects) > 15:
+    remaining = len(subjects) - 15
+    print(f'| ... {remaining} more departments | ... | ... | ... |')
+
+if total_courses > 0:
+    overall_rate = (detailed_courses/total_courses*100)
+    print(f'| **Total** | **{total_courses}** | **{detailed_courses}** | **{overall_rate:.1f}%** |')
+" >> data/detail_collection_report.md
         else
-          echo "No detailed file to report on"
+          echo "No detailed file to report on" >> data/detail_collection_report.md
         fi
     
     - name: Move detailed file to rio-hondo directory
