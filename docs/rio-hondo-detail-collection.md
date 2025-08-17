@@ -54,8 +54,11 @@ The system now uses a **two-phase approach** to balance efficiency and server-fr
 
 ## GitHub Actions Manual Triggers
 
-### Detail Collection Workflow
-Go to **Actions** → **Collect Rio Hondo Course Details** → **Run workflow**
+### Detail Collection Workflows
+
+**Main Workflow**: Go to **Actions** → **Collect Rio Hondo Course Details** → **Run workflow**
+
+**Test Workflow**: Go to **Actions** → **Test Rio Hondo Detail Collection** → **Run workflow** (for testing with small datasets)
 
 Options:
 - **schedule_file**: Specific file to process (optional - auto-detects latest)

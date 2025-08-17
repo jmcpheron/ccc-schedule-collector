@@ -1,4 +1,4 @@
-name: Test Rio Hondo Course Details
+name: Test Rio Hondo Detail Collection
 
 on:
   workflow_dispatch:

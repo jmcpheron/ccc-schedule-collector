@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       schedule_file:
-        description: 'Specific schedule file to process (optional - auto-detects latest if not provided)'
+        description: 'Specific schedule file to process (optional)'
         required: false
         type: string
       limit:
@@ -22,7 +22,6 @@ on:
         type: boolean
         default: false
   schedule:
-    # Run daily at 3:26 AM UTC (low traffic time)
     - cron: '26 3 * * *'
 
 jobs:
@@ -60,15 +59,11 @@ jobs:
         
         if [ ! -f "$SCHEDULE_FILE" ]; then
           echo "ERROR: No basic schedule data found. Run basic collection first."
-          echo "Available files in data/rio-hondo/:"
           ls -la data/rio-hondo/ || echo "Directory does not exist"
           exit 1
         fi
         
-        # Export for next steps
         echo "SCHEDULE_FILE=$SCHEDULE_FILE" >> $GITHUB_ENV
-        
-        # Show schedule info
         echo "Schedule file details:"
         uv run cli.py info "$SCHEDULE_FILE" | head -10
     
@@ -76,7 +71,6 @@ jobs:
       run: |
         chmod +x collect_rio_details.py
         
-        # Build command with inputs
         CMD="uv run collect_rio_details.py"
         
         if [ "${{ github.event.inputs.schedule_file }}" != "" ]; then
@@ -100,19 +94,15 @@ jobs:
         echo "Running: $CMD"
         eval $CMD
         
-        # Clean up any progress files on success
         rm -f data/.rio_detail_progress.json
     
     - name: Validate detailed data
       run: |
-        # Find the most recent detailed schedule file
         DETAILED_FILE=$(ls data/schedule_detailed_*.json 2>/dev/null | sort -r | head -1)
         
         if [ -f "$DETAILED_FILE" ]; then
           echo "Validating detailed schedule: $DETAILED_FILE"
           uv run cli.py validate "$DETAILED_FILE"
-          
-          # Store for next steps
           echo "DETAILED_FILE=$DETAILED_FILE" >> $GITHUB_ENV
         else
           echo "ERROR: No detailed schedule file found"
@@ -120,56 +110,31 @@ jobs:
           exit 1
         fi
     
-    - name: Generate detail collection report
+    - name: Generate simple report
       run: |
         echo "## Rio Hondo Detail Collection Report - $(date -u)" > data/detail_collection_report.md
         echo "" >> data/detail_collection_report.md
         
         if [ -f "$DETAILED_FILE" ]; then
-          # Extract basic stats using jq and shell commands
           TOTAL_COURSES=$(jq '.courses | length' "$DETAILED_FILE")
           DETAILED_COURSES=$(jq '.metadata.courses_with_details // 0' "$DETAILED_FILE")
           RATE_LIMIT=$(jq -r '.metadata.detail_rate_limit // "Unknown"' "$DETAILED_FILE")
-          TIMESTAMP=$(jq -r '.metadata.detail_collection_timestamp // "Unknown"' "$DETAILED_FILE")
           
-          # Calculate success rate using awk instead of bc
-          if [ "$TOTAL_COURSES" -gt 0 ]; then
-            SUCCESS_RATE=$(awk "BEGIN {printf \"%.1f\", $DETAILED_COURSES * 100 / $TOTAL_COURSES}")
-          else
-            SUCCESS_RATE="N/A"
-          fi
-          
-          # Write summary
           echo "### Collection Summary" >> data/detail_collection_report.md
           echo "- **Total Courses**: $TOTAL_COURSES" >> data/detail_collection_report.md
           echo "- **Courses with Details**: $DETAILED_COURSES" >> data/detail_collection_report.md
-          echo "- **Success Rate**: ${SUCCESS_RATE}%" >> data/detail_collection_report.md
           echo "- **Rate Limit**: $RATE_LIMIT seconds" >> data/detail_collection_report.md
-          echo "- **Collection Time**: $TIMESTAMP" >> data/detail_collection_report.md
           echo "" >> data/detail_collection_report.md
-          
-          # Extract top departments
-          echo "### Top Departments" >> data/detail_collection_report.md
-          echo "| Department | Total Courses |" >> data/detail_collection_report.md
-          echo "|------------|---------------|" >> data/detail_collection_report.md
-          
-          # Get department counts
-          jq -r '.courses | group_by(.subject) | map({subject: .[0].subject, count: length}) | sort_by(-.count) | .[:10] | .[] | "| \(.subject) | \(.count) |"' "$DETAILED_FILE" >> data/detail_collection_report.md
-          
-          echo "" >> data/detail_collection_report.md
-          echo "**Total**: $DETAILED_COURSES/$TOTAL_COURSES courses with detailed information" >> data/detail_collection_report.md
+          echo "**Collection completed successfully!**" >> data/detail_collection_report.md
         else
           echo "No detailed file to report on" >> data/detail_collection_report.md
         fi
     
     - name: Move detailed file to rio-hondo directory
       run: |
-        # Move the detailed file to the proper location for organization
         if [ -f "$DETAILED_FILE" ]; then
           mkdir -p data/rio-hondo
           mv "$DETAILED_FILE" data/rio-hondo/
-          
-          # Update the environment variable
           DETAILED_FILE="data/rio-hondo/$(basename $DETAILED_FILE)"
           echo "DETAILED_FILE=$DETAILED_FILE" >> $GITHUB_ENV
           echo "Moved detailed file to: $DETAILED_FILE"
@@ -180,70 +145,23 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # Add all changes
         git add data/
         
-        # Check if there are changes to commit
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          # Create commit message with statistics
           if [ -f "$DETAILED_FILE" ]; then
-            # Extract statistics from the detailed file
-            STATS=$(python3 -c "
-import json
-with open('$DETAILED_FILE', 'r') as f:
-    data = json.load(f)
-metadata = data.get('metadata', {})
-total = len(data.get('courses', []))
-detailed = metadata.get('courses_with_details', 0)
-print(f'{detailed}/{total} courses with details')
-")
+            TOTAL=$(jq '.courses | length' "$DETAILED_FILE")
+            DETAILED=$(jq '.metadata.courses_with_details // 0' "$DETAILED_FILE")
+            STATS="${DETAILED}/${TOTAL} courses with details"
           else
             STATS="collection failed"
           fi
           
-          # Create commit message
           TIMESTAMP=$(date -u)
           git commit -m "Rio Hondo course details: ${TIMESTAMP} - ${STATS}"
-          
           git push
         fi
-    
-    - name: Create issue on failure
-      if: failure() && github.event_name == 'schedule'
-      uses: actions/github-script@v7
-      with:
-        script: |
-          const title = 'Rio Hondo Detail Collection Failed';
-          const body = `
-          ## Detail Collection Failure
-          
-          The automated Rio Hondo course detail collection failed.
-          
-          **Run Details:**
-          - Workflow: ${{ github.workflow }}
-          - Run ID: ${{ github.run_id }}
-          - Trigger: ${{ github.event_name }}
-          - Time: ${{ github.event.head_commit.timestamp }}
-          
-          **Next Steps:**
-          1. Check the workflow logs for specific error details
-          2. Verify the basic schedule data is available
-          3. Consider running manually with \`--limit 10\` to test
-          4. Check if Rio Hondo's servers are accessible
-          
-          **Manual Trigger:**
-          You can manually retry the collection by running the "Collect Rio Hondo Course Details" workflow.
-          `;
-          
-          github.rest.issues.create({
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            title: title,
-            body: body,
-            labels: ['bug', 'automation', 'rio-hondo']
-          });
     
     - name: Summary
       if: success()
