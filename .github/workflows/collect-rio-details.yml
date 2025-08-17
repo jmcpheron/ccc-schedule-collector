@@ -126,11 +126,14 @@ jobs:
         echo "" >> data/detail_collection_report.md
         
         if [ -f "$DETAILED_FILE" ]; then
-          # Extract metadata from the detailed file
-          python3 << 'EOF' >> data/detail_collection_report.md
+          # Create Python script to generate report
+          cat > generate_report.py << 'EOF'
 import json
 import sys
-from datetime import datetime
+
+if len(sys.argv) < 2:
+    print("Usage: python generate_report.py <detailed_file>")
+    sys.exit(1)
 
 with open(sys.argv[1], 'r') as f:
     data = json.load(f)
@@ -146,14 +149,17 @@ errors = metadata.get('detail_collection_errors', [])
 print(f"### Collection Summary")
 print(f"- **Total Courses**: {total_courses}")
 print(f"- **Courses with Details**: {detailed_courses}")
-print(f"- **Success Rate**: {(detailed_courses/total_courses*100):.1f}%" if total_courses > 0 else "- **Success Rate**: N/A")
+if total_courses > 0:
+    print(f"- **Success Rate**: {(detailed_courses/total_courses*100):.1f}%")
+else:
+    print(f"- **Success Rate**: N/A")
 print(f"- **Rate Limit**: {rate_limit} seconds")
 print(f"- **Collection Time**: {detail_timestamp}")
 print()
 
 if errors:
     print(f"### Errors ({len(errors)})")
-    for error in errors[:10]:  # Show first 10 errors
+    for error in errors[:10]:
         print(f"- {error}")
     if len(errors) > 10:
         print(f"- ... and {len(errors) - 10} more errors")
@@ -171,17 +177,23 @@ for course in courses:
 print("### Department Summary")
 print("| Department | Total | With Details | Success Rate |")
 print("|------------|-------|--------------|--------------|")
-for subject in sorted(subjects.keys())[:20]:  # Top 20 departments
+for subject in sorted(subjects.keys())[:20]:
     total = subjects[subject]
     detailed = detailed_subjects.get(subject, 0)
-    rate = f"{(detailed/total*100):.1f}%" if total > 0 else "0%"
+    if total > 0:
+        rate = f"{(detailed/total*100):.1f}%"
+    else:
+        rate = "0%"
     print(f"| {subject} | {total} | {detailed} | {rate} |")
 
 if len(subjects) > 20:
     print(f"| ... | ... | ... | ... |")
-    print(f"| **Total** | **{total_courses}** | **{detailed_courses}** | **{(detailed_courses/total_courses*100):.1f}%** |")
+    if total_courses > 0:
+        print(f"| **Total** | **{total_courses}** | **{detailed_courses}** | **{(detailed_courses/total_courses*100):.1f}%** |")
 EOF
-        python3 $GITHUB_WORKSPACE/$(basename "$0") "$DETAILED_FILE"
+          
+          # Run the report generator
+          python3 generate_report.py "$DETAILED_FILE" >> data/detail_collection_report.md
         else
           echo "No detailed file to report on"
         fi
