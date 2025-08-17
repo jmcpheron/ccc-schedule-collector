@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-08-17T14:32:17.893546Z",
+  "collection_timestamp": "2025-08-17T22:33:12.628101Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -57,8 +57,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 34,
-        "remaining": 6
+        "actual": 33,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -217,8 +217,8 @@
       "location": "Business 119",
       "enrollment": {
         "capacity": 45,
-        "actual": 40,
-        "remaining": 5
+        "actual": 41,
+        "remaining": 4
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -2873,10 +2873,10 @@
       "location": "Administration of Justice 323",
       "enrollment": {
         "capacity": 35,
-        "actual": 34,
-        "remaining": 1
+        "actual": 35,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3129,8 +3129,8 @@
       "location": "Administration of Justice 323",
       "enrollment": {
         "capacity": 35,
-        "actual": 14,
-        "remaining": 21
+        "actual": 15,
+        "remaining": 20
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -4121,8 +4121,8 @@
       "location": "Learning Resource Center (LRC) 104",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -4700,7 +4700,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -4732,7 +4732,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -5401,8 +5401,8 @@
       "location": "Science 306",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -5785,8 +5785,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 45,
-        "actual": 34,
-        "remaining": 11
+        "actual": 35,
+        "remaining": 10
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -6169,8 +6169,8 @@
       "location": "Business 011",
       "enrollment": {
         "capacity": 26,
-        "actual": 19,
-        "remaining": 7
+        "actual": 18,
+        "remaining": 8
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -6777,8 +6777,8 @@
       "location": "Business 010",
       "enrollment": {
         "capacity": 20,
-        "actual": 15,
-        "remaining": 5
+        "actual": 16,
+        "remaining": 4
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -7676,7 +7676,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -8121,8 +8121,8 @@
       "location": "Science 236",
       "enrollment": {
         "capacity": 62,
-        "actual": 41,
-        "remaining": 21
+        "actual": 40,
+        "remaining": 22
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -9209,10 +9209,10 @@
       "location": "Science 136",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 24,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -9433,8 +9433,8 @@
       "location": "Science 130",
       "enrollment": {
         "capacity": 24,
-        "actual": 22,
-        "remaining": 2
+        "actual": 21,
+        "remaining": 3
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -9561,10 +9561,10 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 48,
-        "actual": 48,
-        "remaining": 0
+        "actual": 47,
+        "remaining": 1
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -9945,8 +9945,8 @@
       "location": "Science 124",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 20,
+        "remaining": 4
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -10105,8 +10105,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 24,
+        "remaining": 0
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -10585,8 +10585,8 @@
       "location": "Science 221",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -13113,10 +13113,10 @@
       "location": "Science 333",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13689,8 +13689,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 35,
-        "remaining": 10
+        "actual": 37,
+        "remaining": 8
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -14489,8 +14489,8 @@
       "location": "Business 107",
       "enrollment": {
         "capacity": 35,
-        "actual": 20,
-        "remaining": 15
+        "actual": 21,
+        "remaining": 14
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -14524,7 +14524,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -16249,8 +16249,8 @@
       "location": "Business 109",
       "enrollment": {
         "capacity": 35,
-        "actual": 29,
-        "remaining": 6
+        "actual": 30,
+        "remaining": 5
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -16793,8 +16793,8 @@
       "location": "Business 109",
       "enrollment": {
         "capacity": 35,
-        "actual": 27,
-        "remaining": 8
+        "actual": 28,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -17177,8 +17177,8 @@
       "location": "Physical Education 139",
       "enrollment": {
         "capacity": 35,
-        "actual": 14,
-        "remaining": 15
+        "actual": 15,
+        "remaining": 14
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -18713,8 +18713,8 @@
       "location": "Administration 207",
       "enrollment": {
         "capacity": 45,
-        "actual": 37,
-        "remaining": 8
+        "actual": 38,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -18809,8 +18809,8 @@
       "location": "Administration 224",
       "enrollment": {
         "capacity": 45,
-        "actual": 27,
-        "remaining": 18
+        "actual": 26,
+        "remaining": 19
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -19225,8 +19225,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 40,
-        "actual": 37,
-        "remaining": 3
+        "actual": 38,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -19673,8 +19673,8 @@
       "location": "Administration 211",
       "enrollment": {
         "capacity": 28,
-        "actual": 17,
-        "remaining": 11
+        "actual": 18,
+        "remaining": 10
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -19833,10 +19833,10 @@
       "location": "Administration 214",
       "enrollment": {
         "capacity": 28,
-        "actual": 27,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -19865,10 +19865,10 @@
       "location": "Administration 206",
       "enrollment": {
         "capacity": 28,
-        "actual": 27,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -19993,8 +19993,8 @@
       "location": "Learning Resource Center (LRC) 123",
       "enrollment": {
         "capacity": 28,
-        "actual": 21,
-        "remaining": 7
+        "actual": 22,
+        "remaining": 6
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -20761,10 +20761,10 @@
       "location": "Administration 206",
       "enrollment": {
         "capacity": 28,
-        "actual": 27,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -21401,8 +21401,8 @@
       "location": "Administration 213",
       "enrollment": {
         "capacity": 28,
-        "actual": 27,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 0
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -21561,10 +21561,10 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 28,
-        "actual": 28,
-        "remaining": 0
+        "actual": 27,
+        "remaining": 1
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online SYNC",
@@ -21689,10 +21689,10 @@
       "location": "Learning Resource Center (LRC) 124",
       "enrollment": {
         "capacity": 28,
-        "actual": 27,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -21753,10 +21753,10 @@
       "location": "Administration 214",
       "enrollment": {
         "capacity": 28,
-        "actual": 27,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -21881,8 +21881,8 @@
       "location": "Administration 211",
       "enrollment": {
         "capacity": 28,
-        "actual": 17,
-        "remaining": 11
+        "actual": 18,
+        "remaining": 10
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -22108,7 +22108,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -22553,8 +22553,8 @@
       "location": "Administration 214",
       "enrollment": {
         "capacity": 28,
-        "actual": 26,
-        "remaining": 2
+        "actual": 27,
+        "remaining": 1
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -22617,8 +22617,8 @@
       "location": "Learning Resource Center (LRC) 123",
       "enrollment": {
         "capacity": 28,
-        "actual": 21,
-        "remaining": 7
+        "actual": 22,
+        "remaining": 6
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -22873,10 +22873,10 @@
       "location": "Learning Resource Center (LRC) 119",
       "enrollment": {
         "capacity": 28,
-        "actual": 27,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -23577,8 +23577,8 @@
       "location": "Science 310",
       "enrollment": {
         "capacity": 24,
-        "actual": 16,
-        "remaining": 8
+        "actual": 17,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -23609,8 +23609,8 @@
       "location": "Science 310",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -23673,8 +23673,8 @@
       "location": "Science 307",
       "enrollment": {
         "capacity": 24,
-        "actual": 5,
-        "remaining": 19
+        "actual": 4,
+        "remaining": 20
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -25148,7 +25148,7 @@
         "actual": 44,
         "remaining": 1
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -25465,8 +25465,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 33,
-        "remaining": 2
+        "actual": 34,
+        "remaining": 1
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -25913,8 +25913,8 @@
       "location": "Administration of Justice 320",
       "enrollment": {
         "capacity": 35,
-        "actual": 35,
-        "remaining": 0
+        "actual": 34,
+        "remaining": 1
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -26457,8 +26457,8 @@
       "location": "Administration of Justice 323",
       "enrollment": {
         "capacity": 35,
-        "actual": 35,
-        "remaining": 0
+        "actual": 34,
+        "remaining": 1
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -26553,8 +26553,8 @@
       "location": "Administration 210",
       "enrollment": {
         "capacity": 32,
-        "actual": 13,
-        "remaining": 19
+        "actual": 14,
+        "remaining": 18
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -27481,8 +27481,8 @@
       "location": "Science 229",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -27737,10 +27737,10 @@
       "location": "Technology 157",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 24,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -27897,8 +27897,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 27,
-        "remaining": 18
+        "actual": 28,
+        "remaining": 17
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -29305,8 +29305,8 @@
       "location": "Administration 224",
       "enrollment": {
         "capacity": 45,
-        "actual": 14,
-        "remaining": 31
+        "actual": 15,
+        "remaining": 30
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -30297,8 +30297,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 45,
-        "actual": 29,
-        "remaining": 16
+        "actual": 28,
+        "remaining": 17
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -32345,8 +32345,8 @@
       "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
-        "actual": 10,
-        "remaining": 15
+        "actual": 11,
+        "remaining": 14
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -32441,8 +32441,8 @@
       "location": "Physical Education 150",
       "enrollment": {
         "capacity": 20,
-        "actual": 4,
-        "remaining": 16
+        "actual": 5,
+        "remaining": 15
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -32764,7 +32764,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -33049,8 +33049,8 @@
       "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
-        "actual": 17,
-        "remaining": 13
+        "actual": 15,
+        "remaining": 15
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -33113,8 +33113,8 @@
       "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
-        "actual": 20,
-        "remaining": 10
+        "actual": 22,
+        "remaining": 8
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -33209,8 +33209,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 25,
-        "actual": 23,
-        "remaining": 2
+        "actual": 24,
+        "remaining": 1
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -33753,8 +33753,8 @@
       "location": "Tennis Courts",
       "enrollment": {
         "capacity": 40,
-        "actual": 9,
-        "remaining": 31
+        "actual": 8,
+        "remaining": 32
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -35964,7 +35964,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
@@ -36121,8 +36121,8 @@
       "location": "Science 211",
       "enrollment": {
         "capacity": 35,
-        "actual": 30,
-        "remaining": 5
+        "actual": 31,
+        "remaining": 4
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -36153,8 +36153,8 @@
       "location": "Science 211",
       "enrollment": {
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 27,
+        "remaining": 8
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -36217,8 +36217,8 @@
       "location": "Science 211",
       "enrollment": {
         "capacity": 35,
-        "actual": 10,
-        "remaining": 25
+        "actual": 11,
+        "remaining": 24
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -37593,8 +37593,8 @@
       "location": "Business 108",
       "enrollment": {
         "capacity": 45,
-        "actual": 10,
-        "remaining": 35
+        "actual": 11,
+        "remaining": 34
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -39001,8 +39001,8 @@
       "location": "Modular Classrooms 10",
       "enrollment": {
         "capacity": 30,
-        "actual": 2,
-        "remaining": 28
+        "actual": 3,
+        "remaining": 27
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -40569,8 +40569,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 44,
-        "actual": 43,
-        "remaining": 1
+        "actual": 44,
+        "remaining": 0
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -43001,8 +43001,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 17,
-        "remaining": 18
+        "actual": 18,
+        "remaining": 17
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -43225,8 +43225,8 @@
       "location": "Science 202",
       "enrollment": {
         "capacity": 40,
-        "actual": 40,
-        "remaining": 0
+        "actual": 39,
+        "remaining": 1
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -45337,8 +45337,8 @@
       "location": "Science 226",
       "enrollment": {
         "capacity": 24,
-        "actual": 10,
-        "remaining": 14
+        "actual": 9,
+        "remaining": 15
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -46393,8 +46393,8 @@
       "location": "Administration 212",
       "enrollment": {
         "capacity": 45,
-        "actual": 29,
-        "remaining": 16
+        "actual": 30,
+        "remaining": 15
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -46553,10 +46553,10 @@
       "location": "Administration 212",
       "enrollment": {
         "capacity": 25,
-        "actual": 25,
-        "remaining": 0
+        "actual": 24,
+        "remaining": 1
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -46809,8 +46809,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 45,
-        "actual": 32,
-        "remaining": 13
+        "actual": 33,
+        "remaining": 12
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -46937,8 +46937,8 @@
       "location": "Science 220",
       "enrollment": {
         "capacity": 35,
-        "actual": 32,
-        "remaining": 3
+        "actual": 33,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -47737,8 +47737,8 @@
       "location": "Science 336",
       "enrollment": {
         "capacity": 45,
-        "actual": 33,
-        "remaining": 12
+        "actual": 34,
+        "remaining": 11
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -48249,8 +48249,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 34,
-        "remaining": 11
+        "actual": 35,
+        "remaining": 10
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -50873,8 +50873,8 @@
       "location": "Science 200",
       "enrollment": {
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 29,
+        "remaining": 6
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -51065,8 +51065,8 @@
       "location": "Science 301",
       "enrollment": {
         "capacity": 35,
-        "actual": 34,
-        "remaining": 1
+        "actual": 33,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -51673,8 +51673,8 @@
       "location": "Science 304",
       "enrollment": {
         "capacity": 24,
-        "actual": 14,
-        "remaining": 10
+        "actual": 13,
+        "remaining": 11
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -52217,8 +52217,8 @@
       "location": "Technology 114",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -52377,10 +52377,10 @@
       "location": "Technology 114",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 24,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
