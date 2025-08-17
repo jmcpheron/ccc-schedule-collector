@@ -85181,6 +85181,2562 @@
         "available": 4
       },
       "detail_fetched_at": "2025-08-17T18:20:41.800030Z"
+    },
+    {
+      "crn": "78273",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Introduction to Statistics (formerly MATH 130)",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78273')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78273",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:20:43.500965Z"
+    },
+    {
+      "crn": "78294",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Introduction to Statistics (formerly MATH 130)",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78294')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78294",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 34,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-17T18:20:45.111795Z"
+    },
+    {
+      "crn": "78295",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Introduction to Statistics (formerly MATH 130)",
+      "units": 4.0,
+      "instructor": "Alan  Archambault",
+      "instructor_email": "aarchambault@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 211",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 16,
+        "remaining": 19
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78295')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78295",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 16,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-08-17T18:20:46.723327Z"
+    },
+    {
+      "crn": "78296",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Introduction to Statistics (formerly MATH 130)",
+      "units": 4.0,
+      "instructor": "Henry  Leang",
+      "instructor_email": "hleang@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 200",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 15,
+        "remaining": 20
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78296')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78296",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 15,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-08-17T18:20:48.334779Z"
+    },
+    {
+      "crn": "78297",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Introduction to Statistics (formerly MATH 130)",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78297')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78297",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:20:49.953562Z"
+    },
+    {
+      "crn": "78298",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Introduction to Statistics (formerly MATH 130)",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Cancelled",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78298')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78298",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:20:51.566771Z"
+    },
+    {
+      "crn": "78299",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Introduction to Statistics (formerly MATH 130)",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Cancelled",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78299')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78299",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:20:53.178797Z"
+    },
+    {
+      "crn": "78300",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Introduction to Statistics (formerly MATH 130)",
+      "units": 4.0,
+      "instructor": "Gregory  Miller",
+      "instructor_email": "gmiller@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "02:55pm",
+          "end_time": "05:00pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 200",
+      "enrollment": {
+        "capacity": 25,
+        "actual": 6,
+        "remaining": 19
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78300')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78300",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 6,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-08-17T18:20:54.800278Z"
+    },
+    {
+      "crn": "78301",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Introduction to Statistics (formerly MATH 130)",
+      "units": 4.0,
+      "instructor": "Veronica  Holbrook",
+      "instructor_email": "vholbrook@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "08:00am",
+          "end_time": "10:05am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 301",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 28,
+        "remaining": 7
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78301')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78301",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 28,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-08-17T18:20:56.404875Z"
+    },
+    {
+      "crn": "78302",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Introduction to Statistics (formerly MATH 130)",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78302')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78302",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:20:58.020309Z"
+    },
+    {
+      "crn": "78303",
+      "subject": "STAT",
+      "course_number": "C1000",
+      "title": "Introduction to Statistics (formerly MATH 130)",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78303')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78303",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:20:59.639600Z"
+    },
+    {
+      "crn": "78340",
+      "subject": "STAT",
+      "course_number": "C1000H",
+      "title": "Introduction to Statistics - Honors (formerly MATH 130H)",
+      "units": 4.0,
+      "instructor": "Gregory  Miller",
+      "instructor_email": "gmiller@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "02:55pm",
+          "end_time": "05:00pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 200",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 10,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78340')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78340",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 10,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:21:01.252976Z"
+    },
+    {
+      "crn": "78465",
+      "subject": "STEM",
+      "course_number": "049A",
+      "title": "How to be a Successful STEM Student",
+      "units": 1.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "12",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "1.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78465')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.This course is designed for students entering science, technology, engineering, or math (STEM) degree programs who plan to transfer to earn a bachelor's degree in their field. The course introduces students to effective STEM study skills, the importance of participating in internships, and appropriate extracurricular activities. Topics covered are designed to increase student success in STEM fields. \nStudents are expected to be concurrently enrolled in at least one mathematics or science course in order to apply skills covered in this course.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:08 AM\nTitle: STEM 049A  Be a Successful STEM Student\n CRN: 78465\n Instructor: Gisela Spieler-Persad\n UA Independent Study Daily Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nASYNC \nOnline\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\n1.5 Hrs/Wk arr in addition to any scheduled hrs if applicable\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n45\n12\n33\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n22-SEP-2025\nLast day to drop with a refund:\n22-SEP-2025\nLast day to drop without a \"W\":\n07-OCT-2025\nLast day to drop with a \"W\":\n13-NOV-2025\nPass/No Pass Petition Deadline Date:\n05-DEC-2025\nCensus Date:\n29-SEP-2025\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "22-SEP-2025",
+        "Last day to drop with a refund": "22-SEP-2025",
+        "Last day to drop without a \"W\"": "07-OCT-2025",
+        "Last day to drop with a \"W\"": "13-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "29-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78465",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 12,
+        "available": 33
+      },
+      "detail_fetched_at": "2025-08-17T18:21:02.862846Z"
+    },
+    {
+      "crn": "78424",
+      "subject": "TCED",
+      "course_number": "090",
+      "title": "Blueprint Reading for Industry",
+      "units": 2.0,
+      "instructor": "Anh-Tuan  Le",
+      "instructor_email": "ale@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "06:00pm",
+          "end_time": "07:25pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Cancelled",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78424')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.This course is for all students interested in pursuing certificates, degrees and careers related to manufacturing, welding, and drafting technologies. The course presents an introduction to the use of engineering documents or blueprints as used in industrial applications and focuses on interpreting and visualizing technical drawings in order to read and understand \u201cThe Language of Industry.\u201d Principles of reading drawings, specifications, projection principles, working drawings, details, assemblies, and pictorial representations are examined and discussed. The course is also helpful for apprentices and employees in all areas of technology including planning, purchasing, machine trades, welding/fabrication, future engineers, and inspection.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:10 AM\nTitle: TCED 090  Blueprint Reading for Industry\n CRN: 78424\n Instructor: Anh-Tuan Le\n Instructor: Anh-Tuan Le\n CH Weekly Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nS\n \nScience\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\n \n \n \nR\n \n \n \n06:00pm - 07:25pm\nS  Science\n08/16/25\n12/06/25\n\n\n\n\n \n \n \nR\n \n \n \n07:35pm - 09:00pm\nS  Science\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n0\n0\n0\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78424",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:21:04.473754Z"
+    },
+    {
+      "crn": "78458",
+      "subject": "TCED",
+      "course_number": "090",
+      "title": "Blueprint Reading for Industry",
+      "units": 2.0,
+      "instructor": "Anh-Tuan  Le",
+      "instructor_email": "ale@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 304",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 14,
+        "remaining": 10
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78458')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.This course is for all students interested in pursuing certificates, degrees and careers related to manufacturing, welding, and drafting technologies. The course presents an introduction to the use of engineering documents or blueprints as used in industrial applications and focuses on interpreting and visualizing technical drawings in order to read and understand \u201cThe Language of Industry.\u201d Principles of reading drawings, specifications, projection principles, working drawings, details, assemblies, and pictorial representations are examined and discussed. The course is also helpful for apprentices and employees in all areas of technology including planning, purchasing, machine trades, welding/fabrication, future engineers, and inspection.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:11 AM\nTitle: TCED 090  Blueprint Reading for Industry\n CRN: 78458\n Instructor: Anh-Tuan Le\n Instructor: Anh-Tuan Le\n CH Weekly Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nS\n304 \nScience\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\n \n \nW\n \n \n \n \n06:00pm - 07:25pm\nS 304 Science\n08/16/25\n12/06/25\n\n\n\n\n \n \nW\n \n \n \n \n07:35pm - 09:00pm\nS 304 Science\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n24\n14\n10\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78458",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 14,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-08-17T18:21:06.102848Z"
+    },
+    {
+      "crn": "77908",
+      "subject": "TESL",
+      "course_number": "101D",
+      "title": "Tesla Student Automotive Technician (START) Program - D",
+      "units": 3.0,
+      "instructor": "John  Frala",
+      "instructor_email": "jfrala@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "07:00am",
+          "end_time": "10:05am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Technology 121",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 9,
+        "remaining": 15
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 4,
+      "start_date": "08/11",
+      "end_date": "09/03",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77908')",
+      "description": null,
+      "prerequisites": "TESL 101C",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "11-AUG-2025",
+        "Last day to drop with a refund": "11-AUG-2025",
+        "Last day to drop without a \"W\"": "13-AUG-2025",
+        "Last day to drop with a \"W\"": "26-AUG-2025",
+        "Pass/No Pass Petition Deadline Date": "03-SEP-2025",
+        "Census Date": "12-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77908",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 9,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-08-17T18:21:07.721159Z"
+    },
+    {
+      "crn": "76712",
+      "subject": "THTR",
+      "course_number": "101",
+      "title": "Introduction to Theatre",
+      "units": 3.0,
+      "instructor": "Matthew  Schleicher",
+      "instructor_email": "mschleicher@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "11:10am",
+          "end_time": "12:35pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Business 118",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 44,
+        "remaining": 1
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76712')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76712",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-17T18:21:09.335647Z"
+    },
+    {
+      "crn": "71031",
+      "subject": "THTR",
+      "course_number": "110",
+      "title": "Principles of Acting I",
+      "units": 3.0,
+      "instructor": "Matthew  Schleicher",
+      "instructor_email": "mschleicher@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "02:20pm",
+          "end_time": "03:10pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Modular Classrooms 06",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 19,
+        "remaining": 5
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71031')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71031",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 19,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-17T18:21:10.978763Z"
+    },
+    {
+      "crn": "77758",
+      "subject": "THTR",
+      "course_number": "150",
+      "title": "Stagecraft I for Theatre, TV and Film",
+      "units": 3.0,
+      "instructor": "Eric  Larson",
+      "instructor_email": "elarson@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Modular Classrooms 01",
+      "enrollment": {
+        "capacity": 18,
+        "actual": 17,
+        "remaining": 1
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77758')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSUThe course is designed for the student who wishes to gain a basic understanding of the technical phases of scene production including construction, painting, rigging, placement and manipulation of stage scenery, lighting equipment, sound equipment, properties and wardrobe as well as the organization and management of stage activity and stagecraft terminology. The student will study the aesthetics and practical application principles of stage scenic, sound and lighting design. Students are assigned a specific crew responsibility that directly relates to a college theatre production. \n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:18 AM\nTitle: THTR 150  Stagecraft I\n CRN: 77758\n Instructor: Eric Larson\n Instructor: Eric Larson\n Instructor: Eric Larson\n CH Weekly Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nMC\n01 \nModular Classrooms\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\nM\n \n \n \n \n \n \n12:45pm - 01:35pm\nMC 01 Modular Classrooms\n08/16/25\n12/06/25\n\n\n\n\n \n \nW\n \n \n \n \n12:45pm - 04:15pm\nMC 01 Modular Classrooms\n08/16/25\n12/06/25\n\n\n\n\nM\n \n \n \n \n \n \n01:45pm - 04:15pm\nMC 01 Modular Classrooms\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n18\n17\n1\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\nCrosslisted Sections\n\n\nCRN\n Course\n Title\n\n\n77759\nTHTR151\nStagecraft II\n\n\n77760\nTHTR152\nStagecraft III\n\n\n\n\nSeating Availablity\n\n\nCapacity\n Taken\n Available\n\n\n24\n18\n6\n\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77758",
+      "seating_detail": {
+        "capacity": 18,
+        "taken": 17,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-17T18:21:12.595805Z"
+    },
+    {
+      "crn": "77759",
+      "subject": "THTR",
+      "course_number": "151",
+      "title": "Stagecraft II for Theatre, TV, and Film",
+      "units": 3.0,
+      "instructor": "Eric  Larson",
+      "instructor_email": "elarson@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Modular Classrooms 01",
+      "enrollment": {
+        "capacity": 4,
+        "actual": 1,
+        "remaining": 3
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77759')",
+      "description": null,
+      "prerequisites": "THTR 150",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77759",
+      "seating_detail": {
+        "capacity": 4,
+        "taken": 1,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-17T18:21:14.212562Z"
+    },
+    {
+      "crn": "77760",
+      "subject": "THTR",
+      "course_number": "152",
+      "title": "Stagecraft III for Theatre, TV, and Film",
+      "units": 3.0,
+      "instructor": "Eric  Larson",
+      "instructor_email": "elarson@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Modular Classrooms 01",
+      "enrollment": {
+        "capacity": 2,
+        "actual": 0,
+        "remaining": 2
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77760')",
+      "description": null,
+      "prerequisites": "THTR 151",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77760",
+      "seating_detail": {
+        "capacity": 2,
+        "taken": 0,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-17T18:21:15.827104Z"
+    },
+    {
+      "crn": "72923",
+      "subject": "THTR",
+      "course_number": "159",
+      "title": "Stage Crew Activity",
+      "units": 1.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "14",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "3.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72923')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts, THTR 150",
+      "transfers_to": "UC,CSUmusical, or dance productions presented to the community. Students will be involved in one or more of the following areas of concentration and responsibility: stage management, house management, stage crew, scenery building and painting, props, lighting, costumes, make-up, sound and/or special effects. Students will identify a preference for stage crew/technical theatre production assignments through the interview process.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "10-SEP-2025",
+        "Last day to drop with a refund": "10-SEP-2025",
+        "Last day to drop without a \"W\"": "29-SEP-2025",
+        "Last day to drop with a \"W\"": "10-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "18-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72923",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 12,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-17T18:21:17.440860Z"
+    },
+    {
+      "crn": "71069",
+      "subject": "THTR",
+      "course_number": "170",
+      "title": "Theatre Rehearsal & Performance",
+      "units": 3.0,
+      "instructor": "Matthew  Schleicher",
+      "instructor_email": "mschleicher@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "06:30pm",
+          "end_time": "07:20pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Modular Classrooms 06",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 20,
+        "remaining": 4
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71069')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "THTR 110, THTR 150Limitations: Performing students must audition/interview and Technical/Production students must interview prior to participating in the course. It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71069",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 20,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-17T18:21:19.055306Z"
+    },
+    {
+      "crn": "77409",
+      "subject": "THTR",
+      "course_number": "176",
+      "title": "Makeup Design and Production for Theatre, TV, and Film",
+      "units": 3.0,
+      "instructor": "Monica  French",
+      "instructor_email": "mfrench@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Modular Classrooms 02",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 16,
+        "remaining": 8
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77409')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC/CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77409",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 16,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-08-17T18:21:20.678863Z"
+    },
+    {
+      "crn": "74331",
+      "subject": "TV",
+      "course_number": "135",
+      "title": "Digital Filmmaking I: Introduction",
+      "units": 3.0,
+      "instructor": "Murad  Saakyan",
+      "instructor_email": "msaakyan@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Learning Resource Center (LRC) 119",
+      "enrollment": {
+        "capacity": 20,
+        "actual": 19,
+        "remaining": 1
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74331')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSUThis is an introductory course in film production techniques for narrative, documentary, and music video, and may be of interest to students interested in both film and television production. Topics include creating a story treatment, screenwriting, storyboarding, camera operation, lighting, introductory production sound, and non-linear editing. Students work in teams and crew all positions, including writer, producer, director, assistant director, cinematographer, boom operator, and editor. Emphasis is placed on defining the content, structure, and style of the production. Students implement these skills with projects in documentary, music video, and narrative filmmaking traditions.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:28 AM\nTitle: TV 135  Digital Filmmaking I: Intro\n CRN: 74331\n Instructor: Murad Saakyan\n Instructor: Murad Saakyan\n CH Weekly Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nLR\n119 \nLearning Resource Center (LRC)\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\n \n \n \n \nF\n \n \n09:00am - 11:05am\nLR 119 Learning Resource Center (LRC)\n08/16/25\n12/06/25\n\n\n\n\n \n \n \n \nF\n \n \n11:15am - 02:25pm\nLR 117 Learning Resource Center (LRC)\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n20\n19\n1\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74331",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 19,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-17T18:21:22.297967Z"
+    },
+    {
+      "crn": "77418",
+      "subject": "VN",
+      "course_number": "073",
+      "title": "Basic Pharmacology",
+      "units": 2.0,
+      "instructor": "Gladys  Quintero",
+      "instructor_email": "gquintero@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "02:30pm",
+          "end_time": "04:40pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 125",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 21,
+        "remaining": 14
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77418')",
+      "description": null,
+      "prerequisites": "VN 061 and VN 061L",
+      "advisory": "HS 045This is an introductory course of basic techniques and computations used in the administration of medications.  Completion of the course prepares the student to safely administer medications to patients under the supervision of the nursing instructor. This course is open to students enrolled in the Vocational Nursing Program and is required for the Vocational Nursing Licensure.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:29 AM\nTitle: VN 073  Basic Pharmacology\n CRN: 77418\n Instructor: Gladys Quintero\n DH Daily Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nS\n125 \nScience\nFees: Health Sci. Material Fee $40\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\n \nT\n \n \n \n \n \n02:30pm - 04:40pm\nS 125 Science\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n35\n21\n14\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77418",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 21,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-08-17T18:21:23.921015Z"
+    },
+    {
+      "crn": "78379",
+      "subject": "VN",
+      "course_number": "078",
+      "title": "Vocational Nursing I",
+      "units": 9.0,
+      "instructor": "Gladys  Quintero",
+      "instructor_email": "gquintero@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "10:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 125",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 21,
+        "remaining": 9
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78379')",
+      "description": null,
+      "prerequisites": "VN 061, VN 061LCorequisite: VN 078LUsing the medical model, the nursing process, and Erikson's psychosocial theory of human development, this course is designed to prepare the vocational nursing student with the foundational knowledge necessary to care for the aging patient\u00a0and patients with disorders/diseases of certain body systems. These include the integumentary, musculoskeletal, endocrine, gastrointestinal, genitourinary, cardiac, and respiratory systems.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: VN 078L\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:31 AM\nTitle: VN 078  Vocational Nursing I\n CRN: 78379\n Instructor: Gladys Quintero\n Instructor: Gladys Quintero\n Instructor: Gladys Quintero\n DH Daily Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nS\n125 \nScience\nFees: Health Sci. Material Fee $40\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\n \nT\n \n \n \n \n \n08:00am - 11:50am\nS 125 Science\n08/16/25\n12/06/25\n\n\n\n\n \n \n \nR\n \n \n \n08:00am - 10:50am\nS 125 Science\n08/16/25\n12/06/25\n\n\n\n\n \n \n \nR\n \n \n \n11:30am - 03:00pm\nS 125 Science\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n30\n21\n9\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78379",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 21,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-08-17T18:21:25.543393Z"
+    },
+    {
+      "crn": "78374",
+      "subject": "VN",
+      "course_number": "078L",
+      "title": "Vocational Nursing I Lab",
+      "units": 7.0,
+      "instructor": "Katherine  Lopez-Alvarado",
+      "instructor_email": "klopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "El Encanto Health Rehab Center",
+      "enrollment": {
+        "capacity": 12,
+        "actual": 11,
+        "remaining": 1
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "11/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78374')",
+      "description": null,
+      "prerequisites": "VN 061, VN 061LCorequisite: VN 078This course\u00a0provides the student with the opportunity to use the nursing process with increasing independence in providing care for elderly patients in the clinical setting. The student\u00a0increases competency in data collection and nursing skills. Special emphasis is\u00a0placed on the care of the patient with problems of the musculoskeletal, endocrine, GI, GU, cardiac, and respiratory systems. This course is offered on a pass/no pass basis.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: VN 078\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:33 AM\nTitle: VN 078L  Vocational Nursing I Lab\n CRN: 78374\n Instructor: Katherine Lopez-Alvarado\n Instructor: Katherine Lopez-Alvarado\n DH Daily Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nEEHC\n \nEl Encanto Health Rehab Center\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\nM\n \nW\n \n \n \n \n06:30am - 06:35pm\nEEHC  El Encanto Health Rehab Center\n08/16/25\n11/10/25\n\n\n\n\nM\n \nW\n \n \n \n \n06:30am - 06:35pm\nEEHC  El Encanto Health Rehab Center\n11/12/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n12\n11\n1\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78374",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 11,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-17T18:21:27.164976Z"
+    },
+    {
+      "crn": "78375",
+      "subject": "VN",
+      "course_number": "078L",
+      "title": "Vocational Nursing I Lab",
+      "units": 7.0,
+      "instructor": "Jonathan  Reyes",
+      "instructor_email": "jreyes@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Orchard Post-Acute Care",
+      "enrollment": {
+        "capacity": 12,
+        "actual": 10,
+        "remaining": 2
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78375')",
+      "description": null,
+      "prerequisites": "VN 061, VN 061LCorequisite: VN 078This course\u00a0provides the student with the opportunity to use the nursing process with increasing independence in providing care for elderly patients in the clinical setting. The student\u00a0increases competency in data collection and nursing skills. Special emphasis is\u00a0placed on the care of the patient with problems of the musculoskeletal, endocrine, GI, GU, cardiac, and respiratory systems. This course is offered on a pass/no pass basis.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: VN 078\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:34 AM\nTitle: VN 078L  Vocational Nursing I Lab\n CRN: 78375\n Instructor: Jonathan Reyes\n Instructor: Sandra Obenberger\n DH Daily Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nOPAC\n \nOrchard Post-Acute Care\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\nM\n \nW\n \n \n \n \n06:30am - 06:35pm\nOPAC  Orchard Post-Acute Care\n08/16/25\n10/10/25\n\n\n\n\nM\n \nW\n \n \n \n \n06:30am - 06:35pm\nOPAC  Orchard Post-Acute Care\n10/12/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n12\n10\n2\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78375",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 10,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-17T18:21:28.773953Z"
+    },
+    {
+      "crn": "74277",
+      "subject": "WELD",
+      "course_number": "040",
+      "title": "Introduction to Welding Processes",
+      "units": 2.0,
+      "instructor": "Jan  Banas",
+      "instructor_email": "jbanas@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "S",
+          "start_time": "08:00am",
+          "end_time": "08:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Technology 114",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 23,
+        "remaining": 1
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74277')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This is an introductory class designed to familiarize the student with several welding processes that are currently used in the welding and metal fabrication industry. This course offers an overview and basic introduction to the theory and practice of a variety of welding and metal cutting methods. This course will emphasize safety, theory, procedure, and practical skill development.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:36 AM\nTitle: WELD 040  Intro to Welding Processes\n CRN: 74277\n Instructor: Jan Banas\n Instructor: Jan Banas\n CH Weekly Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nT\n114 \nTechnology\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\n \n \n \n \n \nS\n \n08:00am - 08:50am\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\n \n \n \n \n \nS\n \n09:00am - 12:10pm\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n24\n23\n1\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74277",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-17T18:21:30.398128Z"
+    },
+    {
+      "crn": "74278",
+      "subject": "WELD",
+      "course_number": "040",
+      "title": "Introduction to Welding Processes",
+      "units": 2.0,
+      "instructor": "Paul  Ortiz",
+      "instructor_email": "POrtiz@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "12:45pm",
+          "end_time": "01:35pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Technology 114",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 24,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74278')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This is an introductory class designed to familiarize the student with several welding processes that are currently used in the welding and metal fabrication industry. This course offers an overview and basic introduction to the theory and practice of a variety of welding and metal cutting methods. This course will emphasize safety, theory, procedure, and practical skill development.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:37 AM\nTitle: WELD 040  Intro to Welding Processes\n CRN: 74278\n Instructor: Paul Ortiz\n Instructor: Paul Ortiz\n CH Weekly Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nT\n114 \nTechnology\nFees: Welding Purchase Card-4175 $35\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\n \nT\n \n \n \n \n \n12:45pm - 01:35pm\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\n \nT\n \nR\n \n \n \n01:45pm - 03:10pm\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n24\n24\n0\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74278",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:21:32.013769Z"
+    },
+    {
+      "crn": "78292",
+      "subject": "WELD",
+      "course_number": "040",
+      "title": "Introduction to Welding Processes",
+      "units": 2.0,
+      "instructor": "Jose  Callejas-Reyes",
+      "instructor_email": "jcallejas-reyes@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Technology 114",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 23,
+        "remaining": 1
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78292')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This is an introductory class designed to familiarize the student with several welding processes that are currently used in the welding and metal fabrication industry. This course offers an overview and basic introduction to the theory and practice of a variety of welding and metal cutting methods. This course will emphasize safety, theory, procedure, and practical skill development.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:39 AM\nTitle: WELD 040  Intro to Welding Processes\n CRN: 78292\n Instructor: Jose Callejas-Reyes\n Instructor: Jose Callejas-Reyes\n CH Weekly Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nT\n114 \nTechnology\nFees: Welding Purchase Card-4175 $35\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\nM\n \n \n \n \n \n \n12:45pm - 01:35pm\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\nM\n \n \n \n \n \n \n01:45pm - 04:55pm\nT 144 Technology\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n24\n22\n2\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78292",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 22,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-17T18:21:33.634888Z"
+    },
+    {
+      "crn": "75045",
+      "subject": "WELD",
+      "course_number": "045",
+      "title": "Basic Electric Arc Welding",
+      "units": 2.0,
+      "instructor": "Robert  Gavela",
+      "instructor_email": "rgavela@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "06:00pm",
+          "end_time": "06:50pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Technology",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Cancelled",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75045')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This course is intended for the student who wants to progress to a basic level of welding processes and further their skills in manual and semi-automatic electric arc welding methods and techniques. This course emphasizes skills in Shielded Metal Arc Welding (SMAW), Gas Metal Arc Welding (GMAW), Flux Cored Arc Welding (FCAW), and Gas Tungsten Arc Welding (GTAW). The course also focuses on safety, theory, characteristics and settings for power supplies and welding units, electric current settings, electrode identification and selection, welding positions, and welding of ferrous and non-ferrous metals. Special emphasis will be placed on developing proficiency and speed for high volume production applications.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:41 AM\nTitle: WELD 045  Basic Electric Arc Welding\n CRN: 75045\n Instructor: Robert Gavela\n Instructor: Robert Gavela\n CH Weekly Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nT\n \nTechnology\nFees: Welding Purchase Card-4175 $35\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\n \n \n \nR\n \n \n \n06:00pm - 06:50pm\nT  Technology\n08/16/25\n12/06/25\n\n\n\n\n \n \n \nR\n \n \n \n07:00pm - 10:10pm\nT  Technology\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n0\n0\n0\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\nCrosslisted Sections\n\n\nCRN\n Course\n Title\n\n\n77295\nNVOC071\nBasic Electric Arc Welding\n\n\n\n\nSeating Availablity\n\n\nCapacity\n Taken\n Available\n\n\n24\n0\n24\n\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75045",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:21:35.251556Z"
+    },
+    {
+      "crn": "77806",
+      "subject": "WELD",
+      "course_number": "045",
+      "title": "Basic Electric Arc Welding",
+      "units": 2.0,
+      "instructor": "Robert  Gavela",
+      "instructor_email": "rgavela@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "06:00pm",
+          "end_time": "06:50pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Technology 114",
+      "enrollment": {
+        "capacity": 20,
+        "actual": 20,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77806')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This course is intended for the student who wants to progress to a basic level of welding processes and further their skills in manual and semi-automatic electric arc welding methods and techniques. This course emphasizes skills in Shielded Metal Arc Welding (SMAW), Gas Metal Arc Welding (GMAW), Flux Cored Arc Welding (FCAW), and Gas Tungsten Arc Welding (GTAW). The course also focuses on safety, theory, characteristics and settings for power supplies and welding units, electric current settings, electrode identification and selection, welding positions, and welding of ferrous and non-ferrous metals. Special emphasis will be placed on developing proficiency and speed for high volume production applications.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:42 AM\nTitle: WELD 045  Basic Electric Arc Welding\n CRN: 77806\n Instructor: Robert Gavela\n Instructor: Robert Gavela\n CH Weekly Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nT\n114 \nTechnology\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\n \nT\n \n \n \n \n \n06:00pm - 06:50pm\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\n \nT\n \n \n \n \n \n07:00pm - 10:10pm\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n20\n20\n0\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\nCrosslisted Sections\n\n\nCRN\n Course\n Title\n\n\n77807\nNVOC071\nBasic Electric Arc Welding\n\n\n\n\nSeating Availablity\n\n\nCapacity\n Taken\n Available\n\n\n24\n21\n3\n\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77806",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 20,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:21:36.873917Z"
+    },
+    {
+      "crn": "78304",
+      "subject": "WELD",
+      "course_number": "045",
+      "title": "Basic Electric Arc Welding",
+      "units": 2.0,
+      "instructor": "Paul  Ortiz",
+      "instructor_email": "POrtiz@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Technology 114",
+      "enrollment": {
+        "capacity": 20,
+        "actual": 20,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78304')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This course is intended for the student who wants to progress to a basic level of welding processes and further their skills in manual and semi-automatic electric arc welding methods and techniques. This course emphasizes skills in Shielded Metal Arc Welding (SMAW), Gas Metal Arc Welding (GMAW), Flux Cored Arc Welding (FCAW), and Gas Tungsten Arc Welding (GTAW). The course also focuses on safety, theory, characteristics and settings for power supplies and welding units, electric current settings, electrode identification and selection, welding positions, and welding of ferrous and non-ferrous metals. Special emphasis will be placed on developing proficiency and speed for high volume production applications.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:44 AM\nTitle: WELD 045  Basic Electric Arc Welding\n CRN: 78304\n Instructor: Paul Ortiz\n Instructor: Paul Ortiz\n UA Independent Study Weekly Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nT\n114 \nTechnology\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\n \n \nW\n \n \n \n \n08:00am - 08:50am\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\n \n \nW\n \n \n \n \n09:00am - 12:10pm\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n20\n20\n0\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\nCrosslisted Sections\n\n\nCRN\n Course\n Title\n\n\n78305\nNVOC071\nBasic Electric Arc Welding\n\n\n\n\nSeating Availablity\n\n\nCapacity\n Taken\n Available\n\n\n24\n20\n4\n\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78304",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 20,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:21:38.485959Z"
+    },
+    {
+      "crn": "74275",
+      "subject": "WELD",
+      "course_number": "055",
+      "title": "Manual Electric Arc Welding Processes",
+      "units": 4.0,
+      "instructor": "Alexander  Angustain",
+      "instructor_email": "aangustain@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Technology 114",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 23,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74275')",
+      "description": null,
+      "prerequisites": "WELD 040This course is intended for the student who wants to progress to an intermediate level of welding processes and further their skills in manual electric arc welding methods and techniques. This course emphasizes skills in shielded metal arc welding (SMAW) and gas tungsten arc welding (GTAW). The course also focuses on safety, theory, characteristics and settings for power supplies and welding units, electric current settings, electrode identification and selection, welding positions, and welding of ferrous and non-ferrous metals. Special emphasis will be placed on developing proficiency and speed for high volume production applications.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:46 AM\nTitle: WELD 055  Manual Elec Arc Weld Processes\n CRN: 74275\n Instructor: Alexander Angustain\n Instructor: Alexander Angustain\n Instructor: Alexander Angustain\n CH Weekly Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nT\n114 \nTechnology\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\nM\n \n \n \n \n \n \n06:00pm - 06:50pm\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\n \n \nW\n \n \n \n \n06:00pm - 07:05pm\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\nM\n \nW\n \n \n \n \n07:10pm - 10:15pm\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n24\n23\n1\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\nCrosslisted Sections\n\n\nCRN\n Course\n Title\n\n\n76472\nNVOC072\nManual Elec Arc Welding Proc\n\n\n\n\nSeating Availablity\n\n\nCapacity\n Taken\n Available\n\n\n24\n24\n0\n\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74275",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-17T18:21:40.104500Z"
+    },
+    {
+      "crn": "77337",
+      "subject": "WELD",
+      "course_number": "065",
+      "title": "Introduction to Gas Tungsten Arc Welding",
+      "units": 4.0,
+      "instructor": "Jose  Callejas-Reyes",
+      "instructor_email": "jcallejas-reyes@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "08:00am",
+          "end_time": "08:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Technology 114",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 23,
+        "remaining": 1
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77337')",
+      "description": null,
+      "prerequisites": "WELD 040This course introduces the principles and practices of gas tungsten arc welding (GTAW), including setup/use of GTAW equipment and safe use of tools and equipment. Instruction and practice is provided for gaining proficiency welding carbon steel, stainless steel, and aluminum weld joints in the flat and horizontal positions. Fundamentals of the GTAW process, correct consumables, equipment, and pre-weld preparation will be covered.\n\nView Book  \n\nLearning Outcomes and Important Section Information  \n\nCourse Corequisites: NONE\n\n\n\n\nSection Information as of 17-AUG-2025 11:08:47 AM\nTitle: WELD 065  Intro to Gas Tungsten Arc Weld\n CRN: 77337\n Instructor: Jose Callejas-Reyes\n Instructor: Jose Callejas-Reyes\n Instructor: Jose Callejas-Reyes\n CH Weekly Census Instructional Method\n Section Corequisites: NONE\nBldg/Room: \nT\n114 \nTechnology\n\n\n\n\n\n\n\n\n\n\n\nMeeting Time\n\n \nT\n \n \n \n \n \n08:00am - 08:50am\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\n \n \n \nR\n \n \n \n08:00am - 09:05am\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\n \nT\n \nR\n \n \n \n09:15am - 12:20pm\nT 114 Technology\n08/16/25\n12/06/25\n\n\n\n\n\nSeating Availability\n\nCapacity\nTaken\nAvailable\n\n\n24\n23\n1\n\n\n\n\n\nCritical Dates for this Course\n\nTerm: Fall 2025\nLast day to add class: \n01-SEP-2025\nLast day to drop with a refund:\n01-SEP-2025\nLast day to drop without a \"W\":\n12-SEP-2025\nLast day to drop with a \"W\":\n07-NOV-2025\nPass/No Pass Petition Deadline Date:\n06-DEC-2025\n\n\n\n\n [ Close Window ]\n\n\n\nRio Hondo College 8.1",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77337",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-17T18:21:41.718391Z"
+    },
+    {
+      "crn": "78411",
+      "subject": "WELD",
+      "course_number": "100",
+      "title": "Occupational Safety and Health Administration (OSHA) 30",
+      "units": 3.0,
+      "instructor": "Manuel  Sandoval",
+      "instructor_email": "MSandoval@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "06:00pm",
+          "end_time": "09:10pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Technology 103",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 21,
+        "remaining": 3
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78411')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78411",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 21,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-17T18:21:43.339081Z"
+    },
+    {
+      "crn": "72844",
+      "subject": "WFT",
+      "course_number": "101",
+      "title": "Wildland Fire Behavior",
+      "units": 3.0,
+      "instructor": "Ryan  Carey",
+      "instructor_email": "rcarey@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Administration of Justice 320",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 35,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72844')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, perform mathematical operations with whole numbers, fractions, decimals, and percentages, and read college level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "24-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "08-OCT-2025",
+        "Census Date": "25-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72844",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:21:44.951636Z"
+    },
+    {
+      "crn": "70454",
+      "subject": "WFT",
+      "course_number": "102",
+      "title": "Wildland Firefighter Safety and Survival",
+      "units": 3.0,
+      "instructor": "Ryan  Carey",
+      "instructor_email": "rcarey@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Administration of Justice 320",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 24,
+        "remaining": 11
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70454')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70454",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 24,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-08-17T18:21:46.559974Z"
+    },
+    {
+      "crn": "70455",
+      "subject": "WFT",
+      "course_number": "103",
+      "title": "Wildland Fire Operations",
+      "units": 3.0,
+      "instructor": "Ryan  Carey",
+      "instructor_email": "rcarey@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Administration of Justice 320",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 9,
+        "remaining": 26
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "10/11",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70455')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "15-OCT-2025",
+        "Last day to drop with a refund": "15-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "19-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "20-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70455",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 9,
+        "available": 26
+      },
+      "detail_fetched_at": "2025-08-17T18:21:48.174439Z"
+    },
+    {
+      "crn": "77805",
+      "subject": "WFT",
+      "course_number": "104",
+      "title": "Wildland Fire Investigation, Prevention, and Public Information",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77805')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77805",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-17T18:21:49.784794Z"
+    },
+    {
+      "crn": "74389",
+      "subject": "WFT",
+      "course_number": "105",
+      "title": "Wildland Fire Logistics, Finance, and Planning",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74389')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74389",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 30,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-17T18:21:51.393730Z"
+    },
+    {
+      "crn": "74599",
+      "subject": "WFT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Wildland Fire Technology-Related Fields",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "5",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74599')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "04-AUG-2025",
+        "Last day to drop with a refund": "04-AUG-2025",
+        "Last day to drop without a \"W\"": "08-AUG-2025",
+        "Last day to drop with a \"W\"": "22-AUG-2025",
+        "Pass/No Pass Petition Deadline Date": "29-AUG-2025",
+        "Census Date": "06-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74599",
+      "seating_detail": {
+        "capacity": 125,
+        "taken": 0,
+        "available": 125
+      },
+      "detail_fetched_at": "2025-08-17T18:21:53.003377Z"
+    },
+    {
+      "crn": "74733",
+      "subject": "WFT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Wildland Fire Technology-Related Fields",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "5",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74733')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-SEP-2025",
+        "Last day to drop with a refund": "03-SEP-2025",
+        "Last day to drop without a \"W\"": "09-SEP-2025",
+        "Last day to drop with a \"W\"": "23-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "30-SEP-2025",
+        "Census Date": "05-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74733",
+      "seating_detail": {
+        "capacity": 125,
+        "taken": 0,
+        "available": 125
+      },
+      "detail_fetched_at": "2025-08-17T18:21:54.624763Z"
+    },
+    {
+      "crn": "74976",
+      "subject": "WFT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Wildland Fire Technology-Related Fields",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "5",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74976')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "02-OCT-2025",
+        "Last day to drop with a refund": "02-OCT-2025",
+        "Last day to drop without a \"W\"": "09-OCT-2025",
+        "Last day to drop with a \"W\"": "23-OCT-2025",
+        "Pass/No Pass Petition Deadline Date": "31-OCT-2025",
+        "Census Date": "07-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74976",
+      "seating_detail": {
+        "capacity": 125,
+        "taken": 0,
+        "available": 125
+      },
+      "detail_fetched_at": "2025-08-17T18:21:56.239792Z"
+    },
+    {
+      "crn": "74977",
+      "subject": "WFT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Wildland Fire Technology-Related Fields",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "5",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74977')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "04-NOV-2025",
+        "Last day to drop with a refund": "04-NOV-2025",
+        "Last day to drop without a \"W\"": "07-NOV-2025",
+        "Last day to drop with a \"W\"": "21-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "28-NOV-2025",
+        "Census Date": "06-NOV-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74977",
+      "seating_detail": {
+        "capacity": 125,
+        "taken": 0,
+        "available": 125
+      },
+      "detail_fetched_at": "2025-08-17T18:21:57.852232Z"
+    },
+    {
+      "crn": "75485",
+      "subject": "WFT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Wildland Fire Technology-Related Fields",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "5",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "43.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75485')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "02-DEC-2025",
+        "Last day to drop with a refund": "02-DEC-2025",
+        "Last day to drop without a \"W\"": "09-DEC-2025",
+        "Last day to drop with a \"W\"": "23-DEC-2025",
+        "Pass/No Pass Petition Deadline Date": "31-DEC-2025",
+        "Census Date": "04-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75485",
+      "seating_detail": {
+        "capacity": 125,
+        "taken": 0,
+        "available": 125
+      },
+      "detail_fetched_at": "2025-08-17T18:21:59.464464Z"
     }
   ],
   "metadata": {
@@ -85290,10 +87846,11 @@
       "WFT"
     ],
     "collection_errors": null,
-    "partial": true,
     "details_collected": true,
-    "courses_processed": 1600,
-    "detail_collection_errors": null
+    "detail_collection_timestamp": "2025-08-17T18:21:59.468107+00:00Z",
+    "courses_with_details": 1648,
+    "detail_collection_errors": null,
+    "detail_rate_limit": 1.5
   },
   "total_courses": null,
   "departments": null
