@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-08-19T07:19:51.785180Z",
+  "collection_timestamp": "2025-08-19T15:20:19.651264Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -1465,8 +1465,8 @@
       "location": "VA 110",
       "enrollment": {
         "capacity": 4,
-        "actual": 0,
-        "remaining": 4
+        "actual": 1,
+        "remaining": 3
       },
       "status": "Open",
       "section_type": "LEC",
@@ -2503,6 +2503,70 @@
       "book_link": null
     },
     {
+      "crn": "22143",
+      "subject": "BIOL",
+      "course_number": "105",
+      "title": "General Biology",
+      "units": 4.0,
+      "instructor": "Goodman, Robert",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "MW",
+          "start_time": "08:20AM",
+          "end_time": "09:50AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "LH 103",
+      "enrollment": {
+        "capacity": 23,
+        "actual": 20,
+        "remaining": 3
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24290",
+      "subject": "BIOL",
+      "course_number": "105",
+      "title": "General Biology",
+      "units": 4.0,
+      "instructor": "Hollenshead, Marcia",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "08:15AM",
+          "end_time": "09:45AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "LH 101",
+      "enrollment": {
+        "capacity": 23,
+        "actual": 22,
+        "remaining": 1
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
       "crn": "22146",
       "subject": "BIOL",
       "course_number": "105",
@@ -2695,38 +2759,6 @@
       "book_link": null
     },
     {
-      "crn": "22143",
-      "subject": "BIOL",
-      "course_number": "105",
-      "title": "General Biology",
-      "units": 4.0,
-      "instructor": "Goodman, Robert",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "MW",
-          "start_time": "08:20AM",
-          "end_time": "09:50AM",
-          "is_arranged": false
-        }
-      ],
-      "location": "LH 103",
-      "enrollment": {
-        "capacity": 23,
-        "actual": 20,
-        "remaining": 3
-      },
-      "status": "Open",
-      "section_type": "LEC",
-      "zero_textbook_cost": true,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
       "crn": "22163",
       "subject": "BIOL",
       "course_number": "105",
@@ -2747,38 +2779,6 @@
         "capacity": 23,
         "actual": 23,
         "remaining": 0
-      },
-      "status": "Open",
-      "section_type": "LEC",
-      "zero_textbook_cost": true,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
-      "crn": "24290",
-      "subject": "BIOL",
-      "course_number": "105",
-      "title": "General Biology",
-      "units": 4.0,
-      "instructor": "Hollenshead, Marcia",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "08:15AM",
-          "end_time": "09:45AM",
-          "is_arranged": false
-        }
-      ],
-      "location": "LH 101",
-      "enrollment": {
-        "capacity": 23,
-        "actual": 22,
-        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -2919,6 +2919,70 @@
       "book_link": null
     },
     {
+      "crn": "22772",
+      "subject": "BIOL",
+      "course_number": "124",
+      "title": "Molecular and Cellular Biology",
+      "units": 5.0,
+      "instructor": "Little, Richard",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "MW",
+          "start_time": "02:50PM",
+          "end_time": "04:55PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 225",
+      "enrollment": {
+        "capacity": 23,
+        "actual": 21,
+        "remaining": 2
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "22467",
+      "subject": "BIOL",
+      "course_number": "124",
+      "title": "Molecular and Cellular Biology",
+      "units": 5.0,
+      "instructor": "Sullivan, Nora",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "M",
+          "start_time": "08:00AM",
+          "end_time": "11:15AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "LS 119",
+      "enrollment": {
+        "capacity": 23,
+        "actual": 22,
+        "remaining": 1
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
       "crn": "22534",
       "subject": "BIOL",
       "course_number": "124",
@@ -2983,38 +3047,6 @@
       "book_link": null
     },
     {
-      "crn": "22772",
-      "subject": "BIOL",
-      "course_number": "124",
-      "title": "Molecular and Cellular Biology",
-      "units": 5.0,
-      "instructor": "Little, Richard",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "MW",
-          "start_time": "02:50PM",
-          "end_time": "04:55PM",
-          "is_arranged": false
-        }
-      ],
-      "location": "MA 225",
-      "enrollment": {
-        "capacity": 23,
-        "actual": 21,
-        "remaining": 2
-      },
-      "status": "Open",
-      "section_type": "LEC",
-      "zero_textbook_cost": true,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
       "crn": "23949",
       "subject": "BIOL",
       "course_number": "124",
@@ -3035,38 +3067,6 @@
         "capacity": 23,
         "actual": 23,
         "remaining": 0
-      },
-      "status": "Open",
-      "section_type": "LEC",
-      "zero_textbook_cost": true,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
-      "crn": "22467",
-      "subject": "BIOL",
-      "course_number": "124",
-      "title": "Molecular and Cellular Biology",
-      "units": 5.0,
-      "instructor": "Sullivan, Nora",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "M",
-          "start_time": "08:00AM",
-          "end_time": "11:15AM",
-          "is_arranged": false
-        }
-      ],
-      "location": "LS 119",
-      "enrollment": {
-        "capacity": 23,
-        "actual": 22,
-        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3111,7 +3111,7 @@
       "book_link": null
     },
     {
-      "crn": "22211",
+      "crn": "23952",
       "subject": "BIOL",
       "course_number": "125",
       "title": "Evolution,Ecology,Biodiversity",
@@ -3120,17 +3120,17 @@
       "instructor_email": null,
       "meeting_times": [
         {
-          "days": "MW",
-          "start_time": "08:15AM",
-          "end_time": "10:20AM",
+          "days": "T",
+          "start_time": "12:50PM",
+          "end_time": "01:55PM",
           "is_arranged": false
         }
       ],
-      "location": "MA 227",
+      "location": "LS 115",
       "enrollment": {
         "capacity": 23,
-        "actual": 23,
-        "remaining": 0
+        "actual": 22,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3175,7 +3175,7 @@
       "book_link": null
     },
     {
-      "crn": "23952",
+      "crn": "22211",
       "subject": "BIOL",
       "course_number": "125",
       "title": "Evolution,Ecology,Biodiversity",
@@ -3184,17 +3184,17 @@
       "instructor_email": null,
       "meeting_times": [
         {
-          "days": "T",
-          "start_time": "12:50PM",
-          "end_time": "01:55PM",
+          "days": "MW",
+          "start_time": "08:15AM",
+          "end_time": "10:20AM",
           "is_arranged": false
         }
       ],
-      "location": "LS 115",
+      "location": "MA 227",
       "enrollment": {
         "capacity": 23,
-        "actual": 22,
-        "remaining": 1
+        "actual": 23,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3463,7 +3463,7 @@
       "book_link": null
     },
     {
-      "crn": "22216",
+      "crn": "22218",
       "subject": "BIOL",
       "course_number": "201",
       "title": "Human Physiology",
@@ -3481,8 +3481,8 @@
       "location": "LH 102",
       "enrollment": {
         "capacity": 23,
-        "actual": 23,
-        "remaining": 0
+        "actual": 22,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3527,6 +3527,38 @@
       "book_link": null
     },
     {
+      "crn": "22216",
+      "subject": "BIOL",
+      "course_number": "201",
+      "title": "Human Physiology",
+      "units": 4.0,
+      "instructor": "Kondo, Arnold",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "11:30AM",
+          "end_time": "12:55PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "LH 102",
+      "enrollment": {
+        "capacity": 23,
+        "actual": 23,
+        "remaining": 0
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
       "crn": "22217",
       "subject": "BIOL",
       "course_number": "201",
@@ -3549,38 +3581,6 @@
         "remaining": 0
       },
       "status": "Closed",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
-      "crn": "22218",
-      "subject": "BIOL",
-      "course_number": "201",
-      "title": "Human Physiology",
-      "units": 4.0,
-      "instructor": "Kondo, Arnold",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "11:30AM",
-          "end_time": "12:55PM",
-          "is_arranged": false
-        }
-      ],
-      "location": "LH 102",
-      "enrollment": {
-        "capacity": 23,
-        "actual": 22,
-        "remaining": 1
-      },
-      "status": "Open",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4199,28 +4199,28 @@
       "book_link": null
     },
     {
-      "crn": "22275",
+      "crn": "22523",
       "subject": "CHEM",
       "course_number": "103",
       "title": "College Chemistry I",
       "units": 5.0,
-      "instructor": "Choppi, Ronald",
+      "instructor": "Eskandarloo, Hamed",
       "instructor_email": null,
       "meeting_times": [
         {
-          "days": "F",
-          "start_time": "08:00AM",
+          "days": "T",
+          "start_time": "08:05AM",
           "end_time": "12:15PM",
           "is_arranged": false
         }
       ],
-      "location": "PS 113",
+      "location": "ED 210",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4359,38 +4359,6 @@
       "book_link": null
     },
     {
-      "crn": "22523",
-      "subject": "CHEM",
-      "course_number": "103",
-      "title": "College Chemistry I",
-      "units": 5.0,
-      "instructor": "Eskandarloo, Hamed",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "T",
-          "start_time": "08:05AM",
-          "end_time": "12:15PM",
-          "is_arranged": false
-        }
-      ],
-      "location": "ED 210",
-      "enrollment": {
-        "capacity": 24,
-        "actual": 23,
-        "remaining": 1
-      },
-      "status": "Closed",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
       "crn": "22724",
       "subject": "CHEM",
       "course_number": "103",
@@ -4413,6 +4381,38 @@
         "remaining": 0
       },
       "status": "Closed",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "22275",
+      "subject": "CHEM",
+      "course_number": "103",
+      "title": "College Chemistry I",
+      "units": 5.0,
+      "instructor": "Choppi, Ronald",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "F",
+          "start_time": "08:00AM",
+          "end_time": "12:15PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "PS 113",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 24,
+        "remaining": 0
+      },
+      "status": "Open",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4487,7 +4487,7 @@
       "book_link": null
     },
     {
-      "crn": "24556",
+      "crn": "22243",
       "subject": "CHEM",
       "course_number": "110",
       "title": "Beginning General Chemistry",
@@ -4497,16 +4497,16 @@
       "meeting_times": [
         {
           "days": "TR",
-          "start_time": "11:30AM",
-          "end_time": "12:55PM",
+          "start_time": "10:00AM",
+          "end_time": "11:20AM",
           "is_arranged": false
         }
       ],
       "location": "PS 113",
       "enrollment": {
         "capacity": 26,
-        "actual": 26,
-        "remaining": 0
+        "actual": 24,
+        "remaining": 2
       },
       "status": "Open",
       "section_type": "LEC",
@@ -4537,8 +4537,8 @@
       "location": "ED 203",
       "enrollment": {
         "capacity": 26,
-        "actual": 26,
-        "remaining": 0
+        "actual": 25,
+        "remaining": 1
       },
       "status": "Closed",
       "section_type": "LEC",
@@ -4571,38 +4571,6 @@
         "capacity": 26,
         "actual": 26,
         "remaining": 0
-      },
-      "status": "Open",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
-      "crn": "22243",
-      "subject": "CHEM",
-      "course_number": "110",
-      "title": "Beginning General Chemistry",
-      "units": 5.0,
-      "instructor": "Scheuermann, Angelique",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "10:00AM",
-          "end_time": "11:20AM",
-          "is_arranged": false
-        }
-      ],
-      "location": "PS 113",
-      "enrollment": {
-        "capacity": 26,
-        "actual": 24,
-        "remaining": 2
       },
       "status": "Open",
       "section_type": "LEC",
@@ -4663,6 +4631,38 @@
         }
       ],
       "location": "LH 102",
+      "enrollment": {
+        "capacity": 26,
+        "actual": 26,
+        "remaining": 0
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24556",
+      "subject": "CHEM",
+      "course_number": "110",
+      "title": "Beginning General Chemistry",
+      "units": 5.0,
+      "instructor": "Scheuermann, Angelique",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "11:30AM",
+          "end_time": "12:55PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "PS 113",
       "enrollment": {
         "capacity": 26,
         "actual": 26,
@@ -4921,8 +4921,8 @@
       "location": "PS 113",
       "enrollment": {
         "capacity": 40,
-        "actual": 25,
-        "remaining": 15
+        "actual": 26,
+        "remaining": 14
       },
       "status": "Open",
       "section_type": "LEC",
@@ -4953,8 +4953,8 @@
       "location": "PS 211",
       "enrollment": {
         "capacity": 20,
-        "actual": 19,
-        "remaining": 1
+        "actual": 20,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "LAB",
@@ -6905,8 +6905,8 @@
       "location": "P1 104",
       "enrollment": {
         "capacity": 30,
-        "actual": 30,
-        "remaining": 0
+        "actual": 29,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -7737,8 +7737,8 @@
       "location": "LI 120",
       "enrollment": {
         "capacity": 25,
-        "actual": 25,
-        "remaining": 0
+        "actual": 24,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -8313,8 +8313,8 @@
       "location": "PC 304",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 24,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "LEC",
@@ -10745,8 +10745,8 @@
       "location": "MA 125",
       "enrollment": {
         "capacity": 36,
-        "actual": 23,
-        "remaining": 13
+        "actual": 22,
+        "remaining": 14
       },
       "status": "Open",
       "section_type": "LEC",
@@ -10777,8 +10777,8 @@
       "location": "MA 125",
       "enrollment": {
         "capacity": 36,
-        "actual": 17,
-        "remaining": 19
+        "actual": 18,
+        "remaining": 18
       },
       "status": "Open",
       "section_type": "LEC",
@@ -11673,8 +11673,8 @@
       "location": "MA 125",
       "enrollment": {
         "capacity": 36,
-        "actual": 23,
-        "remaining": 13
+        "actual": 22,
+        "remaining": 14
       },
       "status": "Open",
       "section_type": "LEC",
@@ -11801,8 +11801,8 @@
       "location": "MA 125",
       "enrollment": {
         "capacity": 36,
-        "actual": 17,
-        "remaining": 19
+        "actual": 18,
+        "remaining": 18
       },
       "status": "Open",
       "section_type": "LEC",
@@ -12185,8 +12185,8 @@
       "location": "MA 130",
       "enrollment": {
         "capacity": 36,
-        "actual": 11,
-        "remaining": 25
+        "actual": 12,
+        "remaining": 24
       },
       "status": "Open",
       "section_type": "LEC",
@@ -12295,70 +12295,6 @@
       "book_link": null
     },
     {
-      "crn": "22531",
-      "subject": "PHYS",
-      "course_number": "111",
-      "title": "College Physics A",
-      "units": 4.0,
-      "instructor": "Kinnaman, Laura",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "MW",
-          "start_time": "11:30AM",
-          "end_time": "12:55PM",
-          "is_arranged": false
-        }
-      ],
-      "location": "MA 227",
-      "enrollment": {
-        "capacity": 18,
-        "actual": 18,
-        "remaining": 0
-      },
-      "status": "Open",
-      "section_type": "LEC",
-      "zero_textbook_cost": true,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
-      "crn": "24759",
-      "subject": "PHYS",
-      "course_number": "111",
-      "title": "College Physics A",
-      "units": 4.0,
-      "instructor": "Kinnaman, Laura",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "09:45AM",
-          "end_time": "11:10AM",
-          "is_arranged": false
-        }
-      ],
-      "location": "MA 227",
-      "enrollment": {
-        "capacity": 18,
-        "actual": 18,
-        "remaining": 0
-      },
-      "status": "Open",
-      "section_type": "LEC",
-      "zero_textbook_cost": true,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
       "crn": "23112",
       "subject": "PHYS",
       "course_number": "111",
@@ -12392,6 +12328,70 @@
     },
     {
       "crn": "23964",
+      "subject": "PHYS",
+      "course_number": "111",
+      "title": "College Physics A",
+      "units": 4.0,
+      "instructor": "Kinnaman, Laura",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "09:45AM",
+          "end_time": "11:10AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 227",
+      "enrollment": {
+        "capacity": 18,
+        "actual": 18,
+        "remaining": 0
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "22531",
+      "subject": "PHYS",
+      "course_number": "111",
+      "title": "College Physics A",
+      "units": 4.0,
+      "instructor": "Kinnaman, Laura",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "MW",
+          "start_time": "11:30AM",
+          "end_time": "12:55PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 227",
+      "enrollment": {
+        "capacity": 18,
+        "actual": 18,
+        "remaining": 0
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24759",
       "subject": "PHYS",
       "course_number": "111",
       "title": "College Physics A",
@@ -13081,8 +13081,8 @@
       "location": "CI 158",
       "enrollment": {
         "capacity": 25,
-        "actual": 25,
-        "remaining": 0
+        "actual": 24,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
