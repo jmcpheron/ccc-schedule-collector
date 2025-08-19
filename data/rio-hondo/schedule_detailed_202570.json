@@ -5399,8 +5399,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71538')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71538')",
+      "description": "This course provides students with an in-depth study of the legal responsibilities of law enforcement. Emphasis is placed on the judicial segment of the administration of justice system. Topics include laws of arrest, custody, and analyses of the past, present, and future procedures for each subsystem within the administration of justice system, from initial entry to final disposition. The relationship each segment maintains with system members is also covered.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71538",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-19T05:50:23.206646Z"
     },
     {
       "crn": "75291",
@@ -5432,7 +5454,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75291')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75291')",
+      "description": "This course provides students with an in-depth study of the legal responsibilities of law enforcement. Emphasis is placed on the judicial segment of the administration of justice system. Topics include laws of arrest, custody, and analyses of the past, present, and future procedures for each subsystem within the administration of justice system, from initial entry to final disposition. The relationship each segment maintains with system members is also covered.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75291",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 27,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-08-19T05:50:26.282153Z"
     },
     {
       "crn": "75664",
@@ -5463,8 +5506,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75664')"
+      "additional_hours": "1.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75664')",
+      "description": "This course provides students with an in-depth study of the legal responsibilities of law enforcement. Emphasis is placed on the judicial segment of the administration of justice system. Topics include laws of arrest, custody, and analyses of the past, present, and future procedures for each subsystem within the administration of justice system, from initial entry to final disposition. The relationship each segment maintains with system members is also covered.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "02-SEP-2025",
+        "Last day to drop with a refund": "02-SEP-2025",
+        "Last day to drop without a \"W\"": "23-SEP-2025",
+        "Last day to drop with a \"W\"": "28-OCT-2025",
+        "Pass/No Pass Petition Deadline Date": "02-DEC-2025",
+        "Census Date": "09-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75664",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 0,
+        "available": 35
+      },
+      "detail_fetched_at": "2025-08-19T05:50:29.361264Z"
     },
     {
       "crn": "70399",
@@ -5496,7 +5561,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70399')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70399')",
+      "description": "This course provides students with an in-depth study of evidence rules. Emphasis is placed on the application of rules in preparing and presenting evidence. The course will discuss the history and approach to the study of evidence. Topics include proof by evidence and substitutes, general admissibility tests, evidence by way of witness testimony, documents, real evidence, and exclusion of evidence on constitutional grounds. For a better understanding of the evidence rules, judicial decisions are cited, and students are required to brief cases.",
+      "prerequisites": null,
+      "advisory": "AJ 101",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70399",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 21,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-08-19T05:50:32.439902Z"
     },
     {
       "crn": "70401",
@@ -5527,8 +5613,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70401')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70401')",
+      "description": "This course provides students with an in-depth study of evidence rules. Emphasis is placed on the application of rules in preparing and presenting evidence. The course will discuss the history and approach to the study of evidence. Topics include proof by evidence and substitutes, general admissibility tests, evidence by way of witness testimony, documents, real evidence, and exclusion of evidence on constitutional grounds. For a better understanding of the evidence rules, judicial decisions are cited, and students are required to brief cases.",
+      "prerequisites": null,
+      "advisory": "AJ 101",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70401",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 33,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-19T05:50:35.509766Z"
     },
     {
       "crn": "70402",
@@ -55047,11 +55154,11 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-19T05:00:39.419340+00:00Z",
-    "courses_with_details": 100,
+    "detail_collection_timestamp": "2025-08-19T05:50:35.520140+00:00Z",
+    "courses_with_details": 105,
     "detail_collection_errors": null,
-    "detail_rate_limit": 1.0,
-    "courses_processed_this_run": 25
+    "detail_rate_limit": 3.0,
+    "courses_processed_this_run": 5
   },
   "total_courses": null,
   "departments": null

@@ -234,11 +234,6 @@ class RioHondoDetailCollector:
                 else:
                     console.print(f"✅ [green]No schedule differences, using existing detailed file as-is[/green]")
         
-        courses_to_process = base_schedule.courses[:limit] if limit else base_schedule.courses
-        total_courses = len(courses_to_process)
-        
-        console.print(f"🎯 [yellow]Processing {total_courses} courses[/yellow]")
-        
         # Load progress if resuming
         progress = {}
         completed_crns = set()
@@ -250,26 +245,43 @@ class RioHondoDetailCollector:
             else:
                 progress = {}
         
-        # Find courses that need details (don't have detail_fetched_at or are in remaining list)
+        # IMPORTANT FIX: Find courses that need details FIRST, then apply limit
+        # This ensures we don't waste the limit on courses that already have details
         remaining_courses = []
-        for course in courses_to_process:
+        courses_with_details = 0
+        
+        console.print(f"🔍 [cyan]Scanning {len(base_schedule.courses)} courses to find those needing details...[/cyan]")
+        
+        for course in base_schedule.courses:
             # Skip if already completed in this session
             if course.crn in completed_crns:
                 continue
                 
-            # Skip if course already has details (unless we're re-processing)
+            # Check if course already has details
             has_details = (hasattr(course, 'detail_fetched_at') and 
                           course.detail_fetched_at is not None)
-            if has_details and not progress.get('reprocess_all', False):
-                continue
+            
+            if has_details:
+                courses_with_details += 1
+                # Skip if course already has details (unless we're re-processing)
+                if not progress.get('reprocess_all', False):
+                    continue
                 
             remaining_courses.append(course)
+        
+        console.print(f"📊 [blue]Found {courses_with_details} courses with existing details[/blue]")
+        console.print(f"📋 [yellow]Found {len(remaining_courses)} courses that need details[/yellow]")
+        
+        # NOW apply the limit to courses that actually need processing
+        if limit and len(remaining_courses) > limit:
+            remaining_courses = remaining_courses[:limit]
+            console.print(f"🎯 [yellow]Limited to processing {limit} courses (out of {len(remaining_courses)} that need details)[/yellow]")
+        else:
+            console.print(f"🎯 [yellow]Processing all {len(remaining_courses)} courses that need details[/yellow]")
         
         if not remaining_courses:
             console.print("✅ [green]All courses already have details![/green]")
             return base_schedule
-            
-        console.print(f"📋 [blue]{len(remaining_courses)} courses need detail collection[/blue]")
         
         # Track newly detailed courses and errors for this run
         newly_detailed_courses = []

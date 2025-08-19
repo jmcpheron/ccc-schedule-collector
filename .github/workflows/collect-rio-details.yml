@@ -84,6 +84,34 @@ jobs:
         echo "📊 Schedule file details:"
         uv run cli.py info "$SCHEDULE_FILE" | head -10
     
+    - name: Pre-collection analysis
+      run: |
+        echo "🔍 Pre-collection Analysis"
+        echo "========================="
+        echo "📁 Schedule file: $SCHEDULE_FILE"
+        echo "📊 File details:"
+        
+        if [ -f "$SCHEDULE_FILE" ]; then
+          TOTAL_COURSES=$(jq '.courses | length' "$SCHEDULE_FILE")
+          COURSES_WITH_DETAILS=$(jq '[.courses[] | select(has("detail_fetched_at"))] | length' "$SCHEDULE_FILE")
+          COURSES_NEEDING_DETAILS=$((TOTAL_COURSES - COURSES_WITH_DETAILS))
+          
+          echo "  • Total courses: $TOTAL_COURSES"
+          echo "  • Courses with details: $COURSES_WITH_DETAILS"
+          echo "  • Courses needing details: $COURSES_NEEDING_DETAILS"
+          echo ""
+          
+          if [ "$COURSES_NEEDING_DETAILS" -eq 0 ]; then
+            echo "⚠️  WARNING: All courses already have details!"
+            echo "   The collection may not add any new data."
+          else
+            echo "✅ Ready to collect details for $COURSES_NEEDING_DETAILS courses"
+          fi
+        else
+          echo "❌ Schedule file not found: $SCHEDULE_FILE"
+          exit 1
+        fi
+
     - name: Collect course details
       run: |
         chmod +x collect_rio_details.py
@@ -95,6 +123,10 @@ jobs:
         
         if [ "${{ github.event.inputs.limit }}" != "" ]; then
           CMD="$CMD --limit ${{ github.event.inputs.limit }}"
+        else
+          # Default to a reasonable batch size for GitHub Actions (prevents timeouts)
+          CMD="$CMD --limit 50"
+          echo "ℹ️  No limit specified, defaulting to 50 courses to prevent timeouts"
         fi
         
         RATE_LIMIT="${{ github.event.inputs.rate_limit }}"
@@ -107,7 +139,8 @@ jobs:
           CMD="$CMD --no-resume"
         fi
         
-        echo "Running: $CMD"
+        echo "🚀 Executing: $CMD"
+        echo "========================="
         eval $CMD
         
         rm -f data/.rio_detail_progress.json
@@ -130,12 +163,18 @@ jobs:
           
           # Check for data loss by comparing with backup if it exists
           if [ -n "$BACKUP_FILE" ] && [ -f "$BACKUP_FILE" ]; then
-            echo "🔍 Checking for data loss..."
+            echo ""
+            echo "🔍 Post-Collection Analysis"
+            echo "=========================="
             
             BACKUP_DETAILS=$(jq '[.courses[] | select(has("detail_fetched_at"))] | length' "$BACKUP_FILE")
             CURRENT_DETAILS=$(jq '[.courses[] | select(has("detail_fetched_at"))] | length' "$DETAILED_FILE")
+            TOTAL_COURSES=$(jq '.courses | length' "$DETAILED_FILE")
             
-            echo "📊 Course details: $BACKUP_DETAILS (before) → $CURRENT_DETAILS (after)"
+            echo "📊 Collection Results:"
+            echo "  • Total courses: $TOTAL_COURSES"
+            echo "  • Details before: $BACKUP_DETAILS"
+            echo "  • Details after: $CURRENT_DETAILS"
             
             if [ "$CURRENT_DETAILS" -lt "$BACKUP_DETAILS" ]; then
               echo "❌ ERROR: Data loss detected! Detail count decreased from $BACKUP_DETAILS to $CURRENT_DETAILS"
@@ -145,9 +184,14 @@ jobs:
               exit 1
             elif [ "$CURRENT_DETAILS" -gt "$BACKUP_DETAILS" ]; then
               ADDED=$((CURRENT_DETAILS - BACKUP_DETAILS))
-              echo "✅ Success: Added $ADDED new course details"
+              COMPLETION_RATE=$(echo "scale=1; $CURRENT_DETAILS * 100 / $TOTAL_COURSES" | bc -l)
+              echo "✅ SUCCESS: Added $ADDED new course details"
+              echo "  • Progress: ${CURRENT_DETAILS}/${TOTAL_COURSES} courses (${COMPLETION_RATE}%)"
+              echo "  • Remaining: $((TOTAL_COURSES - CURRENT_DETAILS)) courses need details"
             else
-              echo "📍 No new details added this run"
+              echo "⚠️  No new details added this run"
+              echo "  • This may indicate all requested courses already had details"
+              echo "  • Or there may have been a collection issue"
             fi
           else
             echo "ℹ️  No backup file available for comparison"
