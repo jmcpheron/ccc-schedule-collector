@@ -5666,30 +5666,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70402')",
-      "description": "This course provides students with an in-depth study of evidence rules. Emphasis is placed on the application of rules in preparing and presenting evidence. The course will discuss the history and approach to the study of evidence. Topics include proof by evidence and substitutes, general admissibility tests, evidence by way of witness testimony, documents, real evidence, and exclusion of evidence on constitutional grounds. For a better understanding of the evidence rules, judicial decisions are cited, and students are required to brief cases.",
-      "prerequisites": null,
-      "advisory": "AJ 101",
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "16-OCT-2025",
-        "Last day to drop with a refund": "16-OCT-2025",
-        "Last day to drop without a \"W\"": "27-OCT-2025",
-        "Last day to drop with a \"W\"": "20-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "21-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70402",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 18,
-        "available": 17
-      },
-      "detail_fetched_at": "2025-08-19T05:52:55.558239Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70402')"
     },
     {
       "crn": "70404",
@@ -5721,28 +5699,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70404')",
-      "description": "This course examines the complex, dynamic relationship between communities and the justice system in addressing crime and conflict with an emphasis on the challenges and prospects of administering justice within a diverse multicultural population. Topics covered may include crime prevention, restorative justice, conflict resolution, and ethics.",
-      "prerequisites": null,
-      "advisory": "AJ 101",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70404",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 27,
-        "available": 8
-      },
-      "detail_fetched_at": "2025-08-19T05:52:57.191529Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70404')"
     },
     {
       "crn": "70405",
@@ -5773,29 +5730,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70405')",
-      "description": "This course examines the complex, dynamic relationship between communities and the justice system in addressing crime and conflict with an emphasis on the challenges and prospects of administering justice within a diverse multicultural population. Topics covered may include crime prevention, restorative justice, conflict resolution, and ethics.",
-      "prerequisites": null,
-      "advisory": "AJ 101",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70405",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 35,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T05:52:58.817100Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70405')"
     },
     {
       "crn": "70406",
@@ -5826,30 +5762,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70406')",
-      "description": "This course examines the complex, dynamic relationship between communities and the justice system in addressing crime and conflict with an emphasis on the challenges and prospects of administering justice within a diverse multicultural population. Topics covered may include crime prevention, restorative justice, conflict resolution, and ethics.",
-      "prerequisites": null,
-      "advisory": "AJ 101",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "16-OCT-2025",
-        "Last day to drop with a refund": "16-OCT-2025",
-        "Last day to drop without a \"W\"": "27-OCT-2025",
-        "Last day to drop with a \"W\"": "20-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "21-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70406",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 21,
-        "available": 14
-      },
-      "detail_fetched_at": "2025-08-19T05:53:00.444647Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70406')"
     },
     {
       "crn": "73269",
@@ -5880,30 +5794,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "1.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73269')",
-      "description": "This course examines the complex, dynamic relationship between communities and the justice system in addressing crime and conflict with an emphasis on the challenges and prospects of administering justice within a diverse multicultural population. Topics covered may include crime prevention, restorative justice, conflict resolution, and ethics.",
-      "prerequisites": null,
-      "advisory": "AJ 101",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "02-SEP-2025",
-        "Last day to drop with a refund": "02-SEP-2025",
-        "Last day to drop without a \"W\"": "23-SEP-2025",
-        "Last day to drop with a \"W\"": "11-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "02-DEC-2025",
-        "Census Date": "16-SEP-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73269",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 0,
-        "available": 35
-      },
-      "detail_fetched_at": "2025-08-19T05:53:02.072109Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73269')"
     },
     {
       "crn": "72874",
@@ -5935,28 +5827,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72874')",
-      "description": "This course presents an analysis of the doctrines of criminal liability in the United States and takes up the classification of crimes against persons, property, morals, and public welfare. Special emphasis is placed on the classification and general elements of crime, the definitions of common and statutory law, and the nature of acceptable evidence. The course utilizes case law and case studies to introduce students to criminal law, and its successful completion is a foundation upon which more advanced criminal justice courses will build. The course also includes some limited discussion of prosecution and defense decision making, criminal culpability, and defenses to crimes.",
-      "prerequisites": "AJ 101 or PAC 040 or equivalent",
-      "advisory": null,
-      "transfers_to": "UC (credit limit*), CSU (*Students will receive credit from UC for only one of the following courses: AJ 106 or AJ 107)",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72874",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 16,
-        "available": 19
-      },
-      "detail_fetched_at": "2025-08-19T05:53:03.699972Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72874')"
     },
     {
       "crn": "75641",
@@ -5987,30 +5858,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75641')",
-      "description": "This course presents an analysis of the doctrines of criminal liability in the United States and takes up the classification of crimes against persons, property, morals, and public welfare. Special emphasis is placed on the classification and general elements of crime, the definitions of common and statutory law, and the nature of acceptable evidence. The course utilizes case law and case studies to introduce students to criminal law, and its successful completion is a foundation upon which more advanced criminal justice courses will build. The course also includes some limited discussion of prosecution and defense decision making, criminal culpability, and defenses to crimes.",
-      "prerequisites": "AJ 101 or PAC 040 or equivalent",
-      "advisory": null,
-      "transfers_to": "UC (credit limit*), CSU (*Students will receive credit from UC for only one of the following courses: AJ 106 or AJ 107)",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "21-AUG-2025",
-        "Last day to drop with a refund": "21-AUG-2025",
-        "Last day to drop without a \"W\"": "03-SEP-2025",
-        "Last day to drop with a \"W\"": "26-SEP-2025",
-        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
-        "Census Date": "27-AUG-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75641",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 13,
-        "available": 22
-      },
-      "detail_fetched_at": "2025-08-19T05:53:05.335719Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75641')"
     },
     {
       "crn": "75642",
@@ -6041,29 +5890,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75642')",
-      "description": "This course presents an analysis of the doctrines of criminal liability in the United States and takes up the classification of crimes against persons, property, morals, and public welfare. Special emphasis is placed on the classification and general elements of crime, the definitions of common and statutory law, and the nature of acceptable evidence. The course utilizes case law and case studies to introduce students to criminal law, and its successful completion is a foundation upon which more advanced criminal justice courses will build. The course also includes some limited discussion of prosecution and defense decision making, criminal culpability, and defenses to crimes.",
-      "prerequisites": "AJ 101 or PAC 040 or equivalent",
-      "advisory": null,
-      "transfers_to": "UC (credit limit*), CSU (*Students will receive credit from UC for only one of the following courses: AJ 106 or AJ 107)",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75642",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 30,
-        "available": 5
-      },
-      "detail_fetched_at": "2025-08-19T05:53:06.974928Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75642')"
     },
     {
       "crn": "70412",
@@ -6094,29 +5922,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70412')",
-      "description": "This course provides students with a comprehensive overview of criminal statutes and their definition. Topics include classification as applied to the system of administration of justice and crimes against persons and property. General statutes, health and safety statutes, and other state and federal laws are discussed.",
-      "prerequisites": null,
-      "advisory": "AJ 101 or completion of PAC 040 or equivalent",
-      "transfers_to": "UC (credit limit*), CSU (*Students will receive credit from UC for only one of the following courses: AJ 106 or AJ 107)",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70412",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 18,
-        "available": 17
-      },
-      "detail_fetched_at": "2025-08-19T05:53:08.595394Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70412')"
     },
     {
       "crn": "70413",
@@ -6147,30 +5954,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70413')",
-      "description": "This course provides students with a comprehensive overview of criminal statutes and their definition. Topics include classification as applied to the system of administration of justice and crimes against persons and property. General statutes, health and safety statutes, and other state and federal laws are discussed.",
-      "prerequisites": null,
-      "advisory": "AJ 101 or completion of PAC 040 or equivalent",
-      "transfers_to": "UC (credit limit*), CSU (*Students will receive credit from UC for only one of the following courses: AJ 106 or AJ 107)",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "16-OCT-2025",
-        "Last day to drop with a refund": "16-OCT-2025",
-        "Last day to drop without a \"W\"": "27-OCT-2025",
-        "Last day to drop with a \"W\"": "20-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "21-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70413",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 21,
-        "available": 14
-      },
-      "detail_fetched_at": "2025-08-19T05:53:10.217071Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70413')"
     },
     {
       "crn": "77696",
@@ -6202,28 +5987,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77696')",
-      "description": "This course is an introduction to forensic science and its role in criminal investigations. The course examines the basic methods of collecting, analyzing, and reporting evidence. Through the development of practical skills in crime scene techniques, it addresses topics including computer crimes; biological evidence like fingerprints, blood, the skeleton, tooth marks, and hair; pathology and toxicology; and evidence associated with forensic chemistry like fibers and traces, discharged firearms, accelerants, and illicit drugs.",
-      "prerequisites": null,
-      "advisory": null,
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77696",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 23,
-        "available": 12
-      },
-      "detail_fetched_at": "2025-08-19T05:53:11.855713Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77696')"
     },
     {
       "crn": "77897",
@@ -6255,28 +6019,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77897')",
-      "description": "This course is a continuation of Crime Scene Investigation I (AJ 135). It provides an introduction to and opportunities for the practical application of advanced forensics in criminal investigations, as well as interview and interrogation techniques utilized after crime scene analysis and crime reconstruction. The course focuses on forensic methods, with topics that include crime scene analysis, responsibilities, and processing; physical, testimonial, trace, impression, and firearms evidence; blood and bodily fluids; arson; illicit drugs and clandestine laboratories; and sexual assaults, domestic abuse, burglaries, and homicides.",
-      "prerequisites": "AJ 135",
-      "advisory": null,
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77897",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 12,
-        "available": 23
-      },
-      "detail_fetched_at": "2025-08-19T05:53:13.484085Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77897')"
     },
     {
       "crn": "70417",
@@ -6307,29 +6050,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70417')",
-      "description": "This course is designed to provide Administration of Justice or other interested students with techniques for handling juvenile offenders and victims. Emphasis is placed on the prevention and repression of delinquency, diagnosis and referral of juvenile offenders, and organization of community resources. Juvenile law and juvenile court procedures are contrasted with adult law procedures.",
-      "prerequisites": null,
-      "advisory": "AJ 101",
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70417",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 27,
-        "available": 8
-      },
-      "detail_fetched_at": "2025-08-19T05:53:15.112367Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70417')"
     },
     {
       "crn": "70418",
@@ -55432,11 +55154,11 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-19T05:53:15.119833+00:00Z",
-    "courses_with_details": 118,
+    "detail_collection_timestamp": "2025-08-19T05:50:35.520140+00:00Z",
+    "courses_with_details": 105,
     "detail_collection_errors": null,
-    "detail_rate_limit": 1.5,
-    "courses_processed_this_run": 13
+    "detail_rate_limit": 3.0,
+    "courses_processed_this_run": 5
   },
   "total_courses": null,
   "departments": null
