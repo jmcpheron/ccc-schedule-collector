@@ -98,15 +98,16 @@ jobs:
     
     - name: Validate detailed data
       run: |
-        DETAILED_FILE=$(ls data/schedule_detailed_*.json 2>/dev/null | sort -r | head -1)
+        # Look for the standardized detailed schedule file
+        DETAILED_FILE="data/rio-hondo/schedule_detailed_202570.json"
         
         if [ -f "$DETAILED_FILE" ]; then
           echo "Validating detailed schedule: $DETAILED_FILE"
           uv run cli.py validate "$DETAILED_FILE"
           echo "DETAILED_FILE=$DETAILED_FILE" >> $GITHUB_ENV
         else
-          echo "ERROR: No detailed schedule file found"
-          ls -la data/
+          echo "ERROR: Detailed schedule file not found: $DETAILED_FILE"
+          ls -la data/rio-hondo/
           exit 1
         fi
     
@@ -130,15 +131,6 @@ jobs:
           echo "No detailed file to report on" >> data/detail_collection_report.md
         fi
     
-    - name: Move detailed file to rio-hondo directory
-      run: |
-        if [ -f "$DETAILED_FILE" ]; then
-          mkdir -p data/rio-hondo
-          mv "$DETAILED_FILE" data/rio-hondo/
-          DETAILED_FILE="data/rio-hondo/$(basename $DETAILED_FILE)"
-          echo "DETAILED_FILE=$DETAILED_FILE" >> $GITHUB_ENV
-          echo "Moved detailed file to: $DETAILED_FILE"
-        fi
     
     - name: Commit and push changes
       run: |
@@ -153,13 +145,19 @@ jobs:
           if [ -f "$DETAILED_FILE" ]; then
             TOTAL=$(jq '.courses | length' "$DETAILED_FILE")
             DETAILED=$(jq '.metadata.courses_with_details // 0' "$DETAILED_FILE")
+            PROCESSED_THIS_RUN=$(jq '.metadata.courses_processed_this_run // 0' "$DETAILED_FILE")
             STATS="${DETAILED}/${TOTAL} courses with details"
+            
+            if [ "$PROCESSED_THIS_RUN" -gt 0 ]; then
+              COMMIT_MSG="Update Rio Hondo course details: ${STATS} (+${PROCESSED_THIS_RUN} processed this run)"
+            else
+              COMMIT_MSG="Update Rio Hondo course details: ${STATS}"
+            fi
           else
-            STATS="collection failed"
+            COMMIT_MSG="Rio Hondo detail collection failed"
           fi
           
-          TIMESTAMP=$(date -u)
-          git commit -m "Rio Hondo course details: ${TIMESTAMP} - ${STATS}"
+          git commit -m "$COMMIT_MSG"
           git push
         fi
     
@@ -168,6 +166,10 @@ jobs:
       run: |
         echo "✅ Rio Hondo detail collection completed successfully!"
         if [ -f "$DETAILED_FILE" ]; then
-          echo "📁 Detailed schedule saved to: $DETAILED_FILE"
+          echo "📁 Detailed schedule updated: $DETAILED_FILE"
           echo "📊 Collection report: data/detail_collection_report.md"
+          
+          TOTAL=$(jq '.courses | length' "$DETAILED_FILE")
+          DETAILED=$(jq '.metadata.courses_with_details // 0' "$DETAILED_FILE")
+          echo "📈 Current status: ${DETAILED}/${TOTAL} courses have detailed information"
         fi

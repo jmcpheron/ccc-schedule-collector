@@ -44,6 +44,107 @@ class RioHondoDetailCollector:
         self.rate_limit = rate_limit
         self.progress_file = Path("data/.rio_detail_progress.json")
         
+    def get_detailed_filename(self, term_code: str) -> Path:
+        """Get the standard detailed schedule filename for a term.
+        
+        Args:
+            term_code: Term code (e.g., "202570")
+            
+        Returns:
+            Path to the detailed schedule file
+        """
+        return Path(f"data/rio-hondo/schedule_detailed_{term_code}.json")
+    
+    def load_existing_detailed(self, term_code: str) -> Optional[ScheduleData]:
+        """Load existing detailed schedule if it exists.
+        
+        Args:
+            term_code: Term code to load
+            
+        Returns:
+            ScheduleData object if file exists, None otherwise
+        """
+        file_path = self.get_detailed_filename(term_code)
+        if file_path.exists():
+            console.print(f"📖 [cyan]Loading existing detailed schedule: {file_path}[/cyan]")
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+                return ScheduleData(**data)
+        return None
+    
+    def merge_course_details(self, 
+                           base_schedule: ScheduleData,
+                           new_detailed_courses: List[DetailedCourse],
+                           completed_crns: set,
+                           errors: List[str]) -> ScheduleData:
+        """Merge new detailed courses into existing schedule.
+        
+        Args:
+            base_schedule: Base schedule to merge into
+            new_detailed_courses: New detailed courses to merge in
+            completed_crns: Set of CRNs that have been processed
+            errors: List of errors encountered during collection
+            
+        Returns:
+            Updated ScheduleData with merged details
+        """
+        # Create CRN mapping from new details
+        new_details_map = {c.crn: c for c in new_detailed_courses}
+        
+        # Update courses - merge new details with existing courses
+        merged_courses = []
+        for course in base_schedule.courses:
+            if course.crn in new_details_map:
+                # Use the new detailed version
+                merged_courses.append(new_details_map[course.crn])
+            else:
+                # Keep existing course (may already have details or be unprocessed)
+                merged_courses.append(course)
+        
+        # Count detailed courses
+        detailed_count = sum(1 for c in merged_courses 
+                           if hasattr(c, 'detail_fetched_at') and c.detail_fetched_at is not None)
+        
+        # Update metadata
+        updated_metadata = {
+            **(base_schedule.metadata or {}),
+            'details_collected': True,
+            'detail_collection_timestamp': datetime.now(timezone.utc).isoformat() + "Z",
+            'courses_with_details': detailed_count,
+            'total_courses': len(merged_courses),
+            'detail_collection_errors': errors if errors else None,
+            'detail_rate_limit': self.rate_limit,
+            'courses_processed_this_run': len(completed_crns)
+        }
+        
+        return ScheduleData(
+            term=base_schedule.term,
+            term_code=base_schedule.term_code,
+            collection_timestamp=base_schedule.collection_timestamp,
+            source_url=base_schedule.source_url,
+            college_id=base_schedule.college_id,
+            collector_version=base_schedule.collector_version,
+            courses=merged_courses,
+            metadata=updated_metadata
+        )
+    
+    def save_merged_results(self, schedule_data: ScheduleData):
+        """Save the merged schedule to the standard location.
+        
+        Args:
+            schedule_data: Schedule data to save
+        """
+        output_path = self.get_detailed_filename(schedule_data.term_code)
+        
+        # Ensure output directory exists
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        
+        # Save the merged schedule
+        with open(output_path, 'w') as f:
+            json.dump(schedule_data.model_dump(mode='json'), f, indent=2, default=str)
+        
+        console.print(f"💾 [green]Saved merged results to: {output_path}[/green]")
+        
     def load_schedule(self, schedule_file: str) -> ScheduleData:
         """Load a schedule JSON file and return ScheduleData object."""
         console.print(f"📖 [cyan]Loading schedule from: {schedule_file}[/cyan]")
@@ -74,7 +175,7 @@ class RioHondoDetailCollector:
                              limit: Optional[int] = None,
                              resume: bool = True,
                              batch_size: int = 50) -> ScheduleData:
-        """Collect detailed information for courses in a schedule.
+        """Collect detailed information for courses in a schedule using incremental merge approach.
         
         Args:
             schedule_data: Basic schedule data to enhance
@@ -85,7 +186,29 @@ class RioHondoDetailCollector:
         Returns:
             Enhanced ScheduleData with DetailedCourse objects
         """
-        courses_to_process = schedule_data.courses[:limit] if limit else schedule_data.courses
+        # Start with existing detailed file if available, otherwise use input schedule
+        base_schedule = self.load_existing_detailed(schedule_data.term_code)
+        if base_schedule is None:
+            console.print(f"📝 [blue]No existing detailed file found, starting fresh[/blue]")
+            base_schedule = schedule_data
+        else:
+            # Update base schedule with any new courses from input (in case basic schedule was updated)
+            input_crns = {c.crn for c in schedule_data.courses}
+            base_crns = {c.crn for c in base_schedule.courses}
+            
+            if input_crns != base_crns:
+                console.print(f"⚠️  [yellow]Schedule differences detected, merging with input[/yellow]")
+                # Merge any new courses from input into base schedule
+                merged_courses = list(base_schedule.courses)
+                existing_crns = {c.crn for c in merged_courses}
+                
+                for course in schedule_data.courses:
+                    if course.crn not in existing_crns:
+                        merged_courses.append(course)
+                        
+                base_schedule.courses = merged_courses
+        
+        courses_to_process = base_schedule.courses[:limit] if limit else base_schedule.courses
         total_courses = len(courses_to_process)
         
         console.print(f"🎯 [yellow]Processing {total_courses} courses[/yellow]")
@@ -95,37 +218,37 @@ class RioHondoDetailCollector:
         completed_crns = set()
         if resume:
             progress = self.load_progress()
-            if progress.get('schedule_file') == str(schedule_data.source_url):
+            if progress.get('term_code') == schedule_data.term_code:
                 completed_crns = set(progress.get('completed_crns', []))
                 console.print(f"🔄 [green]Resuming: {len(completed_crns)} already completed[/green]")
             else:
                 progress = {}
+        
+        # Find courses that need details (don't have detail_fetched_at or are in remaining list)
+        remaining_courses = []
+        for course in courses_to_process:
+            # Skip if already completed in this session
+            if course.crn in completed_crns:
+                continue
                 
-        # Filter out already completed courses
-        remaining_courses = [c for c in courses_to_process if c.crn not in completed_crns]
+            # Skip if course already has details (unless we're re-processing)
+            has_details = (hasattr(course, 'detail_fetched_at') and 
+                          course.detail_fetched_at is not None)
+            if has_details and not progress.get('reprocess_all', False):
+                continue
+                
+            remaining_courses.append(course)
         
         if not remaining_courses:
-            console.print("✅ [green]All courses already processed![/green]")
-            if progress.get('output_file') and Path(progress['output_file']).exists():
-                with open(progress['output_file'], 'r') as f:
-                    return ScheduleData(**json.load(f))
-            return schedule_data
+            console.print("✅ [green]All courses already have details![/green]")
+            return base_schedule
             
-        console.print(f"📋 [blue]{len(remaining_courses)} courses remaining to process[/blue]")
+        console.print(f"📋 [blue]{len(remaining_courses)} courses need detail collection[/blue]")
         
-        # Initialize results
-        detailed_courses = []
+        # Track newly detailed courses and errors for this run
+        newly_detailed_courses = []
         errors = []
-        
-        # Load previously completed courses if resuming
-        if resume and progress.get('output_file') and Path(progress['output_file']).exists():
-            with open(progress['output_file'], 'r') as f:
-                existing_data = json.load(f)
-                for course_data in existing_data.get('courses', []):
-                    if 'detail_fetched_at' in course_data:
-                        detailed_courses.append(DetailedCourse(**course_data))
-                    else:
-                        detailed_courses.append(Course(**course_data))
+        run_completed_crns = set()
         
         # Collect details with progress bar
         with Progress(
@@ -155,16 +278,17 @@ class RioHondoDetailCollector:
                         detail_delay=0  # We handle delay ourselves
                     )[0]
                     
-                    detailed_courses.append(detailed_course)
+                    newly_detailed_courses.append(detailed_course)
+                    run_completed_crns.add(course.crn)
                     completed_crns.add(course.crn)
                     
                     # Update progress
                     progress_bar.update(task, advance=1)
                     
-                    # Save progress periodically
+                    # Save progress periodically using merge approach
                     if (i + 1) % batch_size == 0:
-                        self._save_intermediate_results(
-                            schedule_data, detailed_courses, completed_crns, errors
+                        self._save_batch_results(
+                            base_schedule, newly_detailed_courses, completed_crns, errors
                         )
                         
                     # Rate limiting - be respectful to the server
@@ -176,47 +300,21 @@ class RioHondoDetailCollector:
                     console.print(f"[red]❌ {error_msg}[/red]")
                     errors.append(error_msg)
                     
-                    # Add course without details on error
-                    detailed_courses.append(Course(**course.model_dump()))
+                    # Continue without details for this course
+                    run_completed_crns.add(course.crn)
                     completed_crns.add(course.crn)
                     progress_bar.update(task, advance=1)
         
-        # Create final detailed schedule
-        enhanced_schedule = ScheduleData(
-            term=schedule_data.term,
-            term_code=schedule_data.term_code,
-            collection_timestamp=schedule_data.collection_timestamp,
-            source_url=schedule_data.source_url,
-            college_id=schedule_data.college_id,
-            collector_version=schedule_data.collector_version,
-            courses=detailed_courses,
-            metadata={
-                **(schedule_data.metadata or {}),
-                'details_collected': True,
-                'detail_collection_timestamp': datetime.now(timezone.utc).isoformat() + "Z",
-                'courses_with_details': sum(1 for c in detailed_courses if isinstance(c, DetailedCourse)),
-                'total_courses': len(detailed_courses),
-                'detail_collection_errors': errors if errors else None,
-                'detail_rate_limit': self.rate_limit
-            }
+        # Create final merged schedule
+        final_schedule = self.merge_course_details(
+            base_schedule, newly_detailed_courses, run_completed_crns, errors
         )
         
-        # Save final results
-        timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
-        filename = f"schedule_detailed_{schedule_data.term_code}_{timestamp}.json"
-        output_path = Path("data") / filename
+        # Save final results using standard filename
+        self.save_merged_results(final_schedule)
         
-        # Ensure output directory exists
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-        
-        # Save the enhanced schedule
-        with open(output_path, 'w') as f:
-            json.dump(enhanced_schedule.model_dump(mode='json'), f, indent=2, default=str)
-        
-        console.print(f"\n✅ [green]Detailed schedule saved to: {output_path}[/green]")
-        
-        detailed_count = enhanced_schedule.metadata['courses_with_details']
-        total_count = len(enhanced_schedule.courses)
+        detailed_count = final_schedule.metadata.get('courses_with_details', 0)
+        total_count = len(final_schedule.courses)
         console.print(f"📊 [blue]Results: {detailed_count}/{total_count} courses have detailed information[/blue]")
         
         if errors:
@@ -226,41 +324,36 @@ class RioHondoDetailCollector:
         if self.progress_file.exists():
             self.progress_file.unlink()
             
-        return enhanced_schedule
+        return final_schedule
     
-    def _save_intermediate_results(self, schedule_data: ScheduleData, detailed_courses: List, 
-                                   completed_crns: set, errors: List):
-        """Save intermediate results and progress."""
-        # Update progress
+    def _save_batch_results(self, base_schedule: ScheduleData, newly_detailed_courses: List[DetailedCourse], 
+                           completed_crns: set, errors: List):
+        """Save batch results using merge approach.
+        
+        Args:
+            base_schedule: Base schedule to merge into
+            newly_detailed_courses: New detailed courses from this batch
+            completed_crns: Set of CRNs completed so far
+            errors: List of errors encountered
+        """
+        # Update progress tracking
         progress = {
-            'schedule_file': str(schedule_data.source_url),
+            'term_code': base_schedule.term_code,
             'completed_crns': list(completed_crns),
             'total_processed': len(completed_crns),
             'last_update': datetime.now(timezone.utc).isoformat() + "Z",
-            'output_file': f"data/schedule_detailed_{schedule_data.term_code}_partial.json"
         }
         self.save_progress(progress)
         
-        # Save partial results
-        partial_schedule = ScheduleData(
-            term=schedule_data.term,
-            term_code=schedule_data.term_code,
-            collection_timestamp=schedule_data.collection_timestamp,
-            source_url=schedule_data.source_url,
-            college_id=schedule_data.college_id,
-            collector_version=schedule_data.collector_version,
-            courses=detailed_courses,
-            metadata={
-                **(schedule_data.metadata or {}),
-                'partial': True,
-                'details_collected': True,
-                'courses_processed': len(completed_crns),
-                'detail_collection_errors': errors if errors else None
-            }
+        # Merge results and save to main file
+        merged_schedule = self.merge_course_details(
+            base_schedule, newly_detailed_courses, completed_crns, errors
         )
         
-        with open(progress['output_file'], 'w') as f:
-            json.dump(partial_schedule.model_dump(mode='json'), f, indent=2, default=str)
+        self.save_merged_results(merged_schedule)
+        
+        detailed_count = merged_schedule.metadata.get('courses_with_details', 0)
+        console.print(f"💾 [dim]Batch saved: {detailed_count} courses with details[/dim]")
     
     def find_latest_schedule(self) -> Optional[str]:
         """Find the latest Rio Hondo schedule file."""
