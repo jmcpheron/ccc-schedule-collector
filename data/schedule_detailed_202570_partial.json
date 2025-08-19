@@ -1,0 +1,2803 @@
+{
+  "term": "Fall 2025",
+  "term_code": "202570",
+  "collection_timestamp": "2025-08-16T22:32:28.731798Z",
+  "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
+  "college_id": "rio-hondo",
+  "collector_version": "1.0.0",
+  "courses": [
+    {
+      "crn": "75065",
+      "subject": "ACCT",
+      "course_number": "100",
+      "title": "Introduction to Accounting",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75065')",
+      "description": "This course provides basic knowledge of accounting terms, concepts, and procedures for a sole proprietorship form of business. Topics include analyzing and recording business transactions for service and merchandising firms and preparing simple financial statements. Accounting for cash, sales, purchases, payroll, and end-of-year procedures are presented. This course is designed for occupationally-oriented students and/or students preparing for Financial Accounting and Computerized Accounting.",
+      "prerequisites": null,
+      "advisory": "It is advised that students have a knowledge of elementary algebra concepts and be able to read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75065",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 40,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-19T04:34:27.087068Z"
+    },
+    {
+      "crn": "77649",
+      "subject": "ACCT",
+      "course_number": "100",
+      "title": "Introduction to Accounting",
+      "units": 3.0,
+      "instructor": "Scott  Andersen",
+      "instructor_email": "sandersen@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "06:00pm",
+          "end_time": "09:10pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Online SYNC",
+      "enrollment": {
+        "capacity": 40,
+        "actual": 33,
+        "remaining": 7
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Online SYNC",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77649')",
+      "description": "This course provides basic knowledge of accounting terms, concepts, and procedures for a sole proprietorship form of business. Topics include analyzing and recording business transactions for service and merchandising firms and preparing simple financial statements. Accounting for cash, sales, purchases, payroll, and end-of-year procedures are presented. This course is designed for occupationally-oriented students and/or students preparing for Financial Accounting and Computerized Accounting.",
+      "prerequisites": null,
+      "advisory": "It is advised that students have a knowledge of elementary algebra concepts and be able to read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77649",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 33,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-08-19T04:34:29.155256Z"
+    },
+    {
+      "crn": "70998",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70998')",
+      "description": "This course is an introduction to the theory, principles, and practice of accounting and financial reporting for corporations. Topics include analysis and recording of financial transactions; preparation, analysis, and interpretation of financial statements; and accounting for assets, liabilities, and equities. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+      "prerequisites": null,
+      "advisory": "ACCT 100; It is advised that students have a knowledge of elementary algebra concepts and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*) CSU (*students will receive credit for only one of the following courses: ACCT 101 or ACCT 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70998",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-19T04:34:31.224840Z"
+    },
+    {
+      "crn": "71216",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "Thaddeus Marwin  Luminarias",
+      "instructor_email": "MLuminarias@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Business 119",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 21,
+        "remaining": 20
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71216')",
+      "description": "This course is an introduction to the theory, principles, and practice of accounting and financial reporting for corporations. Topics include analysis and recording of financial transactions; preparation, analysis, and interpretation of financial statements; and accounting for assets, liabilities, and equities. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+      "prerequisites": null,
+      "advisory": "ACCT 100; It is advised that students have a knowledge of elementary algebra concepts and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*) CSU (*students will receive credit for only one of the following courses: ACCT 101 or ACCT 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71216",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 22,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-08-19T04:34:33.294591Z"
+    },
+    {
+      "crn": "71259",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71259')",
+      "description": "This course is an introduction to the theory, principles, and practice of accounting and financial reporting for corporations. Topics include analysis and recording of financial transactions; preparation, analysis, and interpretation of financial statements; and accounting for assets, liabilities, and equities. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+      "prerequisites": null,
+      "advisory": "ACCT 100; It is advised that students have a knowledge of elementary algebra concepts and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*) CSU (*students will receive credit for only one of the following courses: ACCT 101 or ACCT 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71259",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-19T04:34:35.365548Z"
+    },
+    {
+      "crn": "71278",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71278')",
+      "description": "This course is an introduction to the theory, principles, and practice of accounting and financial reporting for corporations. Topics include analysis and recording of financial transactions; preparation, analysis, and interpretation of financial statements; and accounting for assets, liabilities, and equities. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+      "prerequisites": null,
+      "advisory": "ACCT 100; It is advised that students have a knowledge of elementary algebra concepts and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*) CSU (*students will receive credit for only one of the following courses: ACCT 101 or ACCT 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "26-AUG-2025",
+        "Last day to drop with a refund": "26-AUG-2025",
+        "Last day to drop without a \"W\"": "17-SEP-2025",
+        "Last day to drop with a \"W\"": "03-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "08-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71278",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 13,
+        "available": 32
+      },
+      "detail_fetched_at": "2025-08-19T04:34:37.434562Z"
+    },
+    {
+      "crn": "71279",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "Jeannie  Liu",
+      "instructor_email": "jliu@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Business 119",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 40,
+        "remaining": 5
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71279')",
+      "description": "This course is an introduction to the theory, principles, and practice of accounting and financial reporting for corporations. Topics include analysis and recording of financial transactions; preparation, analysis, and interpretation of financial statements; and accounting for assets, liabilities, and equities. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+      "prerequisites": null,
+      "advisory": "ACCT 100; It is advised that students have a knowledge of elementary algebra concepts and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*) CSU (*students will receive credit for only one of the following courses: ACCT 101 or ACCT 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71279",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-19T04:34:39.498867Z"
+    },
+    {
+      "crn": "74111",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74111')",
+      "description": "This course is an introduction to the theory, principles, and practice of accounting and financial reporting for corporations. Topics include analysis and recording of financial transactions; preparation, analysis, and interpretation of financial statements; and accounting for assets, liabilities, and equities. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+      "prerequisites": null,
+      "advisory": "ACCT 100; It is advised that students have a knowledge of elementary algebra concepts and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*) CSU (*students will receive credit for only one of the following courses: ACCT 101 or ACCT 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74111",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 46,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-19T04:34:41.571538Z"
+    },
+    {
+      "crn": "74147",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "Thaddeus Marwin  Luminarias",
+      "instructor_email": "MLuminarias@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Online SYNC",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Cancelled",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Online SYNC",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74147')",
+      "description": "This course is an introduction to the theory, principles, and practice of accounting and financial reporting for corporations. Topics include analysis and recording of financial transactions; preparation, analysis, and interpretation of financial statements; and accounting for assets, liabilities, and equities. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+      "prerequisites": null,
+      "advisory": "ACCT 100; It is advised that students have a knowledge of elementary algebra concepts and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*) CSU (*students will receive credit for only one of the following courses: ACCT 101 or ACCT 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74147",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-19T04:34:43.636611Z"
+    },
+    {
+      "crn": "74600",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74600')",
+      "description": "This course is an introduction to the theory, principles, and practice of accounting and financial reporting for corporations. Topics include analysis and recording of financial transactions; preparation, analysis, and interpretation of financial statements; and accounting for assets, liabilities, and equities. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+      "prerequisites": null,
+      "advisory": "ACCT 100; It is advised that students have a knowledge of elementary algebra concepts and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*) CSU (*students will receive credit for only one of the following courses: ACCT 101 or ACCT 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74600",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 42,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-19T04:34:45.715231Z"
+    },
+    {
+      "crn": "76981",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "Janet  Cha",
+      "instructor_email": "jcha@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "10:25am",
+          "end_time": "12:30pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Business 117",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 39,
+        "remaining": 6
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76981')",
+      "description": "This course is an introduction to the theory, principles, and practice of accounting and financial reporting for corporations. Topics include analysis and recording of financial transactions; preparation, analysis, and interpretation of financial statements; and accounting for assets, liabilities, and equities. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+      "prerequisites": null,
+      "advisory": "ACCT 100; It is advised that students have a knowledge of elementary algebra concepts and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*) CSU (*students will receive credit for only one of the following courses: ACCT 101 or ACCT 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76981",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-19T04:34:47.785309Z"
+    },
+    {
+      "crn": "76990",
+      "subject": "ACCT",
+      "course_number": "101H",
+      "title": "Financial Accounting Honors",
+      "units": 4.0,
+      "instructor": "Thaddeus Marwin  Luminarias",
+      "instructor_email": "MLuminarias@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Business 119",
+      "enrollment": {
+        "capacity": 25,
+        "actual": 4,
+        "remaining": 20
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76990')",
+      "description": "This course is an introduction to the theory, principles, and practice of accounting and financial reporting for corporations. Topics include analysis and recording of financial transactions; preparation, analysis, and interpretation of financial statements; and accounting for assets, liabilities, and equities. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors. This course is intended for students eligible for the Honors Program.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "ACCT 100; It is advised that students have a knowledge of elementary algebra concepts and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (Students will receive credit for only one of the following courses: ACCT 101 or ACCT 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76990",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 4,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-08-19T04:34:49.861540Z"
+    },
+    {
+      "crn": "71260",
+      "subject": "ACCT",
+      "course_number": "102",
+      "title": "Managerial Accounting",
+      "units": 4.0,
+      "instructor": "Jeannie  Liu",
+      "instructor_email": "jliu@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "10:25am",
+          "end_time": "12:30pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Business 119",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 31,
+        "remaining": 10
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71260')",
+      "description": "This course introduces students to the fundamentals of managerial accounting for decision making. Topics include manufacturing cost accounting, cost allocation, cost-volume-profit analysis, absorption and variable costing, differential analysis for decision making, capital investment analysis, budgeting, standard costing, responsibility accounting centers, activity-costing, just-in-time environments, and financial statement analysis. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+      "prerequisites": "ACCT 101 or ACCT 101H",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71260",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 33,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-19T04:34:51.926274Z"
+    },
+    {
+      "crn": "71280",
+      "subject": "ACCT",
+      "course_number": "102",
+      "title": "Managerial Accounting",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71280')",
+      "description": "This course introduces students to the fundamentals of managerial accounting for decision making. Topics include manufacturing cost accounting, cost allocation, cost-volume-profit analysis, absorption and variable costing, differential analysis for decision making, capital investment analysis, budgeting, standard costing, responsibility accounting centers, activity-costing, just-in-time environments, and financial statement analysis. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+      "prerequisites": "ACCT 101 or ACCT 101H",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71280",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 42,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-19T04:34:54.007945Z"
+    },
+    {
+      "crn": "71282",
+      "subject": "ACCT",
+      "course_number": "102",
+      "title": "Managerial Accounting",
+      "units": 4.0,
+      "instructor": "Janet  Cha",
+      "instructor_email": "jcha@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Business 117",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 19,
+        "remaining": 26
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71282')",
+      "description": "This course introduces students to the fundamentals of managerial accounting for decision making. Topics include manufacturing cost accounting, cost allocation, cost-volume-profit analysis, absorption and variable costing, differential analysis for decision making, capital investment analysis, budgeting, standard costing, responsibility accounting centers, activity-costing, just-in-time environments, and financial statement analysis. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+      "prerequisites": "ACCT 101 or ACCT 101H",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71282",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 19,
+        "available": 26
+      },
+      "detail_fetched_at": "2025-08-19T04:34:56.070672Z"
+    },
+    {
+      "crn": "75645",
+      "subject": "ACCT",
+      "course_number": "102",
+      "title": "Managerial Accounting",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75645')",
+      "description": "This course introduces students to the fundamentals of managerial accounting for decision making. Topics include manufacturing cost accounting, cost allocation, cost-volume-profit analysis, absorption and variable costing, differential analysis for decision making, capital investment analysis, budgeting, standard costing, responsibility accounting centers, activity-costing, just-in-time environments, and financial statement analysis. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors.",
+      "prerequisites": "ACCT 101 or ACCT 101H",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75645",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-19T04:34:58.132763Z"
+    },
+    {
+      "crn": "76991",
+      "subject": "ACCT",
+      "course_number": "102H",
+      "title": "Managerial Accounting Honors",
+      "units": 4.0,
+      "instructor": "Jeannie  Liu",
+      "instructor_email": "jliu@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "10:25am",
+          "end_time": "12:30pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Business 119",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 4,
+        "remaining": 6
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76991')",
+      "description": "This course introduces students to the fundamentals of managerial accounting for decision making. Topics include manufacturing cost accounting, cost allocation, cost-volume-profit analysis, absorption and variable costing, differential analysis for decision making, capital investment analysis, budgeting, standard costing, responsibility accounting centers, activity-costing, just-in-time environments, and financial statement analysis. Computer applications are integrated into the homework. This course is required for all accounting and business administration majors. This course is intended for students eligible for the Honors Program.",
+      "prerequisites": "ACCT 101 or ACCT 101H, ENGL C1000",
+      "advisory": null,
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76991",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 4,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-19T04:35:00.206841Z"
+    },
+    {
+      "crn": "72862",
+      "subject": "ACCT",
+      "course_number": "103",
+      "title": "Payroll Accounting",
+      "units": 3.0,
+      "instructor": "Jorgelina  Decaroli",
+      "instructor_email": "jdecaroli@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "07:00pm",
+          "end_time": "09:50pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Online SYNC",
+      "enrollment": {
+        "capacity": 40,
+        "actual": 36,
+        "remaining": 4
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Online SYNC",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72862')",
+      "description": "This course combines basic accounting skills with specialized training in payroll accounting to prepare students for entry-level positions within the payroll segment of accounting. The course is designed for accounting majors and students interested in pursuing an entry-level position within the payroll segment of accounting: it provides a comprehensive overview of federal and state payroll laws and these laws\u2019 effects on payroll records and required government reports.",
+      "prerequisites": null,
+      "advisory": "ACCT 100 or 101",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72862",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 38,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-19T04:35:02.274660Z"
+    },
+    {
+      "crn": "78076",
+      "subject": "ACCT",
+      "course_number": "105",
+      "title": "Income Tax Accounting",
+      "units": 4.0,
+      "instructor": "Michelle  King",
+      "instructor_email": "mking@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Online SYNC",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 45,
+        "remaining": 0
+      },
+      "status": "Waitlisted",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Online SYNC",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78076')",
+      "description": "This course covers federal and California State income tax laws and preparation as they relate to individuals and small business entities. Emphasis is placed upon income inclusion, exclusion, exemptions, capital gains and losses, and business and individual deductions. Students who successfully complete the course with at least a \u201cC\u201d grade will be certified by the California Tax Education Council as fulfilling the state\u2019s 60-hour qualifying education requirement (45 federal hours and 15 California hours) to become a registered tax preparer.",
+      "prerequisites": null,
+      "advisory": "ACCT 101",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78076",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 46,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-19T04:35:04.352655Z"
+    },
+    {
+      "crn": "76453",
+      "subject": "ACCT",
+      "course_number": "106",
+      "title": "Computerized Accounting",
+      "units": 3.0,
+      "instructor": "Edward  Jimenez",
+      "instructor_email": "edjimenez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "07:00pm",
+          "end_time": "09:05pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Online SYNC",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 44,
+        "remaining": 1
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Online SYNC",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76453')",
+      "description": "This course is designed to provide students with a sound, basic knowledge of how computerized integrated accounting systems function. Students process accounting data using receivables, payables, inventory, payroll, and project modules. This course is designed for accounting majors, students interested in starting a small business, and students interested in pursuing entry-level positions in the field of accounting.",
+      "prerequisites": null,
+      "advisory": "ACCT 100, ACCT 101",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76453",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 43,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-19T04:35:06.430213Z"
+    },
+    {
+      "crn": "74120",
+      "subject": "ACCT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Accounting-Related Fields",
+      "units": 1.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74120')",
+      "description": "This course supports and reinforces on-the-job training in business and industrial establishments under supervision of a college instructor. Training is informed by learning objectives. The student will be working in a skilled or professional level assignment in their area of vocational interest and will meet performance objectives related to instruction that are above and beyond the conditions of regular employment. This course is intended for students whose job is related to the field of accounting and have completed or enrolled in the appropriate coursework. This course may be taken once and repeated for a maximum of 16 units. Contact the Work Experience Education Office regarding re-enrollment procedures.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74120",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-19T04:35:08.497961Z"
+    },
+    {
+      "crn": "74121",
+      "subject": "ACCT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Accounting-Related Fields",
+      "units": 2.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74121')",
+      "description": "This course supports and reinforces on-the-job training in business and industrial establishments under supervision of a college instructor. Training is informed by learning objectives. The student will be working in a skilled or professional level assignment in their area of vocational interest and will meet performance objectives related to instruction that are above and beyond the conditions of regular employment. This course is intended for students whose job is related to the field of accounting and have completed or enrolled in the appropriate coursework. This course may be taken once and repeated for a maximum of 16 units. Contact the Work Experience Education Office regarding re-enrollment procedures.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74121",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-19T04:35:10.575931Z"
+    },
+    {
+      "crn": "77968",
+      "subject": "ACCT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Accounting-Related Fields",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "13.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77968')",
+      "description": "This course supports and reinforces on-the-job training in business and industrial establishments under supervision of a college instructor. Training is informed by learning objectives. The student will be working in a skilled or professional level assignment in their area of vocational interest and will meet performance objectives related to instruction that are above and beyond the conditions of regular employment. This course is intended for students whose job is related to the field of accounting and have completed or enrolled in the appropriate coursework. This course may be taken once and repeated for a maximum of 16 units. Contact the Work Experience Education Office regarding re-enrollment procedures.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77968",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 3,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-19T04:35:12.639357Z"
+    },
+    {
+      "crn": "78001",
+      "subject": "ACCT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Accounting-Related Fields",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": "10.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78001')",
+      "description": "This course supports and reinforces on-the-job training in business and industrial establishments under supervision of a college instructor. Training is informed by learning objectives. The student will be working in a skilled or professional level assignment in their area of vocational interest and will meet performance objectives related to instruction that are above and beyond the conditions of regular employment. This course is intended for students whose job is related to the field of accounting and have completed or enrolled in the appropriate coursework. This course may be taken once and repeated for a maximum of 16 units. Contact the Work Experience Education Office regarding re-enrollment procedures.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78001",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-19T04:35:14.707233Z"
+    },
+    {
+      "crn": "78358",
+      "subject": "ADN",
+      "course_number": "075",
+      "title": "LVN Transition into the Associate Degree Nursing Program",
+      "units": 2.5,
+      "instructor": "Magaly  Magallanes Miramontes",
+      "instructor_email": "MMagallanes@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 202",
+      "enrollment": {
+        "capacity": 12,
+        "actual": 7,
+        "remaining": 5
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "10/11",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78358')",
+      "description": "This short-term course provides an overview of the Associate Degree Nursing Program. The focus is on successful learning strategies and the development of critical thinking skills. An overview of the systems developmental stress model is included as a framework for the nursing process and the Associate Degree Nursing curriculum. Also included is an in-depth study of the nursing process including physical assessment, nursing diagnosis, interventions and evaluations. The nursing skills required for physical assessment and basic patient care will be presented. This course is open to all career ladder LVN and 30-unit option students entering the second year of the Associate Degree Nursing Program.",
+      "prerequisites": "Acceptance into Nursing Program and Current LVN License",
+      "advisory": "It is advised that students have a knowledge of intermediate algebra concepts and be able to read college-level texts.This short-term course provides an overview of the Associate Degree Nursing Program. The focus is on successful learning strategies and the development of critical thinking skills. An overview of the systems developmental stress model is included as a framework for the nursing process and the Associate Degree Nursing curriculum. Also included is an in-depth study of the nursing process including physical assessment, nursing diagnosis, interventions and evaluations. The nursing skills required for physical assessment and basic patient care will be presented. This course is open to all career ladder LVN and 30-unit option students entering the second year of the Associate Degree Nursing Program. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 18-AUG-2025 09:08:23 PM Title: ADN 075 LVN Trans/ADN Prog CRN: 78358 Instructor: Magaly Magallanes Miramontes Instructor: Magaly Magallanes Miramontes DH Daily Census Instructional Method Section Corequisites: NONE Bldg/Room: S 202 Science Fees: Health Sci. Material Fee $40 Meeting Time F 07:00am - 12:05pm S 202 Science 10/11/25 12/06/25 F 12:35pm - 04:10pm S 208 Science 10/11/25 12/06/25 Seating Availability Capacity Taken Available 12 7 5 Critical Dates for this Course Term: Fall 2025 Last day to add class: 17-OCT-2025 Last day to drop with a refund: 17-OCT-2025 Last day to drop without a \"W\": 24-OCT-2025 Last day to drop with a \"W\": 14-NOV-2025 Pass/No Pass Petition Deadline Date: 05-DEC-2025 Census Date: 17-OCT-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "17-OCT-2025",
+        "Last day to drop with a refund": "17-OCT-2025",
+        "Last day to drop without a \"W\"": "24-OCT-2025",
+        "Last day to drop with a \"W\"": "14-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "17-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78358",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 7,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-19T04:35:16.780066Z"
+    },
+    {
+      "crn": "77875",
+      "subject": "ADN",
+      "course_number": "130",
+      "title": "Foundational Concepts of Nursing",
+      "units": 2.0,
+      "instructor": "Samantha  Young",
+      "instructor_email": "syoung@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "12:15pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 210",
+      "enrollment": {
+        "capacity": 40,
+        "actual": 35,
+        "remaining": 5
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77875')",
+      "description": "This course introduces students to foundational concepts across the lifespan that inform the provision of safe and effective nursing care. Principles of safety, care competencies, health care infrastructure, attributes, and roles are presented. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 130 and ADN 130L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "BIOL 125, BIOL 222, BIOL 226 and ENGL C1000Corequisite: ADN 130L",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "28-AUG-2025",
+        "Last day to drop with a \"W\"": "25-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "09-OCT-2025",
+        "Census Date": "28-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77875",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 35,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-19T04:35:18.853201Z"
+    },
+    {
+      "crn": "77861",
+      "subject": "ADN",
+      "course_number": "130L",
+      "title": "Foundational Concepts of Nursing Lab",
+      "units": 1.5,
+      "instructor": "Maria  Velazquez",
+      "instructor_email": "mvelazquez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 208",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 6,
+        "remaining": 4
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77861')",
+      "description": "This course introduces students to foundational concepts across the lifespan that inform the provision of safe and effective nursing care. Principles of safety, care competencies, health care infrastructure, attributes, and roles are presented. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 130 and ADN 130L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "BIOL 125, BIOL 222, BIOL 226 and ENGL C1000 Corequisite: ADN 130",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "27-AUG-2025",
+        "Last day to drop with a \"W\"": "24-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "08-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77861",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 6,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-19T04:35:20.922772Z"
+    },
+    {
+      "crn": "77862",
+      "subject": "ADN",
+      "course_number": "130L",
+      "title": "Foundational Concepts of Nursing Lab",
+      "units": 1.5,
+      "instructor": "Gladys  Quintero",
+      "instructor_email": "gquintero@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 208",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 8,
+        "remaining": 2
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77862')",
+      "description": "This course introduces students to foundational concepts across the lifespan that inform the provision of safe and effective nursing care. Principles of safety, care competencies, health care infrastructure, attributes, and roles are presented. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 130 and ADN 130L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "BIOL 125, BIOL 222, BIOL 226 and ENGL C1000 Corequisite: ADN 130",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "18-AUG-2025",
+        "Last day to drop with a refund": "18-AUG-2025",
+        "Last day to drop without a \"W\"": "25-AUG-2025",
+        "Last day to drop with a \"W\"": "22-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "06-OCT-2025",
+        "Census Date": "18-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77862",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 8,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-19T04:35:22.992926Z"
+    },
+    {
+      "crn": "77863",
+      "subject": "ADN",
+      "course_number": "130L",
+      "title": "Foundational Concepts of Nursing Lab",
+      "units": 1.5,
+      "instructor": "Kimberly  Gonzalez",
+      "instructor_email": "kgonzalez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 103",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 8,
+        "remaining": 2
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77863')",
+      "description": "This course introduces students to foundational concepts across the lifespan that inform the provision of safe and effective nursing care. Principles of safety, care competencies, health care infrastructure, attributes, and roles are presented. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 130 and ADN 130L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "BIOL 125, BIOL 222, BIOL 226 and ENGL C1000 Corequisite: ADN 130",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "24-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "08-OCT-2025",
+        "Census Date": "25-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77863",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 8,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-19T04:35:25.056911Z"
+    },
+    {
+      "crn": "77864",
+      "subject": "ADN",
+      "course_number": "130L",
+      "title": "Foundational Concepts of Nursing Lab",
+      "units": 1.5,
+      "instructor": "Samantha  Young",
+      "instructor_email": "syoung@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 208",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 7,
+        "remaining": 3
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77864')",
+      "description": "This course introduces students to foundational concepts across the lifespan that inform the provision of safe and effective nursing care. Principles of safety, care competencies, health care infrastructure, attributes, and roles are presented. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 130 and ADN 130L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "BIOL 125, BIOL 222, BIOL 226 and ENGL C1000 Corequisite: ADN 130",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "27-AUG-2025",
+        "Last day to drop with a \"W\"": "24-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "08-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77864",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 7,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-19T04:35:27.137260Z"
+    },
+    {
+      "crn": "77869",
+      "subject": "ADN",
+      "course_number": "130L",
+      "title": "Foundational Concepts of Nursing Lab",
+      "units": 1.5,
+      "instructor": "Gilberto  Juarez",
+      "instructor_email": "GJuarez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 204",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 6,
+        "remaining": 4
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77869')",
+      "description": "This course introduces students to foundational concepts across the lifespan that inform the provision of safe and effective nursing care. Principles of safety, care competencies, health care infrastructure, attributes, and roles are presented. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 130 and ADN 130L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "BIOL 125, BIOL 222, BIOL 226 and ENGL C1000 Corequisite: ADN 130",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "18-AUG-2025",
+        "Last day to drop with a refund": "18-AUG-2025",
+        "Last day to drop without a \"W\"": "25-AUG-2025",
+        "Last day to drop with a \"W\"": "22-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "06-OCT-2025",
+        "Census Date": "18-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77869",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 6,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-19T04:35:29.204375Z"
+    },
+    {
+      "crn": "77871",
+      "subject": "ADN",
+      "course_number": "131",
+      "title": "Healthcare Participant",
+      "units": 2.0,
+      "instructor": "Kimberly  Gonzalez",
+      "instructor_email": "kgonzalez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:30am",
+          "end_time": "10:45am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 210",
+      "enrollment": {
+        "capacity": 40,
+        "actual": 37,
+        "remaining": 3
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 8,
+      "start_date": "10/11",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77871')",
+      "description": "This course introduces students to attributes of the health care participant in individual, family, and community terms, and which inform the provision of safe and effective nursing care. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 131 and ADN 131L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 130 and ADN 130LCorequisite: ADN 131L and ADN 132",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "23-OCT-2025",
+        "Last day to drop with a \"W\"": "13-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "16-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77871",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 37,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-19T04:35:31.283109Z"
+    },
+    {
+      "crn": "77857",
+      "subject": "ADN",
+      "course_number": "131L",
+      "title": "Healthcare Participant Lab",
+      "units": 2.0,
+      "instructor": "Kimberly  Gonzalez",
+      "instructor_email": "kgonzalez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Rancho Los Amigos",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 8,
+        "remaining": 2
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "10/11",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77857')",
+      "description": "This course introduces students to attributes of the health care participant in individual, family, and community terms, and which inform the provision of safe and effective nursing care. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 131 and ADN 131L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 130 and ADN 130LCorequisite: ADN 131 and ADN 132",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "15-OCT-2025",
+        "Last day to drop with a refund": "15-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "19-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "20-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77857",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 8,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-19T04:35:33.350915Z"
+    },
+    {
+      "crn": "77858",
+      "subject": "ADN",
+      "course_number": "131L",
+      "title": "Healthcare Participant Lab",
+      "units": 2.0,
+      "instructor": "Samantha  Young",
+      "instructor_email": "syoung@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "PIH Health Downey",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 7,
+        "remaining": 3
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "10/11",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77858')",
+      "description": "This course introduces students to attributes of the health care participant in individual, family, and community terms, and which inform the provision of safe and effective nursing care. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 131 and ADN 131L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 130 and ADN 130LCorequisite: ADN 131 and ADN 132",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "15-OCT-2025",
+        "Last day to drop with a refund": "15-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "19-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "20-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77858",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 7,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-19T04:35:35.427065Z"
+    },
+    {
+      "crn": "77870",
+      "subject": "ADN",
+      "course_number": "131L",
+      "title": "Healthcare Participant Lab",
+      "units": 2.0,
+      "instructor": "Kimberly  Gonzalez",
+      "instructor_email": "kgonzalez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "PIH Health Whittier",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 8,
+        "remaining": 2
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "10/11",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77870')",
+      "description": "This course introduces students to attributes of the health care participant in individual, family, and community terms, and which inform the provision of safe and effective nursing care. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 131 and ADN 131L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 130 and ADN 130LCorequisite: ADN 131 and ADN 132",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "15-OCT-2025",
+        "Last day to drop with a refund": "15-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "19-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "20-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77870",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 8,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-19T04:35:37.502498Z"
+    },
+    {
+      "crn": "78360",
+      "subject": "ADN",
+      "course_number": "131L",
+      "title": "Healthcare Participant Lab",
+      "units": 2.0,
+      "instructor": "Kimberly  Gonzalez",
+      "instructor_email": "kgonzalez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Kaiser Permanente Baldwin Park",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 8,
+        "remaining": 2
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "10/11",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78360')",
+      "description": "This course introduces students to attributes of the health care participant in individual, family, and community terms, and which inform the provision of safe and effective nursing care. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 131 and ADN 131L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 130 and ADN 130LCorequisite: ADN 131 and ADN 132",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "17-OCT-2025",
+        "Last day to drop with a refund": "17-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "20-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78360",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 8,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-19T04:35:39.573839Z"
+    },
+    {
+      "crn": "78401",
+      "subject": "ADN",
+      "course_number": "131L",
+      "title": "Healthcare Participant Lab",
+      "units": 2.0,
+      "instructor": "Kimberly  Gonzalez",
+      "instructor_email": "kgonzalez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Kaiser Permanente Baldwin Park",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 6,
+        "remaining": 4
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "10/11",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78401')",
+      "description": "This course introduces students to attributes of the health care participant in individual, family, and community terms, and which inform the provision of safe and effective nursing care. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 131 and ADN 131L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 130 and ADN 130LCorequisite: ADN 131 and ADN 132",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "14-OCT-2025",
+        "Last day to drop with a refund": "14-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "18-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "02-DEC-2025",
+        "Census Date": "20-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78401",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 6,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-19T04:35:41.658651Z"
+    },
+    {
+      "crn": "77852",
+      "subject": "ADN",
+      "course_number": "132",
+      "title": "Pharmacology I",
+      "units": 1.5,
+      "instructor": "Wendy  Huang",
+      "instructor_email": "WHuang@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "08:00am",
+          "end_time": "09:30am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 204",
+      "enrollment": {
+        "capacity": 14,
+        "actual": 10,
+        "remaining": 4
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77852')",
+      "description": "This course introduces students to pharmacologic nursing practice via a conceptual approach. Emphasis is placed on drug classifications, prototypes, actions, interactions, adverse effects, and nursing implications. Students are encouraged to utilize the nursing process and clinical judgment while applying concepts in a seminar setting; and, in conjunction with a knowledge of pharmacological principles and interventions, can put concepts into practice upon completing the course.",
+      "prerequisites": "ADN 130 and ADN 130L Corequisite:ADN 131 and ADN 131L",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77852",
+      "seating_detail": {
+        "capacity": 14,
+        "taken": 10,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-19T04:35:43.747181Z"
+    },
+    {
+      "crn": "77853",
+      "subject": "ADN",
+      "course_number": "132",
+      "title": "Pharmacology I",
+      "units": 1.5,
+      "instructor": "Wendy  Huang",
+      "instructor_email": "WHuang@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "09:45am",
+          "end_time": "11:15am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 204",
+      "enrollment": {
+        "capacity": 14,
+        "actual": 11,
+        "remaining": 3
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77853')",
+      "description": "This course introduces students to pharmacologic nursing practice via a conceptual approach. Emphasis is placed on drug classifications, prototypes, actions, interactions, adverse effects, and nursing implications. Students are encouraged to utilize the nursing process and clinical judgment while applying concepts in a seminar setting; and, in conjunction with a knowledge of pharmacological principles and interventions, can put concepts into practice upon completing the course.",
+      "prerequisites": "ADN 130 and ADN 130L Corequisite:ADN 131 and ADN 131L",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77853",
+      "seating_detail": {
+        "capacity": 14,
+        "taken": 11,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-19T04:35:45.825471Z"
+    },
+    {
+      "crn": "77854",
+      "subject": "ADN",
+      "course_number": "132",
+      "title": "Pharmacology I",
+      "units": 1.5,
+      "instructor": "Wendy  Huang",
+      "instructor_email": "WHuang@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 204",
+      "enrollment": {
+        "capacity": 14,
+        "actual": 11,
+        "remaining": 3
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77854')",
+      "description": "This course introduces students to pharmacologic nursing practice via a conceptual approach. Emphasis is placed on drug classifications, prototypes, actions, interactions, adverse effects, and nursing implications. Students are encouraged to utilize the nursing process and clinical judgment while applying concepts in a seminar setting; and, in conjunction with a knowledge of pharmacological principles and interventions, can put concepts into practice upon completing the course.",
+      "prerequisites": "ADN 130 and ADN 130L Corequisite:ADN 131 and ADN 131L",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77854",
+      "seating_detail": {
+        "capacity": 14,
+        "taken": 11,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-19T04:35:47.904013Z"
+    },
+    {
+      "crn": "78025",
+      "subject": "ADN",
+      "course_number": "132",
+      "title": "Pharmacology I",
+      "units": 1.5,
+      "instructor": "Wendy  Huang",
+      "instructor_email": "WHuang@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "01:50pm",
+          "end_time": "03:20pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 204",
+      "enrollment": {
+        "capacity": 14,
+        "actual": 10,
+        "remaining": 4
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78025')",
+      "description": "This course introduces students to pharmacologic nursing practice via a conceptual approach. Emphasis is placed on drug classifications, prototypes, actions, interactions, adverse effects, and nursing implications. Students are encouraged to utilize the nursing process and clinical judgment while applying concepts in a seminar setting; and, in conjunction with a knowledge of pharmacological principles and interventions, can put concepts into practice upon completing the course.",
+      "prerequisites": "ADN 130 and ADN 130L Corequisite:ADN 131 and ADN 131L",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78025",
+      "seating_detail": {
+        "capacity": 14,
+        "taken": 10,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-19T04:35:49.975404Z"
+    },
+    {
+      "crn": "77872",
+      "subject": "ADN",
+      "course_number": "133",
+      "title": "Maternal Newborn Health Concepts",
+      "units": 1.0,
+      "instructor": "Amelia  Ortiz",
+      "instructor_email": "aortiz@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "10:05am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 202",
+      "enrollment": {
+        "capacity": 40,
+        "actual": 28,
+        "remaining": 12
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77872')",
+      "description": "This course focuses on maternal and newborn health concepts that inform the provision of safe and effective nursing care. Emphasis is placed on reproduction, sexuality, homeostasis, regulation, and emotion. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 133 and ADN 133L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 131, ADN 131L, ADN 132Corequisite: ADN 133L",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "28-AUG-2025",
+        "Last day to drop with a \"W\"": "25-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "09-OCT-2025",
+        "Census Date": "28-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77872",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 28,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-19T04:35:52.043141Z"
+    },
+    {
+      "crn": "77873",
+      "subject": "ADN",
+      "course_number": "133L",
+      "title": "Maternal Newborn Health Concepts Lab",
+      "units": 1.5,
+      "instructor": "Sandra  Obenberger",
+      "instructor_email": "sobenberger@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Kaiser Permanente Baldwin Park",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 6,
+        "remaining": 4
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77873')",
+      "description": "This course focuses on maternal and newborn health concepts that inform the provision of safe and effective nursing care. Emphasis is placed on reproduction, sexuality, homeostasis, regulation, and emotion. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 133 and ADN 133L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 131, ADN 131L, ADN 132Corequisite:ADN 133",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "22-AUG-2025",
+        "Last day to drop with a refund": "22-AUG-2025",
+        "Last day to drop without a \"W\"": "29-AUG-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "29-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77873",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 6,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-19T04:35:54.114621Z"
+    },
+    {
+      "crn": "77874",
+      "subject": "ADN",
+      "course_number": "133L",
+      "title": "Maternal Newborn Health Concepts Lab",
+      "units": 1.5,
+      "instructor": "Amelia  Ortiz",
+      "instructor_email": "aortiz@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "PIH Health Whittier",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 8,
+        "remaining": 2
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77874')",
+      "description": "This course focuses on maternal and newborn health concepts that inform the provision of safe and effective nursing care. Emphasis is placed on reproduction, sexuality, homeostasis, regulation, and emotion. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 133 and ADN 133L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 131, ADN 131L, ADN 132Corequisite:ADN 133",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "18-AUG-2025",
+        "Last day to drop with a refund": "18-AUG-2025",
+        "Last day to drop without a \"W\"": "25-AUG-2025",
+        "Last day to drop with a \"W\"": "22-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "06-OCT-2025",
+        "Census Date": "18-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77874",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 8,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-19T04:35:56.185035Z"
+    },
+    {
+      "crn": "77879",
+      "subject": "ADN",
+      "course_number": "133L",
+      "title": "Maternal Newborn Health Concepts Lab",
+      "units": 1.5,
+      "instructor": "Sandra  Obenberger",
+      "instructor_email": "sobenberger@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Queen of the Valley Hospital",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 7,
+        "remaining": 3
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77879')",
+      "description": "This course focuses on maternal and newborn health concepts that inform the provision of safe and effective nursing care. Emphasis is placed on reproduction, sexuality, homeostasis, regulation, and emotion. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 133 and ADN 133L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 131, ADN 131L, ADN 132Corequisite:ADN 133",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "18-AUG-2025",
+        "Last day to drop with a refund": "18-AUG-2025",
+        "Last day to drop without a \"W\"": "25-AUG-2025",
+        "Last day to drop with a \"W\"": "22-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "06-OCT-2025",
+        "Census Date": "18-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77879",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 7,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-19T04:35:58.259230Z"
+    },
+    {
+      "crn": "77881",
+      "subject": "ADN",
+      "course_number": "133L",
+      "title": "Maternal Newborn Health Concepts Lab",
+      "units": 1.5,
+      "instructor": "Angie  Roque-Zelaya",
+      "instructor_email": "aroque-zelaya@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "White Memorial Medical Center",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 7,
+        "remaining": 3
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77881')",
+      "description": "This course focuses on maternal and newborn health concepts that inform the provision of safe and effective nursing care. Emphasis is placed on reproduction, sexuality, homeostasis, regulation, and emotion. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 133 and ADN 133L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 131, ADN 131L, ADN 132Corequisite:ADN 133",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "22-AUG-2025",
+        "Last day to drop with a refund": "22-AUG-2025",
+        "Last day to drop without a \"W\"": "29-AUG-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "29-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77881",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 7,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-19T04:36:00.330860Z"
+    },
+    {
+      "crn": "77984",
+      "subject": "ADN",
+      "course_number": "133L",
+      "title": "Maternal Newborn Health Concepts Lab",
+      "units": 1.5,
+      "instructor": "Dalia  Aboulwafa",
+      "instructor_email": "DAboulwafa@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Whittier Hospital Medical Ctr",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 0,
+        "remaining": 10
+      },
+      "status": "Cancelled",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77984')",
+      "description": "This course focuses on maternal and newborn health concepts that inform the provision of safe and effective nursing care. Emphasis is placed on reproduction, sexuality, homeostasis, regulation, and emotion. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 133 and ADN 133L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 131, ADN 131L, ADN 132Corequisite:ADN 133",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "18-AUG-2025",
+        "Last day to drop with a refund": "18-AUG-2025",
+        "Last day to drop without a \"W\"": "25-AUG-2025",
+        "Last day to drop with a \"W\"": "22-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "06-OCT-2025",
+        "Census Date": "18-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77984",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 0,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-08-19T04:36:02.407170Z"
+    },
+    {
+      "crn": "77882",
+      "subject": "ADN",
+      "course_number": "134",
+      "title": "Pediatric Health Concepts",
+      "units": 1.0,
+      "instructor": "Alicefay  Taylor",
+      "instructor_email": "ATaylor@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "12:00pm",
+          "end_time": "02:05pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 202",
+      "enrollment": {
+        "capacity": 40,
+        "actual": 28,
+        "remaining": 12
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77882')",
+      "description": "This course focuses on pediatric health concepts that inform the provision of safe and effective nursing care. Emphasis is placed on attributes and resources, homeostasis, and regulation. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 134 and ADN 134L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 131, ADN 131L, ADN 132Corequisite:ADN 134L",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "28-AUG-2025",
+        "Last day to drop with a \"W\"": "25-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "09-OCT-2025",
+        "Census Date": "28-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77882",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 28,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-19T04:36:04.475441Z"
+    },
+    {
+      "crn": "77883",
+      "subject": "ADN",
+      "course_number": "134L",
+      "title": "Pediatric Health Concepts Lab",
+      "units": 1.5,
+      "instructor": "Jerome  Joco",
+      "instructor_email": "jjoco@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Kaiser Permanente Downey",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 6,
+        "remaining": 4
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77883')",
+      "description": "This course focuses on pediatric health concepts that inform the provision of safe and effective nursing care. Emphasis is placed on attributes and resources, homeostasis, and regulation. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 134 and ADN 134L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 131, ADN 131L, ADN 132Corequisite:ADN 134",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "17-AUG-2025",
+        "Last day to drop with a refund": "17-AUG-2025",
+        "Last day to drop without a \"W\"": "24-AUG-2025",
+        "Last day to drop with a \"W\"": "21-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "05-OCT-2025",
+        "Census Date": "24-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77883",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 6,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-19T04:36:06.546284Z"
+    },
+    {
+      "crn": "77884",
+      "subject": "ADN",
+      "course_number": "134L",
+      "title": "Pediatric Health Concepts Lab",
+      "units": 1.5,
+      "instructor": "Deanna  Sanchez",
+      "instructor_email": "DLSanchez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Children's Hospital",
+      "enrollment": {
+        "capacity": 10,
+        "actual": 8,
+        "remaining": 2
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 8,
+      "start_date": "08/16",
+      "end_date": "10/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77884')",
+      "description": "This course focuses on pediatric health concepts that inform the provision of safe and effective nursing care. Emphasis is placed on attributes and resources, homeostasis, and regulation. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 134 and ADN 134L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 131, ADN 131L, ADN 132Corequisite:ADN 134",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "27-AUG-2025",
+        "Last day to drop with a \"W\"": "24-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "08-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77884",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 8,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-19T04:36:08.622153Z"
+    }
+  ],
+  "metadata": {
+    "total_courses": 1648,
+    "departments": [
+      "ACCT",
+      "ADN",
+      "AET",
+      "AJ",
+      "ANIM",
+      "ANTH",
+      "ARCH",
+      "ART",
+      "ASL",
+      "ASTR",
+      "AUTO",
+      "BIOL",
+      "BIOT",
+      "BUSL",
+      "CD",
+      "CHEM",
+      "CHIN",
+      "CHST",
+      "CIT",
+      "CIV",
+      "COMM",
+      "CORR",
+      "COUN",
+      "CS",
+      "DANC",
+      "DSCI",
+      "ECON",
+      "ED",
+      "EDEV",
+      "EGSS",
+      "ELEC",
+      "EMT",
+      "ENGL",
+      "ENGR",
+      "ENGT",
+      "ET",
+      "ETEC",
+      "FAC",
+      "FIN",
+      "FR",
+      "FTEC",
+      "FTVE",
+      "GAD",
+      "GDSN",
+      "GEOG",
+      "GEOL",
+      "GIS",
+      "HET",
+      "HIST",
+      "HMLD",
+      "HOND",
+      "HOSP",
+      "HS",
+      "HUM",
+      "HUSR",
+      "JAPN",
+      "JOUR",
+      "KIN",
+      "KINA",
+      "LIT",
+      "LOG",
+      "MATH",
+      "MGMT",
+      "MRKT",
+      "MSCM",
+      "MUS",
+      "MUST",
+      "NAJ",
+      "NBAS",
+      "NBIZ",
+      "NBSS",
+      "NCOA",
+      "NCOM",
+      "NESL",
+      "NFIR",
+      "NHSL",
+      "NHSN",
+      "NSCI",
+      "NTTR",
+      "NUTR",
+      "NVOC",
+      "ORTH",
+      "PAC",
+      "PHIL",
+      "PHTO",
+      "PHY",
+      "POLS",
+      "PSY",
+      "PSYC",
+      "READ",
+      "SOC",
+      "SPAN",
+      "SPCH",
+      "STAT",
+      "STEM",
+      "TCED",
+      "TESL",
+      "THTR",
+      "TV",
+      "VN",
+      "WELD",
+      "WFT"
+    ],
+    "collection_errors": null,
+    "details_collected": true,
+    "detail_collection_timestamp": "2025-08-17T06:42:04.940935+00:00Z",
+    "courses_with_details": 1648,
+    "detail_collection_errors": null,
+    "detail_rate_limit": 1.5,
+    "partial": true,
+    "courses_processed": 50
+  },
+  "total_courses": null,
+  "departments": null
+}
