@@ -1,0 +1,46 @@
+{
+  "crn": "78474",
+  "subject": "ETEC",
+  "course_number": "101",
+  "title": "Electrician Fundamentals",
+  "units": 3.0,
+  "instructor": "To Be Assigned",
+  "instructor_email": null,
+  "meeting_times": [],
+  "location": "Technology 118A",
+  "enrollment": {
+    "capacity": 24,
+    "actual": 16,
+    "remaining": 8
+  },
+  "status": "Open",
+  "section_type": "LEC",
+  "zero_textbook_cost": false,
+  "delivery_method": "Arranged",
+  "weeks": 16,
+  "start_date": null,
+  "end_date": null,
+  "additional_hours": null,
+  "book_link": null,
+  "description": "This introductory course covers the practices, applications, terms, and components for students already working as or seeking employment as an electrician, and who want to meet occupational goals, continue their education, or increase their skill levels. The course covers general electrician training, laboratory and job site safety, the proper use of testing instruments, hand tools, power tools, knots, electrical drawing reading, trade practices, and an introduction to the National Electrical Code (NEC). Extensive, hands-on lab exercises are provided to reinforce these concepts.",
+  "prerequisites": null,
+  "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have knowledge of elementary algebra concepts.",
+  "transfers_to": "CSU",
+  "former_course_number": null,
+  "critical_dates": {
+    "Last day to add class": "01-SEP-2025",
+    "Last day to drop with a refund": "01-SEP-2025",
+    "Last day to drop without a \"W\"": "12-SEP-2025",
+    "Last day to drop with a \"W\"": "07-NOV-2025",
+    "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+  },
+  "instructional_method": null,
+  "section_corequisites": null,
+  "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78474",
+  "seating_detail": {
+    "capacity": 24,
+    "taken": 19,
+    "available": 5
+  },
+  "detail_fetched_at": "2025-08-19T04:27:53.822258Z"
+}

@@ -374,70 +374,111 @@ class RioHondoScheduleParser:
         detailed = DetailedCourse(**course.model_dump())
         detailed.detail_fetched_at = datetime.now(timezone.utc)
         
-        # Extract course description and requirements from the structured paragraph
-        # Look for the paragraph containing course description
-        desc_paragraph = None
+        # The HTML structure is malformed, so we need to be very careful about parsing
+        # The main content is in the first paragraph with "Course Description:"
+        
+        # Find the main course info paragraph - it contains all the key information
+        main_paragraph = None
         for p in soup.find_all('p'):
-            if "Course Description:" in p.get_text():
-                desc_paragraph = p
+            p_text = p.get_text()
+            if "Course Description:" in p_text and ("Advisory:" in p_text or "Transfers to:" in p_text):
+                main_paragraph = p
                 break
         
-        if desc_paragraph:
-            # Get the HTML content to better parse structured data
-            p_html = str(desc_paragraph)
-            p_text = desc_paragraph.get_text()
+        if main_paragraph:
+            p_html = str(main_paragraph)
+            p_text = main_paragraph.get_text()
             
-            # Extract advisory
+            # Extract advisory - look for bolded advisory tag
             if "<b>Advisory:</b>" in p_html:
                 adv_start = p_text.find("Advisory:") + len("Advisory:")
-                adv_end = p_text.find("Transfers to:", adv_start) if "Transfers to:" in p_text else len(p_text)
-                detailed.advisory = p_text[adv_start:adv_end].strip()
+                # Advisory ends at "Transfers to:" or end of text
+                adv_end = p_text.find("Transfers to:", adv_start)
+                if adv_end == -1:
+                    adv_end = len(p_text)
+                advisory_text = p_text[adv_start:adv_end].strip()
+                # Clean up any trailing tags or artifacts
+                detailed.advisory = self._clean_extracted_text(advisory_text)
             
             # Extract prerequisites (if present)
             if "<b>Prerequisite:</b>" in p_html:
                 prereq_start = p_text.find("Prerequisite:") + len("Prerequisite:")
-                prereq_end = p_text.find("Advisory:", prereq_start) if "Advisory:" in p_text else p_text.find("Transfers to:", prereq_start)
+                # Prerequisites end at "Advisory:" or "Transfers to:"
+                prereq_end = p_text.find("Advisory:", prereq_start)
+                if prereq_end == -1:
+                    prereq_end = p_text.find("Transfers to:", prereq_start)
                 if prereq_end == -1:
                     prereq_end = len(p_text)
-                detailed.prerequisites = p_text[prereq_start:prereq_end].strip()
+                prereq_text = p_text[prereq_start:prereq_end].strip()
+                detailed.prerequisites = self._clean_extracted_text(prereq_text)
             
-            # Extract transfer information
+            # Extract transfer information - be more careful about boundaries
             if "<b>Transfers to:</b>" in p_html:
                 trans_start = p_text.find("Transfers to:") + len("Transfers to:")
-                # Find the next <p> or the start of course description
-                next_p_start = p_text.find("This course", trans_start) if "This course" in p_text[trans_start:] else len(p_text)
-                detailed.transfers_to = p_text[trans_start:next_p_start].strip()
+                # Transfers end before the nested <p> tag or at a natural break
+                trans_text = p_text[trans_start:]
+                
+                # Look for the boundary before the course description starts
+                # The description typically starts with "This" and there's often a paragraph break
+                boundary_patterns = [
+                    "This introductory",
+                    "This course", 
+                    "This ",  # More general pattern
+                ]
+                
+                trans_end = len(trans_text)
+                for pattern in boundary_patterns:
+                    pattern_pos = trans_text.find(pattern)
+                    if pattern_pos != -1:
+                        trans_end = pattern_pos
+                        break
+                
+                transfer_text = trans_text[:trans_end].strip()
+                detailed.transfers_to = self._clean_extracted_text(transfer_text)
+        
+        # Look for course description in the second paragraph or nested structure
+        # Based on the HTML, the description is often in a separate paragraph after the headers
+        description_paragraphs = []
+        found_main = False
+        
+        for p in soup.find_all('p'):
+            p_text = p.get_text().strip()
             
-            # Extract the main course description - look for nested <p> containing "This course"
-            # Try to find the actual description within the paragraph structure
-            inner_p = desc_paragraph.find('p')
-            if inner_p:
-                inner_text = inner_p.get_text()
-                if "This course" in inner_text:
-                    # Find just the description part ending with ".."
-                    desc_match = re.search(r'This course.*?\.\.', inner_text, re.DOTALL)
-                    if desc_match:
-                        raw_description = desc_match.group(0)
-                        # Clean up double periods and extra whitespace
-                        cleaned_description = re.sub(r'\.\.+', '.', raw_description)
-                        cleaned_description = re.sub(r'\s+', ' ', cleaned_description).strip()
-                        detailed.description = cleaned_description
+            # Skip the main course info paragraph
+            if "Course Description:" in p_text:
+                found_main = True
+                continue
+                
+            # Look for paragraphs that start with "This" after the main paragraph
+            if found_main and p_text.startswith("This"):
+                description_paragraphs.append(p_text)
+        
+        # Extract the cleanest description
+        if description_paragraphs:
+            # Use the first "This" paragraph, but clean it up
+            raw_description = description_paragraphs[0]
             
-            # Fallback: if no inner paragraph, look in the main paragraph text
-            if not detailed.description:
-                desc_start = p_text.find("This course")
-                if desc_start != -1:
-                    # Find the end of the description - look for common patterns
-                    desc_text = p_text[desc_start:]
-                    
-                    # Look for the end of the sentence containing "majors."
-                    end_match = re.search(r'This course.*?majors\.', desc_text, re.DOTALL)
-                    if end_match:
-                        raw_description = end_match.group(0)
-                        # Clean up double periods and extra whitespace
-                        cleaned_description = re.sub(r'\.\.+', '.', raw_description)
-                        cleaned_description = re.sub(r'\s+', ' ', cleaned_description).strip()
-                        detailed.description = cleaned_description
+            # Remove contamination from footer/navigation elements
+            contamination_patterns = [
+                r'View Book.*?$',
+                r'Learning Outcomes.*?$', 
+                r'Course Corequisites.*?$',
+                r'Section Information.*?$',
+                r'Rio Hondo College.*?$',
+                r'Close Window.*?$',
+                r'\[ Close Window \].*?$',
+            ]
+            
+            cleaned_description = raw_description
+            for pattern in contamination_patterns:
+                cleaned_description = re.sub(pattern, '', cleaned_description, flags=re.DOTALL)
+            
+            # Final cleanup
+            cleaned_description = self._clean_extracted_text(cleaned_description)
+            
+            # Only set if we have substantial content
+            if len(cleaned_description) > 50:  # Reasonable minimum length
+                detailed.description = cleaned_description
         
         # Extract instructional method (more precise parsing)
         method_li = soup.find('li', string=lambda x: x and 'Weekly Instructional Method' in x)
@@ -508,7 +549,96 @@ class RioHondoScheduleParser:
                     if key and value and key != 'Term':
                         detailed.critical_dates[key] = value
         
+        # Validate the extracted data
+        if not self._validate_extracted_data(detailed):
+            logger.warning(f"Data validation failed for course {detailed.crn}, some fields may be contaminated")
+        
         return detailed
+    
+    def _clean_extracted_text(self, text: str) -> str:
+        """Clean extracted text by removing artifacts and extra whitespace."""
+        if not text:
+            return text
+            
+        # Remove common HTML artifacts that get through
+        artifacts = [
+            '<br>',
+            '</br>',
+            '<p>',
+            '</p>',
+            '<b>',
+            '</b>',
+            '<i>',
+            '</i>',
+        ]
+        
+        cleaned = text
+        for artifact in artifacts:
+            cleaned = cleaned.replace(artifact, ' ')
+        
+        # Remove excessive whitespace
+        cleaned = re.sub(r'\s+', ' ', cleaned)
+        
+        # Remove trailing punctuation artifacts
+        cleaned = re.sub(r'[\.]{2,}', '.', cleaned)  # Multiple periods
+        cleaned = cleaned.strip()
+        
+        return cleaned
+    
+    def _validate_extracted_data(self, detailed_course: 'DetailedCourse') -> bool:
+        """Validate extracted course data to detect contamination or parsing errors.
+        
+        Returns:
+            True if data appears clean, False if contamination detected
+        """
+        # Common contamination patterns to detect
+        contamination_patterns = [
+            "Rio Hondo College",
+            "Learning Outcomes",
+            "Close Window",
+            "View Book",
+            "Important Section Information",
+            "Course Corequisites: NONE",
+            "Section Information as of",
+            "screencaptureui",
+            "[ Close Window ]",
+            "winOpen(",
+            "JavaScript:",
+        ]
+        
+        # Check all text fields for contamination
+        fields_to_check = [
+            ('description', detailed_course.description),
+            ('advisory', detailed_course.advisory),
+            ('prerequisites', detailed_course.prerequisites),
+            ('transfers_to', detailed_course.transfers_to),
+        ]
+        
+        contaminated_fields = []
+        
+        for field_name, field_value in fields_to_check:
+            if field_value:
+                for pattern in contamination_patterns:
+                    if pattern in field_value:
+                        contaminated_fields.append((field_name, pattern))
+                        logger.warning(f"Contamination detected in {field_name}: '{pattern}'")
+                
+                # Check for suspiciously long descriptions (likely mixed content)
+                if field_name == 'description' and len(field_value) > 1000:
+                    contaminated_fields.append((field_name, 'excessive_length'))
+                    logger.warning(f"Description suspiciously long: {len(field_value)} characters")
+                
+                # Check for description mixed with other fields
+                if field_name in ['advisory', 'prerequisites', 'transfers_to']:
+                    if 'This course' in field_value or 'This introductory' in field_value:
+                        contaminated_fields.append((field_name, 'description_mixed'))
+                        logger.warning(f"Course description content found in {field_name}")
+        
+        if contaminated_fields:
+            logger.error(f"Data validation failed for course {detailed_course.crn}: {len(contaminated_fields)} contaminated fields")
+            return False
+        
+        return True
     
     def build_course_detail_url(self, course: Course, term_code: str) -> str:
         """Build the URL to fetch detailed course information."""
