@@ -47,24 +47,41 @@ jobs:
       with:
         uv-version: "0.5.16"
     
-    - name: Verify basic schedule data exists
+    - name: Determine input schedule file (prioritize detailed file)
       run: |
         if [ "${{ github.event.inputs.schedule_file }}" != "" ]; then
           SCHEDULE_FILE="${{ github.event.inputs.schedule_file }}"
           echo "Using specified schedule file: $SCHEDULE_FILE"
         else
-          SCHEDULE_FILE=$(ls data/rio-hondo/schedule_*_latest.json 2>/dev/null | head -1)
-          echo "Auto-detected schedule file: $SCHEDULE_FILE"
+          # Check for existing detailed file first (for incremental updates)
+          DETAILED_FILE=$(ls data/rio-hondo/schedule_detailed_*.json 2>/dev/null | head -1)
+          BASIC_FILE=$(ls data/rio-hondo/schedule_*_latest.json 2>/dev/null | head -1)
+          
+          if [ -f "$DETAILED_FILE" ]; then
+            SCHEDULE_FILE="$DETAILED_FILE"
+            echo "✅ Using existing detailed file for incremental update: $SCHEDULE_FILE"
+            # Create backup before modifying
+            BACKUP_FILE="${DETAILED_FILE%.json}_backup_$(date +%Y%m%d_%H%M%S).json"
+            cp "$DETAILED_FILE" "$BACKUP_FILE"
+            echo "📄 Backup created: $BACKUP_FILE"
+            echo "BACKUP_FILE=$BACKUP_FILE" >> $GITHUB_ENV
+          elif [ -f "$BASIC_FILE" ]; then
+            SCHEDULE_FILE="$BASIC_FILE"
+            echo "🆕 No detailed file found, starting fresh from basic schedule: $SCHEDULE_FILE"
+          else
+            echo "ERROR: No schedule data found. Run basic collection first."
+            ls -la data/rio-hondo/ || echo "Directory does not exist"
+            exit 1
+          fi
         fi
         
         if [ ! -f "$SCHEDULE_FILE" ]; then
-          echo "ERROR: No basic schedule data found. Run basic collection first."
-          ls -la data/rio-hondo/ || echo "Directory does not exist"
+          echo "ERROR: Schedule file not found: $SCHEDULE_FILE"
           exit 1
         fi
         
         echo "SCHEDULE_FILE=$SCHEDULE_FILE" >> $GITHUB_ENV
-        echo "Schedule file details:"
+        echo "📊 Schedule file details:"
         uv run cli.py info "$SCHEDULE_FILE" | head -10
     
     - name: Collect course details
@@ -73,7 +90,7 @@ jobs:
         
         CMD="uv run collect_rio_details.py"
         
-        # Always use the basic schedule file as input (detected in previous step)
+        # Use the selected schedule file as input (detailed file for incremental, basic for fresh start)
         CMD="$CMD --input '$SCHEDULE_FILE'"
         
         if [ "${{ github.event.inputs.limit }}" != "" ]; then
@@ -94,18 +111,49 @@ jobs:
         eval $CMD
         
         rm -f data/.rio_detail_progress.json
+        
+        # Clean up old backup files (keep only last 3)
+        if ls data/rio-hondo/schedule_detailed_*_backup_*.json 1> /dev/null 2>&1; then
+          echo "🧹 Cleaning up old backup files..."
+          ls -t data/rio-hondo/schedule_detailed_*_backup_*.json | tail -n +4 | xargs -r rm -f
+        fi
     
-    - name: Validate detailed data
+    - name: Validate detailed data and check for data loss
       run: |
         # Look for the standardized detailed schedule file
         DETAILED_FILE="data/rio-hondo/schedule_detailed_202570.json"
         
         if [ -f "$DETAILED_FILE" ]; then
-          echo "Validating detailed schedule: $DETAILED_FILE"
+          echo "📋 Validating detailed schedule: $DETAILED_FILE"
           uv run cli.py validate "$DETAILED_FILE"
           echo "DETAILED_FILE=$DETAILED_FILE" >> $GITHUB_ENV
+          
+          # Check for data loss by comparing with backup if it exists
+          if [ -n "$BACKUP_FILE" ] && [ -f "$BACKUP_FILE" ]; then
+            echo "🔍 Checking for data loss..."
+            
+            BACKUP_DETAILS=$(jq '[.courses[] | select(has("detail_fetched_at"))] | length' "$BACKUP_FILE")
+            CURRENT_DETAILS=$(jq '[.courses[] | select(has("detail_fetched_at"))] | length' "$DETAILED_FILE")
+            
+            echo "📊 Course details: $BACKUP_DETAILS (before) → $CURRENT_DETAILS (after)"
+            
+            if [ "$CURRENT_DETAILS" -lt "$BACKUP_DETAILS" ]; then
+              echo "❌ ERROR: Data loss detected! Detail count decreased from $BACKUP_DETAILS to $CURRENT_DETAILS"
+              echo "🔄 Restoring from backup..."
+              cp "$BACKUP_FILE" "$DETAILED_FILE"
+              echo "💾 Backup restored. Please investigate the issue."
+              exit 1
+            elif [ "$CURRENT_DETAILS" -gt "$BACKUP_DETAILS" ]; then
+              ADDED=$((CURRENT_DETAILS - BACKUP_DETAILS))
+              echo "✅ Success: Added $ADDED new course details"
+            else
+              echo "📍 No new details added this run"
+            fi
+          else
+            echo "ℹ️  No backup file available for comparison"
+          fi
         else
-          echo "ERROR: Detailed schedule file not found: $DETAILED_FILE"
+          echo "❌ ERROR: Detailed schedule file not found: $DETAILED_FILE"
           ls -la data/rio-hondo/
           exit 1
         fi

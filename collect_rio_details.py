@@ -186,27 +186,53 @@ class RioHondoDetailCollector:
         Returns:
             Enhanced ScheduleData with DetailedCourse objects
         """
-        # Start with existing detailed file if available, otherwise use input schedule
-        base_schedule = self.load_existing_detailed(schedule_data.term_code)
-        if base_schedule is None:
-            console.print(f"📝 [blue]No existing detailed file found, starting fresh[/blue]")
+        # Determine if input is already a detailed file or basic schedule
+        input_has_details = any(hasattr(c, 'detail_fetched_at') and c.detail_fetched_at is not None 
+                               for c in schedule_data.courses)
+        
+        console.print(f"📋 [cyan]Input schedule analysis:[/cyan]")
+        console.print(f"   • Total courses: {len(schedule_data.courses)}")
+        if input_has_details:
+            detail_count = sum(1 for c in schedule_data.courses 
+                              if hasattr(c, 'detail_fetched_at') and c.detail_fetched_at is not None)
+            console.print(f"   • Already has details: {detail_count} courses")
+            console.print(f"   • Input appears to be a detailed file")
+        else:
+            console.print(f"   • Input appears to be a basic schedule (no details)")
+        
+        # Start with existing detailed file if available and input is basic, otherwise use input
+        if input_has_details:
+            console.print(f"✅ [green]Using input detailed file as base[/green]")
             base_schedule = schedule_data
         else:
-            # Update base schedule with any new courses from input (in case basic schedule was updated)
-            input_crns = {c.crn for c in schedule_data.courses}
-            base_crns = {c.crn for c in base_schedule.courses}
-            
-            if input_crns != base_crns:
-                console.print(f"⚠️  [yellow]Schedule differences detected, merging with input[/yellow]")
-                # Merge any new courses from input into base schedule
-                merged_courses = list(base_schedule.courses)
-                existing_crns = {c.crn for c in merged_courses}
+            # Input is basic schedule, check for existing detailed file to merge with
+            base_schedule = self.load_existing_detailed(schedule_data.term_code)
+            if base_schedule is None:
+                console.print(f"📝 [blue]No existing detailed file found, starting fresh from basic schedule[/blue]")
+                base_schedule = schedule_data
+            else:
+                console.print(f"🔄 [yellow]Found existing detailed file, merging with basic schedule input[/yellow]")
+                # Update base schedule with any new courses from input (in case basic schedule was updated)
+                input_crns = {c.crn for c in schedule_data.courses}
+                base_crns = {c.crn for c in base_schedule.courses}
                 
-                for course in schedule_data.courses:
-                    if course.crn not in existing_crns:
-                        merged_courses.append(course)
-                        
-                base_schedule.courses = merged_courses
+                if input_crns != base_crns:
+                    console.print(f"⚠️  [yellow]Schedule differences detected, merging with input[/yellow]")
+                    # Merge any new courses from input into base schedule
+                    merged_courses = list(base_schedule.courses)
+                    existing_crns = {c.crn for c in merged_courses}
+                    
+                    new_courses = 0
+                    for course in schedule_data.courses:
+                        if course.crn not in existing_crns:
+                            merged_courses.append(course)
+                            new_courses += 1
+                            
+                    if new_courses > 0:
+                        console.print(f"➕ [green]Added {new_courses} new courses from input[/green]")
+                    base_schedule.courses = merged_courses
+                else:
+                    console.print(f"✅ [green]No schedule differences, using existing detailed file as-is[/green]")
         
         courses_to_process = base_schedule.courses[:limit] if limit else base_schedule.courses
         total_courses = len(courses_to_process)

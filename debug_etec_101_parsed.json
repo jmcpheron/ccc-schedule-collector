@@ -39,8 +39,8 @@
   "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78474",
   "seating_detail": {
     "capacity": 24,
-    "taken": 19,
-    "available": 5
+    "taken": 20,
+    "available": 4
   },
-  "detail_fetched_at": "2025-08-19T04:27:53.822258Z"
+  "detail_fetched_at": "2025-08-19T05:20:30.128384Z"
 }
