@@ -73,9 +73,8 @@ jobs:
         
         CMD="uv run collect_rio_details.py"
         
-        if [ "${{ github.event.inputs.schedule_file }}" != "" ]; then
-          CMD="$CMD --input '${{ github.event.inputs.schedule_file }}'"
-        fi
+        # Always use the basic schedule file as input (detected in previous step)
+        CMD="$CMD --input '$SCHEDULE_FILE'"
         
         if [ "${{ github.event.inputs.limit }}" != "" ]; then
           CMD="$CMD --limit ${{ github.event.inputs.limit }}"

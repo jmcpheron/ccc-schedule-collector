@@ -356,17 +356,21 @@ class RioHondoDetailCollector:
         console.print(f"💾 [dim]Batch saved: {detailed_count} courses with details[/dim]")
     
     def find_latest_schedule(self) -> Optional[str]:
-        """Find the latest Rio Hondo schedule file."""
+        """Find the latest Rio Hondo basic schedule file (not detailed)."""
         data_dir = Path("data/rio-hondo")
         if not data_dir.exists():
             return None
             
+        # Look for basic schedule files (exclude detailed files)
         json_files = list(data_dir.glob("schedule_*.json"))
-        if not json_files:
+        basic_files = [f for f in json_files if "detailed" not in f.name]
+        
+        if not basic_files:
             return None
             
-        # Return the most recent file
-        latest_file = max(json_files, key=lambda f: f.stat().st_mtime)
+        # Return the most recent basic schedule file
+        latest_file = max(basic_files, key=lambda f: f.stat().st_mtime)
+        console.print(f"🔍 [blue]Auto-detected basic schedule: {latest_file}[/blue]")
         return str(latest_file)
 
 

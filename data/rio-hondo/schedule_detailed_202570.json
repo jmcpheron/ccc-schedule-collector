@@ -4059,7 +4059,29 @@
       "start_date": "08/16",
       "end_date": "10/10",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78351')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78351')",
+      "description": "This course focuses on health and illness concepts for care of individuals with multisystem and emergent health conditions across the lifespan, and which inform the provision of safe and effective nursing care. Concepts include homeostasis and regulation, protection and movement, and maladaptive behavior. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 233 and ADN 233L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 230, ADN 230L, ADN 231, ADN 231L, ADN 232Corequisite: ADN 233",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "22-AUG-2025",
+        "Last day to drop with a refund": "22-AUG-2025",
+        "Last day to drop without a \"W\"": "04-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "28-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78351",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 6,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-19T05:00:13.736080Z"
     },
     {
       "crn": "78352",
@@ -4091,7 +4113,29 @@
       "start_date": "08/16",
       "end_date": "10/10",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78352')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78352')",
+      "description": "This course focuses on health and illness concepts for care of individuals with multisystem and emergent health conditions across the lifespan, and which inform the provision of safe and effective nursing care. Concepts include homeostasis and regulation, protection and movement, and maladaptive behavior. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 233 and ADN 233L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 230, ADN 230L, ADN 231, ADN 231L, ADN 232Corequisite: ADN 233",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "25-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "09-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78352",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 6,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-19T05:00:14.822169Z"
     },
     {
       "crn": "78353",
@@ -4123,7 +4167,29 @@
       "start_date": "08/16",
       "end_date": "10/10",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78353')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78353')",
+      "description": "This course focuses on health and illness concepts for care of individuals with multisystem and emergent health conditions across the lifespan, and which inform the provision of safe and effective nursing care. Concepts include homeostasis and regulation, protection and movement, and maladaptive behavior. Students apply concepts in seminar, lab, and/or clinical settings, and can put concepts into practice upon completing the course. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 233 and ADN 233L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 230, ADN 230L, ADN 231, ADN 231L, ADN 232Corequisite: ADN 233",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "22-AUG-2025",
+        "Last day to drop with a refund": "22-AUG-2025",
+        "Last day to drop without a \"W\"": "30-AUG-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "23-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78353",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 6,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-19T05:00:15.885295Z"
     },
     {
       "crn": "78355",
@@ -4155,7 +4221,29 @@
       "start_date": "10/11",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78355')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78355')",
+      "description": "This course focuses on the theoretical and clinical application of the nursing process and clinical judgment in the provision of safe and effective nursing care for patients across the lifespan. The course facilitates the transition from student nurse to graduate nurse, and includes content related to professional nursing and healthcare concepts. Students participate as a preceptee or mentee/member of the healthcare team and assume responsibility for a group of patients under the direct supervision of a registered nurse or a non-faculty preceptor. Upon completion of the course, students are expected to function satisfactorily within the Nurse of the Future core competencies. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 234 and ADN 234L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 233, ADN 233LCorequisite:ADN 234L",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "17-OCT-2025",
+        "Last day to drop with a refund": "17-OCT-2025",
+        "Last day to drop without a \"W\"": "24-OCT-2025",
+        "Last day to drop with a \"W\"": "14-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "17-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78355",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 30,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-08-19T05:00:16.949573Z"
     },
     {
       "crn": "78368",
@@ -4186,8 +4274,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78368')"
+      "additional_hours": "16.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78368')",
+      "description": "This course focuses on the theoretical and clinical application of the nursing process and clinical judgment in the provision of safe and effective nursing care for patients across the lifespan. The course facilitates the transition from student nurse to graduate nurse, and includes content related to professional nursing and healthcare concepts. Students participate as a preceptee or mentee/member of the healthcare team and assume responsibility for a group of patients under the direct supervision of a registered nurse or a non-faculty preceptor. Upon completion of the course, students are expected to function satisfactorily within the Nurse of the Future core competencies. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 234 and ADN 234L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 233, ADN 233LCorequisite:ADN 234",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78368",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 0,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-19T05:00:18.013445Z"
     },
     {
       "crn": "78369",
@@ -4218,8 +4328,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78369')"
+      "additional_hours": "16.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78369')",
+      "description": "This course focuses on the theoretical and clinical application of the nursing process and clinical judgment in the provision of safe and effective nursing care for patients across the lifespan. The course facilitates the transition from student nurse to graduate nurse, and includes content related to professional nursing and healthcare concepts. Students participate as a preceptee or mentee/member of the healthcare team and assume responsibility for a group of patients under the direct supervision of a registered nurse or a non-faculty preceptor. Upon completion of the course, students are expected to function satisfactorily within the Nurse of the Future core competencies. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 234 and ADN 234L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 233, ADN 233LCorequisite:ADN 234",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78369",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 0,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-19T05:00:19.087644Z"
     },
     {
       "crn": "78370",
@@ -4250,8 +4382,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78370')"
+      "additional_hours": "16.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78370')",
+      "description": "This course focuses on the theoretical and clinical application of the nursing process and clinical judgment in the provision of safe and effective nursing care for patients across the lifespan. The course facilitates the transition from student nurse to graduate nurse, and includes content related to professional nursing and healthcare concepts. Students participate as a preceptee or mentee/member of the healthcare team and assume responsibility for a group of patients under the direct supervision of a registered nurse or a non-faculty preceptor. Upon completion of the course, students are expected to function satisfactorily within the Nurse of the Future core competencies. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 234 and ADN 234L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 233, ADN 233LCorequisite:ADN 234",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78370",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 0,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-19T05:00:20.157817Z"
     },
     {
       "crn": "78371",
@@ -4282,8 +4436,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78371')"
+      "additional_hours": "16.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78371')",
+      "description": "This course focuses on the theoretical and clinical application of the nursing process and clinical judgment in the provision of safe and effective nursing care for patients across the lifespan. The course facilitates the transition from student nurse to graduate nurse, and includes content related to professional nursing and healthcare concepts. Students participate as a preceptee or mentee/member of the healthcare team and assume responsibility for a group of patients under the direct supervision of a registered nurse or a non-faculty preceptor. Upon completion of the course, students are expected to function satisfactorily within the Nurse of the Future core competencies. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 234 and ADN 234L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 233, ADN 233LCorequisite:ADN 234",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78371",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 0,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-19T05:00:21.225061Z"
     },
     {
       "crn": "78376",
@@ -4314,8 +4490,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78376')"
+      "additional_hours": "16.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78376')",
+      "description": "This course focuses on the theoretical and clinical application of the nursing process and clinical judgment in the provision of safe and effective nursing care for patients across the lifespan. The course facilitates the transition from student nurse to graduate nurse, and includes content related to professional nursing and healthcare concepts. Students participate as a preceptee or mentee/member of the healthcare team and assume responsibility for a group of patients under the direct supervision of a registered nurse or a non-faculty preceptor. Upon completion of the course, students are expected to function satisfactorily within the Nurse of the Future core competencies. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 234 and ADN 234L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 233, ADN 233LCorequisite:ADN 234",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78376",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 0,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-19T05:00:22.299184Z"
     },
     {
       "crn": "78377",
@@ -4346,8 +4544,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78377')"
+      "additional_hours": "16.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78377')",
+      "description": "This course focuses on the theoretical and clinical application of the nursing process and clinical judgment in the provision of safe and effective nursing care for patients across the lifespan. The course facilitates the transition from student nurse to graduate nurse, and includes content related to professional nursing and healthcare concepts. Students participate as a preceptee or mentee/member of the healthcare team and assume responsibility for a group of patients under the direct supervision of a registered nurse or a non-faculty preceptor. Upon completion of the course, students are expected to function satisfactorily within the Nurse of the Future core competencies. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 234 and ADN 234L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 233, ADN 233LCorequisite:ADN 234",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78377",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 0,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-19T05:00:23.371284Z"
     },
     {
       "crn": "78382",
@@ -4378,8 +4598,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78382')"
+      "additional_hours": "16.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78382')",
+      "description": "This course focuses on the theoretical and clinical application of the nursing process and clinical judgment in the provision of safe and effective nursing care for patients across the lifespan. The course facilitates the transition from student nurse to graduate nurse, and includes content related to professional nursing and healthcare concepts. Students participate as a preceptee or mentee/member of the healthcare team and assume responsibility for a group of patients under the direct supervision of a registered nurse or a non-faculty preceptor. Upon completion of the course, students are expected to function satisfactorily within the Nurse of the Future core competencies. The California Board of Registered Nursing (BRN) requires that students must be enrolled in ADN 234 and ADN 234L at the same time and pass both courses together: the courses cannot be taken individually for credit.",
+      "prerequisites": "ADN 233, ADN 233LCorequisite:ADN 234",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78382",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 0,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-19T05:00:24.440953Z"
     },
     {
       "crn": "75727",
@@ -4411,7 +4653,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75727')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75727')",
+      "description": "This is the second course in the photovoltaic series in which students further examine and implement the design and installation of solar photovoltaic power systems. Students learn how to interpret the National Electrical Code (NEC) specifications concerning photovoltaic installations. Topics include code-compliant wiring of modules, inverters, charge controllers, batteries, grounding techniques, and related topics. Additional topics include the design and installation of large commercial photovoltaic systems. This course is intended for students who are contemplating a career in the solar photovoltaic energy industry.",
+      "prerequisites": null,
+      "advisory": "AET 121 or ET 121",
+      "transfers_to": "CSUThis is the second course in the photovoltaic series in which students further examine and implement the design and installation of solar photovoltaic power systems. Students learn how to interpret the National Electrical Code (NEC) specifications concerning photovoltaic installations. Topics include code-compliant wiring of modules, inverters, charge controllers, batteries, grounding techniques, and related topics. Additional topics include the design and installation of large commercial photovoltaic systems.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75727",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 10,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-08-19T05:00:25.529302Z"
     },
     {
       "crn": "70386",
@@ -4442,8 +4705,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70386')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70386')",
+      "description": "This course provides Administration of Justice students an overview of writing techniques for the communication of facts and information in a criminal justice setting, including the correct usage of words and proper sentence structure. Emphasis is placed on law enforcement-specific terms, phrases, and spelling. Topics include but are not limited to crime reports, investigative follow-up reports, traffic collision reports, background investigative summations and recommendations, internal investigative summations and recommendations, press releases, and interagency criminal activity crime bulletins.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.This course provides Administration of Justice students an overview of writing techniques for the communication of facts and information in a criminal justice setting, including the correct usage of words and proper sentence structure. Emphasis is placed on law enforcement-specific terms, phrases, and spelling. Topics include but are not limited to crime reports, investigative follow-up reports, traffic collision reports, background investigative summations and recommendations, internal investigative summations and recommendations, press releases, and interagency criminal activity crime bulletins. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 18-AUG-2025 10:08:33 PM Title: AJ 041 Effective Written Comm CRN: 70386 Instructor: David Balch UA Independent Study Daily Instructional Method Section Corequisites: NONE Bldg/Room: ASYNC Online Section Information Text Meeting Time 6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable Seating Availability Capacity Taken Available 35 28 7 Critical Dates for this Course Term: Fall 2025 Last day to add class: 16-OCT-2025 Last day to drop with a refund: 16-OCT-2025 Last day to drop without a \"W\": 27-OCT-2025 Last day to drop with a \"W\": 20-NOV-2025 Pass/No Pass Petition Deadline Date: 05-DEC-2025 Census Date: 21-OCT-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70386",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 28,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-08-19T05:00:26.600101Z"
     },
     {
       "crn": "70388",
@@ -4474,8 +4759,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70388')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70388')",
+      "description": "This course introduces students to the characteristics of the criminal justice system of the United States. Focus is placed on examining crime measurement, theoretical explanations of crime, responses to crime, components of the criminal justice system, and current challenges to the system. The course examines the evolution of the principles and approaches utilized by the justice system and the evolving forces which have shaped these principles and approaches. Although justice structure and process is examined in a cross-cultural context, emphasis is placed on the justice system of the United States, and particularly the structure and function of the police, courts, and corrections. Students are introduced to the origins and development of criminal law, legal process, sentencing, and incarceration policies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70388",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-19T05:00:27.674768Z"
     },
     {
       "crn": "70390",
@@ -4507,7 +4813,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70390')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70390')",
+      "description": "This course introduces students to the characteristics of the criminal justice system of the United States. Focus is placed on examining crime measurement, theoretical explanations of crime, responses to crime, components of the criminal justice system, and current challenges to the system. The course examines the evolution of the principles and approaches utilized by the justice system and the evolving forces which have shaped these principles and approaches. Although justice structure and process is examined in a cross-cultural context, emphasis is placed on the justice system of the United States, and particularly the structure and function of the police, courts, and corrections. Students are introduced to the origins and development of criminal law, legal process, sentencing, and incarceration policies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70390",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-19T05:00:28.740699Z"
     },
     {
       "crn": "70391",
@@ -4539,7 +4866,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70391')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70391')",
+      "description": "This course introduces students to the characteristics of the criminal justice system of the United States. Focus is placed on examining crime measurement, theoretical explanations of crime, responses to crime, components of the criminal justice system, and current challenges to the system. The course examines the evolution of the principles and approaches utilized by the justice system and the evolving forces which have shaped these principles and approaches. Although justice structure and process is examined in a cross-cultural context, emphasis is placed on the justice system of the United States, and particularly the structure and function of the police, courts, and corrections. Students are introduced to the origins and development of criminal law, legal process, sentencing, and incarceration policies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70391",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 27,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-08-19T05:00:29.815716Z"
     },
     {
       "crn": "71609",
@@ -4570,8 +4918,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71609')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71609')",
+      "description": "This course introduces students to the characteristics of the criminal justice system of the United States. Focus is placed on examining crime measurement, theoretical explanations of crime, responses to crime, components of the criminal justice system, and current challenges to the system. The course examines the evolution of the principles and approaches utilized by the justice system and the evolving forces which have shaped these principles and approaches. Although justice structure and process is examined in a cross-cultural context, emphasis is placed on the justice system of the United States, and particularly the structure and function of the police, courts, and corrections. Students are introduced to the origins and development of criminal law, legal process, sentencing, and incarceration policies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "19-AUG-2025",
+        "Last day to drop with a refund": "19-AUG-2025",
+        "Last day to drop without a \"W\"": "09-SEP-2025",
+        "Last day to drop with a \"W\"": "28-OCT-2025",
+        "Pass/No Pass Petition Deadline Date": "02-DEC-2025",
+        "Census Date": "02-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71609",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 3,
+        "available": 32
+      },
+      "detail_fetched_at": "2025-08-19T05:00:30.897038Z"
     },
     {
       "crn": "72296",
@@ -4602,8 +4972,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72296')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72296')",
+      "description": "This course introduces students to the characteristics of the criminal justice system of the United States. Focus is placed on examining crime measurement, theoretical explanations of crime, responses to crime, components of the criminal justice system, and current challenges to the system. The course examines the evolution of the principles and approaches utilized by the justice system and the evolving forces which have shaped these principles and approaches. Although justice structure and process is examined in a cross-cultural context, emphasis is placed on the justice system of the United States, and particularly the structure and function of the police, courts, and corrections. Students are introduced to the origins and development of criminal law, legal process, sentencing, and incarceration policies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72296",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 20,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-08-19T05:00:31.967772Z"
     },
     {
       "crn": "74268",
@@ -4634,8 +5026,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74268')"
+      "additional_hours": "1.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74268')",
+      "description": "This course introduces students to the characteristics of the criminal justice system of the United States. Focus is placed on examining crime measurement, theoretical explanations of crime, responses to crime, components of the criminal justice system, and current challenges to the system. The course examines the evolution of the principles and approaches utilized by the justice system and the evolving forces which have shaped these principles and approaches. Although justice structure and process is examined in a cross-cultural context, emphasis is placed on the justice system of the United States, and particularly the structure and function of the police, courts, and corrections. Students are introduced to the origins and development of criminal law, legal process, sentencing, and incarceration policies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-SEP-2025",
+        "Last day to drop with a refund": "03-SEP-2025",
+        "Last day to drop without a \"W\"": "24-SEP-2025",
+        "Last day to drop with a \"W\"": "12-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "17-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74268",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 3,
+        "available": 32
+      },
+      "detail_fetched_at": "2025-08-19T05:00:33.046709Z"
     },
     {
       "crn": "75372",
@@ -4666,8 +5080,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75372')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75372')",
+      "description": "This course introduces students to the characteristics of the criminal justice system of the United States. Focus is placed on examining crime measurement, theoretical explanations of crime, responses to crime, components of the criminal justice system, and current challenges to the system. The course examines the evolution of the principles and approaches utilized by the justice system and the evolving forces which have shaped these principles and approaches. Although justice structure and process is examined in a cross-cultural context, emphasis is placed on the justice system of the United States, and particularly the structure and function of the police, courts, and corrections. Students are introduced to the origins and development of criminal law, legal process, sentencing, and incarceration policies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75372",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-19T05:00:34.110113Z"
     },
     {
       "crn": "75627",
@@ -4699,7 +5135,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75627')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75627')",
+      "description": "This course introduces students to the characteristics of the criminal justice system of the United States. Focus is placed on examining crime measurement, theoretical explanations of crime, responses to crime, components of the criminal justice system, and current challenges to the system. The course examines the evolution of the principles and approaches utilized by the justice system and the evolving forces which have shaped these principles and approaches. Although justice structure and process is examined in a cross-cultural context, emphasis is placed on the justice system of the United States, and particularly the structure and function of the police, courts, and corrections. Students are introduced to the origins and development of criminal law, legal process, sentencing, and incarceration policies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75627",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 34,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-19T05:00:35.177081Z"
     },
     {
       "crn": "76426",
@@ -4730,8 +5187,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76426')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76426')",
+      "description": "This course introduces students to the characteristics of the criminal justice system of the United States. Focus is placed on examining crime measurement, theoretical explanations of crime, responses to crime, components of the criminal justice system, and current challenges to the system. The course examines the evolution of the principles and approaches utilized by the justice system and the evolving forces which have shaped these principles and approaches. Although justice structure and process is examined in a cross-cultural context, emphasis is placed on the justice system of the United States, and particularly the structure and function of the police, courts, and corrections. Students are introduced to the origins and development of criminal law, legal process, sentencing, and incarceration policies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76426",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 33,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-19T05:00:36.236484Z"
     },
     {
       "crn": "70393",
@@ -4763,7 +5241,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70393')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70393')",
+      "description": "This course provides students with an in-depth study of the legal responsibilities of law enforcement. Emphasis is placed on the judicial segment of the administration of justice system. Topics include laws of arrest, custody, and analyses of the past, present, and future procedures for each subsystem within the administration of justice system, from initial entry to final disposition. The relationship each segment maintains with system members is also covered.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70393",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 14,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-08-19T05:00:37.290664Z"
     },
     {
       "crn": "70396",
@@ -4794,8 +5293,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70396')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70396')",
+      "description": "This course provides students with an in-depth study of the legal responsibilities of law enforcement. Emphasis is placed on the judicial segment of the administration of justice system. Topics include laws of arrest, custody, and analyses of the past, present, and future procedures for each subsystem within the administration of justice system, from initial entry to final disposition. The relationship each segment maintains with system members is also covered.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70396",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 33,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-19T05:00:38.349778Z"
     },
     {
       "crn": "70398",
@@ -4827,7 +5347,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70398')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70398')",
+      "description": "This course provides students with an in-depth study of the legal responsibilities of law enforcement. Emphasis is placed on the judicial segment of the administration of justice system. Topics include laws of arrest, custody, and analyses of the past, present, and future procedures for each subsystem within the administration of justice system, from initial entry to final disposition. The relationship each segment maintains with system members is also covered.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70398",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-19T05:00:39.412725Z"
     },
     {
       "crn": "71538",
@@ -54506,11 +55047,11 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-19T04:51:34.282811+00:00Z",
-    "courses_with_details": 75,
+    "detail_collection_timestamp": "2025-08-19T05:00:39.419340+00:00Z",
+    "courses_with_details": 100,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.0,
-    "courses_processed_this_run": 65
+    "courses_processed_this_run": 25
   },
   "total_courses": null,
   "departments": null
