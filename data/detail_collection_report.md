@@ -1,8 +1,8 @@
-## Rio Hondo Detail Collection Report - Tue Aug 19 05:53:15 UTC 2025
+## Rio Hondo Detail Collection Report - Tue Aug 19 06:05:21 UTC 2025
 
 ### Collection Summary
 - **Total Courses**: 1649
-- **Courses with Details**: 118
-- **Rate Limit**: 1.5 seconds
+- **Courses with Details**: 197
+- **Rate Limit**: 4.0 seconds
 
 **Collection completed successfully!**

@@ -6361,28 +6361,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70418')",
-      "description": "This course addresses the techniques, procedures, and ethical issues in the investigation of crime. The topics covered include the organization of the investigative process, crime scene searches, interviewing and interrogating, surveillance, source of information, utility of evidence, scientific analysis of evidence, and the role of the investigator in the trial process.",
-      "prerequisites": null,
-      "advisory": "AJ 101",
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70418",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 22,
-        "available": 13
-      },
-      "detail_fetched_at": "2025-08-19T05:59:59.208674Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70418')"
     },
     {
       "crn": "70419",
@@ -6413,30 +6392,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70419')",
-      "description": "This course addresses the techniques, procedures, and ethical issues in the investigation of crime. The topics covered include the organization of the investigative process, crime scene searches, interviewing and interrogating, surveillance, source of information, utility of evidence, scientific analysis of evidence, and the role of the investigator in the trial process.",
-      "prerequisites": null,
-      "advisory": "AJ 101",
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "16-OCT-2025",
-        "Last day to drop with a refund": "16-OCT-2025",
-        "Last day to drop without a \"W\"": "27-OCT-2025",
-        "Last day to drop with a \"W\"": "20-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "21-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70419",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 16,
-        "available": 19
-      },
-      "detail_fetched_at": "2025-08-19T06:00:03.339244Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70419')"
     },
     {
       "crn": "73833",
@@ -6467,29 +6424,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73833')",
-      "description": "This course addresses the techniques, procedures, and ethical issues in the investigation of crime. The topics covered include the organization of the investigative process, crime scene searches, interviewing and interrogating, surveillance, source of information, utility of evidence, scientific analysis of evidence, and the role of the investigator in the trial process.",
-      "prerequisites": null,
-      "advisory": "AJ 101",
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73833",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 25,
-        "available": 10
-      },
-      "detail_fetched_at": "2025-08-19T06:00:07.458815Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73833')"
     },
     {
       "crn": "70420",
@@ -6520,29 +6456,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70420')",
-      "description": "This course provides students with an in-depth understanding of code and case law of vice and narcotics. The course will focus on detection, suppression, apprehension, and prosecution of violators. Special emphasis will be placed on laws dealing with gambling, prostitution, sex crimes, narcotic identification, and search and seizure.",
-      "prerequisites": null,
-      "advisory": "AJ 101",
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70420",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 27,
-        "available": 8
-      },
-      "detail_fetched_at": "2025-08-19T06:00:11.587286Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70420')"
     },
     {
       "crn": "77657",
@@ -6573,30 +6488,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77657')",
-      "description": "This course is designed to provide Administration of Justice or other interested students with an in-depth understanding of personal and organizational values, beliefs, attitudes and ethics as they affect contemporary issues in the criminal justice system. Particular emphasis is placed on the historical foundations that serve as a basis for contemporary decision making. Specific issues taken up in discussions will vary from semester to semester.",
-      "prerequisites": null,
-      "advisory": "AJ 101; AJ 102",
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "16-OCT-2025",
-        "Last day to drop with a refund": "16-OCT-2025",
-        "Last day to drop without a \"W\"": "27-OCT-2025",
-        "Last day to drop with a \"W\"": "20-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "21-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77657",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 19,
-        "available": 16
-      },
-      "detail_fetched_at": "2025-08-19T06:00:15.713618Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77657')"
     },
     {
       "crn": "70421",
@@ -6627,29 +6520,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70421')",
-      "description": "This course prepares administration of justice, forensic science, and California peace officer students for the Forensic Science Identification Program. The course provides an introduction to the role of forensics in criminal investigations, examining methods utilized in the forensic analysis of crime scenes, pattern evidence, instruments, firearms, questioned documents, and controlled substances.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70421",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 34,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:00:19.850190Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70421')"
     },
     {
       "crn": "74577",
@@ -6680,30 +6552,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74577')",
-      "description": "This course prepares administration of justice, forensic science, and California peace officer students for the Forensic Science Identification Program. The course provides an introduction to the role of forensics in criminal investigations, examining methods utilized in the forensic analysis of crime scenes, pattern evidence, instruments, firearms, questioned documents, and controlled substances.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "16-OCT-2025",
-        "Last day to drop with a refund": "16-OCT-2025",
-        "Last day to drop without a \"W\"": "27-OCT-2025",
-        "Last day to drop with a \"W\"": "20-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "21-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74577",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 35,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:00:23.968556Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74577')"
     },
     {
       "crn": "77377",
@@ -6734,29 +6584,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77377')",
-      "description": "This course offers an introduction to the production pipeline used in games, film, and television to create 3D animation. Students explore key concepts such as digital sculpting, lighting, texturing, rendering, rigging, and animating 3D objects. This course is a valuable asset for students pursuing studies in graphic arts such as illustration, web and game design, and film production.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC,CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77377",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 23,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:00:28.098959Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77377')"
     },
     {
       "crn": "77378",
@@ -6788,28 +6617,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77378')",
-      "description": "This course offers an introduction to the production pipeline used in games, film, and television to create 3D animation. Students explore key concepts such as digital sculpting, lighting, texturing, rendering, rigging, and animating 3D objects. This course is a valuable asset for students pursuing studies in graphic arts such as illustration, web and game design, and film production.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC,CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77378",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 24,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:00:32.228613Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77378')"
     },
     {
       "crn": "70322",
@@ -6841,28 +6649,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70322')",
-      "description": "This course introduces students to the fundamental principles of 3D modeling, unwrapping, and texturing for game development. Designed for beginning 3D Animation students, it covers the essential tools and techniques for creating 3D game assets. This course is also valuable for students in graphic arts such as, illustration, web and game design, and film production\u2014 as well as industrial design, including architectural, automotive, furniture, clothing, and product design.",
-      "prerequisites": null,
-      "advisory": "ANIM 101",
-      "transfers_to": "UC,CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70322",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 9,
-        "available": 15
-      },
-      "detail_fetched_at": "2025-08-19T06:00:36.365917Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70322')"
     },
     {
       "crn": "77087",
@@ -6894,28 +6681,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77087')",
-      "description": "This course takes up the fundamentals of character design. Students learn the basics of character development by revising and polishing innovative designs of visually intriguing characters, and in so doing use and master gesture, construction, and anatomy in their designs. Further, students learn to use digital tools to sketch, paint, and build a visually compelling portfolio of characters.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77087",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 25,
-        "available": -1
-      },
-      "detail_fetched_at": "2025-08-19T06:00:40.494315Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77087')"
     },
     {
       "crn": "70000",
@@ -6947,28 +6713,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70000')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU (*Students will receive credit for only one of the following courses: ANTH 101 or ANTH 101H)In this course, people are investigated from the perspective of evolutionary theory. Students will learn about the process of natural selection and related issues including patterns of inheritance. Also included will be an examination of the closest living relatives to humans, primates, with an emphasis on behavior and ape societies. An extensive survey of human ancestors will trace the origins of various life forms and recount how ape\u2013like creatures evolved into modern humans. Students will also discover how natural selection can be used as a tool to understand patterns of human variation.",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70000",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 34,
-        "available": 11
-      },
-      "detail_fetched_at": "2025-08-19T06:00:44.620049Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70000')"
     },
     {
       "crn": "70001",
@@ -6999,30 +6744,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70001')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU (*Students will receive credit for only one of the following courses: ANTH 101 or ANTH 101H)In this course, people are investigated from the perspective of evolutionary theory. Students will learn about the process of natural selection and related issues including patterns of inheritance. Also included will be an examination of the closest living relatives to humans, primates, with an emphasis on behavior and ape societies. An extensive survey of human ancestors will trace the origins of various life forms and recount how ape\u2013like creatures evolved into modern humans. Students will also discover how natural selection can be used as a tool to understand patterns of human variation.",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "14-OCT-2025",
-        "Last day to drop with a refund": "14-OCT-2025",
-        "Last day to drop without a \"W\"": "23-OCT-2025",
-        "Last day to drop with a \"W\"": "20-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
-        "Census Date": "21-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70001",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 5,
-        "available": 40
-      },
-      "detail_fetched_at": "2025-08-19T06:00:48.743402Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70001')"
     },
     {
       "crn": "70002",
@@ -7053,29 +6776,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70002')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU (*Students will receive credit for only one of the following courses: ANTH 101 or ANTH 101H)In this course, people are investigated from the perspective of evolutionary theory. Students will learn about the process of natural selection and related issues including patterns of inheritance. Also included will be an examination of the closest living relatives to humans, primates, with an emphasis on behavior and ape societies. An extensive survey of human ancestors will trace the origins of various life forms and recount how ape\u2013like creatures evolved into modern humans. Students will also discover how natural selection can be used as a tool to understand patterns of human variation.",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70002",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 22,
-        "available": 23
-      },
-      "detail_fetched_at": "2025-08-19T06:00:52.866235Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70002')"
     },
     {
       "crn": "70003",
@@ -7106,30 +6808,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70003')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU (*Students will receive credit for only one of the following courses: ANTH 101 or ANTH 101H)In this course, people are investigated from the perspective of evolutionary theory. Students will learn about the process of natural selection and related issues including patterns of inheritance. Also included will be an examination of the closest living relatives to humans, primates, with an emphasis on behavior and ape societies. An extensive survey of human ancestors will trace the origins of various life forms and recount how ape\u2013like creatures evolved into modern humans. Students will also discover how natural selection can be used as a tool to understand patterns of human variation.",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "21-AUG-2025",
-        "Last day to drop with a refund": "21-AUG-2025",
-        "Last day to drop without a \"W\"": "03-SEP-2025",
-        "Last day to drop with a \"W\"": "26-SEP-2025",
-        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
-        "Census Date": "27-AUG-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70003",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 32,
-        "available": 13
-      },
-      "detail_fetched_at": "2025-08-19T06:00:56.988668Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70003')"
     },
     {
       "crn": "70004",
@@ -7160,29 +6840,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70004')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU (*Students will receive credit for only one of the following courses: ANTH 101 or ANTH 101H)In this course, people are investigated from the perspective of evolutionary theory. Students will learn about the process of natural selection and related issues including patterns of inheritance. Also included will be an examination of the closest living relatives to humans, primates, with an emphasis on behavior and ape societies. An extensive survey of human ancestors will trace the origins of various life forms and recount how ape\u2013like creatures evolved into modern humans. Students will also discover how natural selection can be used as a tool to understand patterns of human variation.",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70004",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 43,
-        "available": 2
-      },
-      "detail_fetched_at": "2025-08-19T06:01:01.108969Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70004')"
     },
     {
       "crn": "70006",
@@ -7213,29 +6872,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70006')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU (*Students will receive credit for only one of the following courses: ANTH 101 or ANTH 101H)In this course, people are investigated from the perspective of evolutionary theory. Students will learn about the process of natural selection and related issues including patterns of inheritance. Also included will be an examination of the closest living relatives to humans, primates, with an emphasis on behavior and ape societies. An extensive survey of human ancestors will trace the origins of various life forms and recount how ape\u2013like creatures evolved into modern humans. Students will also discover how natural selection can be used as a tool to understand patterns of human variation.",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70006",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 0,
-        "available": 45
-      },
-      "detail_fetched_at": "2025-08-19T06:01:05.236684Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70006')"
     },
     {
       "crn": "70007",
@@ -7266,29 +6904,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70007')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU (*Students will receive credit for only one of the following courses: ANTH 101 or ANTH 101H)In this course, people are investigated from the perspective of evolutionary theory. Students will learn about the process of natural selection and related issues including patterns of inheritance. Also included will be an examination of the closest living relatives to humans, primates, with an emphasis on behavior and ape societies. An extensive survey of human ancestors will trace the origins of various life forms and recount how ape\u2013like creatures evolved into modern humans. Students will also discover how natural selection can be used as a tool to understand patterns of human variation.",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70007",
-      "seating_detail": {
-        "capacity": 25,
-        "taken": 25,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:01:09.362081Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70007')"
     },
     {
       "crn": "75329",
@@ -7319,30 +6936,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75329')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU (*Students will receive credit for only one of the following courses: ANTH 101 or ANTH 101H)In this course, people are investigated from the perspective of evolutionary theory. Students will learn about the process of natural selection and related issues including patterns of inheritance. Also included will be an examination of the closest living relatives to humans, primates, with an emphasis on behavior and ape societies. An extensive survey of human ancestors will trace the origins of various life forms and recount how ape\u2013like creatures evolved into modern humans. Students will also discover how natural selection can be used as a tool to understand patterns of human variation.",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "16-OCT-2025",
-        "Last day to drop with a refund": "16-OCT-2025",
-        "Last day to drop without a \"W\"": "27-OCT-2025",
-        "Last day to drop with a \"W\"": "20-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "21-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75329",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 28,
-        "available": 17
-      },
-      "detail_fetched_at": "2025-08-19T06:01:13.488378Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75329')"
     },
     {
       "crn": "77608",
@@ -7373,30 +6968,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77608')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU (*Students will receive credit for only one of the following courses: ANTH 101 or ANTH 101H)In this course, people are investigated from the perspective of evolutionary theory. Students will learn about the process of natural selection and related issues including patterns of inheritance. Also included will be an examination of the closest living relatives to humans, primates, with an emphasis on behavior and ape societies. An extensive survey of human ancestors will trace the origins of various life forms and recount how ape\u2013like creatures evolved into modern humans. Students will also discover how natural selection can be used as a tool to understand patterns of human variation.",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "03-OCT-2025",
-        "Last day to drop with a refund": "03-OCT-2025",
-        "Last day to drop without a \"W\"": "16-OCT-2025",
-        "Last day to drop with a \"W\"": "17-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "09-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77608",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 45,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:01:17.608626Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77608')"
     },
     {
       "crn": "77690",
@@ -7428,28 +7001,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77690')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU (*Students will receive credit for only one of the following courses: ANTH 101 or ANTH 101H)In this course, people are investigated from the perspective of evolutionary theory. Students will learn about the process of natural selection and related issues including patterns of inheritance. Also included will be an examination of the closest living relatives to humans, primates, with an emphasis on behavior and ape societies. An extensive survey of human ancestors will trace the origins of various life forms and recount how ape\u2013like creatures evolved into modern humans. Students will also discover how natural selection can be used as a tool to understand patterns of human variation.",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77690",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 45,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:01:21.738975Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77690')"
     },
     {
       "crn": "77723",
@@ -7480,29 +7032,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77723')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU (*Students will receive credit for only one of the following courses: ANTH 101 or ANTH 101H)In this course, people are investigated from the perspective of evolutionary theory. Students will learn about the process of natural selection and related issues including patterns of inheritance. Also included will be an examination of the closest living relatives to humans, primates, with an emphasis on behavior and ape societies. An extensive survey of human ancestors will trace the origins of various life forms and recount how ape\u2013like creatures evolved into modern humans. Students will also discover how natural selection can be used as a tool to understand patterns of human variation.",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77723",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 43,
-        "available": 2
-      },
-      "detail_fetched_at": "2025-08-19T06:01:25.863561Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77723')"
     },
     {
       "crn": "77796",
@@ -7533,30 +7064,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77796')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU (*Students will receive credit for only one of the following courses: ANTH 101 or ANTH 101H)In this course, people are investigated from the perspective of evolutionary theory. Students will learn about the process of natural selection and related issues including patterns of inheritance. Also included will be an examination of the closest living relatives to humans, primates, with an emphasis on behavior and ape societies. An extensive survey of human ancestors will trace the origins of various life forms and recount how ape\u2013like creatures evolved into modern humans. Students will also discover how natural selection can be used as a tool to understand patterns of human variation.",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "16-OCT-2025",
-        "Last day to drop with a refund": "16-OCT-2025",
-        "Last day to drop without a \"W\"": "27-OCT-2025",
-        "Last day to drop with a \"W\"": "20-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "21-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77796",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 45,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:01:29.988066Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77796')"
     },
     {
       "crn": "70008",
@@ -7587,29 +7096,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70008')",
-      "description": null,
-      "prerequisites": "ENGL C1000",
-      "advisory": "It is advised that students be able to read college-level texts.",
-      "transfers_to": "UC,CSU(*Students will receive credit for only one of the following courses: ANTH 101 or ANTH 101H)In this course, people are investigated from the perspective of evolutionary theory. Students will learn about the process of natural selection and related issues including patterns of inheritance. Also included will be an examination of the closest living relatives to humans, primates, with an emphasis on behavior and ape societies. An extensive survey of human ancestors will trace the origins of various life forms and recount how ape\u2013like creatures evolved into modern humans. Students will also discover how natural selection can be used as a tool to understand patterns of human variation.",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70008",
-      "seating_detail": {
-        "capacity": 20,
-        "taken": 9,
-        "available": 11
-      },
-      "detail_fetched_at": "2025-08-19T06:01:34.113190Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70008')"
     },
     {
       "crn": "70009",
@@ -7640,29 +7128,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70009')",
-      "description": "This laboratory course, designed to complement the lecture course, is for students interested in expanding their knowledge of physical anthropology. Students are introduced to the methods, techniques, and procedures used in physical anthropology research, gaining practical experience by participating in lab activities and experiments using the scientific method. Lab exercises include an assessment of the forces that affect evolutionary change, the observation of primate behavior, the assessment of human variation, and the identification and classification of the skeletal features of humans, non-human primates, and human ancestors. Mendelian, molecular, and population genetics are also explored.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70009",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 23,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:01:38.244781Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70009')"
     },
     {
       "crn": "70010",
@@ -7693,29 +7160,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70010')",
-      "description": "This laboratory course, designed to complement the lecture course, is for students interested in expanding their knowledge of physical anthropology. Students are introduced to the methods, techniques, and procedures used in physical anthropology research, gaining practical experience by participating in lab activities and experiments using the scientific method. Lab exercises include an assessment of the forces that affect evolutionary change, the observation of primate behavior, the assessment of human variation, and the identification and classification of the skeletal features of humans, non-human primates, and human ancestors. Mendelian, molecular, and population genetics are also explored.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70010",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 25,
-        "available": -1
-      },
-      "detail_fetched_at": "2025-08-19T06:01:42.370601Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70010')"
     },
     {
       "crn": "73701",
@@ -7746,29 +7192,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73701')",
-      "description": "This laboratory course, designed to complement the lecture course, is for students interested in expanding their knowledge of physical anthropology. Students are introduced to the methods, techniques, and procedures used in physical anthropology research, gaining practical experience by participating in lab activities and experiments using the scientific method. Lab exercises include an assessment of the forces that affect evolutionary change, the observation of primate behavior, the assessment of human variation, and the identification and classification of the skeletal features of humans, non-human primates, and human ancestors. Mendelian, molecular, and population genetics are also explored.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73701",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 24,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:01:46.519676Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73701')"
     },
     {
       "crn": "77327",
@@ -7799,29 +7224,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77327')",
-      "description": "This laboratory course, designed to complement the lecture course, is for students interested in expanding their knowledge of physical anthropology. Students are introduced to the methods, techniques, and procedures used in physical anthropology research, gaining practical experience by participating in lab activities and experiments using the scientific method. Lab exercises include an assessment of the forces that affect evolutionary change, the observation of primate behavior, the assessment of human variation, and the identification and classification of the skeletal features of humans, non-human primates, and human ancestors. Mendelian, molecular, and population genetics are also explored.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77327",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 23,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:01:50.649134Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77327')"
     },
     {
       "crn": "77508",
@@ -7852,29 +7256,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77508')",
-      "description": "This laboratory course, designed to complement the lecture course, is for students interested in expanding their knowledge of physical anthropology. Students are introduced to the methods, techniques, and procedures used in physical anthropology research, gaining practical experience by participating in lab activities and experiments using the scientific method. Lab exercises include an assessment of the forces that affect evolutionary change, the observation of primate behavior, the assessment of human variation, and the identification and classification of the skeletal features of humans, non-human primates, and human ancestors. Mendelian, molecular, and population genetics are also explored.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77508",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 21,
-        "available": 3
-      },
-      "detail_fetched_at": "2025-08-19T06:01:54.770937Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77508')"
     },
     {
       "crn": "77528",
@@ -7905,29 +7288,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77528')",
-      "description": "This laboratory course, designed to complement the lecture course, is for students interested in expanding their knowledge of physical anthropology. Students are introduced to the methods, techniques, and procedures used in physical anthropology research, gaining practical experience by participating in lab activities and experiments using the scientific method. Lab exercises include an assessment of the forces that affect evolutionary change, the observation of primate behavior, the assessment of human variation, and the identification and classification of the skeletal features of humans, non-human primates, and human ancestors. Mendelian, molecular, and population genetics are also explored.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77528",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 23,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:01:58.891368Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77528')"
     },
     {
       "crn": "77687",
@@ -7959,28 +7321,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77687')",
-      "description": "This laboratory course, designed to complement the lecture course, is for students interested in expanding their knowledge of physical anthropology. Students are introduced to the methods, techniques, and procedures used in physical anthropology research, gaining practical experience by participating in lab activities and experiments using the scientific method. Lab exercises include an assessment of the forces that affect evolutionary change, the observation of primate behavior, the assessment of human variation, and the identification and classification of the skeletal features of humans, non-human primates, and human ancestors. Mendelian, molecular, and population genetics are also explored.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77687",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 10,
-        "available": 14
-      },
-      "detail_fetched_at": "2025-08-19T06:02:03.016430Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77687')"
     },
     {
       "crn": "78468",
@@ -8011,29 +7352,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78468')",
-      "description": "This laboratory course, designed to complement the lecture course, is for students interested in expanding their knowledge of physical anthropology. Students are introduced to the methods, techniques, and procedures used in physical anthropology research, gaining practical experience by participating in lab activities and experiments using the scientific method. Lab exercises include an assessment of the forces that affect evolutionary change, the observation of primate behavior, the assessment of human variation, and the identification and classification of the skeletal features of humans, non-human primates, and human ancestors. Mendelian, molecular, and population genetics are also explored.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78468",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 22,
-        "available": 2
-      },
-      "detail_fetched_at": "2025-08-19T06:02:07.154621Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78468')"
     },
     {
       "crn": "70025",
@@ -8065,28 +7385,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70025')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC (Credit limit*)CSU (*Students will receive credit for only one of the following courses: ANTH 102 or ANTH 102H)The emphasis of this general education course is the investigation of human culture. By learning about the diversity of cultural practices around the world, students will be able to evaluate their identities within their own societies. In addition to discovering the theories and methods important to cultural anthropology, the course includes an extensive examination of cross-cultural diversity. Students learn about how people in different cultures obtain their food, exchange goods, organize themselves in groups, engage in politics, raise children, and worship supernatural beings. Also addressed is the issue of how cultural anthropology can contribute to addressing important problems in the modern world. The course is designed for anthropology majors, those with an interest in anthropology, or anyone with a desire to further their understanding of human culture. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 18-AUG-2025 11:08:18 PM Title: ANTH 102 Intro to Cultural Anthropology CRN: 70025 Instructor: Jill Pfeiffer CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: S Science Meeting Time T R 09:35am - 11:00am S Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 0 0 0 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70025",
-      "seating_detail": {
-        "capacity": 0,
-        "taken": 0,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:02:11.282401Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70025')"
     },
     {
       "crn": "70026",
@@ -8117,29 +7416,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70026')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC (Credit limit*)CSU (*Students will receive credit for only one of the following courses: ANTH 102 or ANTH 102H)The emphasis of this general education course is the investigation of human culture. By learning about the diversity of cultural practices around the world, students will be able to evaluate their identities within their own societies. In addition to discovering the theories and methods important to cultural anthropology, the course includes an extensive examination of cross-cultural diversity. Students learn about how people in different cultures obtain their food, exchange goods, organize themselves in groups, engage in politics, raise children, and worship supernatural beings. Also addressed is the issue of how cultural anthropology can contribute to addressing important problems in the modern world. The course is designed for anthropology majors, those with an interest in anthropology, or anyone with a desire to further their understanding of human culture. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 18-AUG-2025 11:08:22 PM Title: ANTH 102 Intro to Cultural Anthropology CRN: 70026 Instructor: Jill Pfeiffer UA Independent Study Weekly Instructional Method Section Corequisites: NONE Bldg/Room: ASYNC Online Meeting Time 3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable Seating Availability Capacity Taken Available 45 34 11 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70026",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 34,
-        "available": 11
-      },
-      "detail_fetched_at": "2025-08-19T06:02:15.404575Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70026')"
     },
     {
       "crn": "75212",
@@ -8170,30 +7448,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75212')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC (Credit limit*)CSU (*Students will receive credit for only one of the following courses: ANTH 102 or ANTH 102H)The emphasis of this general education course is the investigation of human culture. By learning about the diversity of cultural practices around the world, students will be able to evaluate their identities within their own societies. In addition to discovering the theories and methods important to cultural anthropology, the course includes an extensive examination of cross-cultural diversity. Students learn about how people in different cultures obtain their food, exchange goods, organize themselves in groups, engage in politics, raise children, and worship supernatural beings. Also addressed is the issue of how cultural anthropology can contribute to addressing important problems in the modern world. The course is designed for anthropology majors, those with an interest in anthropology, or anyone with a desire to further their understanding of human culture. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 18-AUG-2025 11:08:26 PM Title: ANTH 102 Intro to Cultural Anthropology CRN: 75212 Instructor: Saira Naqvi UA Independent Study Daily Instructional Method Section Corequisites: NONE Bldg/Room: ASYNC Online Meeting Time 3.9 Hrs/Wk arr in addition to any scheduled hrs if applicable Seating Availability Capacity Taken Available 45 3 42 Critical Dates for this Course Term: Fall 2025 Last day to add class: 09-SEP-2025 Last day to drop with a refund: 09-SEP-2025 Last day to drop without a \"W\": 29-SEP-2025 Last day to drop with a \"W\": 12-NOV-2025 Pass/No Pass Petition Deadline Date: 05-DEC-2025 Census Date: 18-SEP-2025 [ Close Window ] Rio Hondo College 8.1",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "09-SEP-2025",
-        "Last day to drop with a refund": "09-SEP-2025",
-        "Last day to drop without a \"W\"": "29-SEP-2025",
-        "Last day to drop with a \"W\"": "12-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "18-SEP-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75212",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 3,
-        "available": 42
-      },
-      "detail_fetched_at": "2025-08-19T06:02:19.531465Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75212')"
     },
     {
       "crn": "75315",
@@ -8224,30 +7480,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75315')",
-      "description": "This course requires instructor approval. Should you have questions or need assistance, please contact is Tam Contreras at (562) 463-7048 , or e-mail at tcontreras@riohondo.edu.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC (Credit limit*)CSU (*Students will receive credit for only one of the following courses: ANTH 102 or ANTH 102H)The emphasis of this general education course is the investigation of human culture. By learning about the diversity of cultural practices around the world, students will be able to evaluate their identities within their own societies. In addition to discovering the theories and methods important to cultural anthropology, the course includes an extensive examination of cross-cultural diversity. Students learn about how people in different cultures obtain their food, exchange goods, organize themselves in groups, engage in politics, raise children, and worship supernatural beings. Also addressed is the issue of how cultural anthropology can contribute to addressing important problems in the modern world. The course is designed for anthropology majors, those with an interest in anthropology, or anyone with a desire to further their understanding of human culture. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 18-AUG-2025 11:08:30 PM Title: ANTH 102 Intro to Cultural Anthropology CRN: 75315 Instructor: Saira Naqvi UA Independent Study Daily Instructional Method Section Corequisites: NONE Bldg/Room: ASYNC Online Section Information Text",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "09-SEP-2025",
-        "Last day to drop with a refund": "09-SEP-2025",
-        "Last day to drop without a \"W\"": "29-SEP-2025",
-        "Last day to drop with a \"W\"": "12-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "18-SEP-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75315",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 0,
-        "available": 45
-      },
-      "detail_fetched_at": "2025-08-19T06:02:23.653705Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75315')"
     },
     {
       "crn": "77323",
@@ -8278,30 +7512,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77323')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC (Credit limit*)CSU (*Students will receive credit for only one of the following courses: ANTH 102 or ANTH 102H)The emphasis of this general education course is the investigation of human culture. By learning about the diversity of cultural practices around the world, students will be able to evaluate their identities within their own societies. In addition to discovering the theories and methods important to cultural anthropology, the course includes an extensive examination of cross-cultural diversity. Students learn about how people in different cultures obtain their food, exchange goods, organize themselves in groups, engage in politics, raise children, and worship supernatural beings. Also addressed is the issue of how cultural anthropology can contribute to addressing important problems in the modern world. The course is designed for anthropology majors, those with an interest in anthropology, or anyone with a desire to further their understanding of human culture. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 18-AUG-2025 11:08:34 PM Title: ANTH 102 Intro to Cultural Anthropology CRN: 77323 Instructor: Leah Carpio-Hernandez UA Independent Study Daily Instructional Method Section Corequisites: NONE Bldg/Room: ASYNC Online Meeting Time 6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable Seating Availability Capacity Taken Available 45 17 28 Critical Dates for this Course Term: Fall 2025 Last day to add class: 16-OCT-2025 Last day to drop with a refund: 16-OCT-2025 Last day to drop without a \"W\": 27-OCT-2025 Last day to drop with a \"W\": 20-NOV-2025 Pass/No Pass Petition Deadline Date: 05-DEC-2025 Census Date: 21-OCT-2025 [ Close Window ] Rio Hondo College 8.1",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "16-OCT-2025",
-        "Last day to drop with a refund": "16-OCT-2025",
-        "Last day to drop without a \"W\"": "27-OCT-2025",
-        "Last day to drop with a \"W\"": "20-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "21-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77323",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 17,
-        "available": 28
-      },
-      "detail_fetched_at": "2025-08-19T06:02:27.799231Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77323')"
     },
     {
       "crn": "74296",
@@ -8332,29 +7544,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74296')",
-      "description": "This course is a survey of human world history and prehistory as identified by the archaeological record. Emphasis is placed on major changes in human technological, economic, and social development over the course of two million years of the human material record, including topics such as the history of archaeology, research ethics, data types, theory and methodology, dating techniques, survey and site excavation methods, analysis and interpretations, and reasons to preserve the past. Case studies from the excavation of major archaeological sites around the world are examined and discussed as examples. This course is for students who are interested in ancient history or the field of archaeology, or who plan to major in anthropology.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74296",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 24,
-        "available": 21
-      },
-      "detail_fetched_at": "2025-08-19T06:02:31.923346Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74296')"
     },
     {
       "crn": "77325",
@@ -8385,29 +7576,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77325')",
-      "description": "This course is for students majoring in anthropology or anyone interested in learning about the diversity of communication forms and language systems around the world. The course investigates the development and evolution of language, the structure and sound systems of different languages, language loss and conservation, and the variations in different languages such as dialects and the social situations in which they are used. The different forms of verbal and non-verbal communication are studied across cultures with special attention paid to the use of technology like social media and the problems that arise in communication between people of different classes, genders, and ethnicities in our globalized world.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77325",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 32,
-        "available": 13
-      },
-      "detail_fetched_at": "2025-08-19T06:02:36.063233Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77325')"
     },
     {
       "crn": "70027",
@@ -8438,30 +7608,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70027')",
-      "description": "This course is an anthropological examination of sex, gender identity, roles, relations, and sexuality across cultures. Theories and methods of the anthropology of sex and gender along with the historical origins and development of this area of specialization in cultural anthropology are studied. Ethnographic or case studies of the fluidity of sex and gender in small-scale tribal societies around the world inform class material, as will industrialized examples of legal, political, and social issues.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "03-OCT-2025",
-        "Last day to drop with a refund": "03-OCT-2025",
-        "Last day to drop without a \"W\"": "16-OCT-2025",
-        "Last day to drop with a \"W\"": "17-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "09-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70027",
-      "seating_detail": {
-        "capacity": 40,
-        "taken": 16,
-        "available": 24
-      },
-      "detail_fetched_at": "2025-08-19T06:02:40.200500Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70027')"
     },
     {
       "crn": "70029",
@@ -8492,29 +7640,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70029')",
-      "description": "This course is an anthropological examination of sex, gender identity, roles, relations, and sexuality across cultures. Theories and methods of the anthropology of sex and gender along with the historical origins and development of this area of specialization in cultural anthropology are studied. Ethnographic or case studies of the fluidity of sex and gender in small-scale tribal societies around the world inform class material, as will industrialized examples of legal, political, and social issues.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70029",
-      "seating_detail": {
-        "capacity": 0,
-        "taken": 0,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:02:44.316174Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70029')"
     },
     {
       "crn": "73206",
@@ -8545,29 +7672,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73206')",
-      "description": "This course explores the perceptions of disease, health, and healing in different cultures around the world. Sociocultural, biological, and ecological perspectives are used to understand the origins of illness and disease and medical practices across cultures. Topics include diagnosis and therapies, the role of healers like witch doctors and shamans, stress and mental health, unequal access to medical care, and medical anthropology applied to global health problems.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC,CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "27-AUG-2025",
-        "Last day to drop with a refund": "27-AUG-2025",
-        "Last day to drop without a \"W\"": "18-SEP-2025",
-        "Last day to drop with a \"W\"": "05-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73206",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 17,
-        "available": 28
-      },
-      "detail_fetched_at": "2025-08-19T06:02:48.440996Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73206')"
     },
     {
       "crn": "70031",
@@ -8598,30 +7704,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70031')",
-      "description": "This course is for students interested in learning about the diverse religious beliefs and practices that exist around the world. As an introduction to the anthropological study of religion, the course includes an overview of the various forms of religious belief systems; the variety of gods and other supernatural forces; the use of myths, rituals, and ceremonies in religious practice; and the types of shamans, priests, and other religious specialists found in religious systems. The religious use of drugs is explored, along with traditional healing practices and folk medicine remedies used in many Western cultures. A survey of witchcraft, sorcery, the occult, demons, exorcism rites, sacrificial practices, and magic is included. Additionally, concepts relating to death and the afterlife (e.g., souls, ghosts, reincarnation, and zombies) are explored.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "03-OCT-2025",
-        "Last day to drop with a refund": "03-OCT-2025",
-        "Last day to drop without a \"W\"": "16-OCT-2025",
-        "Last day to drop with a \"W\"": "17-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "09-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70031",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 27,
-        "available": 18
-      },
-      "detail_fetched_at": "2025-08-19T06:02:52.558985Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70031')"
     },
     {
       "crn": "70035",
@@ -8652,30 +7736,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70035')",
-      "description": "This course is for students interested in learning about the diverse religious beliefs and practices that exist around the world. As an introduction to the anthropological study of religion, the course includes an overview of the various forms of religious belief systems; the variety of gods and other supernatural forces; the use of myths, rituals, and ceremonies in religious practice; and the types of shamans, priests, and other religious specialists found in religious systems. The religious use of drugs is explored, along with traditional healing practices and folk medicine remedies used in many Western cultures. A survey of witchcraft, sorcery, the occult, demons, exorcism rites, sacrificial practices, and magic is included. Additionally, concepts relating to death and the afterlife (e.g., souls, ghosts, reincarnation, and zombies) are explored.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "14-OCT-2025",
-        "Last day to drop with a refund": "14-OCT-2025",
-        "Last day to drop without a \"W\"": "23-OCT-2025",
-        "Last day to drop with a \"W\"": "20-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
-        "Census Date": "21-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70035",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 0,
-        "available": 45
-      },
-      "detail_fetched_at": "2025-08-19T06:02:56.683719Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70035')"
     },
     {
       "crn": "70078",
@@ -8707,28 +7769,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70078')",
-      "description": "This course is for students interested in learning about the diverse religious beliefs and practices that exist around the world. As an introduction to the anthropological study of religion, the course includes an overview of the various forms of religious belief systems; the variety of gods and other supernatural forces; the use of myths, rituals, and ceremonies in religious practice; and the types of shamans, priests, and other religious specialists found in religious systems. The religious use of drugs is explored, along with traditional healing practices and folk medicine remedies used in many Western cultures. A survey of witchcraft, sorcery, the occult, demons, exorcism rites, sacrificial practices, and magic is included. Additionally, concepts relating to death and the afterlife (e.g., souls, ghosts, reincarnation, and zombies) are explored.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70078",
-      "seating_detail": {
-        "capacity": 0,
-        "taken": 0,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:03:00.804977Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70078')"
     },
     {
       "crn": "77553",
@@ -8760,29 +7801,7 @@
       "start_date": "08/16",
       "end_date": "10/10",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77553')",
-      "description": "This basic course in technical drawing and graphics is for students with no previous drafting skills or training who want to pursue training in fields and careers related to architecture, civil design, and engineering design drafting. Practical application with the tools, techniques, standards, and practices used in the industries that need technical drawings and graphics. ARCH 101, CIV 101, ENGT 101 are cross-listed. Credit will be granted for one course only.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "20-AUG-2025",
-        "Last day to drop with a refund": "20-AUG-2025",
-        "Last day to drop without a \"W\"": "02-SEP-2025",
-        "Last day to drop with a \"W\"": "25-SEP-2025",
-        "Pass/No Pass Petition Deadline Date": "09-OCT-2025",
-        "Census Date": "26-AUG-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77553",
-      "seating_detail": {
-        "capacity": 8,
-        "taken": 8,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:03:04.930747Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77553')"
     },
     {
       "crn": "77555",
@@ -8814,28 +7833,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77555')",
-      "description": "This basic course in technical drawing and graphics is for students with no previous drafting skills or training who want to pursue training in fields and careers related to architecture, civil design, and engineering design drafting. Practical application with the tools, techniques, standards, and practices used in the industries that need technical drawings and graphics. ARCH 101, CIV 101, ENGT 101 are cross-listed. Credit will be granted for one course only.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77555",
-      "seating_detail": {
-        "capacity": 8,
-        "taken": 8,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:03:09.059762Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77555')"
     },
     {
       "crn": "77715",
@@ -8867,28 +7865,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77715')",
-      "description": "This basic course in technical drawing and graphics is for students with no previous drafting skills or training who want to pursue training in fields and careers related to architecture, civil design, and engineering design drafting. Practical application with the tools, techniques, standards, and practices used in the industries that need technical drawings and graphics. ARCH 101, CIV 101, ENGT 101 are cross-listed. Credit will be granted for one course only.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77715",
-      "seating_detail": {
-        "capacity": 12,
-        "taken": 12,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:03:13.196089Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77715')"
     },
     {
       "crn": "77500",
@@ -8920,28 +7897,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77500')",
-      "description": "This course surveys the historical development of modern architecture from the Renaissance to the present day. The influence of technological, ecological, environmental, cultural, and socio-economic factors on architecture are considered. Analysis of current and future trends and developments in contemporary architecture and environmental design is covered.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC,CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77500",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 24,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:03:17.326875Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77500')"
     },
     {
       "crn": "78291",
@@ -8972,29 +7928,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78291')",
-      "description": "This course surveys the historical development of modern architecture from the Renaissance to the present day. The influence of technological, ecological, environmental, cultural, and socio-economic factors on architecture are considered. Analysis of current and future trends and developments in contemporary architecture and environmental design is covered.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC,CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78291",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 22,
-        "available": 2
-      },
-      "detail_fetched_at": "2025-08-19T06:03:21.444508Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78291')"
     },
     {
       "crn": "71068",
@@ -9026,28 +7961,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71068')",
-      "description": "This introductory course is for students interested in the field of architectural drawing and design. The course includes the study of architectural graphic standards related to creating construction drawings for residential projects (e.g., site plans, floor plans, roof plans, and elevations). Electrical, foundation and framing, and other drawings for a single-family residential structure are discussed. Emphasis is placed on symbology, conventions, and techniques to develop technical skills an entry-level architectural drafter needs. Construction methods, building codes, design factors, planning, and the use of reference materials are discussed and applied. All construction documents are developed using traditional board drafting methods and standards.",
-      "prerequisites": null,
-      "advisory": "ARCH 101 or CIV 101 or ENGT 101 or two years of high school drafting",
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71068",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 24,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:03:25.628507Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71068')"
     },
     {
       "crn": "71039",
@@ -9079,28 +7993,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71039')",
-      "description": null,
-      "prerequisites": "CIV 101 or ENGT 101 or ARCH 101 or ENGT 105",
-      "advisory": null,
-      "transfers_to": "UC,CSUIn this course, students utilize the theory and practical application of perspective drawing and rendering in design fields such as architecture and interior design. Topics include one and two-point perspectives, and rendering techniques such as markers, pastels, pencil, pen, ink, and design software. Presentation techniques are also discussed. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 18-AUG-2025 11:08:36 PM Title: ARCH 215 Perspective and Rendering CRN: 71039 Instructor: Maurice Herman Instructor: Maurice Herman CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: S 310 Science Section Information Text IT IS RECOMMENDED THAT STUDENTS CONCURRENTLY ENROLL IN CRN 72337 Meeting Time T R 03:55pm - 05:20pm S 310 Science 08/16/25 12/06/25 T R 05:30pm - 06:55pm S 310 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 24 23 1 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71039",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 23,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:03:29.756674Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71039')"
     },
     {
       "crn": "70989",
@@ -9132,28 +8025,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70989')",
-      "description": "This advanced level course is for students pursuing an A.S. Degree or Certificate in Architecture and Architectural Design and Drawing. The course includes the study of common planning concerns as well as the most significant building ordinances and codes which influence the design of commercial spaces. As a component of the course, students will prepare select architectural plans for a commercial building project. Emphasis is placed on effective space utilization, technical plans, elevations, aesthetics, accessible requirements, site utilization and development, traffic flow, and landscaping.",
-      "prerequisites": "ARCH 115",
-      "advisory": null,
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70989",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 23,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:03:33.888356Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70989')"
     },
     {
       "crn": "71021",
@@ -9185,28 +8057,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71021')",
-      "description": "This course is for students pursuing an Associate of Science Degree in Architecture or Architectural Design and Drawing with the intent of transferring and continuing their study of architecture. It presents an intensive study of building information modeling (BIM) applications as they relate to architecture. Utilizing the latest releases of Revit BIM software and technical and architectural drafting conventions learned in previous courses, students will produce two- and three-dimensional (2D and 3D) BIM-generated residential architectural drawings and 3D virtual models. High technology skills necessary to function as a designer or computer-aided design and drafting (CADD) drafter are emphasized.",
-      "prerequisites": "ARCH 115; ENGT 150",
-      "advisory": null,
-      "transfers_to": "CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71021",
-      "seating_detail": {
-        "capacity": 20,
-        "taken": 19,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:03:38.015582Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71021')"
     },
     {
       "crn": "70326",
@@ -9238,28 +8089,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70326')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSUStudents in this introductory lecture/lab course for non-art majors explore multiple aspects of visual art, including the fundamental principles, techniques, history, and appreciation of various art forms, from traditional to contemporary. Through lectures, hands-on activities, and analysis of artworks, students gain a deeper understanding of the role of art in society, different cultures, and personal expression. Project and topics include drawing, painting, printmaking, design, and sculpture. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 18-AUG-2025 11:08:49 PM Title: ART 101 Introduction to Studio Arts CRN: 70326 Instructor: Richard Nam Instructor: Richard Nam Instructor: Richard Nam CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: B 011 Business Meeting Time T 11:30am - 12:20pm B 011 Business 08/16/25 12/06/25 R 11:30am - 12:35pm B 011 Business 08/16/25 12/06/25 T R 12:45pm - 02:50pm B 011 Business 08/16/25 12/06/25 Seating Availability Capacity Taken Available 26 26 0 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70326",
-      "seating_detail": {
-        "capacity": 26,
-        "taken": 26,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:03:42.141332Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70326')"
     },
     {
       "crn": "77536",
@@ -9290,29 +8120,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77536')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSUStudents in this introductory lecture/lab course for non-art majors explore multiple aspects of visual art, including the fundamental principles, techniques, history, and appreciation of various art forms, from traditional to contemporary. Through lectures, hands-on activities, and analysis of artworks, students gain a deeper understanding of the role of art in society, different cultures, and personal expression. Project and topics include drawing, painting, printmaking, design, and sculpture. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 18-AUG-2025 11:08:53 PM Title: ART 101 Introduction to Studio Arts CRN: 77536 Instructor: Sergio Rebia Instructor: Sergio Rebia UA Independent Study Weekly Instructional Method Section Corequisites: NONE Bldg/Room: ASYNC Online Meeting Time 4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable 2.3 Hrs/Wk arr in addition to any scheduled hrs if applicable Seating Availability Capacity Taken Available 30 27 3 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77536",
-      "seating_detail": {
-        "capacity": 30,
-        "taken": 27,
-        "available": 3
-      },
-      "detail_fetched_at": "2025-08-19T06:03:46.268467Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77536')"
     },
     {
       "crn": "77569",
@@ -9343,29 +8152,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "2.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77569')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSUStudents in this introductory lecture/lab course for non-art majors explore multiple aspects of visual art, including the fundamental principles, techniques, history, and appreciation of various art forms, from traditional to contemporary. Through lectures, hands-on activities, and analysis of artworks, students gain a deeper understanding of the role of art in society, different cultures, and personal expression. Project and topics include drawing, painting, printmaking, design, and sculpture. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 18-AUG-2025 11:08:57 PM Title: ART 101 Introduction to Studio Arts CRN: 77569 Instructor: Rosalie Lopez Instructor: Rosalie Lopez UA Independent Study Weekly Instructional Method Section Corequisites: NONE Bldg/Room: ASYNC Online Meeting Time 2.3 Hrs/Wk arr in addition to any scheduled hrs if applicable 4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable Seating Availability Capacity Taken Available 30 29 1 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77569",
-      "seating_detail": {
-        "capacity": 30,
-        "taken": 29,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:03:50.393354Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77569')"
     },
     {
       "crn": "77789",
@@ -9396,30 +8184,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77789')",
-      "description": null,
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
-      "transfers_to": "UC, CSUStudents in this introductory lecture/lab course for non-art majors explore multiple aspects of visual art, including the fundamental principles, techniques, history, and appreciation of various art forms, from traditional to contemporary. Through lectures, hands-on activities, and analysis of artworks, students gain a deeper understanding of the role of art in society, different cultures, and personal expression. Project and topics include drawing, painting, printmaking, design, and sculpture. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 18-AUG-2025 11:08:01 PM Title: ART 101 Introduction to Studio Arts CRN: 77789 Instructor: Margaret Griffith Instructor: Margaret Griffith UA Independent Study Daily Instructional Method Section Corequisites: NONE Bldg/Room: ASYNC Online Meeting Time 4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable 9 Hrs/Wk arr in addition to any scheduled hrs if applicable Seating Availability Capacity Taken Available 24 24 0 Critical Dates for this Course Term: Fall 2025 Last day to add class: 16-OCT-2025 Last day to drop with a refund: 16-OCT-2025 Last day to drop without a \"W\": 27-OCT-2025 Last day to drop with a \"W\": 20-NOV-2025 Pass/No Pass Petition Deadline Date: 05-DEC-2025 Census Date: 21-OCT-2025 [ Close Window ] Rio Hondo College 8.1",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "16-OCT-2025",
-        "Last day to drop with a refund": "16-OCT-2025",
-        "Last day to drop without a \"W\"": "27-OCT-2025",
-        "Last day to drop with a \"W\"": "20-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
-        "Census Date": "21-OCT-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77789",
-      "seating_detail": {
-        "capacity": 24,
-        "taken": 24,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:03:54.509297Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77789')"
     },
     {
       "crn": "74073",
@@ -9451,28 +8217,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74073')",
-      "description": "This course provides a study of the indigenous arts of Mexico, Andean South America, and Central America produced by civilizations including the Olmec, Maya, Aztec, Inca, Moche, Chavin de Huantar, and Nazca. The art of representative native tribes of the territory now encompassed by the United States and Canada is comparatively examined. Works of art and architecture are presented in relation to the various religious beliefs, political/ economic systems, and cultural practices of the ancient Americas. Art historical and archaeological methodologies relating to the understanding and interpretation of non-Western art are discussed. This course is appropriate for students pursuing a degree in art or art history and/or students with an interest in American studies and Latin American studies.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74073",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 31,
-        "available": 14
-      },
-      "detail_fetched_at": "2025-08-19T06:03:58.665460Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74073')"
     },
     {
       "crn": "70340",
@@ -9504,28 +8249,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70340')",
-      "description": "This course presents a broad overview of prehistoric, Mesopotamian, Egyptian, Greek, Etruscan, Roman, early Christian, Islamic, and Medieval art and architecture. The course is appropriate for students pursuing a degree in Studio Art or Art History, or seeking to fulfill General Education requirements in Fine Arts and Humanities.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC (*Credit limit) CSU (*Students will receive credit for only one of the following courses: ART 105 or ART 105H)",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70340",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 45,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:04:02.789932Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70340')"
     },
     {
       "crn": "70341",
@@ -9557,28 +8281,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70341')",
-      "description": "This course presents a broad overview of prehistoric, Mesopotamian, Egyptian, Greek, Etruscan, Roman, early Christian, Islamic, and Medieval art and architecture. The course is appropriate for students pursuing a degree in Studio Art or Art History, or seeking to fulfill General Education requirements in Fine Arts and Humanities.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC (*Credit limit) CSU (*Students will receive credit for only one of the following courses: ART 105 or ART 105H)",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70341",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 44,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:04:06.913340Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70341')"
     },
     {
       "crn": "70363",
@@ -9610,28 +8313,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70363')",
-      "description": "This course provides an overview of the history of Western art from the 14th century through the Modern Era, including Renaissance, Baroque, Rococo, Neoclassicism, Romanticism, Realism, Early Photography, Impressionism, Post Impressionism, Modernism, Postmodernism, and major art developments of the 20th and 21st centuries. The course is appropriate for all students pursuing the degree in Studio Art or Art History, or seeking to fulfill general education requirements in Fine Arts and Humanities.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC (*Credit limit) CSU (*Students will receive credit for only one of the following courses: ART 106 or ART 106H)",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70363",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 37,
-        "available": 8
-      },
-      "detail_fetched_at": "2025-08-19T06:04:11.040545Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70363')"
     },
     {
       "crn": "75603",
@@ -9663,28 +8345,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75603')",
-      "description": "This course provides an overview of the history of Western art from the 14th century through the Modern Era, including Renaissance, Baroque, Rococo, Neoclassicism, Romanticism, Realism, Early Photography, Impressionism, Post Impressionism, Modernism, Postmodernism, and major art developments of the 20th and 21st centuries. The course is appropriate for all students pursuing the degree in Studio Art or Art History, or seeking to fulfill general education requirements in Fine Arts and Humanities.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC (*Credit limit) CSU (*Students will receive credit for only one of the following courses: ART 106 or ART 106H)",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75603",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 35,
-        "available": 10
-      },
-      "detail_fetched_at": "2025-08-19T06:04:15.172575Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75603')"
     },
     {
       "crn": "70369",
@@ -9715,29 +8376,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70369')",
-      "description": "This course is a survey of the art and architecture of Mexico, including PreColumbian, Viceregal (Colonial) and Modern (i.e., art and architecture of the 19th and 20th centuries). Chicano/a/x art will also be examined in relation to its Mexican antecedents. This course is appropriate for all students interested in art and culture and for those seeking to fulfill General Education requirements in Fine Arts and Humanities, as well as all Studio Art and Art History majors.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70369",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 42,
-        "available": 3
-      },
-      "detail_fetched_at": "2025-08-19T06:04:19.301027Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70369')"
     },
     {
       "crn": "74322",
@@ -9768,29 +8408,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74322')",
-      "description": "This course is a survey of the art and architecture of Mexico, including PreColumbian, Viceregal (Colonial) and Modern (i.e., art and architecture of the 19th and 20th centuries). Chicano/a/x art will also be examined in relation to its Mexican antecedents. This course is appropriate for all students interested in art and culture and for those seeking to fulfill General Education requirements in Fine Arts and Humanities, as well as all Studio Art and Art History majors.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74322",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 44,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:04:23.421333Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74322')"
     },
     {
       "crn": "75222",
@@ -9822,28 +8441,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75222')",
-      "description": "This course is a survey of the art and architecture of Mexico, including PreColumbian, Viceregal (Colonial) and Modern (i.e., art and architecture of the 19th and 20th centuries). Chicano/a/x art will also be examined in relation to its Mexican antecedents. This course is appropriate for all students interested in art and culture and for those seeking to fulfill General Education requirements in Fine Arts and Humanities, as well as all Studio Art and Art History majors.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75222",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 45,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:04:27.549781Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75222')"
     },
     {
       "crn": "77822",
@@ -9874,29 +8472,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77822')",
-      "description": "This course is a survey of the art and architecture of Mexico, including PreColumbian, Viceregal (Colonial) and Modern (i.e., art and architecture of the 19th and 20th centuries). Chicano/a/x art will also be examined in relation to its Mexican antecedents. This course is appropriate for all students interested in art and culture and for those seeking to fulfill General Education requirements in Fine Arts and Humanities, as well as all Studio Art and Art History majors.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77822",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 44,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:04:31.670785Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77822')"
     },
     {
       "crn": "70371",
@@ -9927,29 +8504,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70371')",
-      "description": "This lecture course is an introduction to the study of visual art: its vocabulary and forms, the many roles it plays in society, and the variety of processes artists master in its making. Students gain insight into current approaches used to interpret and derive meaning from art, and explore questions about the ways in which value is assigned to the art object. Using examples from cultures around the world and across time, this course offers a broad overview to students interested in art and culture, and to those seeking to fulfill general education requirements in Arts.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70371",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 45,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:04:35.798029Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70371')"
     },
     {
       "crn": "77712",
@@ -9981,28 +8537,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77712')",
-      "description": "This lecture course is an introduction to the study of visual art: its vocabulary and forms, the many roles it plays in society, and the variety of processes artists master in its making. Students gain insight into current approaches used to interpret and derive meaning from art, and explore questions about the ways in which value is assigned to the art object. Using examples from cultures around the world and across time, this course offers a broad overview to students interested in art and culture, and to those seeking to fulfill general education requirements in Arts.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77712",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 42,
-        "available": 3
-      },
-      "detail_fetched_at": "2025-08-19T06:04:39.934089Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77712')"
     },
     {
       "crn": "75604",
@@ -10034,28 +8569,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75604')",
-      "description": "This course is a survey of developments in art and architecture from the early 19th through the 20th century, and into the 21st. From Neoclassicism and Romanticism through Postmodernism and contemporary art, visual art movements are discussed in relation to stylistic trends, philosophical influences, innovations in technology, and other historical and social contexts. The roles played by the artist, critic, and consumer in shaping these movements are examined, as well as visual art\u2019s impact upon society in the Modern era. This course is appropriate for all students pursuing the degree in Art History and/or seeking to fulfill general education requirements in Arts.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75604",
-      "seating_detail": {
-        "capacity": 45,
-        "taken": 20,
-        "available": 25
-      },
-      "detail_fetched_at": "2025-08-19T06:04:44.073541Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75604')"
     },
     {
       "crn": "75060",
@@ -10087,28 +8601,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75060')",
-      "description": "This introductory course explores film as an art form\u2014its basic components and its relation to the styles and movements of other visual arts forms. An understanding of cinematic language is emphasized by focusing upon film's manipulation of time and space and its use of visual metaphors, montages, and explicit/implicit messages. The collaborative nature of filmmaking is studied by examining the role of cinematography, lighting, film editing, visual effects, art direction, and the use of sound and music to enhance the script and create style. Through discussion and written assignments, students develop the ability to analyze the impact of films viewed both in and out of class. This course is appropriate for any student interested in film, art, media studies, or culture.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75060",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 34,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:04:48.203255Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75060')"
     },
     {
       "crn": "77126",
@@ -10139,29 +8632,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77126')",
-      "description": "This introductory course explores film as an art form\u2014its basic components and its relation to the styles and movements of other visual arts forms. An understanding of cinematic language is emphasized by focusing upon film's manipulation of time and space and its use of visual metaphors, montages, and explicit/implicit messages. The collaborative nature of filmmaking is studied by examining the role of cinematography, lighting, film editing, visual effects, art direction, and the use of sound and music to enhance the script and create style. Through discussion and written assignments, students develop the ability to analyze the impact of films viewed both in and out of class. This course is appropriate for any student interested in film, art, media studies, or culture.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77126",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 34,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:04:52.327245Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77126')"
     },
     {
       "crn": "77535",
@@ -10192,29 +8664,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77535')",
-      "description": "This introductory course explores film as an art form\u2014its basic components and its relation to the styles and movements of other visual arts forms. An understanding of cinematic language is emphasized by focusing upon film's manipulation of time and space and its use of visual metaphors, montages, and explicit/implicit messages. The collaborative nature of filmmaking is studied by examining the role of cinematography, lighting, film editing, visual effects, art direction, and the use of sound and music to enhance the script and create style. Through discussion and written assignments, students develop the ability to analyze the impact of films viewed both in and out of class. This course is appropriate for any student interested in film, art, media studies, or culture.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77535",
-      "seating_detail": {
-        "capacity": 35,
-        "taken": 35,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:04:56.445342Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77535')"
     },
     {
       "crn": "70375",
@@ -10246,28 +8697,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70375')",
-      "description": "This introductory course is open to all students interested in learning basic design principles as they apply to two-dimensional media. Through lectures, written assignments, and studio projects using materials such as ink, paper collage, and paint, students learn how to orchestrate the fundamental elements of two-dimensional images like line, shape, texture, value, and space. In addition to developing a visual vocabulary for personal creative expression, students explore design concepts as they relate to effective visual communication across art, design, and culture.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70375",
-      "seating_detail": {
-        "capacity": 26,
-        "taken": 22,
-        "available": 4
-      },
-      "detail_fetched_at": "2025-08-19T06:05:00.564404Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70375')"
     },
     {
       "crn": "70376",
@@ -10299,28 +8729,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70376')",
-      "description": "This introductory course is open to all students interested in learning basic design principles as they apply to two-dimensional media. Through lectures, written assignments, and studio projects using materials such as ink, paper collage, and paint, students learn how to orchestrate the fundamental elements of two-dimensional images like line, shape, texture, value, and space. In addition to developing a visual vocabulary for personal creative expression, students explore design concepts as they relate to effective visual communication across art, design, and culture.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70376",
-      "seating_detail": {
-        "capacity": 26,
-        "taken": 19,
-        "available": 7
-      },
-      "detail_fetched_at": "2025-08-19T06:05:04.690640Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70376')"
     },
     {
       "crn": "75098",
@@ -10352,28 +8761,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75098')",
-      "description": "This introductory course is open to all students interested in learning basic design principles as they apply to two-dimensional media. Through lectures, written assignments, and studio projects using materials such as ink, paper collage, and paint, students learn how to orchestrate the fundamental elements of two-dimensional images like line, shape, texture, value, and space. In addition to developing a visual vocabulary for personal creative expression, students explore design concepts as they relate to effective visual communication across art, design, and culture.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75098",
-      "seating_detail": {
-        "capacity": 26,
-        "taken": 23,
-        "available": 3
-      },
-      "detail_fetched_at": "2025-08-19T06:05:08.816329Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75098')"
     },
     {
       "crn": "77935",
@@ -10404,29 +8792,8 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": "2.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77935')",
-      "description": "This introductory course is open to all students interested in learning basic design principles as they apply to two-dimensional media. Through lectures, written assignments, and studio projects using materials such as ink, paper collage, and paint, students learn how to orchestrate the fundamental elements of two-dimensional images like line, shape, texture, value, and space. In addition to developing a visual vocabulary for personal creative expression, students explore design concepts as they relate to effective visual communication across art, design, and culture.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77935",
-      "seating_detail": {
-        "capacity": 26,
-        "taken": 26,
-        "available": 0
-      },
-      "detail_fetched_at": "2025-08-19T06:05:12.943331Z"
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77935')"
     },
     {
       "crn": "77425",
@@ -10458,28 +8825,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77425')",
-      "description": "This introductory course is open to all students interested in the fundamentals of visual thinking as they apply to all three-dimensional media. The course provides an introduction to the concepts, applications, and art historical contexts related to three-dimensional art, and includes the basic elements and principles of three-dimensional design. Students explore topics such as planes, volume, and texture through the creative use of different materials like foam board, wire, or wood.",
-      "prerequisites": null,
-      "advisory": "ART 120",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77425",
-      "seating_detail": {
-        "capacity": 26,
-        "taken": 20,
-        "available": 6
-      },
-      "detail_fetched_at": "2025-08-19T06:05:17.070256Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77425')"
     },
     {
       "crn": "70469",
@@ -10511,28 +8857,7 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70469')",
-      "description": "This course for art and non-art majors interested in developing basic drawing skills is an introduction to observational drawing and composition. In the course, students develop the ability to perceive and define shape, contour, volume, space, and light using a variety of drawing media and subject matter. Emphasis is on clarity of observation and the ability to order and translate 3D form and space into 2D drawings.",
-      "prerequisites": null,
-      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
-      "transfers_to": "UC, CSU",
-      "former_course_number": null,
-      "critical_dates": {
-        "Last day to add class": "01-SEP-2025",
-        "Last day to drop with a refund": "01-SEP-2025",
-        "Last day to drop without a \"W\"": "12-SEP-2025",
-        "Last day to drop with a \"W\"": "07-NOV-2025",
-        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
-      },
-      "instructional_method": null,
-      "section_corequisites": null,
-      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70469",
-      "seating_detail": {
-        "capacity": 22,
-        "taken": 21,
-        "available": 1
-      },
-      "detail_fetched_at": "2025-08-19T06:05:21.201415Z"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70469')"
     },
     {
       "crn": "70496",
@@ -57107,11 +55432,11 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-19T06:05:21.210933+00:00Z",
-    "courses_with_details": 197,
+    "detail_collection_timestamp": "2025-08-19T05:53:15.119833+00:00Z",
+    "courses_with_details": 118,
     "detail_collection_errors": null,
-    "detail_rate_limit": 4.0,
-    "courses_processed_this_run": 79
+    "detail_rate_limit": 1.5,
+    "courses_processed_this_run": 13
   },
   "total_courses": null,
   "departments": null
