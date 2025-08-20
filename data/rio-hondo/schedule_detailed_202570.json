@@ -10564,7 +10564,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70496')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70496')",
+      "description": "This course for art and non-art majors interested in developing basic drawing skills is an introduction to observational drawing and composition. In the course, students develop the ability to perceive and define shape, contour, volume, space, and light using a variety of drawing media and subject matter. Emphasis is on clarity of observation and the ability to order and translate 3D form and space into 2D drawings.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70496",
+      "seating_detail": {
+        "capacity": 22,
+        "taken": 17,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-20T03:41:17.280475Z"
     },
     {
       "crn": "70498",
@@ -10596,7 +10617,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70498')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70498')",
+      "description": "This course for art and non-art majors interested in developing basic drawing skills is an introduction to observational drawing and composition. In the course, students develop the ability to perceive and define shape, contour, volume, space, and light using a variety of drawing media and subject matter. Emphasis is on clarity of observation and the ability to order and translate 3D form and space into 2D drawings.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70498",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 25,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:41:18.866618Z"
     },
     {
       "crn": "72202",
@@ -10628,7 +10670,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72202')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72202')",
+      "description": "This course for art and non-art majors interested in developing basic drawing skills is an introduction to observational drawing and composition. In the course, students develop the ability to perceive and define shape, contour, volume, space, and light using a variety of drawing media and subject matter. Emphasis is on clarity of observation and the ability to order and translate 3D form and space into 2D drawings.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72202",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 28,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-20T03:41:20.451771Z"
     },
     {
       "crn": "70500",
@@ -10660,7 +10723,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70500')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70500')",
+      "description": "This is a second-level course for all students in observational drawing and composition, stressing an advanced ability to perceive and define shape, contour, volume, space, and light. Students use a variety of drawing media and subject matter. Emphasis is placed on strengthening skills introduced in ART 130 (Freehand Drawing I), the exploration of color in drawing, and concepts related to content.",
+      "prerequisites": "ART 130",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70500",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 4,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-20T03:41:22.044478Z"
     },
     {
       "crn": "70502",
@@ -10692,7 +10776,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70502')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70502')",
+      "description": "This is a second-level course for all students in observational drawing and composition, stressing an advanced ability to perceive and define shape, contour, volume, space, and light. Students use a variety of drawing media and subject matter. Emphasis is placed on strengthening skills introduced in ART 130 (Freehand Drawing I), the exploration of color in drawing, and concepts related to content.",
+      "prerequisites": "ART 130",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70502",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 4,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-20T03:41:23.633402Z"
     },
     {
       "crn": "76619",
@@ -10724,7 +10829,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76619')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76619')",
+      "description": "This is a second-level course for all students in observational drawing and composition, stressing an advanced ability to perceive and define shape, contour, volume, space, and light. Students use a variety of drawing media and subject matter. Emphasis is placed on strengthening skills introduced in ART 130 (Freehand Drawing I), the exploration of color in drawing, and concepts related to content.",
+      "prerequisites": "ART 130",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76619",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 5,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:41:25.215602Z"
     },
     {
       "crn": "70572",
@@ -10756,7 +10882,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70572')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70572')",
+      "description": "This is an introductory course for all students interested in developing basic painting skills. The course explores both traditional and contemporary painting techniques while stressing an ability to perceive and define shape, contour, volume, texture, space, and light using acrylic or oil painting media. Emphasis is placed on learning the techniques of painting, understanding the use of color, and strengthening observation and rendering skills while providing an understanding of the historical and cultural development of painting in human expression and creativity. Students are advised to have some drawing skills before taking this course.",
+      "prerequisites": null,
+      "advisory": "ART 130",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70572",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 19,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-20T03:41:26.804843Z"
     },
     {
       "crn": "70573",
@@ -10788,7 +10935,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70573')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70573')",
+      "description": "This is an introductory course for all students interested in developing basic painting skills. The course explores both traditional and contemporary painting techniques while stressing an ability to perceive and define shape, contour, volume, texture, space, and light using acrylic or oil painting media. Emphasis is placed on learning the techniques of painting, understanding the use of color, and strengthening observation and rendering skills while providing an understanding of the historical and cultural development of painting in human expression and creativity. Students are advised to have some drawing skills before taking this course.",
+      "prerequisites": null,
+      "advisory": "ART 130",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70573",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 24,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-20T03:41:28.392531Z"
     },
     {
       "crn": "70574",
@@ -10820,7 +10988,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70574')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70574')",
+      "description": "This is an introductory course for all students interested in developing basic painting skills. The course explores both traditional and contemporary painting techniques while stressing an ability to perceive and define shape, contour, volume, texture, space, and light using acrylic or oil painting media. Emphasis is placed on learning the techniques of painting, understanding the use of color, and strengthening observation and rendering skills while providing an understanding of the historical and cultural development of painting in human expression and creativity. Students are advised to have some drawing skills before taking this course.",
+      "prerequisites": null,
+      "advisory": "ART 130",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70574",
+      "seating_detail": {
+        "capacity": 16,
+        "taken": 16,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:41:29.978917Z"
     },
     {
       "crn": "70587",
@@ -10852,7 +11041,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70587')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70587')",
+      "description": "This is an intermediate course for all students interested in further developing painting skills and techniques and understanding the use of color and space while strengthening observation and rendering skills. The course explores both traditional and contemporary painting concepts, styles, and techniques that involve complex compositional as well as technical problems in either acrylic or oil painting media.",
+      "prerequisites": "ART 130; ART 135",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70587",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 3,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-20T03:41:31.575217Z"
     },
     {
       "crn": "72319",
@@ -10884,7 +11094,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72319')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72319')",
+      "description": "This is an intermediate course for all students interested in further developing painting skills and techniques and understanding the use of color and space while strengthening observation and rendering skills. The course explores both traditional and contemporary painting concepts, styles, and techniques that involve complex compositional as well as technical problems in either acrylic or oil painting media.",
+      "prerequisites": "ART 130; ART 135",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72319",
+      "seating_detail": {
+        "capacity": 4,
+        "taken": 1,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-20T03:41:33.163625Z"
     },
     {
       "crn": "70662",
@@ -10916,7 +11147,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70662')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70662')",
+      "description": "This introductory course is open to all Art and non-art majors interested in learning basic skills in ceramics using the potter\u2019s wheel. Students develop a visual vocabulary for creative expression through lectures, vocabulary lists and video presentations. The course covers beginning problems of centering, throwing, and shaping various functional and non-functional pottery. Students are introduced to the process of glazing and basic firing techniques. This course emphasizes exploring personal and cultural expression in the ceramic media.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70662",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 24,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-20T03:41:34.749909Z"
     },
     {
       "crn": "70672",
@@ -10948,7 +11200,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70672')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70672')",
+      "description": "This introductory course is open to all Art and non-art majors interested in learning basic skills in ceramics using the potter\u2019s wheel. Students develop a visual vocabulary for creative expression through lectures, vocabulary lists and video presentations. The course covers beginning problems of centering, throwing, and shaping various functional and non-functional pottery. Students are introduced to the process of glazing and basic firing techniques. This course emphasizes exploring personal and cultural expression in the ceramic media.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70672",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 15,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-20T03:41:36.337529Z"
     },
     {
       "crn": "70673",
@@ -10980,7 +11253,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70673')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70673')",
+      "description": "This introductory course is open to all Art and non-art majors interested in learning basic skills in ceramics using the potter\u2019s wheel. Students develop a visual vocabulary for creative expression through lectures, vocabulary lists and video presentations. The course covers beginning problems of centering, throwing, and shaping various functional and non-functional pottery. Students are introduced to the process of glazing and basic firing techniques. This course emphasizes exploring personal and cultural expression in the ceramic media.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70673",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 20,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:41:37.924776Z"
     },
     {
       "crn": "70674",
@@ -11012,7 +11306,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70674')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70674')",
+      "description": "This introductory course is open to all Art and non-art majors interested in learning basic skills in ceramics using the potter\u2019s wheel. Students develop a visual vocabulary for creative expression through lectures, vocabulary lists and video presentations. The course covers beginning problems of centering, throwing, and shaping various functional and non-functional pottery. Students are introduced to the process of glazing and basic firing techniques. This course emphasizes exploring personal and cultural expression in the ceramic media.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70674",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 16,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-20T03:41:39.511273Z"
     },
     {
       "crn": "71134",
@@ -11044,7 +11359,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71134')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71134')",
+      "description": "This introductory course is open to all Art and non-art majors interested in learning basic skills in ceramics using the potter\u2019s wheel. Students develop a visual vocabulary for creative expression through lectures, vocabulary lists and video presentations. The course covers beginning problems of centering, throwing, and shaping various functional and non-functional pottery. Students are introduced to the process of glazing and basic firing techniques. This course emphasizes exploring personal and cultural expression in the ceramic media.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71134",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 17,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-08-20T03:41:41.114003Z"
     },
     {
       "crn": "70676",
@@ -11076,7 +11412,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70676')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70676')",
+      "description": "This intermediate course in ceramics is open to all Art and non-art majors, with continued emphasis on basic skills using the potter\u2019s wheel. Intermediate problems on the wheel, basic decorative techniques, and more advanced use of glaze are covered. Also, students are introduced to ceramic kilns and how they are loaded and fired.",
+      "prerequisites": "ART 140",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70676",
+      "seating_detail": {
+        "capacity": 4,
+        "taken": 4,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:41:42.702537Z"
     },
     {
       "crn": "70677",
@@ -11108,7 +11465,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70677')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70677')",
+      "description": "This intermediate course in ceramics is open to all Art and non-art majors, with continued emphasis on basic skills using the potter\u2019s wheel. Intermediate problems on the wheel, basic decorative techniques, and more advanced use of glaze are covered. Also, students are introduced to ceramic kilns and how they are loaded and fired.",
+      "prerequisites": "ART 140",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70677",
+      "seating_detail": {
+        "capacity": 4,
+        "taken": 6,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-08-20T03:41:44.292326Z"
     },
     {
       "crn": "70678",
@@ -11140,7 +11518,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70678')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70678')",
+      "description": "This intermediate course in ceramics is open to all Art and non-art majors, with continued emphasis on basic skills using the potter\u2019s wheel. Intermediate problems on the wheel, basic decorative techniques, and more advanced use of glaze are covered. Also, students are introduced to ceramic kilns and how they are loaded and fired.",
+      "prerequisites": "ART 140",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70678",
+      "seating_detail": {
+        "capacity": 4,
+        "taken": 2,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-20T03:41:45.873588Z"
     },
     {
       "crn": "74342",
@@ -11172,7 +11571,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74342')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74342')",
+      "description": "This intermediate course in ceramics is open to all Art and non-art majors, with continued emphasis on basic skills using the potter\u2019s wheel. Intermediate problems on the wheel, basic decorative techniques, and more advanced use of glaze are covered. Also, students are introduced to ceramic kilns and how they are loaded and fired.",
+      "prerequisites": "ART 140",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74342",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 3,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-08-20T03:41:47.456598Z"
     },
     {
       "crn": "77429",
@@ -11204,7 +11624,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77429')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77429')",
+      "description": "This intermediate course in ceramics is open to all Art and non-art majors, with continued emphasis on basic skills using the potter\u2019s wheel. Intermediate problems on the wheel, basic decorative techniques, and more advanced use of glaze are covered. Also, students are introduced to ceramic kilns and how they are loaded and fired.",
+      "prerequisites": "ART 140",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77429",
+      "seating_detail": {
+        "capacity": 4,
+        "taken": 3,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-20T03:41:49.037674Z"
     },
     {
       "crn": "70681",
@@ -11236,7 +11677,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70681')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70681')",
+      "description": "This course introduces students to the concepts, techniques, history, and contemporary practices of handbuilding in the ceramic arts. The course is designed for students interested in the fundamentals of clay construction using handbuilding techniques.",
+      "prerequisites": null,
+      "advisory": "ENGL 101; It is advised that students be able to read college-level texts.",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70681",
+      "seating_detail": {
+        "capacity": 18,
+        "taken": 11,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-08-20T03:41:50.637620Z"
     },
     {
       "crn": "76995",
@@ -11268,7 +11730,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76995')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76995')",
+      "description": "This intermediate course in ceramics is open to all Art and non-art majors, with continued emphasis on basic skills in hand building. Emphasis in placed on exploring hand-built forms in vessels and ceramic sculpture. Students solve visual and conceptual problems dealing with art and principles of design, and learn about shape, color, form, texture, and space.",
+      "prerequisites": "ART 142",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76995",
+      "seating_detail": {
+        "capacity": 7,
+        "taken": 4,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-20T03:41:52.226787Z"
     },
     {
       "crn": "77344",
@@ -11300,7 +11783,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77344')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77344')",
+      "description": "This advanced course in ceramics is open to all art and non-art majors, with continued emphasis on skills and ceramic art theory. The course allows students to consider complex problems of ceramic art as they work with the ceramic medium in conjunction with other materials (e.g., wood, metal, and glass), explore clay surface design, and develop a handbuilt body of ceramic work.",
+      "prerequisites": "ART 141",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77344",
+      "seating_detail": {
+        "capacity": 1,
+        "taken": 1,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:41:53.819323Z"
     },
     {
       "crn": "77729",
@@ -11332,7 +11836,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77729')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77729')",
+      "description": "This course is suited for art majors transferring to a four-year college, or any student interested in working in the arts. The course provides an introduction to three-dimensional sculptural principles, techniques, and concepts utilizing a wide range of materials and practices. Various sculpture methods are practiced with attention to creative self-expression and historical context.",
+      "prerequisites": "ART 121",
+      "advisory": "ART 130",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77729",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 6,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-08-20T03:41:55.409457Z"
     },
     {
       "crn": "70762",
@@ -11364,7 +11889,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70762')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70762')",
+      "description": "This course is intended for art, animation, and non-art majors who have satisfied the drawing course prerequisite and are interested in developing the basic drawing skills of representing the human figure. As the course is an introduction to observational figure drawing and composition, students develop the ability to identify and render the surface anatomy and structural organization of the human form through the creative use of drawing media, such as charcoal and ink.",
+      "prerequisites": "ART 130",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70762",
+      "seating_detail": {
+        "capacity": 15,
+        "taken": 15,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:41:56.994828Z"
     },
     {
       "crn": "70763",
@@ -11396,7 +11942,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70763')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70763')",
+      "description": "This intermediate course is intended for all students interested in furthering their figure drawing skills. Students build upon skills learned in the beginning prerequisite course, develop an intermediate ability to render the human form, study human anatomy in greater detail, and extend their knowledge regarding the use of the figure in visual art. Emphasis is placed on observational specificity and the ability to articulate form and space on a two-dimensional surface.",
+      "prerequisites": "ART 230",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70763",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 5,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:41:58.583946Z"
     },
     {
       "crn": "74078",
@@ -11428,7 +11995,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74078')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74078')",
+      "description": "This is advanced course is intended for all students interested in furthering their figure drawing skills. Students refine skills learned in the prerequisite beginning and intermediate courses, develop advanced drawing skills, study the human anatomy in greater detail, and extend their understanding of the expressive and conceptual dimensions of depicting the human figure in visual art.",
+      "prerequisites": "ART 231 or ART 260 (formerly ANIM 260)",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74078",
+      "seating_detail": {
+        "capacity": 2,
+        "taken": 2,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:42:00.185814Z"
     },
     {
       "crn": "70509",
@@ -11460,7 +12048,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70509')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70509')",
+      "description": "This advanced-level course is for all students interested in drawing and composition. Advanced observational skills and conceptual development are explored through a range of subject matter, technical refinement, and thematic development. Particular emphasis is placed on examining individual creative interpretation, process, and intent in order to deepen each student\u2019s studio practice and exploration.",
+      "prerequisites": "ART 131",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70509",
+      "seating_detail": {
+        "capacity": 3,
+        "taken": 2,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-20T03:42:01.775299Z"
     },
     {
       "crn": "77050",
@@ -11492,7 +12101,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77050')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77050')",
+      "description": "This advanced-level course is for all students interested in drawing and composition. Advanced observational skills and conceptual development are explored through a range of subject matter, technical refinement, and thematic development. Particular emphasis is placed on examining individual creative interpretation, process, and intent in order to deepen each student\u2019s studio practice and exploration.",
+      "prerequisites": "ART 131",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77050",
+      "seating_detail": {
+        "capacity": 3,
+        "taken": 1,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-20T03:42:03.368206Z"
     },
     {
       "crn": "72759",
@@ -11524,7 +12154,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72759')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72759')",
+      "description": "This entry-level course is for any student interested in watercolor painting. Students are introduced to various transparent watercolor techniques including wash and glazing. Applications of drawing, beginning painting, and design fundamentals related to these techniques are included, as is the communicative element of content.",
+      "prerequisites": "ART 130",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72759",
+      "seating_detail": {
+        "capacity": 4,
+        "taken": 2,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-20T03:42:04.958573Z"
     },
     {
       "crn": "70651",
@@ -11556,7 +12207,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70651')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70651')",
+      "description": "This is an advanced course in painting for any student interested in painting. The course constitutes a study of advanced painting problems, stressing experimentation with traditional and contemporary methods of painting, composition, and expression. Class and individual projects using the figure, still life, landscape, abstraction, shaped format, altered scale, and material exploitation are stressed.",
+      "prerequisites": "ART 136",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70651",
+      "seating_detail": {
+        "capacity": 1,
+        "taken": 1,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:42:06.548487Z"
     },
     {
       "crn": "74083",
@@ -11588,7 +12260,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74083')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74083')",
+      "description": "This is an advanced course in painting for any student interested in painting. The course constitutes a study of advanced painting problems, stressing experimentation with traditional and contemporary methods of painting, composition, and expression. Class and individual projects using the figure, still life, landscape, abstraction, shaped format, altered scale, and material exploitation are stressed.",
+      "prerequisites": "ART 136",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74083",
+      "seating_detail": {
+        "capacity": 2,
+        "taken": 0,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-20T03:42:08.139450Z"
     },
     {
       "crn": "73252",
@@ -11620,7 +12313,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73252')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73252')",
+      "description": "This course is an advanced, fourth-level painting course for all students interested in painting. The course explores traditional and contemporary methods of painting using the figure, still life, landscape, abstraction, and non-objective imagery, with an emphasis on continuing skill development and problem-solving in interpretation, expression, and conceptual issues in painting. ART 235 (Advanced Painting I) is a prerequisite to enrolling in this course.",
+      "prerequisites": "ART 235",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73252",
+      "seating_detail": {
+        "capacity": 1,
+        "taken": 0,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-20T03:42:09.731003Z"
     },
     {
       "crn": "74082",
@@ -11652,7 +12366,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74082')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74082')",
+      "description": "This course is an advanced, fourth-level painting course for all students interested in painting. The course explores traditional and contemporary methods of painting using the figure, still life, landscape, abstraction, and non-objective imagery, with an emphasis on continuing skill development and problem-solving in interpretation, expression, and conceptual issues in painting. ART 235 (Advanced Painting I) is a prerequisite to enrolling in this course.",
+      "prerequisites": "ART 235",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74082",
+      "seating_detail": {
+        "capacity": 2,
+        "taken": 0,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-20T03:42:11.319048Z"
     },
     {
       "crn": "72912",
@@ -11684,7 +12419,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72912')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72912')",
+      "description": "This advanced course in ceramics is open to all art and non-art majors. The course places a special emphasis on personal growth and aesthetics as well as increased proficiency on the potter\u2019s wheel. Students explore the concepts of management and expressive exploration of the unique characteristics of fired ceramics\u2014both the opportunities and constraints\u2014presented in the processing of clay from a soft, plastic, fragile, impermanent substance into a hard, rigid, and completely metamorphosed material after drying and firing.",
+      "prerequisites": "ART 141",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72912",
+      "seating_detail": {
+        "capacity": 3,
+        "taken": 3,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:42:12.917832Z"
     },
     {
       "crn": "74339",
@@ -11716,7 +12472,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74339')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74339')",
+      "description": "This advanced course in ceramics is open to all art and non-art majors. The course places a special emphasis on personal growth and aesthetics as well as increased proficiency on the potter\u2019s wheel. Students explore the concepts of management and expressive exploration of the unique characteristics of fired ceramics\u2014both the opportunities and constraints\u2014presented in the processing of clay from a soft, plastic, fragile, impermanent substance into a hard, rigid, and completely metamorphosed material after drying and firing.",
+      "prerequisites": "ART 141",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74339",
+      "seating_detail": {
+        "capacity": 2,
+        "taken": 2,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:42:14.504102Z"
     },
     {
       "crn": "74340",
@@ -11748,7 +12525,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74340')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74340')",
+      "description": "This advanced course in ceramics is open to all art and non-art majors. The course places a special emphasis on personal growth and aesthetics as well as increased proficiency on the potter\u2019s wheel. Students explore the concepts of management and expressive exploration of the unique characteristics of fired ceramics\u2014both the opportunities and constraints\u2014presented in the processing of clay from a soft, plastic, fragile, impermanent substance into a hard, rigid, and completely metamorphosed material after drying and firing.",
+      "prerequisites": "ART 141",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74340",
+      "seating_detail": {
+        "capacity": 2,
+        "taken": 2,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:42:16.085575Z"
     },
     {
       "crn": "74343",
@@ -11780,7 +12578,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74343')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74343')",
+      "description": "This advanced course in ceramics is open to all art and non-art majors. The course places a special emphasis on personal growth and aesthetics as well as increased proficiency on the potter\u2019s wheel. Students explore the concepts of management and expressive exploration of the unique characteristics of fired ceramics\u2014both the opportunities and constraints\u2014presented in the processing of clay from a soft, plastic, fragile, impermanent substance into a hard, rigid, and completely metamorphosed material after drying and firing.",
+      "prerequisites": "ART 141",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74343",
+      "seating_detail": {
+        "capacity": 2,
+        "taken": 1,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-20T03:42:17.673876Z"
     },
     {
       "crn": "77099",
@@ -11812,7 +12631,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77099')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77099')",
+      "description": "This advanced course in ceramics is open to all art and non-art majors. The course places a special emphasis on personal growth and aesthetics as well as increased proficiency on the potter\u2019s wheel. Students explore the concepts of management and expressive exploration of the unique characteristics of fired ceramics\u2014both the opportunities and constraints\u2014presented in the processing of clay from a soft, plastic, fragile, impermanent substance into a hard, rigid, and completely metamorphosed material after drying and firing.",
+      "prerequisites": "ART 141",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77099",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 3,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-08-20T03:42:19.257401Z"
     },
     {
       "crn": "76422",
@@ -11844,7 +12684,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76422')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76422')",
+      "description": "This intermediate level figure drawing course focuses on how to capture the essential movement, dynamic expression, and individual attitude of a human body through traditional drawing media. The course provides a deeper understanding of life drawing, building on skills learned in the prerequisite beginning course that serves as a foundation for further studies in animation and entertainment arts. In the course, students study human anatomy in greater detail while learning to draw the figure in sequential movement, and learn about weight and balance, facial and body expression, and figure invention. This course may be taken by art majors wishing to further life drawing skills and is recommended for all animation art majors.",
+      "prerequisites": "ART 230",
+      "advisory": null,
+      "transfers_to": "UC, CSUThis intermediate level figure drawing course focuses on how to capture the essential movement, dynamic expression, and individual attitude of a human body through traditional drawing media. The course provides a deeper understanding of life drawing, building on skills learned in the prerequisite beginning course that serves as a foundation for further studies in animation and entertainment arts. In the course, students study human anatomy in greater detail while learning to draw the figure in sequential movement, and learn about weight and balance, facial and body expression, and figure invention.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76422",
+      "seating_detail": {
+        "capacity": 4,
+        "taken": 4,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-20T03:42:20.842714Z"
     },
     {
       "crn": "76946",
@@ -11875,8 +12736,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76946')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76946')",
+      "description": "This course will provide an introduction to American Sign Language, emphasizing receptive and expressive skills. The use of facial expressions during signing will also be addressed. Students will be exposed to deaf culture experiences in the classroom and other environments. In addition to classroom discussion, students will receive intensive individualized practice in American Sign Language via interactive websites, video programs, and CD-ROMs. This course is designed for students who want to learn how to communicate with people who are deaf and hard of hearing.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76946",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 31,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-20T03:42:22.428226Z"
     },
     {
       "crn": "76947",
@@ -11907,8 +12790,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76947')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76947')",
+      "description": "This course will provide an introduction to American Sign Language, emphasizing receptive and expressive skills. The use of facial expressions during signing will also be addressed. Students will be exposed to deaf culture experiences in the classroom and other environments. In addition to classroom discussion, students will receive intensive individualized practice in American Sign Language via interactive websites, video programs, and CD-ROMs. This course is designed for students who want to learn how to communicate with people who are deaf and hard of hearing.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76947",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 31,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-20T03:42:24.018140Z"
     },
     {
       "crn": "76948",
@@ -11939,8 +12843,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76948')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76948')",
+      "description": "This course will provide an introduction to American Sign Language, emphasizing receptive and expressive skills. The use of facial expressions during signing will also be addressed. Students will be exposed to deaf culture experiences in the classroom and other environments. In addition to classroom discussion, students will receive intensive individualized practice in American Sign Language via interactive websites, video programs, and CD-ROMs. This course is designed for students who want to learn how to communicate with people who are deaf and hard of hearing.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76948",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 29,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-20T03:42:25.595759Z"
     },
     {
       "crn": "76983",
@@ -11971,8 +12896,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76983')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76983')",
+      "description": "This course will provide an introduction to American Sign Language, emphasizing receptive and expressive skills. The use of facial expressions during signing will also be addressed. Students will be exposed to deaf culture experiences in the classroom and other environments. In addition to classroom discussion, students will receive intensive individualized practice in American Sign Language via interactive websites, video programs, and CD-ROMs. This course is designed for students who want to learn how to communicate with people who are deaf and hard of hearing.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "02-SEP-2025",
+        "Last day to drop with a \"W\"": "25-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "09-OCT-2025",
+        "Census Date": "26-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76983",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 13,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-08-20T03:42:27.178278Z"
     },
     {
       "crn": "77006",
@@ -12003,8 +12950,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77006')"
+      "additional_hours": "9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77006')",
+      "description": "This course will provide an introduction to American Sign Language, emphasizing receptive and expressive skills. The use of facial expressions during signing will also be addressed. Students will be exposed to deaf culture experiences in the classroom and other environments. In addition to classroom discussion, students will receive intensive individualized practice in American Sign Language via interactive websites, video programs, and CD-ROMs. This course is designed for students who want to learn how to communicate with people who are deaf and hard of hearing.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77006",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 27,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-20T03:42:28.766515Z"
     },
     {
       "crn": "77128",
@@ -12035,8 +13004,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77128')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77128')",
+      "description": "This course will provide an introduction to American Sign Language, emphasizing receptive and expressive skills. The use of facial expressions during signing will also be addressed. Students will be exposed to deaf culture experiences in the classroom and other environments. In addition to classroom discussion, students will receive intensive individualized practice in American Sign Language via interactive websites, video programs, and CD-ROMs. This course is designed for students who want to learn how to communicate with people who are deaf and hard of hearing.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77128",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 11,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-08-20T03:42:30.348995Z"
     },
     {
       "crn": "77129",
@@ -12067,8 +13057,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77129')"
+      "additional_hours": "9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77129')",
+      "description": "This course will provide an introduction to American Sign Language, emphasizing receptive and expressive skills. The use of facial expressions during signing will also be addressed. Students will be exposed to deaf culture experiences in the classroom and other environments. In addition to classroom discussion, students will receive intensive individualized practice in American Sign Language via interactive websites, video programs, and CD-ROMs. This course is designed for students who want to learn how to communicate with people who are deaf and hard of hearing.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77129",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 25,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-08-20T03:42:31.932258Z"
     },
     {
       "crn": "77346",
@@ -12099,8 +13111,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77346')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77346')",
+      "description": "This course will provide an introduction to American Sign Language, emphasizing receptive and expressive skills. The use of facial expressions during signing will also be addressed. Students will be exposed to deaf culture experiences in the classroom and other environments. In addition to classroom discussion, students will receive intensive individualized practice in American Sign Language via interactive websites, video programs, and CD-ROMs. This course is designed for students who want to learn how to communicate with people who are deaf and hard of hearing.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77346",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 13,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-08-20T03:42:33.514756Z"
     },
     {
       "crn": "76954",
@@ -12131,8 +13164,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76954')"
+      "additional_hours": "9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76954')",
+      "description": "This course will provide a continuation to American Sign Language I (ASL 101), emphasizing receptive and expressive skills. The use of facial expressions during signing will also be addressed. Students will be exposed to deaf culture experiences in the classroom and other environments. In addition to classroom discussion, students will receive intensive individualized practice in the language laboratory via interactive websites, video programs, and CD-ROMs. This course is designed for students who want to learn how to communicate with people who are deaf and hard of hearing.",
+      "prerequisites": "ASL 101,(formerly ASL 149) or two years of high school ASL with a \"C\" or better or successfully pass an interview and comprehensive exam developed by the department demonstrating competency of the skills required in an ASL I course.",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76954",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 9,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-08-20T03:42:35.098117Z"
     },
     {
       "crn": "77911",
@@ -57107,11 +58162,11 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-19T06:05:21.210933+00:00Z",
-    "courses_with_details": 197,
+    "detail_collection_timestamp": "2025-08-20T03:42:35.186166+00:00Z",
+    "courses_with_details": 247,
     "detail_collection_errors": null,
-    "detail_rate_limit": 4.0,
-    "courses_processed_this_run": 79
+    "detail_rate_limit": 1.5,
+    "courses_processed_this_run": 50
   },
   "total_courses": null,
   "departments": null
