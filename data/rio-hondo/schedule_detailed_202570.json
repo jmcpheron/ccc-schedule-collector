@@ -13218,8 +13218,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77911')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77911')",
+      "description": "This course will provide a continuation to American Sign Language I (ASL 101), emphasizing receptive and expressive skills. The use of facial expressions during signing will also be addressed. Students will be exposed to deaf culture experiences in the classroom and other environments. In addition to classroom discussion, students will receive intensive individualized practice in the language laboratory via interactive websites, video programs, and CD-ROMs. This course is designed for students who want to learn how to communicate with people who are deaf and hard of hearing.",
+      "prerequisites": "ASL 101,(formerly ASL 149) or two years of high school ASL with a \"C\" or better or successfully pass an interview and comprehensive exam developed by the department demonstrating competency of the skills required in an ASL I course.",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "14-OCT-2025",
+        "Last day to drop with a refund": "14-OCT-2025",
+        "Last day to drop without a \"W\"": "23-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77911",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 6,
+        "available": 26
+      },
+      "detail_fetched_at": "2025-08-21T03:41:01.000750Z"
     },
     {
       "crn": "77016",
@@ -13250,8 +13272,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77016')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77016')",
+      "description": null,
+      "prerequisites": "ASL 102",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students survey basic theories, principles, and practices of interpreting/transliterating, including basic ethical considerations, a historical overview of the interpreting profession, and discuss the professional role of the interpreter. Students begin the development of interpreting/transliterating processing skills.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77016",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 11,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-08-21T03:41:02.632762Z"
     },
     {
       "crn": "77702",
@@ -13282,8 +13326,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77702')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77702')",
+      "description": null,
+      "prerequisites": "ASL 201, 211",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students will continue to learn theories, principles, and practices of interpreting/transliterating including more complex ethical considerations, a current overview of the interpreting profession, and discuss the professional role of the interpreter in today's workforce.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77702",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 1,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-08-21T03:41:04.268861Z"
     },
     {
       "crn": "77005",
@@ -13314,8 +13380,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77005')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77005')",
+      "description": "This course will serve as an introductory course in linguistics, with a special emphasis on American Sign Language (ASL). Students will learn basic linguistic concepts such as phonology, morphology, and syntax as they apply to all languages. Students will further their knowledge of linguistics as it relates specifically to ASL. No prior knowledge of linguistics is needed to take this course. Upon completion of this course students will be able to pursue careers related to Deaf education or ASL pedagogy. This course will be taught using a combination of ASL and spoken English and may or may not have interpreters facilitating the lectures depending on the instructor.",
+      "prerequisites": "ASL 102",
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77005",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 11,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-08-21T03:41:05.907400Z"
     },
     {
       "crn": "70467",
@@ -13347,7 +13434,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70467')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70467')",
+      "description": "This descriptive, nonmathematical course is designed for students who want to develop an appreciation of astronomy and a broad cosmic perspective. The emphasis of the course is on the current state of knowledge about our solar system, our galaxy, and the universe. Topics on the frontier of astronomical knowledge such as black holes and the search for extraterrestrial life are explored. This course is designed for students with an interest in astronomy or anyone who desires to expand their cosmic horizons.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU(*Students will receive credit from UC one of the following courses: ASTR 110 or ASTR 110H)This descriptive, nonmathematical course is designed for students who want to develop an appreciation of astronomy and a broad cosmic perspective. The emphasis of the course is on the current state of knowledge about our solar system, our galaxy, and the universe. Topics on the frontier of astronomical knowledge such as black holes and the search for extraterrestrial life are explored.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70467",
+      "seating_detail": {
+        "capacity": 72,
+        "taken": 22,
+        "available": 50
+      },
+      "detail_fetched_at": "2025-08-21T03:41:07.534923Z"
     },
     {
       "crn": "70470",
@@ -13379,7 +13487,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70470')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70470')",
+      "description": "This descriptive, nonmathematical course is designed for students who want to develop an appreciation of astronomy and a broad cosmic perspective. The emphasis of the course is on the current state of knowledge about our solar system, our galaxy, and the universe. Topics on the frontier of astronomical knowledge such as black holes and the search for extraterrestrial life are explored. This course is designed for students with an interest in astronomy or anyone who desires to expand their cosmic horizons.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU(*Students will receive credit from UC one of the following courses: ASTR 110 or ASTR 110H)This descriptive, nonmathematical course is designed for students who want to develop an appreciation of astronomy and a broad cosmic perspective. The emphasis of the course is on the current state of knowledge about our solar system, our galaxy, and the universe. Topics on the frontier of astronomical knowledge such as black holes and the search for extraterrestrial life are explored.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70470",
+      "seating_detail": {
+        "capacity": 72,
+        "taken": 64,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-08-21T03:41:09.171114Z"
     },
     {
       "crn": "74191",
@@ -13411,7 +13540,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74191')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74191')",
+      "description": "This descriptive, nonmathematical course is designed for students who want to develop an appreciation of astronomy and a broad cosmic perspective. The emphasis of the course is on the current state of knowledge about our solar system, our galaxy, and the universe. Topics on the frontier of astronomical knowledge such as black holes and the search for extraterrestrial life are explored. This course is designed for students with an interest in astronomy or anyone who desires to expand their cosmic horizons.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU(*Students will receive credit from UC one of the following courses: ASTR 110 or ASTR 110H)This descriptive, nonmathematical course is designed for students who want to develop an appreciation of astronomy and a broad cosmic perspective. The emphasis of the course is on the current state of knowledge about our solar system, our galaxy, and the universe. Topics on the frontier of astronomical knowledge such as black holes and the search for extraterrestrial life are explored.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74191",
+      "seating_detail": {
+        "capacity": 62,
+        "taken": 38,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-08-21T03:41:10.800738Z"
     },
     {
       "crn": "74192",
@@ -13442,8 +13592,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74192')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74192')",
+      "description": "This descriptive, nonmathematical course is designed for students who want to develop an appreciation of astronomy and a broad cosmic perspective. The emphasis of the course is on the current state of knowledge about our solar system, our galaxy, and the universe. Topics on the frontier of astronomical knowledge such as black holes and the search for extraterrestrial life are explored. This course is designed for students with an interest in astronomy or anyone who desires to expand their cosmic horizons.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU(*Students will receive credit from UC one of the following courses: ASTR 110 or ASTR 110H)This descriptive, nonmathematical course is designed for students who want to develop an appreciation of astronomy and a broad cosmic perspective. The emphasis of the course is on the current state of knowledge about our solar system, our galaxy, and the universe. Topics on the frontier of astronomical knowledge such as black holes and the search for extraterrestrial life are explored.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74192",
+      "seating_detail": {
+        "capacity": 72,
+        "taken": 66,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-21T03:41:12.424521Z"
     },
     {
       "crn": "77917",
@@ -13474,8 +13645,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77917')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77917')",
+      "description": "This descriptive, nonmathematical course is designed for students who want to develop an appreciation of astronomy and a broad cosmic perspective. The emphasis of the course is on the current state of knowledge about our solar system, our galaxy, and the universe. Topics on the frontier of astronomical knowledge such as black holes and the search for extraterrestrial life are explored. This course is designed for students with an interest in astronomy or anyone who desires to expand their cosmic horizons.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU(*Students will receive credit from UC one of the following courses: ASTR 110 or ASTR 110H)This descriptive, nonmathematical course is designed for students who want to develop an appreciation of astronomy and a broad cosmic perspective. The emphasis of the course is on the current state of knowledge about our solar system, our galaxy, and the universe. Topics on the frontier of astronomical knowledge such as black holes and the search for extraterrestrial life are explored.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77917",
+      "seating_detail": {
+        "capacity": 72,
+        "taken": 64,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-08-21T03:41:14.063284Z"
     },
     {
       "crn": "75948",
@@ -13507,7 +13699,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75948')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75948')",
+      "description": "This descriptive, nonmathematical course is designed for students who want to develop an appreciation of astronomy and a broad cosmic perspective. The emphasis of the course is on the current state of knowledge about our solar system, our galaxy, and the universe. Topics on the frontier of astronomical knowledge such as black holes and the search for extraterrestrial life are explored. This course is designed for students with an interest in astronomy or anyone who desires to expand their cosmic horizons. It is intended for students who meet Honors Program requirements.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU(*Students will receive credit for only one of the following courses: ASTR 110 or ASTR 110H)This descriptive, nonmathematical course is designed for students who want to develop an appreciation of astronomy and a broad cosmic perspective. The emphasis of the course is on the current state of knowledge about our solar system, our galaxy, and the universe. Topics on the frontier of astronomical knowledge such as black holes and the search for extraterrestrial life are explored.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75948",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 8,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-21T03:41:15.689624Z"
     },
     {
       "crn": "74193",
@@ -13539,7 +13752,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74193')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74193')",
+      "description": "This course is designed to acquaint students with the methods, techniques, and tools of the astronomer. Indoor labs demonstrate classical methods and techniques of science. Students learn the critical thinking processes needed to acquire and analyze scientific data; become familiar with visible objects including constellations, planets, star clusters, galaxies, meteors, and the phases of the moon; and learn to locate objects visually and use astronomical coordinate systems. The development of skills in the operation of optical telescopes is emphasized. This course is designed for students with an interest in learning about night skies and the tools astronomers use to explore the cosmos. Observatory facilities are utilized often, weather permitting.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (credit limit*), CSU(*Students will receive credit from UC for only one of the following courses: ASTR 112 or ASTR 114)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74193",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 21,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-21T03:41:17.321459Z"
     },
     {
       "crn": "74194",
@@ -13571,7 +13805,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74194')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74194')",
+      "description": "This course is designed to acquaint students with the methods, techniques, and tools of the astronomer. Indoor labs demonstrate classical methods and techniques of science. Students learn the critical thinking processes needed to acquire and analyze scientific data; become familiar with visible objects including constellations, planets, star clusters, galaxies, meteors, and the phases of the moon; and learn to locate objects visually and use astronomical coordinate systems. The development of skills in the operation of optical telescopes is emphasized. This course is designed for students with an interest in learning about night skies and the tools astronomers use to explore the cosmos. Observatory facilities are utilized often, weather permitting.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (credit limit*), CSU(*Students will receive credit from UC for only one of the following courses: ASTR 112 or ASTR 114)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74194",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 21,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-21T03:41:18.952686Z"
     },
     {
       "crn": "74195",
@@ -13603,7 +13858,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74195')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74195')",
+      "description": "This course is designed to acquaint students with the methods, techniques, and tools of the astronomer. Indoor labs demonstrate classical methods and techniques of science. Students learn the critical thinking processes needed to acquire and analyze scientific data; become familiar with visible objects including constellations, planets, star clusters, galaxies, meteors, and the phases of the moon; and learn to locate objects visually and use astronomical coordinate systems. The development of skills in the operation of optical telescopes is emphasized. This course is designed for students with an interest in learning about night skies and the tools astronomers use to explore the cosmos. Observatory facilities are utilized often, weather permitting.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (credit limit*), CSU(*Students will receive credit from UC for only one of the following courses: ASTR 112 or ASTR 114)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74195",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-21T03:41:20.583881Z"
     },
     {
       "crn": "70353",
@@ -13635,7 +13911,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70353')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70353')",
+      "description": "This introductory course is designed to provide students with the fundamentals of the engine and its subsystems of the 21st century automobile. Students learn basic automotive tool and equipment use and how to safely perform basic repair and maintenance operations. Students also have the opportunity to perform minor repair work on their own vehicles to complete required tasks. This course is required for the General Service Technician Certificate of Achievement. It is designed to be a companion course to AUTO 103 and AUTO 106, and is one of the three prerequisite courses for AUTO 107. Students are encouraged to complete all three courses in order to obtain a firm foundation in this subject.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70353",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-21T03:41:22.209993Z"
     },
     {
       "crn": "74310",
@@ -13667,7 +13964,29 @@
       "start_date": "08/18",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74310')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74310')",
+      "description": "This introductory course is designed to provide students with the fundamentals of the engine and its subsystems of the 21st century automobile. Students learn basic automotive tool and equipment use and how to safely perform basic repair and maintenance operations. Students also have the opportunity to perform minor repair work on their own vehicles to complete required tasks. This course is required for the General Service Technician Certificate of Achievement. It is designed to be a companion course to AUTO 103 and AUTO 106, and is one of the three prerequisite courses for AUTO 107. Students are encouraged to complete all three courses in order to obtain a firm foundation in this subject.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "26-AUG-2025",
+        "Last day to drop with a refund": "26-AUG-2025",
+        "Last day to drop without a \"W\"": "16-SEP-2025",
+        "Last day to drop with a \"W\"": "30-OCT-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "04-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74310",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 10,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-08-21T03:41:23.836092Z"
     },
     {
       "crn": "74491",
@@ -13699,7 +14018,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74491')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74491')",
+      "description": "This introductory course is designed to provide students with the fundamentals of the engine and its subsystems of the 21st century automobile. Students learn basic automotive tool and equipment use and how to safely perform basic repair and maintenance operations. Students also have the opportunity to perform minor repair work on their own vehicles to complete required tasks. This course is required for the General Service Technician Certificate of Achievement. It is designed to be a companion course to AUTO 103 and AUTO 106, and is one of the three prerequisite courses for AUTO 107. Students are encouraged to complete all three courses in order to obtain a firm foundation in this subject.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74491",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-21T03:41:25.468772Z"
     },
     {
       "crn": "75365",
@@ -13731,7 +14071,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75365')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75365')",
+      "description": "This introductory course is designed to provide students with the fundamentals of the engine and its subsystems of the 21st century automobile. Students learn basic automotive tool and equipment use and how to safely perform basic repair and maintenance operations. Students also have the opportunity to perform minor repair work on their own vehicles to complete required tasks. This course is required for the General Service Technician Certificate of Achievement. It is designed to be a companion course to AUTO 103 and AUTO 106, and is one of the three prerequisite courses for AUTO 107. Students are encouraged to complete all three courses in order to obtain a firm foundation in this subject.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75365",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 27,
+        "available": -3
+      },
+      "detail_fetched_at": "2025-08-21T03:41:27.101974Z"
     },
     {
       "crn": "70349",
@@ -13763,7 +14124,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70349')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70349')",
+      "description": "This is an introductory course designed to provide students with the fundamentals of the drive train, steering, suspension, and brake systems of the 21st century automobile. Students have access to training vehicles to complete required tasks by which they learn basic automotive tool and equipment use and how to safely perform basic repair and maintenance operations. This course is required for the General Service Technician Certificate of Achievement. It is designed to be a companion course to AUTO 101 and AUTO 106, and is one of the three prerequisite courses for AUTO 107. Students are encouraged to complete all three courses in order to obtain a firm foundation in this subject.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSUThis is an introductory course designed to provide students with the fundamentals of the drive train, steering, suspension, and brake systems of the 21st century automobile. Students have access to training vehicles to complete required tasks by which they learn basic automotive tool and equipment use and how to safely perform basic repair and maintenance operations.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70349",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 22,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-21T03:41:28.741328Z"
     },
     {
       "crn": "70351",
@@ -13795,7 +14177,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70351')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70351')",
+      "description": "This is an introductory course designed to provide students with the fundamentals of the drive train, steering, suspension, and brake systems of the 21st century automobile. Students have access to training vehicles to complete required tasks by which they learn basic automotive tool and equipment use and how to safely perform basic repair and maintenance operations. This course is required for the General Service Technician Certificate of Achievement. It is designed to be a companion course to AUTO 101 and AUTO 106, and is one of the three prerequisite courses for AUTO 107. Students are encouraged to complete all three courses in order to obtain a firm foundation in this subject.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSUThis is an introductory course designed to provide students with the fundamentals of the drive train, steering, suspension, and brake systems of the 21st century automobile. Students have access to training vehicles to complete required tasks by which they learn basic automotive tool and equipment use and how to safely perform basic repair and maintenance operations.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70351",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 20,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-21T03:41:30.376024Z"
     },
     {
       "crn": "76690",
@@ -13827,7 +14230,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76690')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76690')",
+      "description": "This is an introductory course designed to provide students with the fundamentals of the drive train, steering, suspension, and brake systems of the 21st century automobile. Students have access to training vehicles to complete required tasks by which they learn basic automotive tool and equipment use and how to safely perform basic repair and maintenance operations. This course is required for the General Service Technician Certificate of Achievement. It is designed to be a companion course to AUTO 101 and AUTO 106, and is one of the three prerequisite courses for AUTO 107. Students are encouraged to complete all three courses in order to obtain a firm foundation in this subject.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSUThis is an introductory course designed to provide students with the fundamentals of the drive train, steering, suspension, and brake systems of the 21st century automobile. Students have access to training vehicles to complete required tasks by which they learn basic automotive tool and equipment use and how to safely perform basic repair and maintenance operations.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76690",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 29,
+        "available": -5
+      },
+      "detail_fetched_at": "2025-08-21T03:41:32.010905Z"
     },
     {
       "crn": "73741",
@@ -13859,7 +14283,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73741')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73741')",
+      "description": "This introductory course is designed to provide students with the fundamentals of the electrical systems of the 21st century automobile. Emphasis is placed on electrical fundamentals, symbols and circuit diagrams, batteries, starting, charging, ignition, and lighting systems. Students learn the proper use of automotive electrical tools and equipment and how to safely perform basic vehicle electrical repair and maintenance operations. Students also have the opportunity to perform minor repair work on their own vehicles to complete required tasks. This course is required for the General Service Technician Certificate of Achievement. It is designed to be a companion course to AUTO 101 and AUTO 103, and is one of the three prerequisite courses for AUTO 107. Students are encouraged to complete all three courses in order to obtain a firm foundation in this subject.",
+      "prerequisites": null,
+      "advisory": "AUTO 101 or AUTO 103",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73741",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 22,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-21T03:41:33.649943Z"
     },
     {
       "crn": "75358",
@@ -13891,7 +14336,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75358')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75358')",
+      "description": "This introductory course is designed to provide students with the fundamentals of the electrical systems of the 21st century automobile. Emphasis is placed on electrical fundamentals, symbols and circuit diagrams, batteries, starting, charging, ignition, and lighting systems. Students learn the proper use of automotive electrical tools and equipment and how to safely perform basic vehicle electrical repair and maintenance operations. Students also have the opportunity to perform minor repair work on their own vehicles to complete required tasks. This course is required for the General Service Technician Certificate of Achievement. It is designed to be a companion course to AUTO 101 and AUTO 103, and is one of the three prerequisite courses for AUTO 107. Students are encouraged to complete all three courses in order to obtain a firm foundation in this subject.",
+      "prerequisites": null,
+      "advisory": "AUTO 101 or AUTO 103",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75358",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-21T03:41:35.282177Z"
     },
     {
       "crn": "76673",
@@ -13923,7 +14389,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76673')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76673')",
+      "description": "This introductory course is designed to provide students with the fundamentals of the electrical systems of the 21st century automobile. Emphasis is placed on electrical fundamentals, symbols and circuit diagrams, batteries, starting, charging, ignition, and lighting systems. Students learn the proper use of automotive electrical tools and equipment and how to safely perform basic vehicle electrical repair and maintenance operations. Students also have the opportunity to perform minor repair work on their own vehicles to complete required tasks. This course is required for the General Service Technician Certificate of Achievement. It is designed to be a companion course to AUTO 101 and AUTO 103, and is one of the three prerequisite courses for AUTO 107. Students are encouraged to complete all three courses in order to obtain a firm foundation in this subject.",
+      "prerequisites": null,
+      "advisory": "AUTO 101 or AUTO 103",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76673",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-21T03:41:36.916117Z"
     },
     {
       "crn": "76479",
@@ -13955,7 +14442,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76479')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76479')",
+      "description": "This introductory course provides students with working knowledge of light duty service. Students will learn underhood and undercar systems service, battery and basic electrical service, pre-delivery inspection procedures, and preventative maintenance operations. Emphasis will be placed on the safe operation of light-duty service tools and equipment, and general repair procedures of wheels and tires, suspension & steering components, engine and transmission components, engine & vehicle electrical components, and brake system components. This course offers further practice and more experience in the subjects taught in three other introduction courses (AUTO 101, AUTO 103, & AUTO 106).",
+      "prerequisites": "AUTO 101, AUTO 103, and AUTO 106",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76479",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-21T03:41:38.548519Z"
     },
     {
       "crn": "70337",
@@ -13987,7 +14495,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70337')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70337')",
+      "description": "This course is designed to help students satisfy the Bureau of Automotive Repair (BAR) Smog Check Technician training requirement and successfully complete the Level-I Smog Technician Training Course when applying for the California Smog Check Technician licensing examination. Course content includes engine theory, design and operation, ignition systems, fuel systems, engine management systems, and emission control systems. Emphasis is placed on proper engine diagnostic procedures and onboard diagnostic systems (OBD-I and OBD-II). Lab activities focus on the use of testing equipment, scan tools, and digital scopes and meters, as well as inspection and repair procedures of vehicles that fail the smog test. Upon successful completion of this course, students receive a certificate of completion from R\u00edo Hondo College's Automotive Technology Department. Students with permission from the Division of Career and Technical Education (CTE) may re-enroll only one time for certification or licensure standards.",
+      "prerequisites": null,
+      "advisory": "AUTO 065",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70337",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-21T03:41:40.182673Z"
     },
     {
       "crn": "78409",
@@ -14019,7 +14548,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78409')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78409')",
+      "description": "This is the second of two introductory courses designed to expand student skills related to the fundamentals of the electrical systems of the modern hybrid/electric automobile. The course covers the general electrician skills needed to understand and diagnose modern electric vehicles. Emphasis is placed on electrical fundamentals, symbols and circuit diagrams, high-voltage energy storage and range calculations, charging systems/on and off vehicle, heat pump for cooling and heating, motor and generators, magnetism, induction, and LED lighting systems. Students learn the proper use of high voltage electrical diagnostic tools and equipment, automated driver alert systems, camera, and radar communication with vehicle safety systems, and how to safely perform vehicle electrical service and maintenance operations. Students also have the opportunity to perform minor repair work on hybrid and high voltage vehicles to complete required tasks. This course is designed to be a companion course to AUTO 131, a prerequisite course for AUTO 147 and AUTO 148. Students are encouraged to complete both AUTO 131 and AUTO 132 to obtain a firm foundation on the subject of electronics and electric vehicles.",
+      "prerequisites": "AUTO 131",
+      "advisory": null,
+      "transfers_to": "CSUThis is the second of two introductory courses designed to expand student skills related to the fundamentals of the electrical systems of the modern hybrid/electric automobile. The course covers the general electrician skills needed to understand and diagnose modern electric vehicles. Emphasis is placed on electrical fundamentals, symbols and circuit diagrams, high-voltage energy storage and range calculations, charging systems/on and off vehicle, heat pump for cooling and heating, motor and generators, magnetism, induction, and LED lighting systems. Students learn the proper use of high voltage electrical diagnostic tools and equipment, automated driver alert systems, camera, and radar communication with vehicle safety systems, and how to safely perform vehicle electrical service and maintenance operations. Students also have the opportunity to perform minor repair work on hybrid and high voltage vehicles to complete required tasks.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78409",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 6,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-08-21T03:41:41.815434Z"
     },
     {
       "crn": "74113",
@@ -14051,7 +14601,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74113')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74113')",
+      "description": "This course provides an overview of the 21st century automobile\u2019s electrical system as related to the body and chassis of the vehicle. The course covers the theory of operation, operational characteristics, and methods of problem diagnostics and repair of systems including lighting; instruments; windshield wipers; power windows, seats, and mirrors; convertible tops; safety restraints; and audio, anti-theft, and supplemental restraint systems (S.R.S). This course prepares students for the Automotive Service Excellence (A.S.E.) A-6 exam and is intended for automotive majors. Students with permission from the Division of Career and Technical Education (CTE) may re-enroll only one time for certification or licensure standards.",
+      "prerequisites": "AUTO 106",
+      "advisory": "",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74113",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-21T03:41:43.443227Z"
     },
     {
       "crn": "76683",
@@ -14083,7 +14654,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76683')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76683')",
+      "description": "This course provides an overview of the 21st century automobile\u2019s electrical system as related to the body and chassis of the vehicle. The course covers the theory of operation, operational characteristics, and methods of problem diagnostics and repair of systems including lighting; instruments; windshield wipers; power windows, seats, and mirrors; convertible tops; safety restraints; and audio, anti-theft, and supplemental restraint systems (S.R.S). This course prepares students for the Automotive Service Excellence (A.S.E.) A-6 exam and is intended for automotive majors. Students with permission from the Division of Career and Technical Education (CTE) may re-enroll only one time for certification or licensure standards.",
+      "prerequisites": "AUTO 106",
+      "advisory": "",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76683",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-21T03:41:45.084208Z"
     },
     {
       "crn": "72725",
@@ -14115,7 +14707,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72725')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72725')",
+      "description": "This course explores the use of hybrid and electric power for vehicle transportation. Topics include safety when using high voltage, maintenance, drivability, inverter power transfer, battery technologies, hydrogen electric power, and fuel cell technology. The physics of battery storage, hybrid generation systems, and electric vehicle applications and their integrated systems from various manufacturers are discussed. This course is suitable for students entering into the alternative fuels or power generation and energy technology fields.",
+      "prerequisites": "AUTO 157",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72725",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 9,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-08-21T03:41:46.717440Z"
     },
     {
       "crn": "77496",
@@ -14147,7 +14760,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77496')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77496')",
+      "description": "This course provides an overview of the 21st century automobile\u2019s electrical system as related to the engine and engine-related systems. The course covers the theory of operation, operational characteristics, methods of problem diagnosis, and repair of systems including electronic ignition, electronic fuel injection, engine management, emission control, charging, cooling, and starting. This course prepares students for the Automotive Service Excellence (A.S.E.) A8 Engine Performance test, and is intended for automotive majors. Students with permission from the Division of Career and Technical Education (CTE) may re-enroll only one time for certification or licensure standards.",
+      "prerequisites": "AUTO 106",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77496",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-21T03:41:48.348656Z"
     },
     {
       "crn": "70359",
@@ -14179,7 +14813,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70359')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70359')",
+      "description": "This course covers the principles of suspension, steering, and wheel alignment for 21st century imported and domestic automobiles and light trucks. Emphasis is placed on developing skills required in the diagnosis, and/or repair and adjustment to steering systems and wheel alignment angles. Complete suspension and steering system overhaul is covered in the laboratory, and computerized wheel alignment and computerized wheel balancing equipment are techniques that will be utilized and demonstrated. This course is designed for students who want to work in the automotive sector, or automotive technicians who need to improve their skills and knowledge in suspension, steering, and alignment. Students may re-enroll in the course only one time, and only with permission from the Division of Career and Technical Education (C.T.E.), in order to meet certification and licensure standards.",
+      "prerequisites": "AUTO 103",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70359",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-21T03:41:49.999135Z"
     },
     {
       "crn": "70362",
@@ -14211,7 +14866,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70362')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70362')",
+      "description": "This course is designed to provide instruction in automatic transmission/transaxle systems. Topics include application of friction materials, planetary gear components, hydraulic components (both hydraulically and electronically controlled), fluid types, and sealing materials. In the course, students learn skills in diagnosing, removing, disassembling, reassembling, and rebuilding transmission units to manufacturer\u2019s specifications, as well as part nomenclature and function.This course prepares the student for the Automotive Service Excellence (ASE) A2 exam and is intended for automotive majors. Students with permission from the Division of Career and Technical Education (CTE) may re-enroll only one time for certification or licensure standards.",
+      "prerequisites": "AUTO 103",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70362",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-21T03:41:51.631725Z"
     },
     {
       "crn": "75343",
@@ -14243,7 +14919,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75343')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75343')",
+      "description": "This course covers the operating principles of common automotive heating and air conditioning systems. Topics include new service equipment, contamination issues, servicing and diagnosing manual and automatic systems, retrofitting R-12 refrigeration systems to R-134a, and Air Quality Management District (A.Q.M.D.) and Environmental Protection Agency (E.P.A.) rules. Students who take the course also have the opportunity to earn their certification license (E.P.A. Rule 1411). Students with permission from the Division of Career and Technical Education (CTE) may re-enroll only one time for certification or licensure standards.",
+      "prerequisites": "AUTO 103",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75343",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-21T03:41:53.275624Z"
     },
     {
       "crn": "72814",
@@ -14274,8 +14971,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72814')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72814')",
+      "description": "This course supports and reinforces on-the-job training in business and industrial establishments under the supervision of a college instructor. Training is informed by learning objectives. Students work in a skilled or professional-level assignment in their area of vocational interest, and meet performance objectives related to instruction that are above and beyond the conditions of regular employment. This course is intended for students whose job is related to the automotive/transportation field and have completed or enrolled in the appropriate coursework. The course may be taken once and repeated for a maximum of 16 units. Contact the Work Experience Education Office regarding re-enrollment procedures.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72814",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 0,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-08-21T03:41:54.904667Z"
     },
     {
       "crn": "77076",
@@ -14306,8 +15024,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77076')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77076')",
+      "description": "This course supports and reinforces on-the-job training in business and industrial establishments under the supervision of a college instructor. Training is informed by learning objectives. Students work in a skilled or professional-level assignment in their area of vocational interest, and meet performance objectives related to instruction that are above and beyond the conditions of regular employment. This course is intended for students whose job is related to the automotive/transportation field and have completed or enrolled in the appropriate coursework. The course may be taken once and repeated for a maximum of 16 units. Contact the Work Experience Education Office regarding re-enrollment procedures.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77076",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 0,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-08-21T03:41:56.536311Z"
     },
     {
       "crn": "74367",
@@ -14339,7 +15078,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74367')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74367')",
+      "description": "This course provides the automotive technology student with a detailed practical study of how to be successful in the automotive service, parts, and sales industry. It provides a practical study of current service, parts, and sales practices performed in dealerships and independent repair shops, while also discussing the review and preparation of the theory and skills necessary to successfully pass the National Institute for Automotive Service Excellence (ASE) exams relevant to industry standards. Topics include becoming efficient in the shop, mastering various pay systems, understanding managers and owners, building customer loyalty, demonstrating workplace and social ethics, and making Customer Satisfaction Index (CSI) values work for all employees. In addition, vehicle engines, transmissions, brakes, suspension, and air-conditioning; and engine performance systems, parts, and components, and new and emerging technologies that support the service and repair of the modern automobile will be discussed. Emphasis will be placed upon the important tasks of proper repair procedures; the safe use of tools, equipment, technical data, and scan tools; and the ins-and-outs of the business of service, parts, and sales. Current automotive industry practices and relevant case studies will be discussed and demonstrated throughout the course. The goal of this course is for the student to apply and demonstrate knowledge and skills that will enable them to advance their employment in the vehicle after-sales field operations management spectrum.",
+      "prerequisites": "Enrollment requires admission to the Automotive Technology baccalaureate degree program.",
+      "advisory": "PHY 120, ENGL C1001 or ENGL C1001H, and STAT C1000 or STAT C1000H",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74367",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-21T03:41:58.165230Z"
     },
     {
       "crn": "74368",
@@ -14371,7 +15131,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74368')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74368')",
+      "description": "This course provides automotive technology students with a detailed, practical study of the development of the automobile from its beginnings to the present day. The course is a practical study of the invention of the first suitable power source to be adopted to self-propel a road vehicle and how it resulted in a major paradigm shift that revolutionized transportation and mobility. Topics include the development of animal-drawn transportation devices and the quest for a prime mover, the pioneering era of the automobile and how it led to being an industrial product, mass production of the automobile and how it became a consumer product, and new and emerging technologies that support the automobile and motorized traffic and transportation systems. Emphasis is placed upon the global perspective\u2014particularly the developments that occurred in the United States, Europe, and Asia\u2014and the numerous technological and business revolutions of the first and second half of the 20th century. Current automotive industry practices and relevant case studies are discussed and demonstrated throughout the course. The overall goal of this course is to have students apply and demonstrate knowledge and skills that will enable them to advance their employment in the vehicle after-sales field operations management spectrum.",
+      "prerequisites": "Enrollment requires admission to the Automotive Technology baccalaureate degree program.",
+      "advisory": "PHY 120, ENGL C1001 or ENGL C1001H, and STAT C1000 or STAT C1000H",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74368",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-21T03:41:59.796851Z"
     },
     {
       "crn": "77915",
@@ -14403,7 +15184,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77915')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77915')",
+      "description": "This course provides students with a detailed, practical study of current and future means of mobility, and is a practical and contextualized study of the importance of automotive industry business practices that have evolved from ownership to vehicle membership services. Topics include consumer perception, lifestyles, types of ownership, alternatives to ownership, future ownership experiences, and ownership expectations and future strategies. Current automotive industry practices and recent case studies are discussed and demonstrated throughout the course. Students apply and demonstrate skills and knowledge in current vehicle ownership and future trends that will enable them to advance their careers in the automotive industry.",
+      "prerequisites": null,
+      "advisory": "ENGL C1001 or ENGL C1001H, STAT C1000 or STAT C1000H, PHY 120",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77915",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-21T03:42:01.426784Z"
     },
     {
       "crn": "77599",
@@ -14435,7 +15237,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77599')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77599')",
+      "description": "This course provides an opportunity for students to keep well informed about the ever-changing trends, technology, and business management practices related to the transportation industry. Students may be expected to attend presentations by industry representatives and/or to conduct research about new trends, technology, and/or business management practices, and then present their findings in class. The course may be repeated for a maximum of 6 units since the subject matter changes each offering.",
+      "prerequisites": null,
+      "advisory": "ENGL C1001 or ENGL C1001H, STAT C1000 or STAT C1000H, PHY 120",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77599",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 9,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-08-21T03:42:03.062961Z"
     },
     {
       "crn": "70474",
@@ -14467,7 +15290,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70474')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70474')",
+      "description": "This course is a General Education course open to all students, and is designed to provide an introduction to concepts and principles of modern biology. Topics covered include cell structure and function, energy relationships, genetic control mechanisms, concepts of evolution, biological diversity, and ecosystem function. The laboratory component of the course emphasizes the application of the scientific method as a tool to understanding living systems.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (*Credit limit), CSU(*No credit will be given for BIOL 101 if taken after BIOL 200)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70474",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-21T03:42:04.689509Z"
     },
     {
       "crn": "70475",
@@ -14499,7 +15343,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70475')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70475')",
+      "description": "This course is a General Education course open to all students, and is designed to provide an introduction to concepts and principles of modern biology. Topics covered include cell structure and function, energy relationships, genetic control mechanisms, concepts of evolution, biological diversity, and ecosystem function. The laboratory component of the course emphasizes the application of the scientific method as a tool to understanding living systems.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (*Credit limit), CSU(*No credit will be given for BIOL 101 if taken after BIOL 200)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70475",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 22,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-21T03:42:06.315635Z"
     },
     {
       "crn": "70482",
@@ -14531,7 +15396,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70482')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70482')",
+      "description": "This course is a General Education course open to all students, and is designed to provide an introduction to concepts and principles of modern biology. Topics covered include cell structure and function, energy relationships, genetic control mechanisms, concepts of evolution, biological diversity, and ecosystem function. The laboratory component of the course emphasizes the application of the scientific method as a tool to understanding living systems.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (*Credit limit), CSU(*No credit will be given for BIOL 101 if taken after BIOL 200)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70482",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-21T03:42:07.950690Z"
     },
     {
       "crn": "70483",
@@ -14563,7 +15449,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70483')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70483')",
+      "description": "This course is a General Education course open to all students, and is designed to provide an introduction to concepts and principles of modern biology. Topics covered include cell structure and function, energy relationships, genetic control mechanisms, concepts of evolution, biological diversity, and ecosystem function. The laboratory component of the course emphasizes the application of the scientific method as a tool to understanding living systems.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (*Credit limit), CSU(*No credit will be given for BIOL 101 if taken after BIOL 200)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70483",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-21T03:42:09.590126Z"
     },
     {
       "crn": "70484",
@@ -14595,7 +15502,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70484')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70484')",
+      "description": "This course is a General Education course open to all students, and is designed to provide an introduction to concepts and principles of modern biology. Topics covered include cell structure and function, energy relationships, genetic control mechanisms, concepts of evolution, biological diversity, and ecosystem function. The laboratory component of the course emphasizes the application of the scientific method as a tool to understanding living systems.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (*Credit limit), CSU(*No credit will be given for BIOL 101 if taken after BIOL 200)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70484",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-21T03:42:11.225382Z"
     },
     {
       "crn": "70486",
@@ -14627,7 +15555,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70486')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70486')",
+      "description": "This course is a General Education course open to all students, and is designed to provide an introduction to concepts and principles of modern biology. Topics covered include cell structure and function, energy relationships, genetic control mechanisms, concepts of evolution, biological diversity, and ecosystem function. The laboratory component of the course emphasizes the application of the scientific method as a tool to understanding living systems.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (*Credit limit), CSU(*No credit will be given for BIOL 101 if taken after BIOL 200)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70486",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 26,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-08-21T03:42:12.864396Z"
     },
     {
       "crn": "70488",
@@ -14659,7 +15608,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70488')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70488')",
+      "description": "This course is a General Education course open to all students, and is designed to provide an introduction to concepts and principles of modern biology. Topics covered include cell structure and function, energy relationships, genetic control mechanisms, concepts of evolution, biological diversity, and ecosystem function. The laboratory component of the course emphasizes the application of the scientific method as a tool to understanding living systems.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (*Credit limit), CSU(*No credit will be given for BIOL 101 if taken after BIOL 200)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70488",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-21T03:42:14.499733Z"
     },
     {
       "crn": "70490",
@@ -14691,7 +15661,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70490')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70490')",
+      "description": "This course is a General Education course open to all students, and is designed to provide an introduction to concepts and principles of modern biology. Topics covered include cell structure and function, energy relationships, genetic control mechanisms, concepts of evolution, biological diversity, and ecosystem function. The laboratory component of the course emphasizes the application of the scientific method as a tool to understanding living systems.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (*Credit limit), CSU(*No credit will be given for BIOL 101 if taken after BIOL 200)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70490",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 18,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-21T03:42:16.131675Z"
     },
     {
       "crn": "70503",
@@ -14723,7 +15714,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70503')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70503')",
+      "description": "This course is a General Education course open to all students, and is designed to provide an introduction to concepts and principles of modern biology. Topics covered include cell structure and function, energy relationships, genetic control mechanisms, concepts of evolution, biological diversity, and ecosystem function. The laboratory component of the course emphasizes the application of the scientific method as a tool to understanding living systems.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (*Credit limit), CSU(*No credit will be given for BIOL 101 if taken after BIOL 200)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70503",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 20,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-21T03:42:17.771746Z"
     },
     {
       "crn": "70505",
@@ -14755,7 +15767,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70505')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70505')",
+      "description": "This course is a General Education course open to all students, and is designed to provide an introduction to concepts and principles of modern biology. Topics covered include cell structure and function, energy relationships, genetic control mechanisms, concepts of evolution, biological diversity, and ecosystem function. The laboratory component of the course emphasizes the application of the scientific method as a tool to understanding living systems.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (*Credit limit), CSU(*No credit will be given for BIOL 101 if taken after BIOL 200)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70505",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 11,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-08-21T03:42:19.410330Z"
     },
     {
       "crn": "75138",
@@ -14787,7 +15820,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75138')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75138')",
+      "description": "This course is a General Education course open to all students, and is designed to provide an introduction to concepts and principles of modern biology. Topics covered include cell structure and function, energy relationships, genetic control mechanisms, concepts of evolution, biological diversity, and ecosystem function. The laboratory component of the course emphasizes the application of the scientific method as a tool to understanding living systems.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (*Credit limit), CSU(*No credit will be given for BIOL 101 if taken after BIOL 200)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75138",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 22,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-21T03:42:21.039021Z"
     },
     {
       "crn": "75914",
@@ -58162,8 +59216,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-20T03:42:35.186166+00:00Z",
-    "courses_with_details": 247,
+    "detail_collection_timestamp": "2025-08-21T03:42:21.107880+00:00Z",
+    "courses_with_details": 297,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
