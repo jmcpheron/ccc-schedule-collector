@@ -15873,7 +15873,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75914')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75914')",
+      "description": "This course is a General Education course open to all students, and is designed to provide an introduction to concepts and principles of modern biology. Topics covered include cell structure and function, energy relationships, genetic control mechanisms, concepts of evolution, biological diversity, and ecosystem function. The laboratory component of the course emphasizes the application of the scientific method as a tool to understanding living systems.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC (*Credit limit), CSU(*No credit will be given for BIOL 101 if taken after BIOL 200)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75914",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-22T03:41:07.154909Z"
     },
     {
       "crn": "74338",
@@ -15905,7 +15926,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74338')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74338')",
+      "description": "This lecture-only course is an introduction to the basic principles, structures, functions, and biological processes of the human body. The course emphasizes a scientific view of the workings of the human body and its interactions with the environment as well as the necessary practices needed to promote a healthy body. The course is intended for non-biology majors who are interested in furthering their own knowledge of human biology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74338",
+      "seating_detail": {
+        "capacity": 48,
+        "taken": 47,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-22T03:41:08.767978Z"
     },
     {
       "crn": "75617",
@@ -15936,8 +15978,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75617')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75617')",
+      "description": "This lecture-only course is an introduction to the basic principles, structures, functions, and biological processes of the human body. The course emphasizes a scientific view of the workings of the human body and its interactions with the environment as well as the necessary practices needed to promote a healthy body. The course is intended for non-biology majors who are interested in furthering their own knowledge of human biology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75617",
+      "seating_detail": {
+        "capacity": 48,
+        "taken": 44,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-22T03:41:10.379242Z"
     },
     {
       "crn": "77487",
@@ -15969,7 +16032,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77487')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77487')",
+      "description": "This lecture-only course is an introduction to the basic principles, structures, functions, and biological processes of the human body. The course emphasizes a scientific view of the workings of the human body and its interactions with the environment as well as the necessary practices needed to promote a healthy body. The course is intended for non-biology majors who are interested in furthering their own knowledge of human biology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77487",
+      "seating_detail": {
+        "capacity": 48,
+        "taken": 43,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-22T03:41:11.993370Z"
     },
     {
       "crn": "77662",
@@ -16000,8 +16084,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77662')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77662')",
+      "description": "This lecture-only course is an introduction to the basic principles, structures, functions, and biological processes of the human body. The course emphasizes a scientific view of the workings of the human body and its interactions with the environment as well as the necessary practices needed to promote a healthy body. The course is intended for non-biology majors who are interested in furthering their own knowledge of human biology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77662",
+      "seating_detail": {
+        "capacity": 48,
+        "taken": 46,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-22T03:41:13.603390Z"
     },
     {
       "crn": "75674",
@@ -16033,7 +16138,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75674')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75674')",
+      "description": "This laboratory course pairs with the BIOL 105 lecture course, and is intended for non-biology majors. The course provides students with hands-on laboratory experiences to demonstrate and enhance concepts and principles essential to an understanding of the functions of the human body.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75674",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 20,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-22T03:41:15.234700Z"
     },
     {
       "crn": "75675",
@@ -16065,7 +16191,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75675')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75675')",
+      "description": "This laboratory course pairs with the BIOL 105 lecture course, and is intended for non-biology majors. The course provides students with hands-on laboratory experiences to demonstrate and enhance concepts and principles essential to an understanding of the functions of the human body.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75675",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-22T03:41:16.849825Z"
     },
     {
       "crn": "70518",
@@ -16097,7 +16244,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70518')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70518')",
+      "description": "This course is designed to give students a better understanding of the basic principles of marine biology. Emphasis is placed on how the scientific method is used to investigate the chemical, physical, and geological properties of the marine environment. Students learn to distinguish among the diverse organisms and habitats that compose the ocean's ecosystems. An introduction to the structure and function of marine ecosystems is provided, and the impact of human activity on those systems addressed. This course fulfills the General Education requirement for the Life Sciences.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70518",
+      "seating_detail": {
+        "capacity": 48,
+        "taken": 45,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-22T03:41:18.459905Z"
     },
     {
       "crn": "77024",
@@ -16129,7 +16297,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77024')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77024')",
+      "description": "This laboratory course complements the Marine Biology lecture course and is designed for students interested in furthering their understanding of the marine environment and its organisms, with emphasis placed on marine life of the local coasts. The scientific method is employed to investigate the chemical and physical properties of seawater, the role of pigments in marine algae, the behavior of marine organisms, the basic classification and morphology of marine producers, invertebrates and vertebrates, and adaptations of organisms to specific habitats. Students use basic laboratory equipment and techniques in both classroom and field-based investigations. Field trips to coastal marine habitats and public aquariums are conducted.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77024",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 26,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-08-22T03:41:20.080559Z"
     },
     {
       "crn": "70521",
@@ -16160,8 +16349,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70521')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70521')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSUIn this course, students utilize basic biological concepts and an interdisciplinary approach to determine how to address environmental challenges. Topics may include ecosystem characteristics and functions, population dynamics, energy and material resource use, pollution, and alternative energy sources. Because the course takes up the social, political, and economic implications of environmental decisions, it is intended for students from many disciplines, including non-STEM disciplines.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70521",
+      "seating_detail": {
+        "capacity": 48,
+        "taken": 36,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-22T03:41:21.692531Z"
     },
     {
       "crn": "70522",
@@ -16193,7 +16403,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70522')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70522')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSUIn this course, students utilize basic biological concepts and an interdisciplinary approach to determine how to address environmental challenges. Topics may include ecosystem characteristics and functions, population dynamics, energy and material resource use, pollution, and alternative energy sources. Because the course takes up the social, political, and economic implications of environmental decisions, it is intended for students from many disciplines, including non-STEM disciplines.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70522",
+      "seating_detail": {
+        "capacity": 48,
+        "taken": 20,
+        "available": 28
+      },
+      "detail_fetched_at": "2025-08-22T03:41:23.304486Z"
     },
     {
       "crn": "77773",
@@ -16224,8 +16455,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77773')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77773')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSUIn this course, students utilize basic biological concepts and an interdisciplinary approach to determine how to address environmental challenges. Topics may include ecosystem characteristics and functions, population dynamics, energy and material resource use, pollution, and alternative energy sources. Because the course takes up the social, political, and economic implications of environmental decisions, it is intended for students from many disciplines, including non-STEM disciplines.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77773",
+      "seating_detail": {
+        "capacity": 48,
+        "taken": 40,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-08-22T03:41:24.932400Z"
     },
     {
       "crn": "70526",
@@ -16257,7 +16509,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70526')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70526')",
+      "description": "This laboratory course complements the Environmental Biology lecture course and is designed for students interested in furthering their understanding of the environmental sciences. The scientific method is employed to investigate ecosystems and their functions, natural selection, population interactions, environmental toxicology, radiation exposure effects, soil and groundwater systems, water pollution, alternative energy systems, and environmental resistance. This is a required course for Environmental Science majors.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70526",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 20,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-22T03:41:26.548818Z"
     },
     {
       "crn": "70528",
@@ -16289,7 +16562,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70528')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70528')",
+      "description": "This laboratory course complements the Environmental Biology lecture course and is designed for students interested in furthering their understanding of the environmental sciences. The scientific method is employed to investigate ecosystems and their functions, natural selection, population interactions, environmental toxicology, radiation exposure effects, soil and groundwater systems, water pollution, alternative energy systems, and environmental resistance. This is a required course for Environmental Science majors.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70528",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 18,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-22T03:41:28.159413Z"
     },
     {
       "crn": "70530",
@@ -16321,7 +16615,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70530')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70530')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70530",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-22T03:41:29.775382Z"
     },
     {
       "crn": "70652",
@@ -16353,7 +16668,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70652')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70652')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70652",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 29,
+        "available": -5
+      },
+      "detail_fetched_at": "2025-08-22T03:41:31.392725Z"
     },
     {
       "crn": "70653",
@@ -16385,7 +16721,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70653')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70653')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70653",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 29,
+        "available": -5
+      },
+      "detail_fetched_at": "2025-08-22T03:41:33.022695Z"
     },
     {
       "crn": "70654",
@@ -16417,7 +16774,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70654')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70654')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70654",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 26,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-08-22T03:41:34.643133Z"
     },
     {
       "crn": "70655",
@@ -16449,7 +16827,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70655')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70655')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70655",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 27,
+        "available": -3
+      },
+      "detail_fetched_at": "2025-08-22T03:41:36.255177Z"
     },
     {
       "crn": "70656",
@@ -16480,8 +16879,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70656')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70656')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70656",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 26,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-08-22T03:41:37.871429Z"
     },
     {
       "crn": "70657",
@@ -16512,8 +16932,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70657')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70657')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70657",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 26,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-08-22T03:41:39.483286Z"
     },
     {
       "crn": "70658",
@@ -16544,8 +16985,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70658')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70658')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70658",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-22T03:41:41.102275Z"
     },
     {
       "crn": "70664",
@@ -16576,8 +17038,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70664')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70664')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70664",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 27,
+        "available": -3
+      },
+      "detail_fetched_at": "2025-08-22T03:41:42.723766Z"
     },
     {
       "crn": "74622",
@@ -16609,7 +17092,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74622')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74622')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74622",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 26,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-08-22T03:41:44.341716Z"
     },
     {
       "crn": "75252",
@@ -16641,7 +17145,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75252')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75252')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75252",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-22T03:41:45.958245Z"
     },
     {
       "crn": "76454",
@@ -16672,8 +17197,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76454')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76454')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76454",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-22T03:41:47.578889Z"
     },
     {
       "crn": "76455",
@@ -16704,8 +17250,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76455')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76455')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76455",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 28,
+        "available": -4
+      },
+      "detail_fetched_at": "2025-08-22T03:41:49.196458Z"
     },
     {
       "crn": "77488",
@@ -16737,7 +17304,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77488')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77488')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77488",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-22T03:41:50.808461Z"
     },
     {
       "crn": "77593",
@@ -16768,8 +17356,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77593')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77593')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77593",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-22T03:41:52.424165Z"
     },
     {
       "crn": "77663",
@@ -16800,8 +17409,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77663')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77663')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77663",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-22T03:41:54.033173Z"
     },
     {
       "crn": "77664",
@@ -16833,7 +17463,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77664')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77664')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77664",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-22T03:41:55.659486Z"
     },
     {
       "crn": "77665",
@@ -16865,7 +17516,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77665')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77665')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77665",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 28,
+        "available": -4
+      },
+      "detail_fetched_at": "2025-08-22T03:41:57.280680Z"
     },
     {
       "crn": "77701",
@@ -16897,7 +17569,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77701')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77701')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77701",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-22T03:41:58.895210Z"
     },
     {
       "crn": "78413",
@@ -16929,7 +17622,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78413')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78413')",
+      "description": "This course is primarily a systems approach to mastering the anatomical structures of the human body. The study of each body system includes structural specializations and functions at a microscopic and macroscopic level, emphasizing the interdependence of form and function. Additional topics include methods of anatomical study, human genetics, and embryonic development. This course is intended for pre-health students specifically preparing to enter careers in the health sciences.",
+      "prerequisites": null,
+      "advisory": "BIOL 101, BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78413",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 27,
+        "available": -3
+      },
+      "detail_fetched_at": "2025-08-22T03:42:00.509113Z"
     },
     {
       "crn": "70665",
@@ -16961,7 +17675,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70665')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70665')",
+      "description": "This course is first in a sequence of courses for undergraduate preparation for biology majors. The course covers principles and applications of prokaryotic and eukaryotic cell structure and function, biological molecules, homeostasis, cell reproduction and its controls, molecular genetics, classical/Mendelian genetics, cell metabolism including photosynthesis and respiration, and cellular communication. Additional areas of focus include evolution and ecology. The laboratory portion of the course applies the processes of scientific inquiry and experimental design to the study of biological concepts focusing on observations, experimentation, record keeping, data collection and analysis, and presentation of outcomes. The course sequence also provides excellent preparation for students who intend to pursue post-graduate studies in the medical sciences.",
+      "prerequisites": "CHEM 120",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70665",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-22T03:42:02.130359Z"
     },
     {
       "crn": "76456",
@@ -16993,7 +17728,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76456')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76456')",
+      "description": "This course is first in a sequence of courses for undergraduate preparation for biology majors. The course covers principles and applications of prokaryotic and eukaryotic cell structure and function, biological molecules, homeostasis, cell reproduction and its controls, molecular genetics, classical/Mendelian genetics, cell metabolism including photosynthesis and respiration, and cellular communication. Additional areas of focus include evolution and ecology. The laboratory portion of the course applies the processes of scientific inquiry and experimental design to the study of biological concepts focusing on observations, experimentation, record keeping, data collection and analysis, and presentation of outcomes. The course sequence also provides excellent preparation for students who intend to pursue post-graduate studies in the medical sciences.",
+      "prerequisites": "CHEM 120",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76456",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 20,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-22T03:42:03.743423Z"
     },
     {
       "crn": "73778",
@@ -17025,7 +17781,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73778')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73778')",
+      "description": "This course continues the sequence of undergraduate preparation for biology majors. The course is a survey of the diversity of unicellular and multicellular life on earth, focusing on the relationships between structure and function, as well as evolutionary adaptations to their environments. Topics deal with classification, development, evolutionary relationships, and ecological functions of living organisms, inclusive of prokaryotes, fungi, protists, plants, and animals. Laboratories emphasize life forms, experimentation, and dissections. Field trips are used to examine organisms in their natural settings.",
+      "prerequisites": "BIOL 200",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73778",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 20,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-22T03:42:05.355366Z"
     },
     {
       "crn": "70666",
@@ -17057,7 +17834,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70666')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70666')",
+      "description": "This course encompasses the biology of microorganisms with an emphasis on the role of bacteria and viruses on human health and disease. Other topics include resistance and immunity to disease, basic biological principles, microbial genetics and physiology, the harmful and useful aspects of microorganisms in nature, medicine, and industry. Laboratory exercises emphasize sterile culture techniques and the detection, isolation, and identification of microorganisms. This course is intended for students preparing to enter careers in the health sciences.",
+      "prerequisites": "CHEM 110",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70666",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-22T03:42:06.970713Z"
     },
     {
       "crn": "70667",
@@ -17089,7 +17887,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70667')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70667')",
+      "description": "This course encompasses the biology of microorganisms with an emphasis on the role of bacteria and viruses on human health and disease. Other topics include resistance and immunity to disease, basic biological principles, microbial genetics and physiology, the harmful and useful aspects of microorganisms in nature, medicine, and industry. Laboratory exercises emphasize sterile culture techniques and the detection, isolation, and identification of microorganisms. This course is intended for students preparing to enter careers in the health sciences.",
+      "prerequisites": "CHEM 110",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70667",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-22T03:42:08.591219Z"
     },
     {
       "crn": "70668",
@@ -17121,7 +17940,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70668')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70668')",
+      "description": "This course encompasses the biology of microorganisms with an emphasis on the role of bacteria and viruses on human health and disease. Other topics include resistance and immunity to disease, basic biological principles, microbial genetics and physiology, the harmful and useful aspects of microorganisms in nature, medicine, and industry. Laboratory exercises emphasize sterile culture techniques and the detection, isolation, and identification of microorganisms. This course is intended for students preparing to enter careers in the health sciences.",
+      "prerequisites": "CHEM 110",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70668",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-22T03:42:10.217469Z"
     },
     {
       "crn": "77068",
@@ -17153,7 +17993,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77068')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77068')",
+      "description": "This course encompasses the biology of microorganisms with an emphasis on the role of bacteria and viruses on human health and disease. Other topics include resistance and immunity to disease, basic biological principles, microbial genetics and physiology, the harmful and useful aspects of microorganisms in nature, medicine, and industry. Laboratory exercises emphasize sterile culture techniques and the detection, isolation, and identification of microorganisms. This course is intended for students preparing to enter careers in the health sciences.",
+      "prerequisites": "CHEM 110",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77068",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-22T03:42:11.836793Z"
     },
     {
       "crn": "70669",
@@ -17185,7 +18046,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70669')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70669')",
+      "description": "This course is a general introduction to the function and regulation of human body systems. Physiological integration of the systems to maintain homeostasis and the significance of biochemistry is emphasized throughout the course. Course content includes neural and hormonal homeostatic control mechanisms, as well as the musculoskeletal, circulatory, respiratory, digestive, urinary, immune, and endocrine systems. Laboratory exercises allow students to gather physiological data and draw conclusions about how physiological mechanisms are regulated. This course is intended for students preparing to enter careers in the health sciences.",
+      "prerequisites": "BIOL 125 and CHEM 110",
+      "advisory": "BIOL 101; BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70669",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-22T03:42:13.450114Z"
     },
     {
       "crn": "70670",
@@ -17217,7 +18099,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70670')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70670')",
+      "description": "This course is a general introduction to the function and regulation of human body systems. Physiological integration of the systems to maintain homeostasis and the significance of biochemistry is emphasized throughout the course. Course content includes neural and hormonal homeostatic control mechanisms, as well as the musculoskeletal, circulatory, respiratory, digestive, urinary, immune, and endocrine systems. Laboratory exercises allow students to gather physiological data and draw conclusions about how physiological mechanisms are regulated. This course is intended for students preparing to enter careers in the health sciences.",
+      "prerequisites": "BIOL 125 and CHEM 110",
+      "advisory": "BIOL 101; BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70670",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-22T03:42:15.065959Z"
     },
     {
       "crn": "70671",
@@ -17248,8 +18151,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70671')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70671')",
+      "description": "This course is a general introduction to the function and regulation of human body systems. Physiological integration of the systems to maintain homeostasis and the significance of biochemistry is emphasized throughout the course. Course content includes neural and hormonal homeostatic control mechanisms, as well as the musculoskeletal, circulatory, respiratory, digestive, urinary, immune, and endocrine systems. Laboratory exercises allow students to gather physiological data and draw conclusions about how physiological mechanisms are regulated. This course is intended for students preparing to enter careers in the health sciences.",
+      "prerequisites": "BIOL 125 and CHEM 110",
+      "advisory": "BIOL 101; BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70671",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-22T03:42:16.677074Z"
     },
     {
       "crn": "75143",
@@ -17280,8 +18204,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75143')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75143')",
+      "description": "This course is a general introduction to the function and regulation of human body systems. Physiological integration of the systems to maintain homeostasis and the significance of biochemistry is emphasized throughout the course. Course content includes neural and hormonal homeostatic control mechanisms, as well as the musculoskeletal, circulatory, respiratory, digestive, urinary, immune, and endocrine systems. Laboratory exercises allow students to gather physiological data and draw conclusions about how physiological mechanisms are regulated. This course is intended for students preparing to enter careers in the health sciences.",
+      "prerequisites": "BIOL 125 and CHEM 110",
+      "advisory": "BIOL 101; BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75143",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 22,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-22T03:42:18.292036Z"
     },
     {
       "crn": "75943",
@@ -17312,8 +18257,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75943')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75943')",
+      "description": "This course is a general introduction to the function and regulation of human body systems. Physiological integration of the systems to maintain homeostasis and the significance of biochemistry is emphasized throughout the course. Course content includes neural and hormonal homeostatic control mechanisms, as well as the musculoskeletal, circulatory, respiratory, digestive, urinary, immune, and endocrine systems. Laboratory exercises allow students to gather physiological data and draw conclusions about how physiological mechanisms are regulated. This course is intended for students preparing to enter careers in the health sciences.",
+      "prerequisites": "BIOL 125 and CHEM 110",
+      "advisory": "BIOL 101; BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75943",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-22T03:42:19.907045Z"
     },
     {
       "crn": "76458",
@@ -17344,8 +18310,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76458')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76458')",
+      "description": "This course is a general introduction to the function and regulation of human body systems. Physiological integration of the systems to maintain homeostasis and the significance of biochemistry is emphasized throughout the course. Course content includes neural and hormonal homeostatic control mechanisms, as well as the musculoskeletal, circulatory, respiratory, digestive, urinary, immune, and endocrine systems. Laboratory exercises allow students to gather physiological data and draw conclusions about how physiological mechanisms are regulated. This course is intended for students preparing to enter careers in the health sciences.",
+      "prerequisites": "BIOL 125 and CHEM 110",
+      "advisory": "BIOL 101; BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76458",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-22T03:42:21.528570Z"
     },
     {
       "crn": "78433",
@@ -17377,7 +18364,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78433')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78433')",
+      "description": "This course is a general introduction to the function and regulation of human body systems. Physiological integration of the systems to maintain homeostasis and the significance of biochemistry is emphasized throughout the course. Course content includes neural and hormonal homeostatic control mechanisms, as well as the musculoskeletal, circulatory, respiratory, digestive, urinary, immune, and endocrine systems. Laboratory exercises allow students to gather physiological data and draw conclusions about how physiological mechanisms are regulated. This course is intended for students preparing to enter careers in the health sciences.",
+      "prerequisites": "BIOL 125 and CHEM 110",
+      "advisory": "BIOL 101; BIOL 105",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78433",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 21,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-22T03:42:23.140916Z"
     },
     {
       "crn": "76459",
@@ -17409,7 +18417,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76459')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76459')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSUThe course introduces students to the study of the biological sciences with an emphasis on the role that biotechnology plays in basic research and product development. The laboratory component provides students with hands-on introductory experiences in biotechnology techniques. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 21-AUG-2025 08:08:34 PM Title: BIOT 100 Introduction to Biotechnolgy CRN: 76459 Instructor: Luke Ortiz Instructor: Luke Ortiz CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: S 100 Science Meeting Time F 08:00am - 11:10am S 100 Science 08/16/25 12/06/25 F 12:45pm - 03:55pm S 100 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 24 15 9 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76459",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 15,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-08-22T03:42:24.761815Z"
     },
     {
       "crn": "77584",
@@ -17441,7 +18470,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77584')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77584')",
+      "description": "This introductory-level course takes up fermentation technologies, and emphasizes especially batch yeast fermentations associated with the brewing of beer. The course covers the history, development, and current status of beer brewing; the biology and genetics of yeast; and the influence of raw materials on the final outcome of the brewing process. Emphasis is placed on current technologies involved in modern, small-scale brewing. In addition, the use of yeast as a general agent of biological change is discussed. The laboratory part of the course emphasizes the design, formulation, and execution of a specific product in a hands-on environment in order to simulate current industry standards and practices. Field trips of industrial fermentation sites are included.",
+      "prerequisites": null,
+      "advisory": "BIOT 110, BIOL 101, CHEM 110",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77584",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 12,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-22T03:42:26.379401Z"
     },
     {
       "crn": "71001",
@@ -59216,8 +60266,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-21T03:42:21.107880+00:00Z",
-    "courses_with_details": 297,
+    "detail_collection_timestamp": "2025-08-22T03:42:26.451763+00:00Z",
+    "courses_with_details": 347,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
