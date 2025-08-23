@@ -18523,7 +18523,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71001')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71001')",
+      "description": "This course examines the legal regulatory, and international environment of business. Included are the topics of alternative dispute resolution, the forms of business organization, regulations affecting employment, and current environmental statutes. Case studies are used to discuss torts, crimes, contracts and sales, warranty and product liability, labor law, employment discrimination, and environmental law.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71001",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-23T03:38:56.356862Z"
     },
     {
       "crn": "71002",
@@ -18554,8 +18575,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71002')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71002')",
+      "description": "This course examines the legal regulatory, and international environment of business. Included are the topics of alternative dispute resolution, the forms of business organization, regulations affecting employment, and current environmental statutes. Case studies are used to discuss torts, crimes, contracts and sales, warranty and product liability, labor law, employment discrimination, and environmental law.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71002",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 42,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-23T03:38:57.933850Z"
     },
     {
       "crn": "71038",
@@ -18586,8 +18629,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71038')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71038')",
+      "description": "This course examines the legal regulatory, and international environment of business. Included are the topics of alternative dispute resolution, the forms of business organization, regulations affecting employment, and current environmental statutes. Case studies are used to discuss torts, crimes, contracts and sales, warranty and product liability, labor law, employment discrimination, and environmental law.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71038",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-23T03:38:59.512002Z"
     },
     {
       "crn": "71285",
@@ -18619,7 +18684,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71285')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71285')",
+      "description": "This course examines the legal regulatory, and international environment of business. Included are the topics of alternative dispute resolution, the forms of business organization, regulations affecting employment, and current environmental statutes. Case studies are used to discuss torts, crimes, contracts and sales, warranty and product liability, labor law, employment discrimination, and environmental law.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71285",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 18,
+        "available": 27
+      },
+      "detail_fetched_at": "2025-08-23T03:39:01.096045Z"
     },
     {
       "crn": "71286",
@@ -18651,7 +18737,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71286')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71286')",
+      "description": "This course examines the legal regulatory, and international environment of business. Included are the topics of alternative dispute resolution, the forms of business organization, regulations affecting employment, and current environmental statutes. Case studies are used to discuss torts, crimes, contracts and sales, warranty and product liability, labor law, employment discrimination, and environmental law.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71286",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 28,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-08-23T03:39:02.685113Z"
     },
     {
       "crn": "71288",
@@ -18682,8 +18789,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71288')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71288')",
+      "description": "This course examines the legal regulatory, and international environment of business. Included are the topics of alternative dispute resolution, the forms of business organization, regulations affecting employment, and current environmental statutes. Case studies are used to discuss torts, crimes, contracts and sales, warranty and product liability, labor law, employment discrimination, and environmental law.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71288",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 48,
+        "available": -3
+      },
+      "detail_fetched_at": "2025-08-23T03:39:04.283131Z"
     },
     {
       "crn": "73794",
@@ -18715,7 +18843,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73794')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73794')",
+      "description": "This course examines the legal regulatory, and international environment of business. Included are the topics of alternative dispute resolution, the forms of business organization, regulations affecting employment, and current environmental statutes. Case studies are used to discuss torts, crimes, contracts and sales, warranty and product liability, labor law, employment discrimination, and environmental law.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73794",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 22,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-08-23T03:39:05.860746Z"
     },
     {
       "crn": "77821",
@@ -18747,7 +18896,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77821')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77821')",
+      "description": "This course examines the legal regulatory, and international environment of business. Included are the topics of alternative dispute resolution, the forms of business organization, regulations affecting employment, and current environmental statutes. Case studies are used to discuss torts, crimes, contracts and sales, warranty and product liability, labor law, employment discrimination, and environmental law.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77821",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 36,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-08-23T03:39:07.449425Z"
     },
     {
       "crn": "78020",
@@ -18779,7 +18949,29 @@
       "start_date": "08/18",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78020')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78020')",
+      "description": "This course examines the legal regulatory, and international environment of business. Included are the topics of alternative dispute resolution, the forms of business organization, regulations affecting employment, and current environmental statutes. Case studies are used to discuss torts, crimes, contracts and sales, warranty and product liability, labor law, employment discrimination, and environmental law.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "27-AUG-2025",
+        "Last day to drop with a refund": "27-AUG-2025",
+        "Last day to drop without a \"W\"": "17-SEP-2025",
+        "Last day to drop with a \"W\"": "05-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "04-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78020",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 20,
+        "available": 25
+      },
+      "detail_fetched_at": "2025-08-23T03:39:09.031523Z"
     },
     {
       "crn": "70041",
@@ -18810,8 +19002,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70041')"
+      "additional_hours": "3.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70041')",
+      "description": "This course is designed for students interested in working in group care and/or educational programs that enroll children from infancy to early adolescence. The course focuses on preventative health and safety practices in group care environments for both children and adults, and integrating these practices into daily program planning and development. The course also introduces students to the laws, regulations, standards, policies and procedures, and child development curriculum related to child nutrition, health, and safety. Topics include prevention and recognition of infectious disease, immunization, dental and mental health, child nutrition, menu planning, sanitary food handling, injury prevention, emergency preparedness and evacuation, and providing services for children with special needs; as well as child abuse prevention, identification, and reporting responsibilities. The importance of program collaboration with families and health professionals also is addressed. This course meets the Department of Social Services (DSS) Classification Indicator DS7 and the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "24-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "08-OCT-2025",
+        "Census Date": "25-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70041",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 32,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-08-23T03:39:10.616789Z"
     },
     {
       "crn": "70042",
@@ -18842,8 +19056,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70042')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70042')",
+      "description": "This course is designed for students interested in working in group care and/or educational programs that enroll children from infancy to early adolescence. The course focuses on preventative health and safety practices in group care environments for both children and adults, and integrating these practices into daily program planning and development. The course also introduces students to the laws, regulations, standards, policies and procedures, and child development curriculum related to child nutrition, health, and safety. Topics include prevention and recognition of infectious disease, immunization, dental and mental health, child nutrition, menu planning, sanitary food handling, injury prevention, emergency preparedness and evacuation, and providing services for children with special needs; as well as child abuse prevention, identification, and reporting responsibilities. The importance of program collaboration with families and health professionals also is addressed. This course meets the Department of Social Services (DSS) Classification Indicator DS7 and the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70042",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-23T03:39:12.202782Z"
     },
     {
       "crn": "77357",
@@ -18874,8 +19110,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77357')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77357')",
+      "description": "This course is designed for students interested in working in group care and/or educational programs that enroll children from infancy to early adolescence. The course focuses on preventative health and safety practices in group care environments for both children and adults, and integrating these practices into daily program planning and development. The course also introduces students to the laws, regulations, standards, policies and procedures, and child development curriculum related to child nutrition, health, and safety. Topics include prevention and recognition of infectious disease, immunization, dental and mental health, child nutrition, menu planning, sanitary food handling, injury prevention, emergency preparedness and evacuation, and providing services for children with special needs; as well as child abuse prevention, identification, and reporting responsibilities. The importance of program collaboration with families and health professionals also is addressed. This course meets the Department of Social Services (DSS) Classification Indicator DS7 and the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77357",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-23T03:39:13.782063Z"
     },
     {
       "crn": "77610",
@@ -18906,8 +19163,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77610')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77610')",
+      "description": "This course is designed for students interested in working in group care and/or educational programs that enroll children from infancy to early adolescence. The course focuses on preventative health and safety practices in group care environments for both children and adults, and integrating these practices into daily program planning and development. The course also introduces students to the laws, regulations, standards, policies and procedures, and child development curriculum related to child nutrition, health, and safety. Topics include prevention and recognition of infectious disease, immunization, dental and mental health, child nutrition, menu planning, sanitary food handling, injury prevention, emergency preparedness and evacuation, and providing services for children with special needs; as well as child abuse prevention, identification, and reporting responsibilities. The importance of program collaboration with families and health professionals also is addressed. This course meets the Department of Social Services (DSS) Classification Indicator DS7 and the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77610",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 23,
+        "available": 22
+      },
+      "detail_fetched_at": "2025-08-23T03:39:15.358270Z"
     },
     {
       "crn": "70046",
@@ -18939,7 +19218,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70046')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70046')",
+      "description": "This course provides an overview of human growth from conception to adolescence. The theories of development relevant to life through the teenage years are introduced, and the social, emotional, cognitive, and physical aspects of these early stages of life are addressed. This course is appropriate for students preparing for a profession working with children and their families, or those interested in furthering their understanding of child and adolescent development. This course is also designed to meet the Department of Social Services Classification DS1 and applies toward the State of California Title 5 requirement for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following coursers: CD 106 or PSY 112)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70046",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-23T03:39:16.937445Z"
     },
     {
       "crn": "70048",
@@ -18970,8 +19270,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70048')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70048')",
+      "description": "This course provides an overview of human growth from conception to adolescence. The theories of development relevant to life through the teenage years are introduced, and the social, emotional, cognitive, and physical aspects of these early stages of life are addressed. This course is appropriate for students preparing for a profession working with children and their families, or those interested in furthering their understanding of child and adolescent development. This course is also designed to meet the Department of Social Services Classification DS1 and applies toward the State of California Title 5 requirement for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following coursers: CD 106 or PSY 112)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70048",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 46,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-23T03:39:18.513666Z"
     },
     {
       "crn": "70054",
@@ -19002,8 +19323,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70054')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70054')",
+      "description": "This course provides an overview of human growth from conception to adolescence. The theories of development relevant to life through the teenage years are introduced, and the social, emotional, cognitive, and physical aspects of these early stages of life are addressed. This course is appropriate for students preparing for a profession working with children and their families, or those interested in furthering their understanding of child and adolescent development. This course is also designed to meet the Department of Social Services Classification DS1 and applies toward the State of California Title 5 requirement for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following coursers: CD 106 or PSY 112)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70054",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-23T03:39:20.090986Z"
     },
     {
       "crn": "70055",
@@ -19034,8 +19377,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70055')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70055')",
+      "description": "This course provides an overview of human growth from conception to adolescence. The theories of development relevant to life through the teenage years are introduced, and the social, emotional, cognitive, and physical aspects of these early stages of life are addressed. This course is appropriate for students preparing for a profession working with children and their families, or those interested in furthering their understanding of child and adolescent development. This course is also designed to meet the Department of Social Services Classification DS1 and applies toward the State of California Title 5 requirement for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following coursers: CD 106 or PSY 112)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70055",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-23T03:39:21.676064Z"
     },
     {
       "crn": "75790",
@@ -19066,8 +19431,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75790')"
+      "additional_hours": "1.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75790')",
+      "description": "This course provides an overview of human growth from conception to adolescence. The theories of development relevant to life through the teenage years are introduced, and the social, emotional, cognitive, and physical aspects of these early stages of life are addressed. This course is appropriate for students preparing for a profession working with children and their families, or those interested in furthering their understanding of child and adolescent development. This course is also designed to meet the Department of Social Services Classification DS1 and applies toward the State of California Title 5 requirement for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following coursers: CD 106 or PSY 112)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "02-SEP-2025",
+        "Last day to drop with a refund": "02-SEP-2025",
+        "Last day to drop without a \"W\"": "23-SEP-2025",
+        "Last day to drop with a \"W\"": "11-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "02-DEC-2025",
+        "Census Date": "16-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75790",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 10,
+        "available": 35
+      },
+      "detail_fetched_at": "2025-08-23T03:39:23.258090Z"
     },
     {
       "crn": "75791",
@@ -19099,7 +19486,29 @@
       "start_date": "09/01",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75791')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75791')",
+      "description": "This course provides an overview of human growth from conception to adolescence. The theories of development relevant to life through the teenage years are introduced, and the social, emotional, cognitive, and physical aspects of these early stages of life are addressed. This course is appropriate for students preparing for a profession working with children and their families, or those interested in furthering their understanding of child and adolescent development. This course is also designed to meet the Department of Social Services Classification DS1 and applies toward the State of California Title 5 requirement for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following coursers: CD 106 or PSY 112)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "08-SEP-2025",
+        "Last day to drop with a refund": "08-SEP-2025",
+        "Last day to drop without a \"W\"": "24-SEP-2025",
+        "Last day to drop with a \"W\"": "10-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "17-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75791",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 0,
+        "available": 45
+      },
+      "detail_fetched_at": "2025-08-23T03:39:24.837232Z"
     },
     {
       "crn": "75793",
@@ -19130,8 +19539,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75793')"
+      "additional_hours": "1.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75793')",
+      "description": "This course provides an overview of human growth from conception to adolescence. The theories of development relevant to life through the teenage years are introduced, and the social, emotional, cognitive, and physical aspects of these early stages of life are addressed. This course is appropriate for students preparing for a profession working with children and their families, or those interested in furthering their understanding of child and adolescent development. This course is also designed to meet the Department of Social Services Classification DS1 and applies toward the State of California Title 5 requirement for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following coursers: CD 106 or PSY 112)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-SEP-2025",
+        "Last day to drop with a refund": "03-SEP-2025",
+        "Last day to drop without a \"W\"": "24-SEP-2025",
+        "Last day to drop with a \"W\"": "05-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "17-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75793",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 0,
+        "available": 45
+      },
+      "detail_fetched_at": "2025-08-23T03:39:26.425192Z"
     },
     {
       "crn": "75802",
@@ -19163,7 +19594,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75802')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75802')",
+      "description": "This course provides an overview of human growth from conception to adolescence. The theories of development relevant to life through the teenage years are introduced, and the social, emotional, cognitive, and physical aspects of these early stages of life are addressed. This course is appropriate for students preparing for a profession working with children and their families, or those interested in furthering their understanding of child and adolescent development. This course is also designed to meet the Department of Social Services Classification DS1 and applies toward the State of California Title 5 requirement for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following coursers: CD 106 or PSY 112)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75802",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 31,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-08-23T03:39:28.010054Z"
     },
     {
       "crn": "77358",
@@ -19194,8 +19646,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77358')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77358')",
+      "description": "This course provides an overview of human growth from conception to adolescence. The theories of development relevant to life through the teenage years are introduced, and the social, emotional, cognitive, and physical aspects of these early stages of life are addressed. This course is appropriate for students preparing for a profession working with children and their families, or those interested in furthering their understanding of child and adolescent development. This course is also designed to meet the Department of Social Services Classification DS1 and applies toward the State of California Title 5 requirement for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following coursers: CD 106 or PSY 112)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77358",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-23T03:39:29.585781Z"
     },
     {
       "crn": "77765",
@@ -19226,8 +19699,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77765')"
+      "additional_hours": "3.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77765')",
+      "description": "This course provides an overview of human growth from conception to adolescence. The theories of development relevant to life through the teenage years are introduced, and the social, emotional, cognitive, and physical aspects of these early stages of life are addressed. This course is appropriate for students preparing for a profession working with children and their families, or those interested in furthering their understanding of child and adolescent development. This course is also designed to meet the Department of Social Services Classification DS1 and applies toward the State of California Title 5 requirement for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following coursers: CD 106 or PSY 112)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "15-OCT-2025",
+        "Last day to drop with a refund": "15-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "19-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "20-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77765",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 23,
+        "available": 22
+      },
+      "detail_fetched_at": "2025-08-23T03:39:31.170191Z"
     },
     {
       "crn": "77797",
@@ -19258,8 +19753,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77797')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77797')",
+      "description": "This course provides an overview of human growth from conception to adolescence. The theories of development relevant to life through the teenage years are introduced, and the social, emotional, cognitive, and physical aspects of these early stages of life are addressed. This course is appropriate for students preparing for a profession working with children and their families, or those interested in furthering their understanding of child and adolescent development. This course is also designed to meet the Department of Social Services Classification DS1 and applies toward the State of California Title 5 requirement for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following coursers: CD 106 or PSY 112)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77797",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-23T03:39:32.754721Z"
     },
     {
       "crn": "70058",
@@ -19290,8 +19807,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70058')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70058')",
+      "description": "This course is designed for students who seek to work in educational programs for children from birth to age eight. The course examines the underlying theoretical principles of developmentally appropriate practices applied to programs and environments, emphasizing the key role of relationship, constructive adult-child interaction, and teaching strategies in supporting physical, social, creative, and intellectual development for all children. This course includes a review of the historical roots or early childhood programs and the evolution of the professional practices promoting advocacy, ethics, and professional identity. This course applies towards the childcare licensing category 3 (DS3) as authorized by Title 22 within the California Department of Social Services (CDSS), as well as the California teacher credentialing requirements for the child development permit.",
+      "prerequisites": null,
+      "advisory": "",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70058",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 35,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-08-23T03:39:34.330655Z"
     },
     {
       "crn": "70059",
@@ -19322,8 +19860,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70059')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70059')",
+      "description": "This course is designed for students who seek to work in educational programs for children from birth to age eight. The course examines the underlying theoretical principles of developmentally appropriate practices applied to programs and environments, emphasizing the key role of relationship, constructive adult-child interaction, and teaching strategies in supporting physical, social, creative, and intellectual development for all children. This course includes a review of the historical roots or early childhood programs and the evolution of the professional practices promoting advocacy, ethics, and professional identity. This course applies towards the childcare licensing category 3 (DS3) as authorized by Title 22 within the California Department of Social Services (CDSS), as well as the California teacher credentialing requirements for the child development permit.",
+      "prerequisites": null,
+      "advisory": "",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70059",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-23T03:39:35.909678Z"
     },
     {
       "crn": "70061",
@@ -19354,8 +19913,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70061')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70061')",
+      "description": "This course is designed for students who seek to work in educational programs for children from birth to age eight. The course examines the underlying theoretical principles of developmentally appropriate practices applied to programs and environments, emphasizing the key role of relationship, constructive adult-child interaction, and teaching strategies in supporting physical, social, creative, and intellectual development for all children. This course includes a review of the historical roots or early childhood programs and the evolution of the professional practices promoting advocacy, ethics, and professional identity. This course applies towards the childcare licensing category 3 (DS3) as authorized by Title 22 within the California Department of Social Services (CDSS), as well as the California teacher credentialing requirements for the child development permit.",
+      "prerequisites": null,
+      "advisory": "",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70061",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-23T03:39:37.484164Z"
     },
     {
       "crn": "70063",
@@ -19387,7 +19968,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70063')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70063')",
+      "description": "This introductory course presents current concepts in childhood curriculum development and implementation. Students design curriculum based on observation and assessment of young children to support play and learning using developmental, inclusive, and anti-bias principles in collaboration with families to support all children; demonstrate knowledge of the teachers\u2019 role in evaluating best practices; and apply understanding of children\u2019s learning and development. This course is meant for students who plan to create and implement children\u2019s educational programs. This course is also designed to meet the State of California Title 22 Department of Social Services Classification Indicator DS3 and applies to the State of California Title 5 requirements for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70063",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 22,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-08-23T03:39:39.059910Z"
     },
     {
       "crn": "70064",
@@ -19418,8 +20020,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70064')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70064')",
+      "description": "This introductory course presents current concepts in childhood curriculum development and implementation. Students design curriculum based on observation and assessment of young children to support play and learning using developmental, inclusive, and anti-bias principles in collaboration with families to support all children; demonstrate knowledge of the teachers\u2019 role in evaluating best practices; and apply understanding of children\u2019s learning and development. This course is meant for students who plan to create and implement children\u2019s educational programs. This course is also designed to meet the State of California Title 22 Department of Social Services Classification Indicator DS3 and applies to the State of California Title 5 requirements for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70064",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-23T03:39:40.641199Z"
     },
     {
       "crn": "75260",
@@ -19450,8 +20073,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75260')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75260')",
+      "description": "This introductory course presents current concepts in childhood curriculum development and implementation. Students design curriculum based on observation and assessment of young children to support play and learning using developmental, inclusive, and anti-bias principles in collaboration with families to support all children; demonstrate knowledge of the teachers\u2019 role in evaluating best practices; and apply understanding of children\u2019s learning and development. This course is meant for students who plan to create and implement children\u2019s educational programs. This course is also designed to meet the State of California Title 22 Department of Social Services Classification Indicator DS3 and applies to the State of California Title 5 requirements for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75260",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-23T03:39:42.214942Z"
     },
     {
       "crn": "72192",
@@ -19482,8 +20127,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72192')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72192')",
+      "description": "This course is designed for students working towards a Child Development Permit. The course focuses on the appropriate use of assessment and observation strategies applied to document development, growth, play, and learning in order to join with families and professionals in promoting children\u2019s success and maintaining quality programs. Recording strategies, rating systems, portfolios, and multiple assessment methods are explored. Advantages and disadvantages of observation techniques, observer bias, and cultural considerations are discussed. This course meets the Department of Social Services (DSS) Classification Indicator DS3 and applies toward the State of California Title 5 requirement for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72192",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-23T03:39:43.789825Z"
     },
     {
       "crn": "72764",
@@ -19515,7 +20181,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72764')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72764')",
+      "description": "This course is designed for students working towards a Child Development Permit. The course focuses on the appropriate use of assessment and observation strategies applied to document development, growth, play, and learning in order to join with families and professionals in promoting children\u2019s success and maintaining quality programs. Recording strategies, rating systems, portfolios, and multiple assessment methods are explored. Advantages and disadvantages of observation techniques, observer bias, and cultural considerations are discussed. This course meets the Department of Social Services (DSS) Classification Indicator DS3 and applies toward the State of California Title 5 requirement for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72764",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 32,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-08-23T03:39:45.374223Z"
     },
     {
       "crn": "70072",
@@ -19546,8 +20233,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70072')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70072')",
+      "description": "This course is designed for students desiring to work with children in a group setting, as well as for parents and others who wish to further their understanding of how the socio-cultural environment affects the developing child. The course examines the historical and contemporary interrelationship of family, school and community on child development. The process of socialization and identity formation will be highlighted, showing the importance of respectful, reciprocal relationships that support and empower families. This course meets the Department of Social Services Classification Indicator DS2 and the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70072",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 22,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-08-23T03:39:46.954000Z"
     },
     {
       "crn": "70073",
@@ -19578,8 +20286,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70073')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70073')",
+      "description": "This course is designed for students desiring to work with children in a group setting, as well as for parents and others who wish to further their understanding of how the socio-cultural environment affects the developing child. The course examines the historical and contemporary interrelationship of family, school and community on child development. The process of socialization and identity formation will be highlighted, showing the importance of respectful, reciprocal relationships that support and empower families. This course meets the Department of Social Services Classification Indicator DS2 and the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70073",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-23T03:39:48.537781Z"
     },
     {
       "crn": "71481",
@@ -19611,7 +20341,29 @@
       "start_date": "09/01",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71481')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71481')",
+      "description": "This course is designed for students desiring to work with children in a group setting, as well as for parents and others who wish to further their understanding of how the socio-cultural environment affects the developing child. The course examines the historical and contemporary interrelationship of family, school and community on child development. The process of socialization and identity formation will be highlighted, showing the importance of respectful, reciprocal relationships that support and empower families. This course meets the Department of Social Services Classification Indicator DS2 and the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "08-SEP-2025",
+        "Last day to drop with a refund": "08-SEP-2025",
+        "Last day to drop without a \"W\"": "24-SEP-2025",
+        "Last day to drop with a \"W\"": "05-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "17-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71481",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 0,
+        "available": 45
+      },
+      "detail_fetched_at": "2025-08-23T03:39:50.124745Z"
     },
     {
       "crn": "74302",
@@ -19642,8 +20394,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74302')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74302')",
+      "description": "This course is designed for students desiring to work with children in a group setting, as well as for parents and others who wish to further their understanding of how the socio-cultural environment affects the developing child. The course examines the historical and contemporary interrelationship of family, school and community on child development. The process of socialization and identity formation will be highlighted, showing the importance of respectful, reciprocal relationships that support and empower families. This course meets the Department of Social Services Classification Indicator DS2 and the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74302",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 46,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-23T03:39:51.700794Z"
     },
     {
       "crn": "76425",
@@ -19674,8 +20447,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76425')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76425')",
+      "description": "This course is designed for students desiring to work with children in a group setting, as well as for parents and others who wish to further their understanding of how the socio-cultural environment affects the developing child. The course examines the historical and contemporary interrelationship of family, school and community on child development. The process of socialization and identity formation will be highlighted, showing the importance of respectful, reciprocal relationships that support and empower families. This course meets the Department of Social Services Classification Indicator DS2 and the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76425",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-23T03:39:53.272557Z"
     },
     {
       "crn": "76628",
@@ -19707,7 +20502,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76628')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76628')",
+      "description": "This course is designed for students desiring to work with children in a group setting, as well as for parents and others who wish to further their understanding of how the socio-cultural environment affects the developing child. The course examines the historical and contemporary interrelationship of family, school and community on child development. The process of socialization and identity formation will be highlighted, showing the importance of respectful, reciprocal relationships that support and empower families. This course meets the Department of Social Services Classification Indicator DS2 and the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76628",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 28,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-08-23T03:39:54.854113Z"
     },
     {
       "crn": "73731",
@@ -19738,8 +20554,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73731')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73731')",
+      "description": "This course studies infants and toddlers from pre-conception to age three, including physical, cognitive, language, social, and emotional growth and development. The focus of this course applies theoretical frameworks to interpret behavior and interactions between heredity and environment; it also emphasizes the role of family and relationships in development. This course meets the Department of Social Services (DSS) Classification Indicator DS4 and applies towards the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73731",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 26,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-08-23T03:39:56.433669Z"
     },
     {
       "crn": "74305",
@@ -19770,8 +20608,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74305')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74305')",
+      "description": "This course studies infants and toddlers from pre-conception to age three, including physical, cognitive, language, social, and emotional growth and development. The focus of this course applies theoretical frameworks to interpret behavior and interactions between heredity and environment; it also emphasizes the role of family and relationships in development. This course meets the Department of Social Services (DSS) Classification Indicator DS4 and applies towards the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74305",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-23T03:39:58.008357Z"
     },
     {
       "crn": "77810",
@@ -19802,8 +20661,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77810')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77810')",
+      "description": "This course studies infants and toddlers from pre-conception to age three, including physical, cognitive, language, social, and emotional growth and development. The focus of this course applies theoretical frameworks to interpret behavior and interactions between heredity and environment; it also emphasizes the role of family and relationships in development. This course meets the Department of Social Services (DSS) Classification Indicator DS4 and applies towards the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77810",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 28,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-08-23T03:39:59.588326Z"
     },
     {
       "crn": "74300",
@@ -19834,8 +20715,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74300')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74300')",
+      "description": "This course is designed for students interested in working in children's programs and educational settings, and addresses the similarities, variety, and multiplicity found within programs and educational settings for young children, school age children, and adolescents. Topics covered include family values, culture, race, gender, social class, sexual preference, language, and abilities. Focus also is placed on developmental appropriateness in addressing diversity, parental perspectives, and the effects of diversity on the domains of development. This course meets the Department of Social Services (DSS) Classification Indicator DS 3 and applies towards the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74300",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 39,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-23T03:40:01.162907Z"
     },
     {
       "crn": "74304",
@@ -19866,8 +20768,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74304')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74304')",
+      "description": "This course is designed for students interested in working in children's programs and educational settings, and addresses the similarities, variety, and multiplicity found within programs and educational settings for young children, school age children, and adolescents. Topics covered include family values, culture, race, gender, social class, sexual preference, language, and abilities. Focus also is placed on developmental appropriateness in addressing diversity, parental perspectives, and the effects of diversity on the domains of development. This course meets the Department of Social Services (DSS) Classification Indicator DS 3 and applies towards the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74304",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 37,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-08-23T03:40:02.741337Z"
     },
     {
       "crn": "70079",
@@ -19898,8 +20822,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70079')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70079')",
+      "description": "This course is designed for students who want to work in children\u2019s programs or educational environments, preparing them to facilitate the learning and development of children with special needs. The course introduces the variations in the development of children with special needs, ages birth through eight, and the resulting impact on families; it also includes an overview of historical and societal influences, laws relating to children with special needs, and the identification and referral process. This course applies toward the State of California Teacher Credentialing requirements for the Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70079",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-23T03:40:04.316834Z"
     },
     {
       "crn": "74289",
@@ -19930,8 +20876,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74289')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74289')",
+      "description": null,
+      "prerequisites": "CD 106, CD 110, CD 111, CD 114 and CD 208; Verification of immunizations against influenza, pertussis, and measles and freedom from tuberculosis are necessary to fulfill the lab requirement of this course.",
+      "advisory": null,
+      "transfers_to": "CSUIn this capstone course, students practice and demonstrate developmentally appropriate early childhood program planning and teaching competencies under the supervision of Child Development faculty and other qualified early education professionals. Students utilize practical classroom experiences to make connections between theory and practice, develop professional behaviors, and build a comprehensive understanding of children and families. Child-centered, play-oriented approaches to teaching, learning, and assessment; and knowledge of curriculum content areas are emphasized as student-teachers design, implement, and evaluate experiences that promote positive development and learning for all young children.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74289",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 12,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-23T03:40:05.895874Z"
     },
     {
       "crn": "76965",
@@ -19962,8 +20929,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76965')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76965')",
+      "description": null,
+      "prerequisites": "CD 106, CD 110, CD 111, CD 114 and CD 208; Verification of immunizations against influenza, pertussis, and measles and freedom from tuberculosis are necessary to fulfill the lab requirement of this course.",
+      "advisory": null,
+      "transfers_to": "CSUIn this capstone course, students practice and demonstrate developmentally appropriate early childhood program planning and teaching competencies under the supervision of Child Development faculty and other qualified early education professionals. Students utilize practical classroom experiences to make connections between theory and practice, develop professional behaviors, and build a comprehensive understanding of children and families. Child-centered, play-oriented approaches to teaching, learning, and assessment; and knowledge of curriculum content areas are emphasized as student-teachers design, implement, and evaluate experiences that promote positive development and learning for all young children.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76965",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 13,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-08-23T03:40:07.488138Z"
     },
     {
       "crn": "74290",
@@ -19994,8 +20982,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74290')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74290')",
+      "description": "This course is designed for students interested in facilitating and supporting literacy development in children enrolled in group care and educational environments. Focus is on effective skills and techniques utilized by teachers and caregivers to enhance the development of emergent literacy skills throughout childhood. Students develop knowledge of the sequence of literacy and language development, developmentally appropriate practices in classroom environments, and a balanced literacy approach. Effective assessment and curriculum and techniques to promote skill development are also introduced. The course meets the Department of Social Services (DSS) Classification Indicator DS3 and applies towards the State of California Department of Education Title 5 Child Development Permit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74290",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 38,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-08-23T03:40:09.065888Z"
     },
     {
       "crn": "70717",
@@ -20027,7 +21036,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70717')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70717')",
+      "description": "This introductory course takes up the fundamental concepts of general, organic, and biological chemistry. Emphasis is placed on the relationship between chemistry and the health/medical sciences, so the course is especially appropriate for students who intend to pursue a career in nursing and other health-related professions, including kinesiology and psychology. Weekly laboratory activities require students to empirically verify concepts presented in lectures. No previous background in chemistry is required or expected of students enrolling in this course.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra or pre-statistics course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU(* Students will receive credit for only one of the following courses: CHEM 110, CHEM 120)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70717",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 21,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-23T03:40:10.640640Z"
     },
     {
       "crn": "70720",
@@ -20059,7 +21089,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70720')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70720')",
+      "description": "This introductory course takes up the fundamental concepts of general, organic, and biological chemistry. Emphasis is placed on the relationship between chemistry and the health/medical sciences, so the course is especially appropriate for students who intend to pursue a career in nursing and other health-related professions, including kinesiology and psychology. Weekly laboratory activities require students to empirically verify concepts presented in lectures. No previous background in chemistry is required or expected of students enrolling in this course.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra or pre-statistics course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU(* Students will receive credit for only one of the following courses: CHEM 110, CHEM 120)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70720",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-23T03:40:12.225641Z"
     },
     {
       "crn": "70721",
@@ -20091,7 +21142,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70721')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70721')",
+      "description": "This introductory course takes up the fundamental concepts of general, organic, and biological chemistry. Emphasis is placed on the relationship between chemistry and the health/medical sciences, so the course is especially appropriate for students who intend to pursue a career in nursing and other health-related professions, including kinesiology and psychology. Weekly laboratory activities require students to empirically verify concepts presented in lectures. No previous background in chemistry is required or expected of students enrolling in this course.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra or pre-statistics course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU(* Students will receive credit for only one of the following courses: CHEM 110, CHEM 120)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70721",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-23T03:40:13.805584Z"
     },
     {
       "crn": "76968",
@@ -60266,8 +61338,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-22T03:42:26.451763+00:00Z",
-    "courses_with_details": 347,
+    "detail_collection_timestamp": "2025-08-23T03:40:13.880988+00:00Z",
+    "courses_with_details": 397,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
