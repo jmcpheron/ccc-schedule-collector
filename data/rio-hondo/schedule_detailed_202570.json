@@ -21195,7 +21195,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76968')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76968')",
+      "description": "This introductory course takes up the fundamental concepts of general, organic, and biological chemistry. Emphasis is placed on the relationship between chemistry and the health/medical sciences, so the course is especially appropriate for students who intend to pursue a career in nursing and other health-related professions, including kinesiology and psychology. Weekly laboratory activities require students to empirically verify concepts presented in lectures. No previous background in chemistry is required or expected of students enrolling in this course.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra or pre-statistics course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU(* Students will receive credit for only one of the following courses: CHEM 110, CHEM 120)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76968",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 28,
+        "available": -4
+      },
+      "detail_fetched_at": "2025-08-24T03:43:36.224777Z"
     },
     {
       "crn": "76969",
@@ -21227,7 +21248,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76969')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76969')",
+      "description": "This introductory course takes up the fundamental concepts of general, organic, and biological chemistry. Emphasis is placed on the relationship between chemistry and the health/medical sciences, so the course is especially appropriate for students who intend to pursue a career in nursing and other health-related professions, including kinesiology and psychology. Weekly laboratory activities require students to empirically verify concepts presented in lectures. No previous background in chemistry is required or expected of students enrolling in this course.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra or pre-statistics course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU(* Students will receive credit for only one of the following courses: CHEM 110, CHEM 120)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76969",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-24T03:43:37.853678Z"
     },
     {
       "crn": "77033",
@@ -21259,7 +21301,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77033')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77033')",
+      "description": "This introductory course takes up the fundamental concepts of general, organic, and biological chemistry. Emphasis is placed on the relationship between chemistry and the health/medical sciences, so the course is especially appropriate for students who intend to pursue a career in nursing and other health-related professions, including kinesiology and psychology. Weekly laboratory activities require students to empirically verify concepts presented in lectures. No previous background in chemistry is required or expected of students enrolling in this course.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra or pre-statistics course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU(* Students will receive credit for only one of the following courses: CHEM 110, CHEM 120)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77033",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 18,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-24T03:43:39.481269Z"
     },
     {
       "crn": "77034",
@@ -21291,7 +21354,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77034')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77034')",
+      "description": "This introductory course takes up the fundamental concepts of general, organic, and biological chemistry. Emphasis is placed on the relationship between chemistry and the health/medical sciences, so the course is especially appropriate for students who intend to pursue a career in nursing and other health-related professions, including kinesiology and psychology. Weekly laboratory activities require students to empirically verify concepts presented in lectures. No previous background in chemistry is required or expected of students enrolling in this course.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra or pre-statistics course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU(* Students will receive credit for only one of the following courses: CHEM 110, CHEM 120)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77034",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 19,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-24T03:43:41.107966Z"
     },
     {
       "crn": "77038",
@@ -21323,7 +21407,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77038')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77038')",
+      "description": "This introductory course takes up the fundamental concepts of general, organic, and biological chemistry. Emphasis is placed on the relationship between chemistry and the health/medical sciences, so the course is especially appropriate for students who intend to pursue a career in nursing and other health-related professions, including kinesiology and psychology. Weekly laboratory activities require students to empirically verify concepts presented in lectures. No previous background in chemistry is required or expected of students enrolling in this course.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra or pre-statistics course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU(* Students will receive credit for only one of the following courses: CHEM 110, CHEM 120)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77038",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 27,
+        "available": -3
+      },
+      "detail_fetched_at": "2025-08-24T03:43:42.733761Z"
     },
     {
       "crn": "77039",
@@ -21355,7 +21460,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77039')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77039')",
+      "description": "This introductory course takes up the fundamental concepts of general, organic, and biological chemistry. Emphasis is placed on the relationship between chemistry and the health/medical sciences, so the course is especially appropriate for students who intend to pursue a career in nursing and other health-related professions, including kinesiology and psychology. Weekly laboratory activities require students to empirically verify concepts presented in lectures. No previous background in chemistry is required or expected of students enrolling in this course.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra or pre-statistics course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU(* Students will receive credit for only one of the following courses: CHEM 110, CHEM 120)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77039",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 21,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-24T03:43:44.364090Z"
     },
     {
       "crn": "77040",
@@ -21387,7 +21513,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77040')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77040')",
+      "description": "This introductory course takes up the fundamental concepts of general, organic, and biological chemistry. Emphasis is placed on the relationship between chemistry and the health/medical sciences, so the course is especially appropriate for students who intend to pursue a career in nursing and other health-related professions, including kinesiology and psychology. Weekly laboratory activities require students to empirically verify concepts presented in lectures. No previous background in chemistry is required or expected of students enrolling in this course.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra or pre-statistics course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU(* Students will receive credit for only one of the following courses: CHEM 110, CHEM 120)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77040",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-24T03:43:46.001922Z"
     },
     {
       "crn": "70724",
@@ -21419,7 +21566,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70724')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70724')",
+      "description": "This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences. This course introduces the fundamental principles of general chemistry, with emphasis on chemical nomenclature and quantitative problems in chemistry. The lecture presents classical and modern chemistry, including atomic theory, periodic properties, chemical bonding, chemical reactions, stoichiometry, acids and bases, gas laws, and solutions. The laboratory introduces the techniques of experimental chemistry with examples from all areas of chemistry.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following courses: CHEM 110, CHEM 120; no credit if taken after CHEM 130)This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70724",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 22,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-24T03:43:47.627518Z"
     },
     {
       "crn": "70725",
@@ -21451,7 +21619,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70725')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70725')",
+      "description": "This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences. This course introduces the fundamental principles of general chemistry, with emphasis on chemical nomenclature and quantitative problems in chemistry. The lecture presents classical and modern chemistry, including atomic theory, periodic properties, chemical bonding, chemical reactions, stoichiometry, acids and bases, gas laws, and solutions. The laboratory introduces the techniques of experimental chemistry with examples from all areas of chemistry.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following courses: CHEM 110, CHEM 120; no credit if taken after CHEM 130)This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70725",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-24T03:43:49.252617Z"
     },
     {
       "crn": "70726",
@@ -21483,7 +21672,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70726')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70726')",
+      "description": "This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences. This course introduces the fundamental principles of general chemistry, with emphasis on chemical nomenclature and quantitative problems in chemistry. The lecture presents classical and modern chemistry, including atomic theory, periodic properties, chemical bonding, chemical reactions, stoichiometry, acids and bases, gas laws, and solutions. The laboratory introduces the techniques of experimental chemistry with examples from all areas of chemistry.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following courses: CHEM 110, CHEM 120; no credit if taken after CHEM 130)This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70726",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-24T03:43:50.883977Z"
     },
     {
       "crn": "73698",
@@ -21515,7 +21725,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73698')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73698')",
+      "description": "This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences. This course introduces the fundamental principles of general chemistry, with emphasis on chemical nomenclature and quantitative problems in chemistry. The lecture presents classical and modern chemistry, including atomic theory, periodic properties, chemical bonding, chemical reactions, stoichiometry, acids and bases, gas laws, and solutions. The laboratory introduces the techniques of experimental chemistry with examples from all areas of chemistry.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following courses: CHEM 110, CHEM 120; no credit if taken after CHEM 130)This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73698",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 21,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-24T03:43:52.508556Z"
     },
     {
       "crn": "75144",
@@ -21547,7 +21778,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75144')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75144')",
+      "description": "This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences. This course introduces the fundamental principles of general chemistry, with emphasis on chemical nomenclature and quantitative problems in chemistry. The lecture presents classical and modern chemistry, including atomic theory, periodic properties, chemical bonding, chemical reactions, stoichiometry, acids and bases, gas laws, and solutions. The laboratory introduces the techniques of experimental chemistry with examples from all areas of chemistry.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following courses: CHEM 110, CHEM 120; no credit if taken after CHEM 130)This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75144",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-24T03:43:54.135301Z"
     },
     {
       "crn": "75145",
@@ -21579,7 +21831,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75145')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75145')",
+      "description": "This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences. This course introduces the fundamental principles of general chemistry, with emphasis on chemical nomenclature and quantitative problems in chemistry. The lecture presents classical and modern chemistry, including atomic theory, periodic properties, chemical bonding, chemical reactions, stoichiometry, acids and bases, gas laws, and solutions. The laboratory introduces the techniques of experimental chemistry with examples from all areas of chemistry.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following courses: CHEM 110, CHEM 120; no credit if taken after CHEM 130)This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75145",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-24T03:43:55.769188Z"
     },
     {
       "crn": "77036",
@@ -21611,7 +21884,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77036')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77036')",
+      "description": "This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences. This course introduces the fundamental principles of general chemistry, with emphasis on chemical nomenclature and quantitative problems in chemistry. The lecture presents classical and modern chemistry, including atomic theory, periodic properties, chemical bonding, chemical reactions, stoichiometry, acids and bases, gas laws, and solutions. The laboratory introduces the techniques of experimental chemistry with examples from all areas of chemistry.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following courses: CHEM 110, CHEM 120; no credit if taken after CHEM 130)This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77036",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 22,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-24T03:43:57.394636Z"
     },
     {
       "crn": "77037",
@@ -21643,7 +21937,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77037')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77037')",
+      "description": "This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences. This course introduces the fundamental principles of general chemistry, with emphasis on chemical nomenclature and quantitative problems in chemistry. The lecture presents classical and modern chemistry, including atomic theory, periodic properties, chemical bonding, chemical reactions, stoichiometry, acids and bases, gas laws, and solutions. The laboratory introduces the techniques of experimental chemistry with examples from all areas of chemistry.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*Credit limit), CSU (*Students will receive credit for only one of the following courses: CHEM 110, CHEM 120; no credit if taken after CHEM 130)This one-semester course is designed for students intending to major in science or engineering. The course primarily prepares students for CHEM130; additionally, it fulfills the General Education requirement in the physical sciences.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77037",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-24T03:43:59.020209Z"
     },
     {
       "crn": "70738",
@@ -21675,7 +21990,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70738')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70738')",
+      "description": "This course is the first semester of a two-semester sequence designed for students intending to major in science and engineering. The lecture course covers classical and modern chemistry, with applications in stoichiometry and classical atomic theory of chemistry, periodic properties, gas laws, modern quantum theory of atomic and molecular structure and periodic properties, thermochemistry, liquids and solids, and solution chemistry. The laboratory introduces experimental chemistry with examples from all areas of chemistry.",
+      "prerequisites": "CHEM 120",
+      "advisory": "ENGL C1000; MATH 175",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70738",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 30,
+        "available": -6
+      },
+      "detail_fetched_at": "2025-08-24T03:44:00.651256Z"
     },
     {
       "crn": "70739",
@@ -21707,7 +22043,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70739')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70739')",
+      "description": "This course is the first semester of a two-semester sequence designed for students intending to major in science and engineering. The lecture course covers classical and modern chemistry, with applications in stoichiometry and classical atomic theory of chemistry, periodic properties, gas laws, modern quantum theory of atomic and molecular structure and periodic properties, thermochemistry, liquids and solids, and solution chemistry. The laboratory introduces experimental chemistry with examples from all areas of chemistry.",
+      "prerequisites": "CHEM 120",
+      "advisory": "ENGL C1000; MATH 175",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70739",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 28,
+        "available": -4
+      },
+      "detail_fetched_at": "2025-08-24T03:44:02.277957Z"
     },
     {
       "crn": "75146",
@@ -21739,7 +22096,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75146')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75146')",
+      "description": "This course is the first semester of a two-semester sequence designed for students intending to major in science and engineering. The lecture course covers classical and modern chemistry, with applications in stoichiometry and classical atomic theory of chemistry, periodic properties, gas laws, modern quantum theory of atomic and molecular structure and periodic properties, thermochemistry, liquids and solids, and solution chemistry. The laboratory introduces experimental chemistry with examples from all areas of chemistry.",
+      "prerequisites": "CHEM 120",
+      "advisory": "ENGL C1000; MATH 175",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75146",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-24T03:44:03.921802Z"
     },
     {
       "crn": "75692",
@@ -21771,7 +22149,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75692')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75692')",
+      "description": "This course is the first semester of a two-semester sequence designed for students intending to major in science and engineering. The lecture course covers classical and modern chemistry, with applications in stoichiometry and classical atomic theory of chemistry, periodic properties, gas laws, modern quantum theory of atomic and molecular structure and periodic properties, thermochemistry, liquids and solids, and solution chemistry. The laboratory introduces experimental chemistry with examples from all areas of chemistry.",
+      "prerequisites": "CHEM 120",
+      "advisory": "ENGL C1000; MATH 175",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75692",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 19,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-24T03:44:05.548672Z"
     },
     {
       "crn": "73728",
@@ -21803,7 +22202,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73728')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73728')",
+      "description": null,
+      "prerequisites": "CHEM 130",
+      "advisory": "ENGL C1000; MATH 180",
+      "transfers_to": "UC, CSUCHEM 140 is a continuation of CHEM 130. Theory and techniques of elementary physical chemistry are stressed. Emphasis is placed on the dynamics of chemical change using thermodynamics and reaction kinetics as the major tools. A thorough treatment of equilibrium is given, with many examples of acid/base, buffer, solubility, and complex ions. Entropy and free energy, electrochemistry, coordination compounds and a brief introduction to organic chemistry and nuclear chemistry are presented. Various analytical techniques used in modern chemistry are introduced. Descriptive chemistry of representative metallic and nonmetallic elements is included. The Laboratory introduces experimental chemistry with examples from areas of kinetics, equilibrium, acid/base and buffer preparation, differential titration, electrochemistry, and qualitative analysis. Modern instrumental methods are used in some exercises. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 23-AUG-2025 08:08:18 PM Title: CHEM 140 General Chemistry II CRN: 73728 Instructor: Theodros Kidane Instructor: Theodros Kidane CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: S 325 Science Meeting Time M W 08:00am - 11:05am S 325 Science 08/16/25 12/06/25 M W 11:15am - 12:40pm S 333 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 24 25 -1 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73728",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 25,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-24T03:44:07.185994Z"
     },
     {
       "crn": "75687",
@@ -21835,7 +22255,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75687')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75687')",
+      "description": null,
+      "prerequisites": "CHEM 130",
+      "advisory": "ENGL C1000; MATH 180",
+      "transfers_to": "UC, CSUCHEM 140 is a continuation of CHEM 130. Theory and techniques of elementary physical chemistry are stressed. Emphasis is placed on the dynamics of chemical change using thermodynamics and reaction kinetics as the major tools. A thorough treatment of equilibrium is given, with many examples of acid/base, buffer, solubility, and complex ions. Entropy and free energy, electrochemistry, coordination compounds and a brief introduction to organic chemistry and nuclear chemistry are presented. Various analytical techniques used in modern chemistry are introduced. Descriptive chemistry of representative metallic and nonmetallic elements is included. The Laboratory introduces experimental chemistry with examples from areas of kinetics, equilibrium, acid/base and buffer preparation, differential titration, electrochemistry, and qualitative analysis. Modern instrumental methods are used in some exercises. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 23-AUG-2025 08:08:19 PM Title: CHEM 140 General Chemistry II CRN: 75687 Instructor: Allen Leung Instructor: Theodros Kidane CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: S 325 Science Meeting Time T R 08:00am - 11:05am S 325 Science 08/16/25 12/06/25 M W 11:15am - 12:40pm S 333 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 24 24 0 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75687",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-24T03:44:08.811813Z"
     },
     {
       "crn": "70744",
@@ -21867,7 +22308,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70744')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70744')",
+      "description": "This course, the first of a two-semester sequence, provides a rigorous introduction to the practical and theoretical aspects of organic chemistry. Several topics will be explored in depth, including molecular structure and hybridization, applications of acid/base theory to organic compounds, stereochemistry, alkanes, alkenes, alkynes, dienes, substitution and elimination reactions, and spectroscopic methods of analysis (e.g., infrared (IR), ultraviolet/visible (UV/VIS), nuclear magnetic resonance (NMR)). Particular emphasis will be placed on thermodynamic and kinetic aspects of reactions and detailed examination of reaction mechanisms. Laboratory exercises are designed to provide students with a solid foundation in the essential techniques of organic chemistry, including the determination of melting points, thin-layer and column chromatography, extraction, distillation, and spectroscopic analysis of products. This course is appropriate for students majoring in chemistry, biological sciences, and chemical engineering, and satisfies the admissions requirements for medical, dental, veterinary, and other health-related graduate programs.",
+      "prerequisites": "CHEM 140",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70744",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 18,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-24T03:44:10.434749Z"
     },
     {
       "crn": "77315",
@@ -21899,7 +22361,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77315')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77315')",
+      "description": "This course, the second of a two-semester sequence, provides a rigorous introduction to the practical and theoretical aspects of organic chemistry. The chemistry of aromatic and carbonyl-containing compounds is emphasized throughout the course of the semester. Bioorganic compounds are introduced. Particular emphasis is placed on thermodynamic and kinetic aspects of reactions, the detailed examination of reaction mechanisms, and the design of multi-step syntheses. Laboratory exercises require students to use techniques learned in the previous semester to carry out more complex reactions and multi-step synthesis. Additionally, students investigate the techniques of organic qualitative analysis. This course is appropriate for students majoring in chemistry, biological sciences, and chemical engineering, and satisfies the admissions requirements for medical, dental, veterinary, and other health-related graduate programs.",
+      "prerequisites": "CHEM 230",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77315",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 14,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-08-24T03:44:12.072241Z"
     },
     {
       "crn": "75741",
@@ -21930,8 +22413,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75741')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75741')",
+      "description": "This introductory course focuses on Chinese language and culture. The course stresses oral and written proficiency through fundamental use of Chinese pronunciation and the Pinyin spelling system; students are also introduced to Chinese characters. Various facets of Chinese history, culture, and civilization are analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive, individualized oral-aural practice via interactive websites, audio CDs, video programs, and films in the RHC Language Laboratory, where work focuses on vocabulary, grammar, and cultural practices. This course is intended for students interested in learning to speak Chinese, as well as those seeking a degree in Chinese language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75741",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 27,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-24T03:44:13.695530Z"
     },
     {
       "crn": "70036",
@@ -21963,7 +22467,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70036')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70036')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70036",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-24T03:44:15.317130Z"
     },
     {
       "crn": "75140",
@@ -21994,8 +22519,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75140')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75140')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "26-AUG-2025",
+        "Last day to drop with a refund": "26-AUG-2025",
+        "Last day to drop without a \"W\"": "17-SEP-2025",
+        "Last day to drop with a \"W\"": "03-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "08-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75140",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 46,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-24T03:44:16.947213Z"
     },
     {
       "crn": "76443",
@@ -22026,8 +22573,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76443')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76443')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76443",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-24T03:44:18.569344Z"
     },
     {
       "crn": "76482",
@@ -22059,7 +22627,29 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76482')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76482')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "26-AUG-2025",
+        "Last day to drop with a refund": "26-AUG-2025",
+        "Last day to drop without a \"W\"": "16-SEP-2025",
+        "Last day to drop with a \"W\"": "30-OCT-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "04-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76482",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 34,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-08-24T03:44:20.192446Z"
     },
     {
       "crn": "76988",
@@ -22090,8 +22680,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76988')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76988')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76988",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 42,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-24T03:44:21.819060Z"
     },
     {
       "crn": "77073",
@@ -22123,7 +22734,29 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77073')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77073')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "26-AUG-2025",
+        "Last day to drop with a refund": "26-AUG-2025",
+        "Last day to drop without a \"W\"": "16-SEP-2025",
+        "Last day to drop with a \"W\"": "30-OCT-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "04-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77073",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 29,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-08-24T03:44:23.455587Z"
     },
     {
       "crn": "77317",
@@ -22155,7 +22788,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77317')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77317')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77317",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 30,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-08-24T03:44:25.086279Z"
     },
     {
       "crn": "77587",
@@ -22186,8 +22840,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77587')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77587')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77587",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 33,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-24T03:44:26.712807Z"
     },
     {
       "crn": "77605",
@@ -22218,8 +22893,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77605')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77605')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77605",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-24T03:44:28.338656Z"
     },
     {
       "crn": "77626",
@@ -22250,8 +22947,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77626')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77626')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77626",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-24T03:44:29.970463Z"
     },
     {
       "crn": "77670",
@@ -22283,7 +23002,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77670')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77670')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77670",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-24T03:44:31.593102Z"
     },
     {
       "crn": "77671",
@@ -22315,7 +23055,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77671')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77671')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77671",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-24T03:44:33.222462Z"
     },
     {
       "crn": "77686",
@@ -22346,8 +23107,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77686')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77686')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77686",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 43,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-24T03:44:34.846931Z"
     },
     {
       "crn": "77717",
@@ -22379,7 +23161,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77717')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77717')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77717",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 42,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-24T03:44:36.473841Z"
     },
     {
       "crn": "77733",
@@ -22411,7 +23214,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77733')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77733')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77733",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 43,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-24T03:44:38.109022Z"
     },
     {
       "crn": "77746",
@@ -22442,8 +23266,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77746')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77746')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77746",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 46,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-24T03:44:39.732168Z"
     },
     {
       "crn": "77747",
@@ -22474,8 +23320,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77747')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77747')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77747",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-24T03:44:41.353443Z"
     },
     {
       "crn": "77762",
@@ -22506,8 +23374,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77762')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77762')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77762",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 43,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-24T03:44:42.989616Z"
     },
     {
       "crn": "77900",
@@ -22538,8 +23428,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77900')"
+      "additional_hours": "3.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77900')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "15-OCT-2025",
+        "Last day to drop with a refund": "15-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "19-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "20-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77900",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 32,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-08-24T03:44:44.612181Z"
     },
     {
       "crn": "78469",
@@ -22570,8 +23482,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78469')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78469')",
+      "description": "This introductory course examines social, political, economic, and historical issues as they impact the Chicana/o/x experience in the U.S. Topics include identity, gender, language, race, sexuality, immigration, labor, poverty, and education. This course is designed to acquaint students with the interdisciplinary models and paradigms developed within the field of Chicana/o/x studies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78469",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-24T03:44:46.248523Z"
     },
     {
       "crn": "70038",
@@ -22602,8 +23536,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70038')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70038')",
+      "description": "This interdisciplinary course presents a survey of Mexican/Mexican-American people in the context of U.S. history. The course begins with the U.S. declaration of war on Mexico in 1846 and goes on to examine Mexican-American struggles for integration, liberation, self-determination, and decolonization. This course provides a historical context to understand contemporary issues that impact Chicana/o/x communities.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSUThis interdisciplinary course presents a survey of Mexican/Mexican-American people in the context of U.S. history. The course begins with the U.S. declaration of war on Mexico in 1846 and goes on to examine Mexican-American struggles for integration, liberation, self-determination, and decolonization.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70038",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 23,
+        "available": 22
+      },
+      "detail_fetched_at": "2025-08-24T03:44:47.869550Z"
     },
     {
       "crn": "76444",
@@ -22634,8 +23589,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76444')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76444')",
+      "description": "This interdisciplinary course presents a survey of Mexican/Mexican-American people in the context of U.S. history. The course begins with the U.S. declaration of war on Mexico in 1846 and goes on to examine Mexican-American struggles for integration, liberation, self-determination, and decolonization. This course provides a historical context to understand contemporary issues that impact Chicana/o/x communities.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSUThis interdisciplinary course presents a survey of Mexican/Mexican-American people in the context of U.S. history. The course begins with the U.S. declaration of war on Mexico in 1846 and goes on to examine Mexican-American struggles for integration, liberation, self-determination, and decolonization.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76444",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 39,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-24T03:44:49.488235Z"
     },
     {
       "crn": "77699",
@@ -22667,7 +23644,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77699')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77699')",
+      "description": "This introductory course explores the intersectional identity formations of Chicana women in the United States. Course themes include an examination of the genesis of the term \u201cChicana\u201d; the emergence of Chicana feminism; and the intersection of race, gender, class, ethnicity, and sexuality in relation to the formation and study of Chicana identities. This course is interdisciplinary, drawing on methodologies and paradigms from ethnic studies, gender and sexuality studies, queer studies, history, literature, sociology, and popular culture.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77699",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 14,
+        "available": 31
+      },
+      "detail_fetched_at": "2025-08-24T03:44:51.118215Z"
     },
     {
       "crn": "71009",
@@ -22699,7 +23697,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71009')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71009')",
+      "description": "This course is an examination of information technologies and information systems used in business, with a focus on information systems, database management systems, networking, ethics and security, computer hardware, and software applications and development. Application of these concepts and methods through hands-on projects are used to develop computer-based solutions to business problems.",
+      "prerequisites": null,
+      "advisory": "CIT 051; It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71009",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 31,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-24T03:44:52.738479Z"
     },
     {
       "crn": "71037",
@@ -22731,7 +23750,29 @@
       "start_date": "08/16",
       "end_date": "10/10",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71037')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71037')",
+      "description": "This course is an examination of information technologies and information systems used in business, with a focus on information systems, database management systems, networking, ethics and security, computer hardware, and software applications and development. Application of these concepts and methods through hands-on projects are used to develop computer-based solutions to business problems.",
+      "prerequisites": null,
+      "advisory": "CIT 051; It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "24-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "08-OCT-2025",
+        "Census Date": "25-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71037",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 30,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-24T03:44:54.362067Z"
     },
     {
       "crn": "71230",
@@ -22763,7 +23804,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71230')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71230')",
+      "description": "This course is an examination of information technologies and information systems used in business, with a focus on information systems, database management systems, networking, ethics and security, computer hardware, and software applications and development. Application of these concepts and methods through hands-on projects are used to develop computer-based solutions to business problems.",
+      "prerequisites": null,
+      "advisory": "CIT 051; It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71230",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 25,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-08-24T03:44:55.997023Z"
     },
     {
       "crn": "71231",
@@ -61338,8 +62400,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-23T03:40:13.880988+00:00Z",
-    "courses_with_details": 397,
+    "detail_collection_timestamp": "2025-08-24T03:44:56.072222+00:00Z",
+    "courses_with_details": 447,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
