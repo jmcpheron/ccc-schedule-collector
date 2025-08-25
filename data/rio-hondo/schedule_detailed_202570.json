@@ -23857,7 +23857,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71231')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71231')",
+      "description": "This course is an examination of information technologies and information systems used in business, with a focus on information systems, database management systems, networking, ethics and security, computer hardware, and software applications and development. Application of these concepts and methods through hands-on projects are used to develop computer-based solutions to business problems.",
+      "prerequisites": null,
+      "advisory": "CIT 051; It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71231",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 17,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-08-25T03:43:09.587894Z"
     },
     {
       "crn": "72865",
@@ -23889,7 +23910,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72865')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72865')",
+      "description": "This course is an examination of information technologies and information systems used in business, with a focus on information systems, database management systems, networking, ethics and security, computer hardware, and software applications and development. Application of these concepts and methods through hands-on projects are used to develop computer-based solutions to business problems.",
+      "prerequisites": null,
+      "advisory": "CIT 051; It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72865",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 16,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-08-25T03:43:11.178505Z"
     },
     {
       "crn": "74314",
@@ -23921,7 +23963,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74314')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74314')",
+      "description": "This course is an examination of information technologies and information systems used in business, with a focus on information systems, database management systems, networking, ethics and security, computer hardware, and software applications and development. Application of these concepts and methods through hands-on projects are used to develop computer-based solutions to business problems.",
+      "prerequisites": null,
+      "advisory": "CIT 051; It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74314",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 27,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-08-25T03:43:12.776363Z"
     },
     {
       "crn": "71266",
@@ -23953,7 +24016,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71266')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71266')",
+      "description": "This course is for students who want to develop the problem-solving abilities required to work in the computer field. Programming concepts are discussed through a variety of techniques including hierarchy diagrams, flow-charting, data diagrams, and pseudocode. The course will also include information on integrated development environments (IDEs).",
+      "prerequisites": null,
+      "advisory": "CIT 101; It is advised that students have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71266",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 22,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-08-25T03:43:14.357824Z"
     },
     {
       "crn": "73330",
@@ -23985,7 +24069,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73330')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73330')",
+      "description": "This course is for students who want to develop the problem-solving abilities required to work in the computer field. Programming concepts are discussed through a variety of techniques including hierarchy diagrams, flow-charting, data diagrams, and pseudocode. The course will also include information on integrated development environments (IDEs).",
+      "prerequisites": null,
+      "advisory": "CIT 101; It is advised that students have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73330",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 9,
+        "available": 26
+      },
+      "detail_fetched_at": "2025-08-25T03:43:15.940451Z"
     },
     {
       "crn": "76994",
@@ -24017,7 +24122,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76994')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76994')",
+      "description": "This course is for students who want to develop the problem-solving abilities required to work in the computer field. Programming concepts are discussed through a variety of techniques including hierarchy diagrams, flow-charting, data diagrams, and pseudocode. The course will also include information on integrated development environments (IDEs).",
+      "prerequisites": null,
+      "advisory": "CIT 101; It is advised that students have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76994",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 19,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-08-25T03:43:17.536416Z"
     },
     {
       "crn": "77609",
@@ -24048,8 +24174,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77609')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77609')",
+      "description": "This course is for students who want to develop the problem-solving abilities required to work in the computer field. Programming concepts are discussed through a variety of techniques including hierarchy diagrams, flow-charting, data diagrams, and pseudocode. The course will also include information on integrated development environments (IDEs).",
+      "prerequisites": null,
+      "advisory": "CIT 101; It is advised that students have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77609",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 22,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-08-25T03:43:19.130997Z"
     },
     {
       "crn": "77630",
@@ -24080,8 +24228,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77630')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77630')",
+      "description": "This course is for students who want to develop the problem-solving abilities required to work in the computer field. Programming concepts are discussed through a variety of techniques including hierarchy diagrams, flow-charting, data diagrams, and pseudocode. The course will also include information on integrated development environments (IDEs).",
+      "prerequisites": null,
+      "advisory": "CIT 101; It is advised that students have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77630",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 30,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-25T03:43:20.722101Z"
     },
     {
       "crn": "76935",
@@ -24113,7 +24283,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76935')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76935')",
+      "description": "This comprehensive microcomputer database applications course provides instruction in the use of the latest versions of database software for business applications. Students learn to create and modify tables, build table relationships, add and edit records, create forms for data entry, produce simple queries and reports, articulate advanced query functions, customize forms design for data entry, customize report writing, and share and integrate data with web pages. This course is intended for students who want to complete the requirements for the Computer Information Technology Degree, or working professionals who want a thorough introduction to Microsoft\u00ae Access\u00ae.",
+      "prerequisites": null,
+      "advisory": "CIT 101",
+      "transfers_to": "CSUThis comprehensive microcomputer database applications course provides instruction in the use of the latest versions of database software for business applications. Students learn to create and modify tables, build table relationships, add and edit records, create forms for data entry, produce simple queries and reports, articulate advanced query functions, customize forms design for data entry, customize report writing, and share and integrate data with web pages.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76935",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 28,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-08-25T03:43:22.306549Z"
     },
     {
       "crn": "75070",
@@ -24145,7 +24336,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75070')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75070')",
+      "description": "This course is for students who want to complete the requirements for the Computer Information Technology degree, or professionals who want to continue developing their programming skills using Visual C++ programming language. The course covers the fundamentals of software development using the most popular language (C++). Topics covered include designing, writing the source code, compiling, linking, executing, debugging, data types, arithmetic/logical expressions, pointers, looping, branching, classes, objects, and static and dynamic memory allocation.",
+      "prerequisites": null,
+      "advisory": "CIT101, CIT 111",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75070",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 26,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-08-25T03:43:23.898968Z"
     },
     {
       "crn": "77771",
@@ -24176,8 +24388,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77771')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77771')",
+      "description": "This course is intended for students desiring to complete the requirements for the Computer Information Technology degree, or professionals who want to continue developing their programming skills using an object-oriented programming language. The course will review the fundamentals of software development and cover the advanced programming skills using the C++ language. Advanced topics include classes and data abstraction, operator overloading, inheritance, virtual function and polymorphism, stream input and output, and exception handling.",
+      "prerequisites": "CIT 125",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77771",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 10,
+        "available": 25
+      },
+      "detail_fetched_at": "2025-08-25T03:43:25.490398Z"
     },
     {
       "crn": "75630",
@@ -24208,8 +24441,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75630')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75630')",
+      "description": "This course is an introduction to the discipline of computer science, with a focus on the design and implementation of algorithms to solve simple problems using Python. Topics include fundamental programming constructs, problem-solving strategies, debugging techniques, declaration models, and an overview of procedural and object-oriented programming languages. Students learn to design, implement, test, and debug algorithms using pseudocode and Python.",
+      "prerequisites": "CIT 111",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75630",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 32,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-25T03:43:27.071897Z"
     },
     {
       "crn": "77617",
@@ -24241,7 +24496,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77617')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77617')",
+      "description": "This course is an introduction to the discipline of computer science, with a focus on the design and implementation of algorithms to solve simple problems using Python. Topics include fundamental programming constructs, problem-solving strategies, debugging techniques, declaration models, and an overview of procedural and object-oriented programming languages. Students learn to design, implement, test, and debug algorithms using pseudocode and Python.",
+      "prerequisites": "CIT 111",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77617",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 16,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-08-25T03:43:28.651998Z"
     },
     {
       "crn": "77778",
@@ -24273,7 +24549,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77778')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77778')",
+      "description": "This software engineering course focuses on the application of software engineering techniques for the design and development of large programs using Python. In the course, students learn to design, implement, test, and debug programs. Topics include object-oriented programming, data abstraction, data structures and their associated algorithms, and recursion.",
+      "prerequisites": "CIT 127",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77778",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-25T03:43:30.235165Z"
     },
     {
       "crn": "76463",
@@ -24305,7 +24602,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76463')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76463')",
+      "description": "This course is designed for students preparing to take the Windows client operating system certification exam. Students will learn to install, upgrade and migrate from previous to the current Windows client operating system and deploy Windows using system images and configure virtual hard disks. Students will also learn to configure hardware & applications, network connectivity, access to resources, mobile computing, backup and recovery, and monitoring and maintaining systems that run Windows.",
+      "prerequisites": null,
+      "advisory": "CIT 180",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76463",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 17,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-08-25T03:43:31.818781Z"
     },
     {
       "crn": "75074",
@@ -24337,7 +24655,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75074')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75074')",
+      "description": "This course is intended for students who want to complete the requirements for the Computer Information Technology degree, or professionals who want an introduction to Java programming. The course will cover the fundamentals of software development using the most popular open source language (Java). Course topics include program design, algorithms, writing and testing source code, arithmetic/logic expressions, control structures, objects, and basic Java structures.",
+      "prerequisites": null,
+      "advisory": "CIT 101, CIT 111",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75074",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 8,
+        "available": 27
+      },
+      "detail_fetched_at": "2025-08-25T03:43:33.413177Z"
     },
     {
       "crn": "74119",
@@ -24369,7 +24708,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74119')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74119')",
+      "description": "This course will prepare students with the necessary competencies of an entry-level IT professional with hands-on experience and theory in computer technology, networking and security. The student will also learn communication skills and professionalism now required of all entry-level IT professionals. This course is intended for IT students wishing to prepare for the CompTIA A+ Essentials and CompTIA A+ Practical Application examinations, the two exams required to achieve CompTIA A+ certified status.",
+      "prerequisites": "CIT 101",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74119",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 26,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-25T03:43:35.014854Z"
     },
     {
       "crn": "75632",
@@ -24401,7 +24761,29 @@
       "start_date": "10/11",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75632')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75632')",
+      "description": null,
+      "prerequisites": "CIT 101 or CIT 114",
+      "advisory": null,
+      "transfers_to": "CSUThe course presents a systematic methodology for analyzing a business problem or opportunity, determining what role, if any, computer-based technologies can play in addressing a business need, articulating business requirements for the technology solution, specifying alternative approaches to acquiring the technology capabilities needed to address the business requirements, and specifying the requirements for an information systems solution in particular, in-house development, development from third-party providers, or purchasing commercial-off-the-shelf packages. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 24-AUG-2025 08:08:48 PM Title: CIT 200 Systems Analysis and Design CRN: 75632 Instructor: Brenda Harlow DH Daily Census Instructional Method Section Corequisites: NONE Bldg/Room: SYNC Online Meeting Time M W 07:00pm - 10:20pm ONLINE SYNC Online 10/11/25 12/06/25 Seating Availability Capacity Taken Available 35 33 2 Critical Dates for this Course Term: Fall 2025 Last day to add class: 15-OCT-2025 Last day to drop with a refund: 15-OCT-2025 Last day to drop without a \"W\": 27-OCT-2025 Last day to drop with a \"W\": 19-NOV-2025 Pass/No Pass Petition Deadline Date: 03-DEC-2025 Census Date: 20-OCT-2025 [ Close Window ] Rio Hondo College 8.1",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "15-OCT-2025",
+        "Last day to drop with a refund": "15-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "19-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "20-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75632",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 33,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-25T03:43:36.594511Z"
     },
     {
       "crn": "75075",
@@ -24433,7 +24815,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75075')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75075')",
+      "description": "This course introduces the architecture, structure, functions, components, and models of the Internet and other computer networks. The principles and structure of IP (Internet Protocol) addressing and the fundamentals of Ethernet concepts, media, and operations are introduced to provide a foundation for further study of computer networks. It uses the OSI (Open Systems Interconnection) and TCP (Transmission Control Protocol) layered models to examine the nature and roles of protocols and services at the application, network, data link, and physical layers. This course is the first of three courses designed to prepare CCNA (Cisco\u00ae Certified Networking Associate) Certification and helps in preparation for the CompTIA Network+ certification exam.",
+      "prerequisites": "CIT 101",
+      "advisory": "CIT 180",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75075",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-25T03:43:38.174347Z"
     },
     {
       "crn": "76461",
@@ -24464,8 +24867,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76461')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76461')",
+      "description": null,
+      "prerequisites": "CIT 171 or CIT 210 and CIT 192",
+      "advisory": null,
+      "transfers_to": "CSUStudents are introduced to technology and techniques to find weaknesses in technology so that those weaknesses can be corrected before threat actors (Black hat hackers) can abuse them. Penetration testers (White-Hat hackers) use the same techniques as Black hat hackers but are guided by ethics and professionalism and cause no harm to the systems they test. Penetration testing is also known as \u201cethical hacking.\u201d Penetration testing has evolved into a formalized process with best practices and certifications. People can acquire certifications to prove they have the skills to execute effective penetration tests. One such certification is the CompTIA PenTest+ certification. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 24-AUG-2025 08:08:51 PM Title: CIT 221 Ethical Hacking CRN: 76461 Instructor: Rodolfo Rios Instructor: Rodolfo Rios UA Independent Study Weekly Instructional Method Section Corequisites: NONE Bldg/Room: ASYNC Online Meeting Time 1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable 2.7 Hrs/Wk arr in addition to any scheduled hrs if applicable Seating Availability Capacity Taken Available 35 27 8 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76461",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 27,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-08-25T03:43:39.765781Z"
     },
     {
       "crn": "77554",
@@ -24497,7 +24921,29 @@
       "start_date": "08/16",
       "end_date": "10/10",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77554')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77554')",
+      "description": "This basic course in technical drawing and graphics is for students with no previous drafting skills or training. The course is designed for students who want to pursue training in fields and careers related to architecture, civil design, and engineering design drafting. Practical application with the tools, techniques, standards, and practices used in the industries that need technical drawings and graphics is a feature of the course. ARCH 101, CIV 101, ENGT 101 are cross-llisted. Credit will be granted for one course only.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "02-SEP-2025",
+        "Last day to drop with a \"W\"": "25-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "09-OCT-2025",
+        "Census Date": "26-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77554",
+      "seating_detail": {
+        "capacity": 8,
+        "taken": 2,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-25T03:43:41.352130Z"
     },
     {
       "crn": "77556",
@@ -24529,7 +24975,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77556')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77556')",
+      "description": "This basic course in technical drawing and graphics is for students with no previous drafting skills or training. The course is designed for students who want to pursue training in fields and careers related to architecture, civil design, and engineering design drafting. Practical application with the tools, techniques, standards, and practices used in the industries that need technical drawings and graphics is a feature of the course. ARCH 101, CIV 101, ENGT 101 are cross-llisted. Credit will be granted for one course only.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77556",
+      "seating_detail": {
+        "capacity": 3,
+        "taken": 0,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-25T03:43:42.953905Z"
     },
     {
       "crn": "77716",
@@ -24561,7 +25028,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77716')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77716')",
+      "description": "This basic course in technical drawing and graphics is for students with no previous drafting skills or training. The course is designed for students who want to pursue training in fields and careers related to architecture, civil design, and engineering design drafting. Practical application with the tools, techniques, standards, and practices used in the industries that need technical drawings and graphics is a feature of the course. ARCH 101, CIV 101, ENGT 101 are cross-llisted. Credit will be granted for one course only.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77716",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 0,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-08-25T03:43:44.541531Z"
     },
     {
       "crn": "71070",
@@ -24593,7 +25081,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71070')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71070')",
+      "description": "This course provides an overview of various civil engineering subdisciplines, including common tasks required of civil engineers and their support staff for the design and construction of projects. Students complete basic level engineering calculations and use hand drafting techniques or computer aided design and drafting (CADD) software to complete projects relating to subdivision development, roadway planning and layout, structural design and detailing, site grading, project scheduling, wastewater management, and similar engineering tasks. Students are also introduced to future trends in construction technology, and explore building information modeling (BIM) and virtual design and construction (VDC) technologies and their impact.",
+      "prerequisites": null,
+      "advisory": "ARCH 101 or CIV 101 or ENGT 101 or two years of high school drafting; It is also advised that students have a knowledge of elementary algebra concepts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71070",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-25T03:43:46.142028Z"
     },
     {
       "crn": "71076",
@@ -24625,7 +25134,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71076')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71076')",
+      "description": "This course is for students interested in the career fields of civil design drafting, surveying/mapping, and civil engineering. It covers the principles and practices of land surveying, including measuring distance, direction, elevation and position; topographic mapping; and the use and care of surveying equipment. The fundamentals of global positioning systems (GPS) and their applications in land surveying will also be introduced. This course will also be beneficial for practitioners in the construction industry who need to acquire property data.",
+      "prerequisites": null,
+      "advisory": "CIT 102; It is also advised that students have a knowledge of elementary algebra and geometry concepts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71076",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 16,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-08-25T03:43:47.724304Z"
     },
     {
       "crn": "77912",
@@ -24657,7 +25187,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77912')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77912')",
+      "description": "This intermediate-level course is for students interested in the career field of civil design drafting and civil engineering. In the course the practice and preparation of drawings pertaining to the civil engineering field will be expanded to include the development of maps and drawings used for site development, grading and drainage, and road alignment. Preparing construction documents for buildings and related constructs will also be covered. Other topics include project notes, specifications, and details for civil engineering drawings. Students will use both hand drafting and computer-aided design and drafting (CADD) to complete projects related to these topics.",
+      "prerequisites": "CIV 140; ENGT 150 or ENGT 170",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77912",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 8,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-08-25T03:43:49.305135Z"
     },
     {
       "crn": "78111",
@@ -24688,8 +25239,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78111')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78111')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78111",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 32,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-25T03:43:50.889829Z"
     },
     {
       "crn": "78112",
@@ -24720,8 +25292,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78112')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78112')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78112",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 30,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-25T03:43:52.469991Z"
     },
     {
       "crn": "78114",
@@ -24752,8 +25345,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78114')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78114')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78114",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 32,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-25T03:43:54.047987Z"
     },
     {
       "crn": "78115",
@@ -24785,7 +25399,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78115')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78115')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78115",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 32,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-25T03:43:55.634812Z"
     },
     {
       "crn": "78116",
@@ -24816,8 +25451,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78116')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78116')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78116",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 31,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-25T03:43:57.215784Z"
     },
     {
       "crn": "78117",
@@ -24849,7 +25505,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78117')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78117')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78117",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 29,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-25T03:43:58.797791Z"
     },
     {
       "crn": "78120",
@@ -24881,7 +25558,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78120')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78120')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78120",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 31,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-25T03:44:00.378311Z"
     },
     {
       "crn": "78133",
@@ -24912,8 +25610,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78133')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78133')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78133",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 31,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-25T03:44:01.966096Z"
     },
     {
       "crn": "78134",
@@ -24944,8 +25663,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78134')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78134')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78134",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 27,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-25T03:44:03.548549Z"
     },
     {
       "crn": "78135",
@@ -24977,7 +25717,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78135')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78135')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78135",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 30,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-25T03:44:05.123479Z"
     },
     {
       "crn": "78136",
@@ -25009,7 +25770,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78136')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78136')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78136",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 31,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-25T03:44:06.704844Z"
     },
     {
       "crn": "78137",
@@ -25041,7 +25823,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78137')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78137')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78137",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 31,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-25T03:44:08.290344Z"
     },
     {
       "crn": "78141",
@@ -25073,7 +25876,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78141')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78141')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78141",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 30,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-25T03:44:09.868759Z"
     },
     {
       "crn": "78142",
@@ -25105,7 +25929,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78142')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78142')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78142",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 31,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-25T03:44:11.458585Z"
     },
     {
       "crn": "78143",
@@ -25137,7 +25982,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78143')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78143')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78143",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 28,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-25T03:44:13.040022Z"
     },
     {
       "crn": "78172",
@@ -25168,8 +26034,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78172')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78172')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78172",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 32,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-25T03:44:14.619129Z"
     },
     {
       "crn": "78173",
@@ -25200,8 +26088,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78173')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78173')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-25",
+        "Last day to drop with a refund": "16-OCT-25",
+        "Last day to drop without a \"W\"": "27-OCT-25",
+        "Last day to drop with a \"W\"": "20-NOV-25",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-25",
+        "Census Date": "21-OCT-25"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78173",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 32,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-25T03:44:16.270385Z"
     },
     {
       "crn": "78175",
@@ -25233,7 +26143,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78175')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78175')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78175",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 25,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-08-25T03:44:17.856445Z"
     },
     {
       "crn": "78196",
@@ -25265,7 +26196,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78196')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78196')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78196",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 31,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-25T03:44:19.436450Z"
     },
     {
       "crn": "78206",
@@ -25296,8 +26248,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78206')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78206')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78206",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 30,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-25T03:44:21.023361Z"
     },
     {
       "crn": "78208",
@@ -25329,7 +26302,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78208')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78208')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78208",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 30,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-25T03:44:22.603442Z"
     },
     {
       "crn": "78210",
@@ -25361,7 +26355,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78210')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78210')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78210",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 31,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-25T03:44:24.181538Z"
     },
     {
       "crn": "78227",
@@ -25392,8 +26407,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78227')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78227')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78227",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 30,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-25T03:44:25.757962Z"
     },
     {
       "crn": "78228",
@@ -25424,8 +26460,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78228')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78228')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78228",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 30,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-25T03:44:27.342650Z"
     },
     {
       "crn": "78241",
@@ -62400,8 +63457,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-24T03:44:56.072222+00:00Z",
-    "courses_with_details": 447,
+    "detail_collection_timestamp": "2025-08-25T03:44:27.416749+00:00Z",
+    "courses_with_details": 497,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
