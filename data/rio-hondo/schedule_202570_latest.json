@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-08-26T06:38:18.534495Z",
+  "collection_timestamp": "2025-08-26T14:33:05.191251Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -6521,8 +6521,8 @@
       "location": "Business 012",
       "enrollment": {
         "capacity": 30,
-        "actual": 24,
-        "remaining": 6
+        "actual": 23,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -8825,8 +8825,8 @@
       "location": "Technology 144",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 18,
+        "remaining": 6
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -9401,8 +9401,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -11580,7 +11580,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
@@ -11772,7 +11772,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
@@ -21177,10 +21177,10 @@
       "location": "Administration 213",
       "enrollment": {
         "capacity": 28,
-        "actual": 27,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -24025,8 +24025,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 30,
-        "actual": 9,
-        "remaining": 21
+        "actual": 10,
+        "remaining": 20
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -24412,7 +24412,7 @@
         "actual": 0,
         "remaining": 40
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -32249,8 +32249,8 @@
       "location": "Pico Rivera Golf Course",
       "enrollment": {
         "capacity": 40,
-        "actual": 12,
-        "remaining": 28
+        "actual": 11,
+        "remaining": 29
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -36025,8 +36025,8 @@
       "location": "Science 225",
       "enrollment": {
         "capacity": 35,
-        "actual": 27,
-        "remaining": 8
+        "actual": 26,
+        "remaining": 9
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -36508,7 +36508,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -41660,7 +41660,7 @@
         "actual": 20,
         "remaining": 25
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -43577,8 +43577,8 @@
       "location": "Science 202",
       "enrollment": {
         "capacity": 40,
-        "actual": 37,
-        "remaining": 3
+        "actual": 36,
+        "remaining": 4
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -47993,8 +47993,8 @@
       "location": "Administration 208",
       "enrollment": {
         "capacity": 45,
-        "actual": 43,
-        "remaining": 2
+        "actual": 42,
+        "remaining": 3
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -48153,10 +48153,10 @@
       "location": "Science 336",
       "enrollment": {
         "capacity": 45,
-        "actual": 45,
-        "remaining": 0
+        "actual": 44,
+        "remaining": 1
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -52505,8 +52505,8 @@
       "location": "Science 125",
       "enrollment": {
         "capacity": 35,
-        "actual": 21,
-        "remaining": 14
+        "actual": 20,
+        "remaining": 15
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -52537,8 +52537,8 @@
       "location": "Science 125",
       "enrollment": {
         "capacity": 30,
-        "actual": 21,
-        "remaining": 9
+        "actual": 20,
+        "remaining": 10
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -52569,8 +52569,8 @@
       "location": "El Encanto Health Rehab Center",
       "enrollment": {
         "capacity": 12,
-        "actual": 11,
-        "remaining": 1
+        "actual": 10,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
