@@ -26514,7 +26514,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78241')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78241')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78241",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 29,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-26T03:41:24.436361Z"
     },
     {
       "crn": "78246",
@@ -26546,7 +26567,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78246')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78246')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78246",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 27,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-26T03:41:26.051350Z"
     },
     {
       "crn": "78386",
@@ -26577,8 +26619,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78386')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78386')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "19-AUG-2025",
+        "Last day to drop with a refund": "19-AUG-2025",
+        "Last day to drop without a \"W\"": "09-SEP-2025",
+        "Last day to drop with a \"W\"": "28-OCT-2025",
+        "Pass/No Pass Petition Deadline Date": "02-DEC-2025",
+        "Census Date": "02-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78386",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 14,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-08-26T03:41:27.671870Z"
     },
     {
       "crn": "78387",
@@ -26610,7 +26674,29 @@
       "start_date": "09/01",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78387')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78387')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "09-SEP-2025",
+        "Last day to drop with a refund": "09-SEP-2025",
+        "Last day to drop without a \"W\"": "25-SEP-2025",
+        "Last day to drop with a \"W\"": "11-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "18-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78387",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 0,
+        "available": 32
+      },
+      "detail_fetched_at": "2025-08-26T03:41:29.294435Z"
     },
     {
       "crn": "78402",
@@ -26642,7 +26728,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78402')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78402')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: COMM C1000, COMM C1000H)In this course, students learn and apply foundational rhetorical theories and techniques of public speaking in a multicultural democratic society. Students discover, develop, and critically analyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persuasive speeches.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78402",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 31,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-26T03:41:30.903104Z"
     },
     {
       "crn": "78339",
@@ -26674,7 +26781,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78339')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78339')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78339",
+      "seating_detail": {
+        "capacity": 4,
+        "taken": 4,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-26T03:41:32.509016Z"
     },
     {
       "crn": "70426",
@@ -26705,8 +26833,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70426')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70426')",
+      "description": "This course provides students with an overview of the history and trends of adult and juvenile corrections. It focuses on probation, parole, legal issues, specific laws and the general operation of correctional institutions. The relationship between corrections and other components of the justice system is also examined. This course has been identified by the Correctional Peace Officer Standards and Training (CPOST) Board of the Peace Officers Association as fulfilling the educational requirements of the CPOST Certificate for newly-hired officers after July 1, 1995 by the California Department of Corrections and Rehabilitation(CDCR) and California Youth Authority (CYA).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70426",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 25,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-08-26T03:41:34.109080Z"
     },
     {
       "crn": "70427",
@@ -26737,8 +26886,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70427')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70427')",
+      "description": "This course provides students with an overview of the history and trends of adult and juvenile corrections. It focuses on probation, parole, legal issues, specific laws and the general operation of correctional institutions. The relationship between corrections and other components of the justice system is also examined. This course has been identified by the Correctional Peace Officer Standards and Training (CPOST) Board of the Peace Officers Association as fulfilling the educational requirements of the CPOST Certificate for newly-hired officers after July 1, 1995 by the California Department of Corrections and Rehabilitation(CDCR) and California Youth Authority (CYA).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70427",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 15,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-08-26T03:41:35.712180Z"
     },
     {
       "crn": "75293",
@@ -26769,8 +26940,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75293')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75293')",
+      "description": "This course provides students with an awareness of the historical framework, concepts, and precedents that guide correctional practice. Course material broadens students\u2019 perspectives of the corrections environment, civil rights of prisoners, and responsibilities and liabilities of corrections officials. The course has been identified by the Correctional Peace Officer Standards and Training (CPOST) Board of the California Department of Corrections and Rehabilitation (CDCR), California Youth Authority (CYA), and California Correctional Peace Officers Association as fulfilling the educational requirements of the CPOST Certificate for newly hired officers after July 1, 1995 by CDC and CYA.",
+      "prerequisites": null,
+      "advisory": "CORR 101",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75293",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 13,
+        "available": 22
+      },
+      "detail_fetched_at": "2025-08-26T03:41:37.317211Z"
     },
     {
       "crn": "70581",
@@ -26802,7 +26995,29 @@
       "start_date": "09/01",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70581')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70581')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "09-SEP-2025",
+        "Last day to drop with a refund": "09-SEP-2025",
+        "Last day to drop without a \"W\"": "25-SEP-2025",
+        "Last day to drop with a \"W\"": "11-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "18-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70581",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 24,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-08-26T03:41:38.923280Z"
     },
     {
       "crn": "70589",
@@ -26834,7 +27049,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70589')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70589')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70589",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 33,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-26T03:41:40.537715Z"
     },
     {
       "crn": "70602",
@@ -26865,8 +27101,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70602')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70602')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70602",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 34,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-26T03:41:42.143333Z"
     },
     {
       "crn": "73266",
@@ -26898,7 +27156,29 @@
       "start_date": "09/01",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73266')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73266')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "08-SEP-2025",
+        "Last day to drop with a refund": "08-SEP-2025",
+        "Last day to drop without a \"W\"": "24-SEP-2025",
+        "Last day to drop with a \"W\"": "05-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "17-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73266",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 0,
+        "available": 35
+      },
+      "detail_fetched_at": "2025-08-26T03:41:43.750843Z"
     },
     {
       "crn": "73823",
@@ -26930,7 +27210,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73823')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73823')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73823",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 31,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-26T03:41:45.358070Z"
     },
     {
       "crn": "73838",
@@ -26962,7 +27263,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73838')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73838')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73838",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 31,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-26T03:41:46.962119Z"
     },
     {
       "crn": "74412",
@@ -26994,7 +27316,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74412')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74412')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74412",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 13,
+        "available": 22
+      },
+      "detail_fetched_at": "2025-08-26T03:41:48.569702Z"
     },
     {
       "crn": "74415",
@@ -27026,7 +27369,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74415')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74415')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74415",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 32,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-26T03:41:50.175524Z"
     },
     {
       "crn": "74422",
@@ -27058,7 +27422,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74422')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74422')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74422",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 25,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-08-26T03:41:51.783130Z"
     },
     {
       "crn": "74440",
@@ -27090,7 +27475,29 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74440')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74440')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "27-AUG-2025",
+        "Last day to drop with a refund": "27-AUG-2025",
+        "Last day to drop without a \"W\"": "17-SEP-2025",
+        "Last day to drop with a \"W\"": "05-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "05-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74440",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 11,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-08-26T03:41:53.400006Z"
     },
     {
       "crn": "74508",
@@ -27122,7 +27529,29 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74508')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74508')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "27-AUG-2025",
+        "Last day to drop with a refund": "27-AUG-2025",
+        "Last day to drop without a \"W\"": "17-SEP-2025",
+        "Last day to drop with a \"W\"": "05-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "05-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74508",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 14,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-08-26T03:41:55.003217Z"
     },
     {
       "crn": "74533",
@@ -27154,7 +27583,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74533')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74533')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74533",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 24,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-08-26T03:41:56.611081Z"
     },
     {
       "crn": "74536",
@@ -27185,8 +27635,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74536')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74536')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74536",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 34,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-26T03:41:58.231986Z"
     },
     {
       "crn": "74556",
@@ -27218,7 +27689,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74556')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74556')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-25",
+        "Last day to drop with a refund": "01-SEP-25",
+        "Last day to drop without a \"W\"": "12-SEP-25",
+        "Last day to drop with a \"W\"": "07-NOV-25",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-25"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74556",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 13,
+        "available": 22
+      },
+      "detail_fetched_at": "2025-08-26T03:41:59.841253Z"
     },
     {
       "crn": "75360",
@@ -27250,7 +27742,29 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75360')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75360')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "27-AUG-2025",
+        "Last day to drop with a refund": "27-AUG-2025",
+        "Last day to drop without a \"W\"": "17-SEP-2025",
+        "Last day to drop with a \"W\"": "05-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "05-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75360",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 27,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-08-26T03:42:01.441821Z"
     },
     {
       "crn": "77354",
@@ -27281,8 +27795,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77354')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77354')",
+      "description": "This course provides an exploration of cognitive, psychological, social, and physical factors influencing success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, life-long learning, self-management, health and wellness, interpersonal communication in a diverse world, and introduction to career and educational planning. Students will learn about the purpose, demands, requirements, and support services of higher education including both",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77354",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 32,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-26T03:42:03.058147Z"
     },
     {
       "crn": "78418",
@@ -27314,7 +27849,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78418')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78418')",
+      "description": "This course is designed to develop and enhance decision-making strategies for students interested in transferring to a four-year institution. Students develop critical thinking skills by identifying, comparing, and analyzing the differences in universities' entrance and major requirements as related to their educational and career goals. Students examine the requirements of universities and complete a comprehensive educational plan. On-site research/field study at universities is required.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit) CSU(*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78418",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 28,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-08-26T03:42:04.667737Z"
     },
     {
       "crn": "76395",
@@ -27346,7 +27902,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76395')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76395')",
+      "description": "This course is designed to increase students' awareness of the effects of stress and anxiety on academic performance and daily life. Topics include the impact of stress on behavioral, cognitive, physical, and social-emotional well-being. Emphasis is placed on understanding effective and ineffective responses to stress and anxiety, planning a personal stress and anxiety management program, and having students explore and develop a variety of practical coping skills and management techniques.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76395",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 29,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-26T03:42:06.284098Z"
     },
     {
       "crn": "70730",
@@ -27378,7 +27955,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70730')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70730')",
+      "description": "This course will examine student, career, and self-development theories to empower students to make effective decisions throughout their lifespan by engaging in the process of career and life planning from a psychological, sociological, and physiological perspective. Students will compare and contrast human development and career theories, decision-making processes, and factors that contribute to college success, life skills, adult workplace competencies, values, interests, abilities, and personality. Labor market trends in a global economy and successful job search and workplace behaviors will also be examined.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70730",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 31,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-26T03:42:07.889821Z"
     },
     {
       "crn": "70732",
@@ -27410,7 +28008,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70732')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70732')",
+      "description": "This course will examine student, career, and self-development theories to empower students to make effective decisions throughout their lifespan by engaging in the process of career and life planning from a psychological, sociological, and physiological perspective. Students will compare and contrast human development and career theories, decision-making processes, and factors that contribute to college success, life skills, adult workplace competencies, values, interests, abilities, and personality. Labor market trends in a global economy and successful job search and workplace behaviors will also be examined.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70732",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 31,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-26T03:42:09.492893Z"
     },
     {
       "crn": "73260",
@@ -27442,7 +28061,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73260')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73260')",
+      "description": "This course will examine student, career, and self-development theories to empower students to make effective decisions throughout their lifespan by engaging in the process of career and life planning from a psychological, sociological, and physiological perspective. Students will compare and contrast human development and career theories, decision-making processes, and factors that contribute to college success, life skills, adult workplace competencies, values, interests, abilities, and personality. Labor market trends in a global economy and successful job search and workplace behaviors will also be examined.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73260",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 31,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-26T03:42:11.105574Z"
     },
     {
       "crn": "73825",
@@ -27474,7 +28114,29 @@
       "start_date": "09/01",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73825')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73825')",
+      "description": "This course will examine student, career, and self-development theories to empower students to make effective decisions throughout their lifespan by engaging in the process of career and life planning from a psychological, sociological, and physiological perspective. Students will compare and contrast human development and career theories, decision-making processes, and factors that contribute to college success, life skills, adult workplace competencies, values, interests, abilities, and personality. Labor market trends in a global economy and successful job search and workplace behaviors will also be examined.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "08-SEP-2025",
+        "Last day to drop with a refund": "08-SEP-2025",
+        "Last day to drop without a \"W\"": "24-SEP-2025",
+        "Last day to drop with a \"W\"": "10-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "17-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73825",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 11,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-08-26T03:42:12.718946Z"
     },
     {
       "crn": "73826",
@@ -27505,8 +28167,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73826')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73826')",
+      "description": "This course will examine student, career, and self-development theories to empower students to make effective decisions throughout their lifespan by engaging in the process of career and life planning from a psychological, sociological, and physiological perspective. Students will compare and contrast human development and career theories, decision-making processes, and factors that contribute to college success, life skills, adult workplace competencies, values, interests, abilities, and personality. Labor market trends in a global economy and successful job search and workplace behaviors will also be examined.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73826",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 34,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-26T03:42:14.324520Z"
     },
     {
       "crn": "73827",
@@ -27538,7 +28221,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73827')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73827')",
+      "description": "This course will examine student, career, and self-development theories to empower students to make effective decisions throughout their lifespan by engaging in the process of career and life planning from a psychological, sociological, and physiological perspective. Students will compare and contrast human development and career theories, decision-making processes, and factors that contribute to college success, life skills, adult workplace competencies, values, interests, abilities, and personality. Labor market trends in a global economy and successful job search and workplace behaviors will also be examined.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73827",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 22,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-08-26T03:42:15.941963Z"
     },
     {
       "crn": "74414",
@@ -27569,8 +28273,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74414')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74414')",
+      "description": "This course will examine student, career, and self-development theories to empower students to make effective decisions throughout their lifespan by engaging in the process of career and life planning from a psychological, sociological, and physiological perspective. Students will compare and contrast human development and career theories, decision-making processes, and factors that contribute to college success, life skills, adult workplace competencies, values, interests, abilities, and personality. Labor market trends in a global economy and successful job search and workplace behaviors will also be examined.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74414",
+      "seating_detail": {
+        "capacity": 36,
+        "taken": 36,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-26T03:42:17.554148Z"
     },
     {
       "crn": "75460",
@@ -27601,8 +28326,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75460')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75460')",
+      "description": "This course will examine student, career, and self-development theories to empower students to make effective decisions throughout their lifespan by engaging in the process of career and life planning from a psychological, sociological, and physiological perspective. Students will compare and contrast human development and career theories, decision-making processes, and factors that contribute to college success, life skills, adult workplace competencies, values, interests, abilities, and personality. Labor market trends in a global economy and successful job search and workplace behaviors will also be examined.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75460",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-26T03:42:19.158203Z"
     },
     {
       "crn": "75828",
@@ -27634,7 +28381,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75828')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75828')",
+      "description": "This course will examine student, career, and self-development theories to empower students to make effective decisions throughout their lifespan by engaging in the process of career and life planning from a psychological, sociological, and physiological perspective. Students will compare and contrast human development and career theories, decision-making processes, and factors that contribute to college success, life skills, adult workplace competencies, values, interests, abilities, and personality. Labor market trends in a global economy and successful job search and workplace behaviors will also be examined.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75828",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-26T03:42:20.762414Z"
     },
     {
       "crn": "76652",
@@ -27666,7 +28434,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76652')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76652')",
+      "description": "This course will examine student, career, and self-development theories to empower students to make effective decisions throughout their lifespan by engaging in the process of career and life planning from a psychological, sociological, and physiological perspective. Students will compare and contrast human development and career theories, decision-making processes, and factors that contribute to college success, life skills, adult workplace competencies, values, interests, abilities, and personality. Labor market trends in a global economy and successful job search and workplace behaviors will also be examined.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 3 units credit for all COUN courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76652",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 19,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-08-26T03:42:22.371096Z"
     },
     {
       "crn": "76963",
@@ -27698,7 +28487,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76963')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76963')",
+      "description": null,
+      "prerequisites": "CIT 127",
+      "advisory": null,
+      "transfers_to": "UC, CSUStudents are introduced to the organization and behavior of real computer systems at the assembly-language level. The mapping of statements and constructs in a high-level language onto sequences of machine instructions is studied, as well as the internal representation of simple data types and structures. Numerical computation is examined, noting the various data representation errors and potential procedural errors. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 25-AUG-2025 08:08:36 PM Title: CS 142 Computer Arch & Organization CRN: 76963 Instructor: Rodolfo Rios CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: B 113 Business Meeting Time M W 11:10am - 12:35pm B 113 Business 08/16/25 12/06/25 Seating Availability Capacity Taken Available 35 23 12 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76963",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 23,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-26T03:42:23.979744Z"
     },
     {
       "crn": "78407",
@@ -27730,7 +28540,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78407')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78407')",
+      "description": "This course is an introduction to the discrete structures used in Computer Science with an emphasis on their applications. Topics covered include: Functions, Relations and Sets; Basic Logic; Proof Techniques; Basics of Counting; Graphs and Trees; and Discrete Probability.",
+      "prerequisites": "CIT 127",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78407",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 16,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-08-26T03:42:25.586988Z"
     },
     {
       "crn": "71082",
@@ -27762,7 +28593,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71082')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71082')",
+      "description": "This course is designed to provide the physical training and preparation for students interested in dance, Yoga, Pilates, and athletics, and is suitable for students seeking to move with greater efficiency and less pain in everyday activities. Students learn how to move safely and effectively while developing strength, flexibility, proper alignment, agility, balance, and coordination. Coursework is designed for those who want to work at a more deliberate pace and in a non-competitive atmosphere, or who are recovering from prior injury.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71082",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 12,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-08-26T03:42:27.195816Z"
     },
     {
       "crn": "78415",
@@ -27794,7 +28646,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78415')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78415')",
+      "description": "This dance studio course explores the theory and practice of dance improvisation in solo and group form. Utilizing techniques of improvisation across cultural traditions in dance, students experiment with sensory stimuli, modes of self-expression, composing in the moment, music visualization, and contact improvisation for performance. The course explores the practical use of improvisation in expressing imagery, developing choreographic concepts, and enhancing performance. Although the course supports dance majors and those seeking careers in dance and choreography, students of all abilities and backgrounds are welcome. No formal dance experience is required.",
+      "prerequisites": null,
+      "advisory": "DANC 151",
+      "transfers_to": "UC (credit limit*), CSU (*The UC will grant a maximum of 4 units for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78415",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-26T03:42:28.813553Z"
     },
     {
       "crn": "70712",
@@ -27826,7 +28699,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70712')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70712')",
+      "description": "This course offers dance and non-dance students alike an opportunity to study cultural diversity through the activity of dance. Students learn how to analyze and perform basic movement patterns as they compare and contrast the social conventions, religious traditions, and historic contexts represented in the dance practices from different parts of the world performed in the United States today.",
+      "prerequisites": null,
+      "advisory": ">It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70712",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 10,
+        "available": 35
+      },
+      "detail_fetched_at": "2025-08-26T03:42:30.418897Z"
     },
     {
       "crn": "75062",
@@ -27857,8 +28751,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75062')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75062')",
+      "description": "This introductory course provides experience and laboratory exploration in all aspects of dance rehearsal performance for beginner level students. Students have the opportunity to perform in an evening-length dance concert, work with faculty choreographers and guest artists, and participate as a member of a touring dance ensemble. Students contribute as dancers and rehearsal assistants under the supervision and guidance of faculty choreographers. Productions will be presented for public performance on and off campus. The course may be taken once and repeated two times for credit.",
+      "prerequisites": null,
+      "advisory": "DANC 151",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75062",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-26T03:42:32.025578Z"
     },
     {
       "crn": "70306",
@@ -27890,7 +28805,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70306')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70306')",
+      "description": "This introductory course is designed for students who seek technical skill in classical ballet. The course will focus on functional body alignment and placement, traditional steps and combinations, musicality, ballet terminology, and the development of strength and flexibility. Students also gain knowledge of classical and contemporary ballet history. This course may be taken once and repeated three times for credit.",
+      "prerequisites": null,
+      "advisory": ">It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70306",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 13,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-26T03:42:33.636401Z"
     },
     {
       "crn": "74345",
@@ -27922,7 +28858,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74345')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74345')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": ">It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)In this course, students learn various forms of beginning hip-hop dance, including hip-hop funk, with an emphasis on body isolations, syncopations, and rhythms. The course explores the use of space, energy, rhythm, movement dynamics, and improvisation while emphasizing body control, alignment, balance, and use of weight changes. A basic history of hip-hop culture and music is discussed. The course fulfills an elective for the Associate of Art Degree in Dance, and is appropriate for students seeking careers in dance, looking to expand their dance skills, or wanting a dance-based aerobic workout. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 25-AUG-2025 08:08:47 PM Title: DANC 157 Hip-Hop Dance CRN: 74345 Instructor: Kristina Urteaga CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: PE 141 Physical Education Meeting Time T R 11:10am - 12:35pm PE 141 Physical Education 08/16/25 12/06/25 Seating Availability Capacity Taken Available 35 8 27 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 Crosslisted Sections CRN Course Title 77704 DANC257 Hip-Hop Dance II Seating Availablity Capacity Taken Available 45 15 30 [ Close Window ] Rio Hondo College 8.1",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74345",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 8,
+        "available": 27
+      },
+      "detail_fetched_at": "2025-08-26T03:42:35.246474Z"
     },
     {
       "crn": "72206",
@@ -27953,8 +28910,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72206')"
+      "additional_hours": "2.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72206')",
+      "description": "This introductory course focuses on the art and craft of dance composition. Through lecture and activity, students learn how to incorporate the elements of dance in order to create meaningful dance works. Basic elements of choreography\u2014including form, design, motivation, phrasing, gesture, rhythm, dynamics, musical accompaniment, and production basics\u2014are explored through improvisational exercises and experimentation. Additionally, students learn to analyze dance critically through Laban Movement Analysis (LMA). The class culminates in the presentation of student choreography.",
+      "prerequisites": null,
+      "advisory": "DANC 151",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72206",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 0,
+        "available": 35
+      },
+      "detail_fetched_at": "2025-08-26T03:42:36.855292Z"
     },
     {
       "crn": "75608",
@@ -27985,8 +28963,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75608')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75608')",
+      "description": "This course is designed to introduce students to the various technical aspects of dance production. Topics of exploration include basic staging, costume design, set design, make-up, lighting, sound production, and publicity. Productions are presented for public performance on and/or off campus.",
+      "prerequisites": null,
+      "advisory": "DANC 151; DANC 159; DANC 251",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75608",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 19,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-26T03:42:38.460871Z"
     },
     {
       "crn": "78423",
@@ -28017,8 +29016,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78423')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78423')",
+      "description": "This course is designed for students who want to further explore the various technical aspects of dance production that were introduced in Level I. Students develop beginning-level skills and gain a basic understanding of the technical aspects of staging, costume design, set design, make-up, lighting, sound production, and publicity. Productions are presented for public performance on and/or off campus.",
+      "prerequisites": "DANC 162",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78423",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 6,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-08-26T03:42:40.067656Z"
     },
     {
       "crn": "77977",
@@ -28050,7 +29070,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77977')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77977')",
+      "description": "This course combines dance, Latin and Funk rhythms, and aerobic elements to provide a fun, upbeat, cardiovascular workout. Students constantly move to various genres of Latin music utilizing various tempos. Salsa, Cha-Cha, Tango, Mambo, Latin Jazz, and Hip-Hop rhythms are incorporated in instruction, and by which students build stamina while increasing cardiovascular fitness. This course is designed to help students develop aerobic capacity, coordination, balance, rhythmic awareness, and flexibility. This class also includes exercises to build abdominal strength, lower body strength, and upper body strength. Classes may incorporate sections with small handheld weights, exercise bands, and/or other fitness props to further develop strength and endurance. Students build a foundation for a personalized exercise and fitness program that can be continued after the course has ended.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77977",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 5,
+        "available": 30
+      },
+      "detail_fetched_at": "2025-08-26T03:42:41.671212Z"
     },
     {
       "crn": "74361",
@@ -28082,7 +29123,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74361')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74361')",
+      "description": "This survey course investigates the forces which and figures who have shaped dance through history. Through readings, films, research, and class discussions, students study dance forms from ancient to contemporary times, paying particular attention to Western concert dance. Comparisons of various dance techniques, theories, and personalities are conducted through dance movement analysis. This course is designed for students seeking to broaden their understanding of dance while fulfilling their general education arts requirement, and for dance majors pursuing an Associate of Arts Degree in Dance or Certificate of Achievement in Dance.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following: DANC 179 or DANC 179H)This survey course investigates the forces which and figures who have shaped dance through history. Through readings, films, research, and class discussions, students study dance forms from ancient to contemporary times, paying particular attention to Western concert dance. Comparisons of various dance techniques, theories, and personalities are conducted through dance movement analysis.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74361",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 10,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-08-26T03:42:43.276108Z"
     },
     {
       "crn": "76466",
@@ -63457,8 +64519,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-25T03:44:27.416749+00:00Z",
-    "courses_with_details": 497,
+    "detail_collection_timestamp": "2025-08-26T03:42:43.352808+00:00Z",
+    "courses_with_details": 547,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
