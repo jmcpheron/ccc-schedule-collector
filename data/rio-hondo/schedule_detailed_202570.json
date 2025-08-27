@@ -29175,8 +29175,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76466')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76466')",
+      "description": "This survey course investigates the forces which and figures who have shaped dance through history. Through readings, films, research, and class discussions, students study dance forms from ancient to contemporary times, paying particular attention to Western concert dance. Comparisons of various dance techniques, theories, and personalities are conducted through dance movement analysis. This course is designed for students seeking to broaden their understanding of dance while fulfilling their general education arts requirement, and for dance majors pursuing an Associate of Arts Degree in Dance or Certificate of Achievement in Dance.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following: DANC 179 or DANC 179H)This survey course investigates the forces which and figures who have shaped dance through history. Through readings, films, research, and class discussions, students study dance forms from ancient to contemporary times, paying particular attention to Western concert dance. Comparisons of various dance techniques, theories, and personalities are conducted through dance movement analysis.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76466",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 39,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-27T03:38:26.860415Z"
     },
     {
       "crn": "77804",
@@ -29207,8 +29228,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77804')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77804')",
+      "description": "This survey course investigates the forces which and figures who have shaped dance through history. Through readings, films, research, and class discussions, students study dance forms from ancient to contemporary times, paying particular attention to Western concert dance. Comparisons of various dance techniques, theories, and personalities are conducted through dance movement analysis. This course is designed for students seeking to broaden their understanding of dance while fulfilling their general education arts requirement, and for dance majors pursuing an Associate of Arts Degree in Dance or Certificate of Achievement in Dance.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following: DANC 179 or DANC 179H)This survey course investigates the forces which and figures who have shaped dance through history. Through readings, films, research, and class discussions, students study dance forms from ancient to contemporary times, paying particular attention to Western concert dance. Comparisons of various dance techniques, theories, and personalities are conducted through dance movement analysis.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77804",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 0,
+        "available": 45
+      },
+      "detail_fetched_at": "2025-08-27T03:38:28.509675Z"
     },
     {
       "crn": "78393",
@@ -29240,7 +29283,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78393')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78393')",
+      "description": "This survey course investigates the forces which and figures who have shaped dance through history. Through readings, films, research, and class discussions, students study dance forms from ancient to contemporary times, paying particular attention to Western concert dance. Comparisons of various dance techniques, theories, and personalities are conducted through dance movement analysis. This course is designed for students seeking to broaden their understanding of dance while fulfilling their general education arts requirement, and for dance majors pursuing an Associate of Arts Degree in Dance or Certificate of Achievement in Dance. The course is intended for students who meet Honors Program requirements.",
+      "prerequisites": null,
+      "advisory": ">ENGL C1000.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following: DANC 179 or DANC 179H)This survey course investigates the forces which and figures who have shaped dance through history. Through readings, films, research, and class discussions, students study dance forms from ancient to contemporary times, paying particular attention to Western concert dance. Comparisons of various dance techniques, theories, and personalities are conducted through dance movement analysis.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78393",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 1,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-08-27T03:38:30.171652Z"
     },
     {
       "crn": "73735",
@@ -29271,8 +29335,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73735')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73735')",
+      "description": "This course provides dance students the opportunity to participate in dance productions. Productions will be presented for public performance either on or off campus. Students will learn how to adjust a performance for presentation on a stage. Pre-performance and post-performance responsibilities will be outlined. In addition, students will be exposed to basic stage direction and techniques for overcoming stage fright. This course may be repeated for a maximum of 4 units in different semesters.",
+      "prerequisites": null,
+      "advisory": "DANC 151; DANC 159; DANC 251Corequisite:DANC 152 or DANC 162 or DANC 172 or DANC 182",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73735",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 19,
+        "available": 26
+      },
+      "detail_fetched_at": "2025-08-27T03:38:31.824260Z"
     },
     {
       "crn": "70748",
@@ -29304,7 +29389,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70748')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70748')",
+      "description": "This survey course is a multicultural exploration of one of the world's oldest and most universal art forms. Dance is analyzed in terms of body, effort, space, and shape; and examined to determine cultural, social, and political influences. In addition, the history of dance techniques and dance genres are investigated through lecture, film, and performance. This course is designed for students seeking to broaden their understanding of dance while fulfilling their general education arts requirement, and for dance majors pursuing an Associate of Arts Degree in Dance or Certificate of Achievement in Dance.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following: DANC 199 or DANC 199H)This survey course is a multicultural exploration of one of the world's oldest and most universal art forms. Dance is analyzed in terms of body, effort, space, and shape; and examined to determine cultural, social, and political influences. In addition, the history of dance techniques and dance genres are investigated through lecture, film, and performance.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70748",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 11,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-08-27T03:38:33.469596Z"
     },
     {
       "crn": "75059",
@@ -29335,8 +29441,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75059')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75059')",
+      "description": "This survey course is a multicultural exploration of one of the world's oldest and most universal art forms. Dance is analyzed in terms of body, effort, space, and shape; and examined to determine cultural, social, and political influences. In addition, the history of dance techniques and dance genres are investigated through lecture, film, and performance. This course is designed for students seeking to broaden their understanding of dance while fulfilling their general education arts requirement, and for dance majors pursuing an Associate of Arts Degree in Dance or Certificate of Achievement in Dance.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following: DANC 199 or DANC 199H)This survey course is a multicultural exploration of one of the world's oldest and most universal art forms. Dance is analyzed in terms of body, effort, space, and shape; and examined to determine cultural, social, and political influences. In addition, the history of dance techniques and dance genres are investigated through lecture, film, and performance.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75059",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 34,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-08-27T03:38:35.133057Z"
     },
     {
       "crn": "77340",
@@ -29367,8 +29494,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77340')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77340')",
+      "description": "This survey course is a multicultural exploration of one of the world's oldest and most universal art forms. Dance is analyzed in terms of body, effort, space, and shape; and examined to determine cultural, social, and political influences. In addition, the history of dance techniques and dance genres are investigated through lecture, film, and performance. This course is designed for students seeking to broaden their understanding of dance while fulfilling their general education arts requirement, and for dance majors pursuing an Associate of Arts Degree in Dance or Certificate of Achievement in Dance.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following: DANC 199 or DANC 199H)This survey course is a multicultural exploration of one of the world's oldest and most universal art forms. Dance is analyzed in terms of body, effort, space, and shape; and examined to determine cultural, social, and political influences. In addition, the history of dance techniques and dance genres are investigated through lecture, film, and performance.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77340",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 31,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-08-27T03:38:36.779695Z"
     },
     {
       "crn": "77966",
@@ -29400,7 +29549,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77966')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77966')",
+      "description": "This survey course is a multicultural exploration of one of the world's oldest and most universal art forms. Dance is analyzed in terms of body, effort, space, and shape; and examined to determine cultural, social, and political influences. In addition, the history of dance techniques and dance genres are investigated through lecture, film, and performance. This course is designed for students seeking to broaden their understanding of dance while fulfilling their general education arts requirement, and for dance majors pursuing an Associate of Arts Degree in Dance or Certificate of Achievement in Dance. The course is intended for students who meet Honors Program requirements.",
+      "prerequisites": null,
+      "advisory": ">ENGL C1000",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following: DANC 199 or DANC 199H)This survey course is a multicultural exploration of one of the world's oldest and most universal art forms. Dance is analyzed in terms of body, effort, space, and shape; and examined to determine cultural, social, and political influences. In addition, the history of dance techniques and dance genres are investigated through lecture, film, and performance.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77966",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 8,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-08-27T03:38:38.432901Z"
     },
     {
       "crn": "74405",
@@ -29432,7 +29602,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74405')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74405')",
+      "description": "This intermediate-level course is designed for students who want to further develop technical and performance skills acquired in Ballet I. The class includes more advanced technique work at the barre, across the floor, and in-center floor combinations. Complex adagio and allegro dance sequences are also introduced. Students have the opportunity to perform in an informal showing or concert setting. This course may be taken once and repeated three times for credit.",
+      "prerequisites": "DANC 153",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)This intermediate-level course is designed for students who want to further develop technical and performance skills acquired in Ballet I. The class includes more advanced technique work at the barre, across the floor, and in-center floor combinations. Complex adagio and allegro dance sequences are also introduced. Students have the opportunity to perform in an informal showing or concert setting.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74405",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-27T03:38:40.085187Z"
     },
     {
       "crn": "78421",
@@ -29464,7 +29655,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78421')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78421')",
+      "description": "This intermediate-level course is designed for students who want to further develop technical and performance skills acquired in Ballet I. The class includes more advanced technique work at the barre, across the floor, and in-center floor combinations. Complex adagio and allegro dance sequences are also introduced. Students have the opportunity to perform in an informal showing or concert setting. This course may be taken once and repeated three times for credit.",
+      "prerequisites": "DANC 153",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)This intermediate-level course is designed for students who want to further develop technical and performance skills acquired in Ballet I. The class includes more advanced technique work at the barre, across the floor, and in-center floor combinations. Complex adagio and allegro dance sequences are also introduced. Students have the opportunity to perform in an informal showing or concert setting.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78421",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 10,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-08-27T03:38:41.732049Z"
     },
     {
       "crn": "77704",
@@ -29496,7 +29708,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77704')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77704')",
+      "description": null,
+      "prerequisites": "DANC 157",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77704",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 7,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-27T03:38:43.382194Z"
     },
     {
       "crn": "77941",
@@ -29528,7 +29761,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77941')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77941')",
+      "description": "This course introduces basic programming and statistical concepts, including programming for data cleansing, manipulation, visualization, and statistical computation for intelligence gathering. Students apply common built-in language functions for analysis of real-world datasets, including global and local economic data, commercial business, document collections, and social networks. This course also delves into machine learning and data-driven decision-making using statistical concepts like hypothesis testing, confidence intervals via bootstrapping, regression and inference for regression, and predictive modeling. In the course, students also learn about social issues surrounding data privacy and ownership.",
+      "prerequisites": null,
+      "advisory": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course, ENGL C1000, READ 101",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77941",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 8,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-08-27T03:38:45.036591Z"
     },
     {
       "crn": "70082",
@@ -29559,8 +29813,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70082')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70082')",
+      "description": "This introductory course has students learn to analyze and describe the performance and policies of national economic systems, with particular emphasis on the U.S. economy. The course is intended for economics or business majors and also satisfies General Education (GE) requirements. Topics include production possibilities and tradeoffs; comparative economic systems; the functions of government; national income and employment; business cycles; money and banking; monetary and fiscal policy; comparative advantage and trade policy; economic growth and stability; and income distribution and poverty.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 101 or ECON 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70082",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-27T03:38:46.683444Z"
     },
     {
       "crn": "70086",
@@ -29591,8 +29867,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70086')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70086')",
+      "description": "This introductory course has students learn to analyze and describe the performance and policies of national economic systems, with particular emphasis on the U.S. economy. The course is intended for economics or business majors and also satisfies General Education (GE) requirements. Topics include production possibilities and tradeoffs; comparative economic systems; the functions of government; national income and employment; business cycles; money and banking; monetary and fiscal policy; comparative advantage and trade policy; economic growth and stability; and income distribution and poverty.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 101 or ECON 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70086",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-27T03:38:48.358069Z"
     },
     {
       "crn": "70089",
@@ -29624,7 +29921,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70089')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70089')",
+      "description": "This introductory course has students learn to analyze and describe the performance and policies of national economic systems, with particular emphasis on the U.S. economy. The course is intended for economics or business majors and also satisfies General Education (GE) requirements. Topics include production possibilities and tradeoffs; comparative economic systems; the functions of government; national income and employment; business cycles; money and banking; monetary and fiscal policy; comparative advantage and trade policy; economic growth and stability; and income distribution and poverty.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 101 or ECON 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70089",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 26,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-27T03:38:50.008433Z"
     },
     {
       "crn": "70091",
@@ -29655,8 +29973,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70091')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70091')",
+      "description": "This introductory course has students learn to analyze and describe the performance and policies of national economic systems, with particular emphasis on the U.S. economy. The course is intended for economics or business majors and also satisfies General Education (GE) requirements. Topics include production possibilities and tradeoffs; comparative economic systems; the functions of government; national income and employment; business cycles; money and banking; monetary and fiscal policy; comparative advantage and trade policy; economic growth and stability; and income distribution and poverty.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 101 or ECON 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70091",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 40,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-27T03:38:51.654990Z"
     },
     {
       "crn": "74175",
@@ -29687,8 +30026,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74175')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74175')",
+      "description": "This introductory course has students learn to analyze and describe the performance and policies of national economic systems, with particular emphasis on the U.S. economy. The course is intended for economics or business majors and also satisfies General Education (GE) requirements. Topics include production possibilities and tradeoffs; comparative economic systems; the functions of government; national income and employment; business cycles; money and banking; monetary and fiscal policy; comparative advantage and trade policy; economic growth and stability; and income distribution and poverty.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 101 or ECON 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74175",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 46,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-27T03:38:53.298143Z"
     },
     {
       "crn": "74352",
@@ -29719,8 +30080,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74352')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74352')",
+      "description": "This introductory course has students learn to analyze and describe the performance and policies of national economic systems, with particular emphasis on the U.S. economy. The course is intended for economics or business majors and also satisfies General Education (GE) requirements. Topics include production possibilities and tradeoffs; comparative economic systems; the functions of government; national income and employment; business cycles; money and banking; monetary and fiscal policy; comparative advantage and trade policy; economic growth and stability; and income distribution and poverty.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 101 or ECON 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74352",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-27T03:38:54.947466Z"
     },
     {
       "crn": "74381",
@@ -29752,7 +30135,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74381')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74381')",
+      "description": "This introductory course has students learn to analyze and describe the performance and policies of national economic systems, with particular emphasis on the U.S. economy. The course is intended for economics or business majors and also satisfies General Education (GE) requirements. Topics include production possibilities and tradeoffs; comparative economic systems; the functions of government; national income and employment; business cycles; money and banking; monetary and fiscal policy; comparative advantage and trade policy; economic growth and stability; and income distribution and poverty.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 101 or ECON 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74381",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 33,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-27T03:38:56.592353Z"
     },
     {
       "crn": "75366",
@@ -29784,7 +30188,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75366')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75366')",
+      "description": "This introductory course has students learn to analyze and describe the performance and policies of national economic systems, with particular emphasis on the U.S. economy. The course is intended for economics or business majors and also satisfies General Education (GE) requirements. Topics include production possibilities and tradeoffs; comparative economic systems; the functions of government; national income and employment; business cycles; money and banking; monetary and fiscal policy; comparative advantage and trade policy; economic growth and stability; and income distribution and poverty.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 101 or ECON 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75366",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-27T03:38:58.248790Z"
     },
     {
       "crn": "70090",
@@ -29816,7 +30241,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70090')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70090')",
+      "description": "This introductory course has students learn to analyze and describe the performance and policies of national economic systems, with particular emphasis on the U.S. economy. The course is intended for economics or business majors and also satisfies General Education (GE) requirements. Topics include production possibilities and tradeoffs; comparative economic systems; the functions of government; national income and employment; business cycles; money and banking; monetary and fiscal policy; comparative advantage and trade policy; economic growth and stability; and income distribution and poverty. This course is intended for students who meet Honors Program requirements.",
+      "prerequisites": "ENGL C1000; Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 101 or ECON 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70090",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 10,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-08-27T03:38:59.891753Z"
     },
     {
       "crn": "70094",
@@ -29847,8 +30293,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70094')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70094')",
+      "description": "This introductory course in economic analysis of markets has students learn how markets work to coordinate consumers and producers, the various causes of the failure of free markets, and policies used to correct or regulate market behavior. The course is intended for economics and business majors as well as to satisfy General Education (GE) requirements, and may be taken prior to ECON 101.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 102 or ECON 102H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70094",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 40,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-27T03:39:01.536921Z"
     },
     {
       "crn": "70097",
@@ -29880,7 +30347,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70097')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70097')",
+      "description": "This introductory course in economic analysis of markets has students learn how markets work to coordinate consumers and producers, the various causes of the failure of free markets, and policies used to correct or regulate market behavior. The course is intended for economics and business majors as well as to satisfy General Education (GE) requirements, and may be taken prior to ECON 101.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 102 or ECON 102H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70097",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 14,
+        "available": 31
+      },
+      "detail_fetched_at": "2025-08-27T03:39:03.180031Z"
     },
     {
       "crn": "70098",
@@ -29912,7 +30400,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70098')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70098')",
+      "description": "This introductory course in economic analysis of markets has students learn how markets work to coordinate consumers and producers, the various causes of the failure of free markets, and policies used to correct or regulate market behavior. The course is intended for economics and business majors as well as to satisfy General Education (GE) requirements, and may be taken prior to ECON 101.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 102 or ECON 102H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70098",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 18,
+        "available": 27
+      },
+      "detail_fetched_at": "2025-08-27T03:39:04.825448Z"
     },
     {
       "crn": "70099",
@@ -29943,8 +30452,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70099')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70099')",
+      "description": "This introductory course in economic analysis of markets has students learn how markets work to coordinate consumers and producers, the various causes of the failure of free markets, and policies used to correct or regulate market behavior. The course is intended for economics and business majors as well as to satisfy General Education (GE) requirements, and may be taken prior to ECON 101.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 102 or ECON 102H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70099",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-27T03:39:06.471999Z"
     },
     {
       "crn": "72768",
@@ -29975,8 +30506,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72768')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72768')",
+      "description": "This introductory course in economic analysis of markets has students learn how markets work to coordinate consumers and producers, the various causes of the failure of free markets, and policies used to correct or regulate market behavior. The course is intended for economics and business majors as well as to satisfy General Education (GE) requirements, and may be taken prior to ECON 101.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 102 or ECON 102H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72768",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-27T03:39:08.125016Z"
     },
     {
       "crn": "75112",
@@ -30008,7 +30560,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75112')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75112')",
+      "description": "This introductory course in economic analysis of markets has students learn how markets work to coordinate consumers and producers, the various causes of the failure of free markets, and policies used to correct or regulate market behavior. The course is intended for economics and business majors as well as to satisfy General Education (GE) requirements, and may be taken prior to ECON 101.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 102 or ECON 102H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75112",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 14,
+        "available": 31
+      },
+      "detail_fetched_at": "2025-08-27T03:39:09.773805Z"
     },
     {
       "crn": "75113",
@@ -30039,8 +30612,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75113')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75113')",
+      "description": "This introductory course in economic analysis of markets has students learn how markets work to coordinate consumers and producers, the various causes of the failure of free markets, and policies used to correct or regulate market behavior. The course is intended for economics and business majors as well as to satisfy General Education (GE) requirements, and may be taken prior to ECON 101.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: ECON 102 or ECON 102H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75113",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-27T03:39:11.418129Z"
     },
     {
       "crn": "75126",
@@ -30071,8 +30666,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75126')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75126')",
+      "description": "This course is designed to introduce students to the profession of teaching through lecture and observation of K\u201312 classrooms and public schools. The major aspects of the teaching profession and the diversity of the public school system are examined and discussed, and students gain experience in all three levels of the K\u201312 system. This course is intended for students considering a career in teaching; 45 hours of structured fieldwork is required.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75126",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 15,
+        "available": 30
+      },
+      "detail_fetched_at": "2025-08-27T03:39:13.070346Z"
     },
     {
       "crn": "76415",
@@ -30103,8 +30719,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76415')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76415')",
+      "description": "This course is designed to introduce students to the profession of teaching through lecture and observation of K\u201312 classrooms and public schools. The major aspects of the teaching profession and the diversity of the public school system are examined and discussed, and students gain experience in all three levels of the K\u201312 system. This course is intended for students considering a career in teaching; 45 hours of structured fieldwork is required.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76415",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 40,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-27T03:39:14.715533Z"
     },
     {
       "crn": "77754",
@@ -30135,8 +30772,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77754')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77754')",
+      "description": "This course is designed to introduce students to the profession of teaching through lecture and observation of K\u201312 classrooms and public schools. The major aspects of the teaching profession and the diversity of the public school system are examined and discussed, and students gain experience in all three levels of the K\u201312 system. This course is intended for students considering a career in teaching; 45 hours of structured fieldwork is required.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77754",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-27T03:39:16.360197Z"
     },
     {
       "crn": "77705",
@@ -30168,7 +30827,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77705')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77705')",
+      "description": "This course introduces disabled students to essential skills required to use a computer, including composing and sending email, using and navigating the campus-wide learning management system (LMS) (i.e., Canvas), and the basic features of assistive technology programs (e.g., Read&Write and Kurzweil 3000). The course also includes training in notetaking and word processing software (e.g., Glean and Microsoft Word).",
+      "prerequisites": null,
+      "advisory": "EDEV 021, EDEV 030 or ENLA 034This course introduces disabled students to essential skills required to use a computer, including composing and sending email, using and navigating the campus-wide learning management system (LMS) (i.e., Canvas), and the basic features of assistive technology programs (e.g., Read&Write and Kurzweil 3000). The course also includes training in notetaking and word processing software (e.g., Glean and Microsoft Word). View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 26-AUG-2025 08:08:31 PM Title: EDEV 025A Adaptive Computer Technology A CRN: 77705 Instructor: Jose Arroyo CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: B Business Meeting Time T 09:40am - 10:30am B Business 08/16/25 12/06/25 Seating Availability Capacity Taken Available 0 0 0 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77705",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-27T03:39:18.006394Z"
     },
     {
       "crn": "71482",
@@ -30200,7 +30880,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71482')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71482')",
+      "description": "This course explores the cognitive, psychological, social, and physical factors that influence success in college and in life. Topics include personal responsibility, critical thinking, motivation, self-efficacy, personal awareness, lifelong learning, self-management, health and wellness, interpersonal communication in a diverse world, and introductory career and educational planning. Students learn about the purpose, demands, and requirements of higher education, as well as student support services, at",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71482",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 26,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-27T03:39:19.662837Z"
     },
     {
       "crn": "77318",
@@ -30232,7 +30933,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77318')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77318')",
+      "description": "This course is an introduction to the interdisciplinary study of race and ethnicity in the United States. Focusing on the socioeconomic and political experiences of Black Americans, Native Americans, Asian Americans, and Chicanx/Latinx Americans, the course surveys topics such as colonization, decolonization, racialization, indigeneity, immigration, intersectionality, social justice movements, cultural expression and resistance, and major theories of race and ethnicity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77318",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 42,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-27T03:39:21.311839Z"
     },
     {
       "crn": "77319",
@@ -30263,8 +30985,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77319')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77319')",
+      "description": "This course is an introduction to the interdisciplinary study of race and ethnicity in the United States. Focusing on the socioeconomic and political experiences of Black Americans, Native Americans, Asian Americans, and Chicanx/Latinx Americans, the course surveys topics such as colonization, decolonization, racialization, indigeneity, immigration, intersectionality, social justice movements, cultural expression and resistance, and major theories of race and ethnicity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77319",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-27T03:39:22.970298Z"
     },
     {
       "crn": "77320",
@@ -30296,7 +31039,29 @@
       "start_date": "10/11",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77320')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77320')",
+      "description": "This course is an introduction to the interdisciplinary study of race and ethnicity in the United States. Focusing on the socioeconomic and political experiences of Black Americans, Native Americans, Asian Americans, and Chicanx/Latinx Americans, the course surveys topics such as colonization, decolonization, racialization, indigeneity, immigration, intersectionality, social justice movements, cultural expression and resistance, and major theories of race and ethnicity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "14-OCT-2025",
+        "Last day to drop with a refund": "14-OCT-2025",
+        "Last day to drop without a \"W\"": "23-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77320",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 8,
+        "available": 37
+      },
+      "detail_fetched_at": "2025-08-27T03:39:24.620205Z"
     },
     {
       "crn": "77672",
@@ -30328,7 +31093,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77672')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77672')",
+      "description": "This course is an introduction to the interdisciplinary study of race and ethnicity in the United States. Focusing on the socioeconomic and political experiences of Black Americans, Native Americans, Asian Americans, and Chicanx/Latinx Americans, the course surveys topics such as colonization, decolonization, racialization, indigeneity, immigration, intersectionality, social justice movements, cultural expression and resistance, and major theories of race and ethnicity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77672",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-27T03:39:26.265412Z"
     },
     {
       "crn": "77673",
@@ -30360,7 +31146,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77673')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77673')",
+      "description": "This course is an introduction to the interdisciplinary study of race and ethnicity in the United States. Focusing on the socioeconomic and political experiences of Black Americans, Native Americans, Asian Americans, and Chicanx/Latinx Americans, the course surveys topics such as colonization, decolonization, racialization, indigeneity, immigration, intersectionality, social justice movements, cultural expression and resistance, and major theories of race and ethnicity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77673",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-27T03:39:27.908167Z"
     },
     {
       "crn": "77674",
@@ -30391,8 +31198,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77674')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77674')",
+      "description": "This course is an introduction to the interdisciplinary study of race and ethnicity in the United States. Focusing on the socioeconomic and political experiences of Black Americans, Native Americans, Asian Americans, and Chicanx/Latinx Americans, the course surveys topics such as colonization, decolonization, racialization, indigeneity, immigration, intersectionality, social justice movements, cultural expression and resistance, and major theories of race and ethnicity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77674",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 38,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-08-27T03:39:29.556291Z"
     },
     {
       "crn": "77750",
@@ -30423,8 +31251,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77750')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77750')",
+      "description": "This course is an introduction to the interdisciplinary study of race and ethnicity in the United States. Focusing on the socioeconomic and political experiences of Black Americans, Native Americans, Asian Americans, and Chicanx/Latinx Americans, the course surveys topics such as colonization, decolonization, racialization, indigeneity, immigration, intersectionality, social justice movements, cultural expression and resistance, and major theories of race and ethnicity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77750",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-27T03:39:31.201518Z"
     },
     {
       "crn": "77901",
@@ -30456,7 +31306,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77901')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77901')",
+      "description": "This course is an introduction to the interdisciplinary study of race and ethnicity in the United States. Focusing on the socioeconomic and political experiences of Black Americans, Native Americans, Asian Americans, and Chicanx/Latinx Americans, the course surveys topics such as colonization, decolonization, racialization, indigeneity, immigration, intersectionality, social justice movements, cultural expression and resistance, and major theories of race and ethnicity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77901",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 26,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-08-27T03:39:32.859075Z"
     },
     {
       "crn": "77902",
@@ -30487,8 +31358,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77902')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77902')",
+      "description": "This course is an introduction to the interdisciplinary study of race and ethnicity in the United States. Focusing on the socioeconomic and political experiences of Black Americans, Native Americans, Asian Americans, and Chicanx/Latinx Americans, the course surveys topics such as colonization, decolonization, racialization, indigeneity, immigration, intersectionality, social justice movements, cultural expression and resistance, and major theories of race and ethnicity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77902",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 29,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-08-27T03:39:34.513399Z"
     },
     {
       "crn": "77903",
@@ -30519,8 +31411,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77903')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77903')",
+      "description": "This course is an introduction to the interdisciplinary study of race and ethnicity in the United States. Focusing on the socioeconomic and political experiences of Black Americans, Native Americans, Asian Americans, and Chicanx/Latinx Americans, the course surveys topics such as colonization, decolonization, racialization, indigeneity, immigration, intersectionality, social justice movements, cultural expression and resistance, and major theories of race and ethnicity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77903",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-27T03:39:36.158227Z"
     },
     {
       "crn": "78288",
@@ -30551,8 +31465,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78288')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78288')",
+      "description": "This course is an introduction to the interdisciplinary study of race and ethnicity in the United States. Focusing on the socioeconomic and political experiences of Black Americans, Native Americans, Asian Americans, and Chicanx/Latinx Americans, the course surveys topics such as colonization, decolonization, racialization, indigeneity, immigration, intersectionality, social justice movements, cultural expression and resistance, and major theories of race and ethnicity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78288",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 40,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-27T03:39:37.801533Z"
     },
     {
       "crn": "78470",
@@ -30583,8 +31519,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78470')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78470')",
+      "description": "This course is an introduction to the interdisciplinary study of race and ethnicity in the United States. Focusing on the socioeconomic and political experiences of Black Americans, Native Americans, Asian Americans, and Chicanx/Latinx Americans, the course surveys topics such as colonization, decolonization, racialization, indigeneity, immigration, intersectionality, social justice movements, cultural expression and resistance, and major theories of race and ethnicity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78470",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-27T03:39:39.455080Z"
     },
     {
       "crn": "77351",
@@ -30615,8 +31573,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77351')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77351')",
+      "description": "This course is an introduction to Lesbian, Gay, Bisexual, Transgender, and Queer Plus (LGBTQ+) Studies, and examines LGBTQ+ Studies as an interdisciplinary field. In particular, the course takes up the influences of history, politics, media, and health care as they relate to the LGBTQ+ community. Throughout this course, students work toward a deeper understanding of the intersectional dynamics of privilege and oppression as significant LGBTQ+ issues.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77351",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 23,
+        "available": 22
+      },
+      "detail_fetched_at": "2025-08-27T03:39:41.102009Z"
     },
     {
       "crn": "77776",
@@ -30647,8 +31626,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77776')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77776')",
+      "description": "This course is an introduction to Lesbian, Gay, Bisexual, Transgender, and Queer Plus (LGBTQ+) Studies, and examines LGBTQ+ Studies as an interdisciplinary field. In particular, the course takes up the influences of history, politics, media, and health care as they relate to the LGBTQ+ community. Throughout this course, students work toward a deeper understanding of the intersectional dynamics of privilege and oppression as significant LGBTQ+ issues.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77776",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 35,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-08-27T03:39:42.758270Z"
     },
     {
       "crn": "75049",
@@ -30680,7 +31681,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75049')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75049')",
+      "description": "This course will present the principles and practices of copper cable wiring technology and includes instruction in the design, installation, and maintenance of copper wiring systems for intelligent control systems, lighting and appliance control devices, communication, and networking. Also includes instruction in household and institutional power wiring. This course is designed for students wanting to work in the Home Technology Service industry.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This course will present the principles and practices of copper cable wiring technology and includes instruction in the design, installation, and maintenance of copper wiring systems for intelligent control systems, lighting and appliance control devices, communication, and networking. Also includes instruction in household and institutional power wiring. This course is designed for students wanting to work in the Home Technology Service industry. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 26-AUG-2025 08:08:57 PM Title: ELEC 061 Fund of Wire & Cabl CRN: 75049 Instructor: David Lindy Instructor: David Lindy CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: T 101 Technology Meeting Time R 08:00am - 09:25am T 101 Technology 08/16/25 12/06/25 R 09:35am - 11:00am T 101 Technology 08/16/25 12/06/25 Seating Availability Capacity Taken Available 24 18 6 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75049",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 18,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-27T03:39:44.405399Z"
     },
     {
       "crn": "75050",
@@ -30712,7 +31734,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75050')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75050')",
+      "description": "This introductory course in direct current (DC) and alternating current (AC) electricity is for students and for those contemplating a career in the electrical/electronics industry. Course content includes basic theories, resistance, capacitance, inductance, simple DC and AC circuits, transformers, measuring instruments, batteries, motors, and generators.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75050",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 8,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-08-27T03:39:46.053023Z"
     },
     {
       "crn": "72732",
@@ -30744,7 +31787,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72732')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72732')",
+      "description": "This course is an introduction to the field of Direct Current (DC) electricity/electronics. Emphasis is on the theory of operation, physical properties and characteristics of DC electrical/electronic circuits and devices. Students will analyze circuits and solve problems utilizing basic network analysis methods. The course will instruct students on the arrangement of circuit diagrams, proper identification of circuit/device symbols, and use of wiring schematics. Laboratory work provides experience with the design and test of basic electrical circuits, use of meters, schematic diagrams, oscilloscopes, and common laboratory equipment. This course is for students that are contemplating a career in the electrical/electronics industry and is part of the preparation leading to an A.S. Degree or a Certificate in Electronics Technology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72732",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 12,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-27T03:39:47.706508Z"
     },
     {
       "crn": "78410",
@@ -64519,8 +65583,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-26T03:42:43.352808+00:00Z",
-    "courses_with_details": 547,
+    "detail_collection_timestamp": "2025-08-27T03:39:47.785033+00:00Z",
+    "courses_with_details": 597,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
