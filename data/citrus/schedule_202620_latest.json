@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-08-27T07:19:46.784723Z",
+  "collection_timestamp": "2025-08-27T15:20:20.704162Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -3513,7 +3513,7 @@
       "location": "LS 120",
       "enrollment": {
         "capacity": 23,
-        "actual": 24,
+        "actual": 25,
         "remaining": 0
       },
       "status": "Open",
@@ -4761,7 +4761,7 @@
       "location": "PS 222",
       "enrollment": {
         "capacity": 24,
-        "actual": 26,
+        "actual": 27,
         "remaining": 0
       },
       "status": "Open",
@@ -4825,7 +4825,7 @@
       "location": "PS 203",
       "enrollment": {
         "capacity": 18,
-        "actual": 19,
+        "actual": 20,
         "remaining": 0
       },
       "status": "Open",
@@ -10169,8 +10169,8 @@
       "location": "PE 101",
       "enrollment": {
         "capacity": 30,
-        "actual": 29,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 2
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13049,8 +13049,8 @@
       "location": "ONLINE",
       "enrollment": {
         "capacity": 25,
-        "actual": 24,
-        "remaining": 1
+        "actual": 25,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13369,8 +13369,8 @@
       "location": "ED 214",
       "enrollment": {
         "capacity": 45,
-        "actual": 14,
-        "remaining": 31
+        "actual": 13,
+        "remaining": 32
       },
       "status": "Open",
       "section_type": "LEC",
@@ -14937,8 +14937,8 @@
       "location": "PA 193",
       "enrollment": {
         "capacity": 10,
-        "actual": 6,
-        "remaining": 4
+        "actual": 5,
+        "remaining": 5
       },
       "status": "Open",
       "section_type": "LEC",
@@ -15257,8 +15257,8 @@
       "location": "PA 193",
       "enrollment": {
         "capacity": 4,
-        "actual": 3,
-        "remaining": 1
+        "actual": 2,
+        "remaining": 2
       },
       "status": "Open",
       "section_type": "LEC",
@@ -15769,8 +15769,8 @@
       "location": "ONLINE",
       "enrollment": {
         "capacity": 35,
-        "actual": 7,
-        "remaining": 28
+        "actual": 6,
+        "remaining": 29
       },
       "status": "Open",
       "section_type": "LEC",
@@ -15833,8 +15833,8 @@
       "location": "AQ 100",
       "enrollment": {
         "capacity": 35,
-        "actual": 26,
-        "remaining": 9
+        "actual": 27,
+        "remaining": 8
       },
       "status": "Open",
       "section_type": "LEC",
