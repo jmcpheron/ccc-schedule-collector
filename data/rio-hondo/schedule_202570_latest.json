@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-08-27T06:37:31.365401Z",
+  "collection_timestamp": "2025-08-27T14:32:55.506630Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -188,7 +188,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -8508,7 +8508,7 @@
         "actual": 14,
         "remaining": 10
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10649,8 +10649,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 28,
-        "remaining": 4
+        "actual": 27,
+        "remaining": 3
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -12444,7 +12444,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -13756,7 +13756,7 @@
         "actual": 35,
         "remaining": 10
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13820,7 +13820,7 @@
         "actual": 29,
         "remaining": 16
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -14393,8 +14393,8 @@
       "location": "Business 119",
       "enrollment": {
         "capacity": 35,
-        "actual": 30,
-        "remaining": 5
+        "actual": 29,
+        "remaining": 6
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -16921,8 +16921,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 29,
-        "remaining": 6
+        "actual": 28,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -25244,7 +25244,7 @@
         "actual": 51,
         "remaining": 14
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -25657,8 +25657,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 54,
-        "remaining": 19
+        "actual": 53,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36220,7 +36220,7 @@
         "actual": 31,
         "remaining": 4
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -36252,7 +36252,7 @@
         "actual": 32,
         "remaining": 3
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -38940,7 +38940,7 @@
         "actual": 10,
         "remaining": 40
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -39353,8 +39353,8 @@
       "location": "Modular Classrooms 10",
       "enrollment": {
         "capacity": 30,
-        "actual": 15,
-        "remaining": 15
+        "actual": 16,
+        "remaining": 14
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -41884,7 +41884,7 @@
         "actual": 16,
         "remaining": 14
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online SYNC",
@@ -43228,7 +43228,7 @@
         "actual": 17,
         "remaining": 8
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
