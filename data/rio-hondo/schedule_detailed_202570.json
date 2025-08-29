@@ -34502,7 +34502,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78122')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78122')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78122",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 24,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-29T03:38:11.160519Z"
     },
     {
       "crn": "78123",
@@ -34534,7 +34555,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78123')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78123')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78123",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 24,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-29T03:38:12.742648Z"
     },
     {
       "crn": "78125",
@@ -34566,7 +34608,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78125')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78125')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78125",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 24,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-29T03:38:14.318386Z"
     },
     {
       "crn": "78126",
@@ -34598,7 +34661,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78126')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78126')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78126",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 24,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-29T03:38:15.892797Z"
     },
     {
       "crn": "78127",
@@ -34629,8 +34713,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78127')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78127')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78127",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 26,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-29T03:38:17.479162Z"
     },
     {
       "crn": "78130",
@@ -34662,7 +34767,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78130')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78130')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78130",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 25,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-29T03:38:19.055869Z"
     },
     {
       "crn": "78131",
@@ -34694,7 +34820,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78131')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78131')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78131",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 27,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-29T03:38:20.630975Z"
     },
     {
       "crn": "78132",
@@ -34726,7 +34873,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78132')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78132')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78132",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 27,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-29T03:38:22.206489Z"
     },
     {
       "crn": "78138",
@@ -34758,7 +34926,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78138')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78138')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78138",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 25,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-29T03:38:23.776472Z"
     },
     {
       "crn": "78139",
@@ -34790,7 +34979,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78139')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78139')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78139",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 28,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-29T03:38:25.351414Z"
     },
     {
       "crn": "78140",
@@ -34822,7 +35032,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78140')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78140')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78140",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 27,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-29T03:38:26.925613Z"
     },
     {
       "crn": "78144",
@@ -34854,7 +35085,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78144')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78144')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78144",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 25,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-29T03:38:28.503825Z"
     },
     {
       "crn": "78147",
@@ -34886,7 +35138,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78147')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78147')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78147",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 16,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-08-29T03:38:30.080192Z"
     },
     {
       "crn": "78148",
@@ -34918,7 +35191,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78148')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78148')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research. This composition course enables students to generate logical, coherent essays that incorporate sources necessary for academic and professional success. Students become proficient in researching, evaluating, and incorporating sources, and in learning critical reading and thinking skills through expository and persuasive reading selections before applying these skills to creating original documented essays. The writing workshop component of the course is designed to assist students with improving and refining their writing and language skills: Students complete writing workshop activities that enhance their ability to compose logical, well-supported arguments that exhibit grammatical fluency and correct citation styles. Students meet with composition instructors through individual or small group conferences that address students\u2019 specific writing concerns. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 28-AUG-2025 08:08:45 PM Title: ENGL C1000 Academic Reading and Writing CRN: 78148 Instructor: Alonso Garcia Instructor: Alonso Garcia CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: A 210 Administration Section Information Text Students registering for CRN 78148 ENG C1000 must also register for CRN 78418 COUN 102.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78148",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 26,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-29T03:38:31.663325Z"
     },
     {
       "crn": "78150",
@@ -34949,8 +35243,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78150')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78150')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78150",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 25,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-29T03:38:33.239829Z"
     },
     {
       "crn": "78151",
@@ -34982,7 +35297,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78151')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78151')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78151",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 19,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-08-29T03:38:34.813877Z"
     },
     {
       "crn": "78153",
@@ -35014,7 +35350,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78153')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78153')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78153",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 24,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-29T03:38:36.390564Z"
     },
     {
       "crn": "78154",
@@ -35046,7 +35403,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78154')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78154')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-25",
+        "Last day to drop with a refund": "01-SEP-25",
+        "Last day to drop without a \"W\"": "12-SEP-25",
+        "Last day to drop with a \"W\"": "07-NOV-25",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-25"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78154",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 27,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-29T03:38:37.967279Z"
     },
     {
       "crn": "78155",
@@ -35077,8 +35455,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78155')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78155')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-25",
+        "Last day to drop with a refund": "01-SEP-25",
+        "Last day to drop without a \"W\"": "12-SEP-25",
+        "Last day to drop with a \"W\"": "07-NOV-25",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-25"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78155",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 27,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-29T03:38:39.546734Z"
     },
     {
       "crn": "78156",
@@ -35110,7 +35509,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78156')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78156')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-25",
+        "Last day to drop with a refund": "01-SEP-25",
+        "Last day to drop without a \"W\"": "12-SEP-25",
+        "Last day to drop with a \"W\"": "07-NOV-25",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-25"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78156",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 29,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-08-29T03:38:41.121925Z"
     },
     {
       "crn": "78159",
@@ -35141,8 +35561,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78159')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78159')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-25",
+        "Last day to drop with a refund": "01-SEP-25",
+        "Last day to drop without a \"W\"": "12-SEP-25",
+        "Last day to drop with a \"W\"": "07-NOV-25",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-25"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78159",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 30,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-08-29T03:38:42.694451Z"
     },
     {
       "crn": "78160",
@@ -35174,7 +35615,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78160')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78160')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78160",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 28,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-29T03:38:44.278322Z"
     },
     {
       "crn": "78161",
@@ -35206,7 +35668,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78161')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78161')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78161",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 27,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-29T03:38:45.852135Z"
     },
     {
       "crn": "78162",
@@ -35238,7 +35721,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78162')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78162')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78162",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 23,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-29T03:38:47.430607Z"
     },
     {
       "crn": "78163",
@@ -35270,7 +35774,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78163')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78163')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78163",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 22,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-29T03:38:49.010850Z"
     },
     {
       "crn": "78179",
@@ -35302,7 +35827,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78179')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78179')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78179",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 25,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-08-29T03:38:50.584875Z"
     },
     {
       "crn": "78180",
@@ -35334,7 +35880,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78180')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78180')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78180",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 28,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-29T03:38:52.157172Z"
     },
     {
       "crn": "78181",
@@ -35366,7 +35933,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78181')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78181')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research. This composition course enables students to generate logical, coherent essays that incorporate sources necessary for academic and professional success. Students become proficient in researching, evaluating, and incorporating sources, and in learning critical reading and thinking skills through expository and persuasive reading selections before applying these skills to creating original documented essays. The writing workshop component of the course is designed to assist students with improving and refining their writing and language skills: Students complete writing workshop activities that enhance their ability to compose logical, well-supported arguments that exhibit grammatical fluency and correct citation styles. Students meet with composition instructors through individual or small group conferences that address students\u2019 specific writing concerns. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 28-AUG-2025 08:08:07 PM Title: ENGL C1000 Academic Reading and Writing CRN: 78181 Instructor: Katrina Jalloh Instructor: Katrina Jalloh CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: LR 124 Learning Resource Center (LRC) Section Information Text Students registering for this section of ENGL C1000 must also register for EGGS 110 (CRN 77902).",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78181",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 28,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-29T03:38:53.743369Z"
     },
     {
       "crn": "78185",
@@ -35398,7 +35986,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78185')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78185')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78185",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 23,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-08-29T03:38:55.316736Z"
     },
     {
       "crn": "78187",
@@ -35430,7 +36039,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78187')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78187')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78187",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 15,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-08-29T03:38:56.889617Z"
     },
     {
       "crn": "78188",
@@ -35462,7 +36092,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78188')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78188')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78188",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 28,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-29T03:38:58.468059Z"
     },
     {
       "crn": "78190",
@@ -35494,7 +36145,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78190')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78190')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78190",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 24,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-29T03:39:00.044791Z"
     },
     {
       "crn": "78192",
@@ -35526,7 +36198,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78192')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78192')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78192",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 24,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-29T03:39:01.618458Z"
     },
     {
       "crn": "78193",
@@ -35558,7 +36251,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78193')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78193')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78193",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 22,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-08-29T03:39:03.199904Z"
     },
     {
       "crn": "78194",
@@ -35590,7 +36304,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78194')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78194')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78194",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 27,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-29T03:39:04.772493Z"
     },
     {
       "crn": "78197",
@@ -35622,7 +36357,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78197')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78197')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78197",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 10,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-08-29T03:39:06.349601Z"
     },
     {
       "crn": "78199",
@@ -35654,7 +36410,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78199')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78199')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78199",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 20,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-08-29T03:39:07.930339Z"
     },
     {
       "crn": "78200",
@@ -35686,7 +36463,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78200')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78200')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78200",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 13,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-08-29T03:39:09.505875Z"
     },
     {
       "crn": "78203",
@@ -35717,8 +36515,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78203')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78203')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78203",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 27,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-29T03:39:11.091667Z"
     },
     {
       "crn": "78204",
@@ -35750,7 +36569,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78204')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78204')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78204",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 27,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-29T03:39:12.671867Z"
     },
     {
       "crn": "78205",
@@ -35782,7 +36622,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78205')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78205')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78205",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 28,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-29T03:39:14.246413Z"
     },
     {
       "crn": "78213",
@@ -35814,7 +36675,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78213')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78213')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78213",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 20,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-08-29T03:39:15.819547Z"
     },
     {
       "crn": "78219",
@@ -35846,7 +36728,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78219')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78219')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78219",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 12,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-08-29T03:39:17.393929Z"
     },
     {
       "crn": "78220",
@@ -35877,8 +36780,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78220')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78220')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78220",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 27,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-08-29T03:39:18.973456Z"
     },
     {
       "crn": "78221",
@@ -35909,8 +36833,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78221')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78221')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78221",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 28,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-29T03:39:20.544504Z"
     },
     {
       "crn": "78222",
@@ -35942,7 +36888,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78222')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78222')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78222",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 13,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-08-29T03:39:22.118966Z"
     },
     {
       "crn": "78224",
@@ -35973,8 +36940,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78224')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78224')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78224",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 28,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-08-29T03:39:23.702050Z"
     },
     {
       "crn": "78230",
@@ -36006,7 +36995,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78230')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78230')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78230",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 24,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-08-29T03:39:25.279958Z"
     },
     {
       "crn": "78231",
@@ -36038,7 +37048,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78231')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78231')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78231",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 17,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-08-29T03:39:26.859477Z"
     },
     {
       "crn": "78232",
@@ -36069,8 +37100,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78232')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78232')",
+      "description": null,
+      "prerequisites": "Placement as determined by the college\u2019s multiple measures assessment process.",
+      "advisory": null,
+      "transfers_to": "UC, CSUIn this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78232",
+      "seating_detail": {
+        "capacity": 28,
+        "taken": 26,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-08-29T03:39:28.432852Z"
     },
     {
       "crn": "78236",
@@ -66645,8 +67697,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-28T03:39:59.551043+00:00Z",
-    "courses_with_details": 647,
+    "detail_collection_timestamp": "2025-08-29T03:39:28.509235+00:00Z",
+    "courses_with_details": 697,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
