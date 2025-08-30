@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-08-29T23:19:46.737081Z",
+  "collection_timestamp": "2025-08-30T07:19:14.459352Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -153,7 +153,7 @@
       "location": "ES 612",
       "enrollment": {
         "capacity": 9,
-        "actual": 10,
+        "actual": 11,
         "remaining": 0
       },
       "status": "Closed",
@@ -1305,8 +1305,8 @@
       "location": "VA 110",
       "enrollment": {
         "capacity": 24,
-        "actual": 17,
-        "remaining": 7
+        "actual": 18,
+        "remaining": 6
       },
       "status": "Open",
       "section_type": "LEC",
@@ -2233,7 +2233,7 @@
       "location": "TE 102",
       "enrollment": {
         "capacity": 20,
-        "actual": 25,
+        "actual": 24,
         "remaining": 0
       },
       "status": "Open",
@@ -3257,8 +3257,8 @@
       "location": "LH 103",
       "enrollment": {
         "capacity": 48,
-        "actual": 19,
-        "remaining": 29
+        "actual": 20,
+        "remaining": 28
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3324,7 +3324,7 @@
         "actual": 22,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3353,10 +3353,10 @@
       "location": "LS 115",
       "enrollment": {
         "capacity": 23,
-        "actual": 23,
-        "remaining": 0
+        "actual": 22,
+        "remaining": 1
       },
-      "status": "Closed",
+      "status": "Open",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3385,7 +3385,7 @@
       "location": "LS 115",
       "enrollment": {
         "capacity": 23,
-        "actual": 23,
+        "actual": 24,
         "remaining": 0
       },
       "status": "Open",
@@ -3417,8 +3417,8 @@
       "location": "LH 103",
       "enrollment": {
         "capacity": 23,
-        "actual": 23,
-        "remaining": 0
+        "actual": 22,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3929,8 +3929,8 @@
       "location": "MA 206",
       "enrollment": {
         "capacity": 45,
-        "actual": 8,
-        "remaining": 37
+        "actual": 9,
+        "remaining": 36
       },
       "status": "Open",
       "section_type": "LEC",
@@ -4505,8 +4505,8 @@
       "location": "PS 211",
       "enrollment": {
         "capacity": 24,
-        "actual": 19,
-        "remaining": 5
+        "actual": 18,
+        "remaining": 6
       },
       "status": "Open",
       "section_type": "LEC",
@@ -5625,8 +5625,8 @@
       "location": "PC 317",
       "enrollment": {
         "capacity": 19,
-        "actual": 19,
-        "remaining": 0
+        "actual": 18,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -7065,8 +7065,8 @@
       "location": "LI 120",
       "enrollment": {
         "capacity": 30,
-        "actual": 15,
-        "remaining": 15
+        "actual": 16,
+        "remaining": 14
       },
       "status": "Open",
       "section_type": "LEC",
@@ -7833,8 +7833,8 @@
       "location": "P1 101",
       "enrollment": {
         "capacity": 25,
-        "actual": 24,
-        "remaining": 1
+        "actual": 25,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "LEC",
@@ -8089,8 +8089,8 @@
       "location": "ED 110",
       "enrollment": {
         "capacity": 25,
-        "actual": 25,
-        "remaining": 0
+        "actual": 24,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -8249,8 +8249,8 @@
       "location": "MA 127",
       "enrollment": {
         "capacity": 23,
-        "actual": 21,
-        "remaining": 2
+        "actual": 22,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -11929,8 +11929,8 @@
       "location": "ONLINE",
       "enrollment": {
         "capacity": 36,
-        "actual": 35,
-        "remaining": 1
+        "actual": 36,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "LEC",
@@ -12121,8 +12121,8 @@
       "location": "ED 213",
       "enrollment": {
         "capacity": 45,
-        "actual": 19,
-        "remaining": 26
+        "actual": 18,
+        "remaining": 27
       },
       "status": "Open",
       "section_type": "LEC",
@@ -12345,7 +12345,7 @@
       "location": "PS 125",
       "enrollment": {
         "capacity": 17,
-        "actual": 17,
+        "actual": 18,
         "remaining": 0
       },
       "status": "Open",
@@ -13113,8 +13113,8 @@
       "location": "PC 314",
       "enrollment": {
         "capacity": 45,
-        "actual": 28,
-        "remaining": 17
+        "actual": 29,
+        "remaining": 16
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13753,8 +13753,8 @@
       "location": "P1 105",
       "enrollment": {
         "capacity": 30,
-        "actual": 29,
-        "remaining": 1
+        "actual": 30,
+        "remaining": 0
       },
       "status": "Open",
       "section_type": "LEC",
@@ -14457,8 +14457,8 @@
       "location": "VA 132",
       "enrollment": {
         "capacity": 32,
-        "actual": 29,
-        "remaining": 3
+        "actual": 28,
+        "remaining": 4
       },
       "status": "Open",
       "section_type": "LEC",
@@ -15033,7 +15033,7 @@
       "location": "VA 132",
       "enrollment": {
         "capacity": 2,
-        "actual": 4,
+        "actual": 5,
         "remaining": 0
       },
       "status": "Open",
@@ -15139,6 +15139,38 @@
       "weeks": 16,
       "start_date": "08/25",
       "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "20585",
+      "subject": "THEA",
+      "course_number": "210",
+      "title": "Rehearsal and Performance",
+      "units": 3.0,
+      "instructor": "Francescon, Jason",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "S",
+          "start_time": "09:00AM",
+          "end_time": "10:30AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "PA 193",
+      "enrollment": {
+        "capacity": 18,
+        "actual": 0,
+        "remaining": 18
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 10,
+      "start_date": "09/02",
+      "end_date": "11/09",
       "additional_hours": null,
       "book_link": null
     },
@@ -15267,6 +15299,38 @@
       "weeks": 16,
       "start_date": "08/25",
       "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24296",
+      "subject": "THEA",
+      "course_number": "222",
+      "title": "Theatre Practicum/Special Proj",
+      "units": 3.0,
+      "instructor": "Francescon, Jason",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "S",
+          "start_time": "09:00AM",
+          "end_time": "10:30AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "PA 193",
+      "enrollment": {
+        "capacity": 2,
+        "actual": 0,
+        "remaining": 2
+      },
+      "status": "Open",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 10,
+      "start_date": "09/02",
+      "end_date": "11/09",
       "additional_hours": null,
       "book_link": null
     },
@@ -15816,7 +15880,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 494,
+    "total_courses": 496,
     "departments": [
       "ACCT",
       "ANTH",
