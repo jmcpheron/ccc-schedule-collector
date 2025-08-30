@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-08-30T06:35:29.954797Z",
+  "collection_timestamp": "2025-08-30T14:31:00.683519Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -5977,8 +5977,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 45,
-        "actual": 46,
-        "remaining": 1
+        "actual": 45,
+        "remaining": 0
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -14841,8 +14841,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 29,
-        "remaining": 6
+        "actual": 28,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -32313,8 +32313,8 @@
       "location": "Soccer Field",
       "enrollment": {
         "capacity": 30,
-        "actual": 29,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -33625,8 +33625,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 25,
-        "actual": 18,
-        "remaining": 7
+        "actual": 17,
+        "remaining": 8
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -41884,7 +41884,7 @@
         "actual": 17,
         "remaining": 13
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -42812,7 +42812,7 @@
         "actual": 14,
         "remaining": 11
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -45532,7 +45532,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
