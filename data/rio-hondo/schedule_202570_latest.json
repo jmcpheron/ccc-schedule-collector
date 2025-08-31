@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-08-31T06:36:11.853700Z",
+  "collection_timestamp": "2025-08-31T14:30:49.109620Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -5977,8 +5977,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 45,
-        "actual": 45,
-        "remaining": 0
+        "actual": 44,
+        "remaining": 1
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -15769,8 +15769,8 @@
       "location": "Administration 220",
       "enrollment": {
         "capacity": 32,
-        "actual": 27,
-        "remaining": 5
+        "actual": 25,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -18905,8 +18905,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 12,
-        "remaining": 33
+        "actual": 13,
+        "remaining": 32
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -21497,8 +21497,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 28,
-        "actual": 24,
-        "remaining": 4
+        "actual": 23,
+        "remaining": 5
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -21753,8 +21753,8 @@
       "location": "Administration 206",
       "enrollment": {
         "capacity": 28,
-        "actual": 22,
-        "remaining": 6
+        "actual": 21,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -42844,7 +42844,7 @@
         "actual": 17,
         "remaining": 8
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -44220,7 +44220,7 @@
         "actual": 0,
         "remaining": 30
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
