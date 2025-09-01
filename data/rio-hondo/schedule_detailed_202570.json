@@ -42496,8 +42496,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70448')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70448')",
+      "description": "This course provides students with an overview of fire protection issues. Topics include an introduction to the philosophy and history of fire protection and fire service; organization and function of public and private fire protection services; laws and regulations affecting fire service; and the role of fire departments as part of local government. Basic fire chemistry, fire protection systems, firefighting strategies, and possible career opportunities in fire-related fields are also presented.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in college composition written at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70448",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:15.965145Z"
     },
     {
       "crn": "73805",
@@ -42528,8 +42549,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73805')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73805')",
+      "description": "This course provides students with an overview of fire protection issues. Topics include an introduction to the philosophy and history of fire protection and fire service; organization and function of public and private fire protection services; laws and regulations affecting fire service; and the role of fire departments as part of local government. Basic fire chemistry, fire protection systems, firefighting strategies, and possible career opportunities in fire-related fields are also presented.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in college composition written at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73805",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 30,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-01T03:44:17.569148Z"
     },
     {
       "crn": "73874",
@@ -42560,8 +42602,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73874')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73874')",
+      "description": "This course provides students with an overview of fire protection issues. Topics include an introduction to the philosophy and history of fire protection and fire service; organization and function of public and private fire protection services; laws and regulations affecting fire service; and the role of fire departments as part of local government. Basic fire chemistry, fire protection systems, firefighting strategies, and possible career opportunities in fire-related fields are also presented.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in college composition written at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73874",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:19.172396Z"
     },
     {
       "crn": "74244",
@@ -42592,8 +42656,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74244')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74244')",
+      "description": "This course provides students with an overview of fire protection issues. Topics include an introduction to the philosophy and history of fire protection and fire service; organization and function of public and private fire protection services; laws and regulations affecting fire service; and the role of fire departments as part of local government. Basic fire chemistry, fire protection systems, firefighting strategies, and possible career opportunities in fire-related fields are also presented.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in college composition written at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74244",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:20.789956Z"
     },
     {
       "crn": "74245",
@@ -42625,7 +42711,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74245')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74245')",
+      "description": "This course provides students with an overview of fire protection issues. Topics include an introduction to the philosophy and history of fire protection and fire service; organization and function of public and private fire protection services; laws and regulations affecting fire service; and the role of fire departments as part of local government. Basic fire chemistry, fire protection systems, firefighting strategies, and possible career opportunities in fire-related fields are also presented.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in college composition written at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74245",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 39,
+        "available": -4
+      },
+      "detail_fetched_at": "2025-09-01T03:44:22.396234Z"
     },
     {
       "crn": "74271",
@@ -42657,7 +42764,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74271')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74271')",
+      "description": "This course provides students with an overview of fire protection issues. Topics include an introduction to the philosophy and history of fire protection and fire service; organization and function of public and private fire protection services; laws and regulations affecting fire service; and the role of fire departments as part of local government. Basic fire chemistry, fire protection systems, firefighting strategies, and possible career opportunities in fire-related fields are also presented.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in college composition written at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74271",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 39,
+        "available": -4
+      },
+      "detail_fetched_at": "2025-09-01T03:44:23.998011Z"
     },
     {
       "crn": "74272",
@@ -42688,8 +42816,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74272')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74272')",
+      "description": "This course provides students with an overview of fire protection issues. Topics include an introduction to the philosophy and history of fire protection and fire service; organization and function of public and private fire protection services; laws and regulations affecting fire service; and the role of fire departments as part of local government. Basic fire chemistry, fire protection systems, firefighting strategies, and possible career opportunities in fire-related fields are also presented.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in college composition written at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74272",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:25.604732Z"
     },
     {
       "crn": "70441",
@@ -42721,7 +42871,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70441')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70441')",
+      "description": "This course introduces fire technology or other interested students to the basic principles and history related to the national firefighter life safety initiatives, focusing on the need for cultural and behavior changes throughout the emergency services. This course has been updated to meet the National Fire and Emergency Services Higher Education objectives as it pertains to firefighter safety and survival techniques used in today\u2019s fire service.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70441",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:27.212243Z"
     },
     {
       "crn": "70461",
@@ -42752,8 +42923,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70461')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70461')",
+      "description": "This course introduces fire technology or other interested students to the basic principles and history related to the national firefighter life safety initiatives, focusing on the need for cultural and behavior changes throughout the emergency services. This course has been updated to meet the National Fire and Emergency Services Higher Education objectives as it pertains to firefighter safety and survival techniques used in today\u2019s fire service.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70461",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:28.816557Z"
     },
     {
       "crn": "72849",
@@ -42784,8 +42977,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72849')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72849')",
+      "description": "This course introduces fire technology or other interested students to the basic principles and history related to the national firefighter life safety initiatives, focusing on the need for cultural and behavior changes throughout the emergency services. This course has been updated to meet the National Fire and Emergency Services Higher Education objectives as it pertains to firefighter safety and survival techniques used in today\u2019s fire service.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72849",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:30.416082Z"
     },
     {
       "crn": "75382",
@@ -42816,8 +43031,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75382')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75382')",
+      "description": "This course introduces fire technology or other interested students to the basic principles and history related to the national firefighter life safety initiatives, focusing on the need for cultural and behavior changes throughout the emergency services. This course has been updated to meet the National Fire and Emergency Services Higher Education objectives as it pertains to firefighter safety and survival techniques used in today\u2019s fire service.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75382",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:32.016228Z"
     },
     {
       "crn": "75690",
@@ -42848,8 +43085,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75690')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75690')",
+      "description": "This course introduces fire technology or other interested students to the basic principles and history related to the national firefighter life safety initiatives, focusing on the need for cultural and behavior changes throughout the emergency services. This course has been updated to meet the National Fire and Emergency Services Higher Education objectives as it pertains to firefighter safety and survival techniques used in today\u2019s fire service.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75690",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 32,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-01T03:44:33.617545Z"
     },
     {
       "crn": "75910",
@@ -42881,7 +43139,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75910')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75910')",
+      "description": "This course introduces fire technology or other interested students to the basic principles and history related to the national firefighter life safety initiatives, focusing on the need for cultural and behavior changes throughout the emergency services. This course has been updated to meet the National Fire and Emergency Services Higher Education objectives as it pertains to firefighter safety and survival techniques used in today\u2019s fire service.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75910",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 38,
+        "available": -3
+      },
+      "detail_fetched_at": "2025-09-01T03:44:35.219435Z"
     },
     {
       "crn": "70442",
@@ -42912,8 +43191,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70442')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70442')",
+      "description": "This course provides fire technology or other interested students with an exploration of theories and fundamentals of how and why fires start, spread, and how they are controlled. An in-depth study of fire chemistry and physics, fire characteristics of materials, extinguishing agents, and fire control techniques will be explored.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70442",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:36.823433Z"
     },
     {
       "crn": "70450",
@@ -42945,7 +43246,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70450')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70450')",
+      "description": "This course provides fire technology or other interested students with an exploration of theories and fundamentals of how and why fires start, spread, and how they are controlled. An in-depth study of fire chemistry and physics, fire characteristics of materials, extinguishing agents, and fire control techniques will be explored.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70450",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 38,
+        "available": -3
+      },
+      "detail_fetched_at": "2025-09-01T03:44:38.430989Z"
     },
     {
       "crn": "70462",
@@ -42976,8 +43298,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70462')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70462')",
+      "description": "This course provides fire technology or other interested students with an exploration of theories and fundamentals of how and why fires start, spread, and how they are controlled. An in-depth study of fire chemistry and physics, fire characteristics of materials, extinguishing agents, and fire control techniques will be explored.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70462",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 34,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-01T03:44:40.039739Z"
     },
     {
       "crn": "72851",
@@ -43008,8 +43351,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72851')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72851')",
+      "description": "This course provides fire technology or other interested students with an exploration of theories and fundamentals of how and why fires start, spread, and how they are controlled. An in-depth study of fire chemistry and physics, fire characteristics of materials, extinguishing agents, and fire control techniques will be explored.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72851",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:41.640013Z"
     },
     {
       "crn": "74384",
@@ -43040,8 +43405,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74384')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74384')",
+      "description": "This course provides fire technology or other interested students with an exploration of theories and fundamentals of how and why fires start, spread, and how they are controlled. An in-depth study of fire chemistry and physics, fire characteristics of materials, extinguishing agents, and fire control techniques will be explored.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74384",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 31,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-01T03:44:43.253230Z"
     },
     {
       "crn": "75691",
@@ -43072,8 +43458,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75691')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75691')",
+      "description": "This course provides fire technology or other interested students with an exploration of theories and fundamentals of how and why fires start, spread, and how they are controlled. An in-depth study of fire chemistry and physics, fire characteristics of materials, extinguishing agents, and fire control techniques will be explored.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75691",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:44.854162Z"
     },
     {
       "crn": "70443",
@@ -43104,8 +43512,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70443')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70443')",
+      "description": "This course is designed to provide fire technology or other interested students with fundamental information regarding the history and philosophy of fire prevention, organization and operation of a fire prevention bureau, use of fire codes, identification and correction of fire hazards, and the relationships of fire prevention with built-in fire protection systems, fire investigation, and fire and life-safety education.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70443",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 34,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-01T03:44:46.458183Z"
     },
     {
       "crn": "70451",
@@ -43136,8 +43565,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70451')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70451')",
+      "description": "This course is designed to provide fire technology or other interested students with fundamental information regarding the history and philosophy of fire prevention, organization and operation of a fire prevention bureau, use of fire codes, identification and correction of fire hazards, and the relationships of fire prevention with built-in fire protection systems, fire investigation, and fire and life-safety education.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70451",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:48.068475Z"
     },
     {
       "crn": "73783",
@@ -43168,8 +43619,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73783')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73783')",
+      "description": "This course is designed to provide fire technology or other interested students with fundamental information regarding the history and philosophy of fire prevention, organization and operation of a fire prevention bureau, use of fire codes, identification and correction of fire hazards, and the relationships of fire prevention with built-in fire protection systems, fire investigation, and fire and life-safety education.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73783",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:49.671550Z"
     },
     {
       "crn": "75702",
@@ -43201,7 +43674,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75702')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75702')",
+      "description": "This course is designed to provide fire technology or other interested students with fundamental information regarding the history and philosophy of fire prevention, organization and operation of a fire prevention bureau, use of fire codes, identification and correction of fire hazards, and the relationships of fire prevention with built-in fire protection systems, fire investigation, and fire and life-safety education.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75702",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 37,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-09-01T03:44:51.280164Z"
     },
     {
       "crn": "75930",
@@ -43232,8 +43726,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75930')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75930')",
+      "description": "This course is designed to provide fire technology or other interested students with fundamental information regarding the history and philosophy of fire prevention, organization and operation of a fire prevention bureau, use of fire codes, identification and correction of fire hazards, and the relationships of fire prevention with built-in fire protection systems, fire investigation, and fire and life-safety education.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75930",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:52.885422Z"
     },
     {
       "crn": "70444",
@@ -43264,8 +43780,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70444')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70444')",
+      "description": "This course provides fire technology or other interested students with an understanding of the essential components used in building construction that directly relates to fire safety. The elements of construction and design of structures, factors when inspecting buildings, preplanning fire operations, and operating at fires will be discussed. The development and evolution of building and fire codes will be studied in relationship to past fires in residential, commercial, and industrial occupancies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70444",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:54.488205Z"
     },
     {
       "crn": "72847",
@@ -43297,7 +43835,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72847')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72847')",
+      "description": "This course provides fire technology or other interested students with an understanding of the essential components used in building construction that directly relates to fire safety. The elements of construction and design of structures, factors when inspecting buildings, preplanning fire operations, and operating at fires will be discussed. The development and evolution of building and fire codes will be studied in relationship to past fires in residential, commercial, and industrial occupancies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72847",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 39,
+        "available": -4
+      },
+      "detail_fetched_at": "2025-09-01T03:44:56.091705Z"
     },
     {
       "crn": "75703",
@@ -43328,8 +43887,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75703')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75703')",
+      "description": "This course provides fire technology or other interested students with an understanding of the essential components used in building construction that directly relates to fire safety. The elements of construction and design of structures, factors when inspecting buildings, preplanning fire operations, and operating at fires will be discussed. The development and evolution of building and fire codes will be studied in relationship to past fires in residential, commercial, and industrial occupancies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75703",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 34,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-01T03:44:57.692852Z"
     },
     {
       "crn": "75911",
@@ -43360,8 +43940,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75911')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75911')",
+      "description": "This course provides fire technology or other interested students with an understanding of the essential components used in building construction that directly relates to fire safety. The elements of construction and design of structures, factors when inspecting buildings, preplanning fire operations, and operating at fires will be discussed. The development and evolution of building and fire codes will be studied in relationship to past fires in residential, commercial, and industrial occupancies.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75911",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:44:59.297834Z"
     },
     {
       "crn": "70464",
@@ -43392,8 +43994,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70464')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70464')",
+      "description": "This course provides the fire technology student with information pertaining to the design and operation of fire detection and alarm systems, heat and smoke control systems, special protection and sprinkler systems, water supply for fire protection and portable fire extinguishers.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70464",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:45:00.896147Z"
     },
     {
       "crn": "74247",
@@ -43425,7 +44049,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74247')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74247')",
+      "description": "This course provides the fire technology student with information pertaining to the design and operation of fire detection and alarm systems, heat and smoke control systems, special protection and sprinkler systems, water supply for fire protection and portable fire extinguishers.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74247",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 37,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-09-01T03:45:02.499424Z"
     },
     {
       "crn": "75707",
@@ -43456,8 +44101,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75707')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75707')",
+      "description": "This course provides the fire technology student with information pertaining to the design and operation of fire detection and alarm systems, heat and smoke control systems, special protection and sprinkler systems, water supply for fire protection and portable fire extinguishers.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75707",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 34,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-01T03:45:04.101735Z"
     },
     {
       "crn": "73785",
@@ -43488,8 +44154,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73785')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73785')",
+      "description": "This course provides fire technology or other interested students with information pertaining to the first responder role when dealing with hazardous materials operations. Hazardous materials decontamination procedures will also be discussed. Classification of hazardous materials and National Fire Protection Association standards (NFPA 472) will be addressed.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73785",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 33,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-01T03:45:05.709199Z"
     },
     {
       "crn": "77735",
@@ -43521,7 +44208,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77735')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77735')",
+      "description": "This is an introductory course in narrative script writing for film and episodic television. Emphasis on basic screenplay structure, characters, conflict, theme, and technical script formatting in the development of a short screenplay. Promotes representation of race/ethnicity, gender, class, sexual orientation, and ability.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77735",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 13,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-09-01T03:45:07.311006Z"
     },
     {
       "crn": "78430",
@@ -43553,7 +44261,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78430')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78430')",
+      "description": "This course is designed for prospective feature film or television writers. Students progress through a series of assignments, beginning with the revision of the step outline and Act I completed as part of the requirements for Introduction to Screenwriting (FTVE 115). The central aim of the course is to reexamine the fundamental elements of screenwriting, which include developing an effective step outline, creating a viable story idea, developing characters, and learning to successfully pitch the story.",
+      "prerequisites": "FTVE 115",
+      "advisory": null,
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78430",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:45:08.914302Z"
     },
     {
       "crn": "77967",
@@ -43585,7 +44314,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77967')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77967')",
+      "description": "This course is an introduction to the theory and process of designing games. Students critically explore the historical, cultural, economic, and social aspects of the concepts and techniques used in the design of games; discover what the components of games are, including what parts of games are influenced by their design.; and learn several ways to approach the design of a game, including processes and best practices for prototyping, play testing, and balancing a game after it has been designed.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77967",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 13,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-01T03:45:10.524720Z"
     },
     {
       "crn": "78419",
@@ -43617,7 +44367,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78419')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78419')",
+      "description": "This course is an introduction to the theory and process of designing games. Students critically explore the historical, cultural, economic, and social aspects of the concepts and techniques used in the design of games; discover what the components of games are, including what parts of games are influenced by their design.; and learn several ways to approach the design of a game, including processes and best practices for prototyping, play testing, and balancing a game after it has been designed.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78419",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-01T03:45:12.130904Z"
     },
     {
       "crn": "78420",
@@ -43649,7 +44420,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78420')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78420')",
+      "description": "This course is an introduction to the fundamental concepts and vocabulary of computer game tools and techniques. Students employ a variety of digital tools with a focus on game engines (e.g., Unreal Engine) to create playable environments. Included are topics such as introduction to game editors, 3D asset creation and management, and foundational skills in creating playable content.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78420",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 18,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-01T03:45:13.732413Z"
     },
     {
       "crn": "75096",
@@ -43680,8 +44472,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75096')"
+      "additional_hours": "2.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75096')",
+      "description": "This course is intended for students interested in the history, theory and practice of typography as it applies to graphic design, advertising, and other areas of design and visual communication. Students learn and practice hand-rendered and mechanical aspects of typography, and how typography attracts, informs, educates, inspires, and creates retaining impressions\u2014as well as how typography modifies human actions and behavior. Through discussions, exercises, and projects, students develop an understanding leading to clearer interpretations of typography and its role in human history, communication, design, and art. Activities include the history and principles of typography, letter structure, typeface selection, fundamentals of typesetting and introductory typographic layout.",
+      "prerequisites": null,
+      "advisory": "NART 285; It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75096",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 25,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-01T03:45:15.335662Z"
     },
     {
       "crn": "75734",
@@ -43712,8 +44525,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75734')"
+      "additional_hours": "2.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75734')",
+      "description": "This course is intended for students interested in the theory and practice of letterforms and typography as they apply to graphic design, advertising, and other areas of design and visual communication. Focus is placed on the compositional use of type as a principal design element and its relationship to issues of visual hierarchy, readability, and page structure. Students continue their exploration of typography as an expressive visual form through typographic design projects.",
+      "prerequisites": "GDSN 150",
+      "advisory": "NART 285",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75734",
+      "seating_detail": {
+        "capacity": 8,
+        "taken": 2,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-01T03:45:16.940316Z"
     },
     {
       "crn": "74481",
@@ -43745,7 +44579,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74481')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74481')",
+      "description": "This introductory web design course is a practical introduction for students interested in user experience (UX) and visual interface design, and the challenges they pose for graphic designers. Using web design applications (like Adobe Dreamweaver and Photoshop), students are introduced to the steps involved in creating a basic, functional, and interactive website. Topics include aesthetic design considerations, front-end technology, interaction, UX, user interface (UI) and cascading style sheets (CSS) design, file optimization, and website principles and practices. This course is for students interested in a degree or certificate in graphic design and those interested in web design and interactive design.",
+      "prerequisites": null,
+      "advisory": "NART 285; It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74481",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 17,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-01T03:45:18.550436Z"
     },
     {
       "crn": "75094",
@@ -43777,7 +44632,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75094')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75094')",
+      "description": null,
+      "prerequisites": "GDSN 162",
+      "advisory": "NART 285",
+      "transfers_to": "UC, CSUFocusing on usability, this intermediate class offers broader and more advanced instruction related to the \"front-end\" visual design and aesthetics of interactive media, as well as the technical and design requirements of designing a fully functional website. Using intermediate web design applications (like Adobe Dreamweaver), students are instructed in the techniques needed to maximize the quality of user experience (UX). Students continue to perfect the creation of a fully functional website using multifaceted applications. Topics include interactive design software, front-end aesthetics, technology, interaction, UX, user interface (UI) and cascading style sheets (CSS) design, the principles and elements of digital design and aesthetics, and interactive design business practices.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75094",
+      "seating_detail": {
+        "capacity": 8,
+        "taken": 4,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-01T03:45:20.153095Z"
     },
     {
       "crn": "74479",
@@ -43808,8 +44684,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74479')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74479')",
+      "description": "This introductory course is an introduction to graphic design and uses vector software (like Adobe Illustrator) as the principal digital tool. Topics include the principles and elements of design, typography, color, shape stroke, illustration techniques, page layout design, as well as introductory critical concepts and professional practices employed by graphic designers. This course includes exercises, projects, and portfolio building with an emphasis on professional standards. This course is for students interested in a degree or certificate in graphic design as well as those interested in 2-dimensional (2D) design and layout applications employed as tools by graphic designers.",
+      "prerequisites": null,
+      "advisory": "NART 285; It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74479",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 19,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-01T03:45:21.758829Z"
     },
     {
       "crn": "76646",
@@ -43841,7 +44738,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76646')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76646')",
+      "description": "This introductory course is an introduction to graphic design and uses vector software (like Adobe Illustrator) as the principal digital tool. Topics include the principles and elements of design, typography, color, shape stroke, illustration techniques, page layout design, as well as introductory critical concepts and professional practices employed by graphic designers. This course includes exercises, projects, and portfolio building with an emphasis on professional standards. This course is for students interested in a degree or certificate in graphic design as well as those interested in 2-dimensional (2D) design and layout applications employed as tools by graphic designers.",
+      "prerequisites": null,
+      "advisory": "NART 285; It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76646",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 11,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-01T03:45:23.365924Z"
     },
     {
       "crn": "74480",
@@ -43873,7 +44791,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74480')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74480')",
+      "description": "This course is an exploration of branding and identity design, a sub-discipline of graphic design. Topics include the research and development of trademarks and logos for clients, the principles and elements of design, typography, color, shape stroke, illustration techniques, and page layout design, as well as intermediate and advanced critical concepts and professional practices employed by graphic designers. This course includes portfolio building with an emphasis on professional standards. This course is for students interested in a degree or certificate in graphic design as well as those interested in 2-dimensional (2D) design and layout applications employed as tools by graphic designers.",
+      "prerequisites": "GDSN 164",
+      "advisory": "NART 285",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74480",
+      "seating_detail": {
+        "capacity": 8,
+        "taken": 2,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-01T03:45:24.981215Z"
     },
     {
       "crn": "74484",
@@ -43904,8 +44843,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74484')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74484')",
+      "description": "This course is an exploration of branding and identity design, a sub-discipline of graphic design. Topics include the research and development of trademarks and logos for clients, the principles and elements of design, typography, color, shape stroke, illustration techniques, and page layout design, as well as intermediate and advanced critical concepts and professional practices employed by graphic designers. This course includes portfolio building with an emphasis on professional standards. This course is for students interested in a degree or certificate in graphic design as well as those interested in 2-dimensional (2D) design and layout applications employed as tools by graphic designers.",
+      "prerequisites": "GDSN 164",
+      "advisory": "NART 285",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74484",
+      "seating_detail": {
+        "capacity": 8,
+        "taken": 4,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-01T03:45:26.599982Z"
     },
     {
       "crn": "74482",
@@ -43937,7 +44897,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74482')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74482')",
+      "description": "This introductory graphic design course uses bitmap software as the principal digital tool. Topics include the principles and elements of design, typography, color, photo/raster/bitmapped-based scanning, vector graphic integration, time-based design, image formats, optimization, retouching, adjustments, compositing, blending, color, conceptual, narrative and time-based techniques, technical and creative methods and styles employed by graphic designers, introductory critical concepts, and professional practices. The course includes exercises, projects, and portfolio building, with an emphasis on professional standards. This course is for students interested in obtaining a degree or certificate in graphic design or transfer, and those seeking to pursue a career in graphic design or related professions.",
+      "prerequisites": null,
+      "advisory": "NART 285; It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74482",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 25,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-01T03:45:28.210131Z"
     },
     {
       "crn": "75095",
@@ -43969,7 +44950,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75095')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75095')",
+      "description": "This course is for students interested in a degree in graphic design and/or those interested in advanced 2-dimensional (2D) design and layout applications employed as tools by graphic designers. This course is an advanced, project-driven exploration of graphic design, and uses 2D design and layout application software (like Adobe Photoshop) as the principal digital tool. Topics include photo montage, compositing, collage, advanced conceptual and narrative techniques, current technical and creative methods and styles employed by graphic designers, advanced critical concepts, and professional practices. The course includes portfolio building, with an emphasis on professional standards.",
+      "prerequisites": "GDSN 178",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75095",
+      "seating_detail": {
+        "capacity": 8,
+        "taken": 1,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-01T03:45:29.822440Z"
     },
     {
       "crn": "70783",
@@ -44000,8 +45002,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70783')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70783')",
+      "description": "This general education course introduces students to the natural processes that shape the earth. Weather and climate, landforms and volcanoes, glaciers, rivers, and coastal phenomena are among the topics explored. This course is for any students interested in the physical processes that shape land masses.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSUThis general education course introduces students to the natural processes that shape the earth. Weather and climate, landforms and volcanoes, glaciers, rivers, and coastal phenomena are among the topics explored.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70783",
+      "seating_detail": {
+        "capacity": 72,
+        "taken": 66,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-01T03:45:31.424508Z"
     },
     {
       "crn": "72200",
@@ -44032,8 +45055,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72200')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72200')",
+      "description": "This general education course introduces students to the natural processes that shape the earth. Weather and climate, landforms and volcanoes, glaciers, rivers, and coastal phenomena are among the topics explored. This course is for any students interested in the physical processes that shape land masses.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSUThis general education course introduces students to the natural processes that shape the earth. Weather and climate, landforms and volcanoes, glaciers, rivers, and coastal phenomena are among the topics explored.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72200",
+      "seating_detail": {
+        "capacity": 72,
+        "taken": 64,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-01T03:45:33.027497Z"
     },
     {
       "crn": "76460",
@@ -44064,8 +45108,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76460')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76460')",
+      "description": "This general education course introduces students to the natural processes that shape the earth. Weather and climate, landforms and volcanoes, glaciers, rivers, and coastal phenomena are among the topics explored. This course is for any students interested in the physical processes that shape land masses.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSUThis general education course introduces students to the natural processes that shape the earth. Weather and climate, landforms and volcanoes, glaciers, rivers, and coastal phenomena are among the topics explored.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76460",
+      "seating_detail": {
+        "capacity": 72,
+        "taken": 69,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-01T03:45:34.628088Z"
     },
     {
       "crn": "70791",
@@ -69840,8 +70905,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-08-31T03:40:56.550947+00:00Z",
-    "courses_with_details": 797,
+    "detail_collection_timestamp": "2025-09-01T03:45:34.709796+00:00Z",
+    "courses_with_details": 847,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
