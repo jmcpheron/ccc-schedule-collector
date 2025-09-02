@@ -45161,8 +45161,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70791')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70791')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSUThe physical geography laboratory is designed to acquaint students with the methods, techniques, and procedures used by geographers in the study and analysis of the physical environment. Students use maps, the Internet, and other tools to work with real-world geographic data.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70791",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-02T03:40:41.669494Z"
     },
     {
       "crn": "72213",
@@ -45193,8 +45214,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72213')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72213')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSUThe physical geography laboratory is designed to acquaint students with the methods, techniques, and procedures used by geographers in the study and analysis of the physical environment. Students use maps, the Internet, and other tools to work with real-world geographic data.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72213",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-02T03:40:43.293442Z"
     },
     {
       "crn": "72222",
@@ -45225,8 +45267,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72222')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72222')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSUThe physical geography laboratory is designed to acquaint students with the methods, techniques, and procedures used by geographers in the study and analysis of the physical environment. Students use maps, the Internet, and other tools to work with real-world geographic data.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72222",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 27,
+        "available": -3
+      },
+      "detail_fetched_at": "2025-09-02T03:40:44.922599Z"
     },
     {
       "crn": "73732",
@@ -45257,8 +45320,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73732')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73732')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have a knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSUThe physical geography laboratory is designed to acquaint students with the methods, techniques, and procedures used by geographers in the study and analysis of the physical environment. Students use maps, the Internet, and other tools to work with real-world geographic data.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73732",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-02T03:40:46.550830Z"
     },
     {
       "crn": "72212",
@@ -45289,8 +45373,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72212')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72212')",
+      "description": "This general education course introduces students to the basic elements of culture. Population growth, migration, ethnicity, language, religion, folk and popular culture, and settlement forms are among the topics presented. This course may be of interest to students considering the fields of elementary school teaching, ecology, or social science, or travel-related vocations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSUThis general education course introduces students to the basic elements of culture. Population growth, migration, ethnicity, language, religion, folk and popular culture, and settlement forms are among the topics presented.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72212",
+      "seating_detail": {
+        "capacity": 48,
+        "taken": 30,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-02T03:40:48.181221Z"
     },
     {
       "crn": "70793",
@@ -45322,7 +45427,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70793')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70793')",
+      "description": "This introductory course covers the principles of geology, with emphasis on Earth processes, and fulfills the physical science general education requirement. The course focuses on the internal structure and origin of the Earth and the processes that change and shape. Earthquakes, volcanoes, oil, beaches, tsunamis, rocks, rivers, glaciers, plate tectonics, minerals, and continent and mountain building are among the topics that are explored.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70793",
+      "seating_detail": {
+        "capacity": 72,
+        "taken": 41,
+        "available": 31
+      },
+      "detail_fetched_at": "2025-09-02T03:40:49.828942Z"
     },
     {
       "crn": "70794",
@@ -45354,7 +45480,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70794')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70794')",
+      "description": "This introductory course covers the principles of geology, with emphasis on Earth processes, and fulfills the physical science general education requirement. The course focuses on the internal structure and origin of the Earth and the processes that change and shape. Earthquakes, volcanoes, oil, beaches, tsunamis, rocks, rivers, glaciers, plate tectonics, minerals, and continent and mountain building are among the topics that are explored.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70794",
+      "seating_detail": {
+        "capacity": 72,
+        "taken": 41,
+        "available": 31
+      },
+      "detail_fetched_at": "2025-09-02T03:40:51.460779Z"
     },
     {
       "crn": "70795",
@@ -45385,8 +45532,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70795')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70795')",
+      "description": "This introductory course covers the principles of geology, with emphasis on Earth processes, and fulfills the physical science general education requirement. The course focuses on the internal structure and origin of the Earth and the processes that change and shape. Earthquakes, volcanoes, oil, beaches, tsunamis, rocks, rivers, glaciers, plate tectonics, minerals, and continent and mountain building are among the topics that are explored.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70795",
+      "seating_detail": {
+        "capacity": 72,
+        "taken": 72,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-02T03:40:53.094995Z"
     },
     {
       "crn": "70797",
@@ -45418,7 +45587,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70797')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70797')",
+      "description": "This introductory course covers the principles of geology, with emphasis on Earth processes, and fulfills the physical science general education requirement. The course focuses on the internal structure and origin of the Earth and the processes that change and shape. Earthquakes, volcanoes, oil, beaches, tsunamis, rocks, rivers, glaciers, plate tectonics, minerals, and continent and mountain building are among the topics that are explored.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70797",
+      "seating_detail": {
+        "capacity": 72,
+        "taken": 33,
+        "available": 39
+      },
+      "detail_fetched_at": "2025-09-02T03:40:54.732836Z"
     },
     {
       "crn": "70798",
@@ -45449,8 +45639,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70798')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70798')",
+      "description": "This introductory course covers the principles of geology, with emphasis on Earth processes, and fulfills the physical science general education requirement. The course focuses on the internal structure and origin of the Earth and the processes that change and shape. Earthquakes, volcanoes, oil, beaches, tsunamis, rocks, rivers, glaciers, plate tectonics, minerals, and continent and mountain building are among the topics that are explored.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70798",
+      "seating_detail": {
+        "capacity": 72,
+        "taken": 69,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-02T03:40:56.358129Z"
     },
     {
       "crn": "70803",
@@ -45482,7 +45693,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70803')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70803')",
+      "description": "This lab engages students with a hands-on review of the principles presented in Geology 150 and their application to everyday life. Laboratory exercises will include but are not limited to the identification of minerals; igneous, metamorphic, and sedimentary rocks; topographic and geologic map exercises demonstrating the work of water, wind, ice, and gravity; and the effects of tectonic activity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70803",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 28,
+        "available": -4
+      },
+      "detail_fetched_at": "2025-09-02T03:40:57.985295Z"
     },
     {
       "crn": "73381",
@@ -45514,7 +45746,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73381')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73381')",
+      "description": "This lab engages students with a hands-on review of the principles presented in Geology 150 and their application to everyday life. Laboratory exercises will include but are not limited to the identification of minerals; igneous, metamorphic, and sedimentary rocks; topographic and geologic map exercises demonstrating the work of water, wind, ice, and gravity; and the effects of tectonic activity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73381",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 28,
+        "available": -4
+      },
+      "detail_fetched_at": "2025-09-02T03:40:59.612366Z"
     },
     {
       "crn": "75719",
@@ -45546,7 +45799,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75719')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75719')",
+      "description": "This lab engages students with a hands-on review of the principles presented in Geology 150 and their application to everyday life. Laboratory exercises will include but are not limited to the identification of minerals; igneous, metamorphic, and sedimentary rocks; topographic and geologic map exercises demonstrating the work of water, wind, ice, and gravity; and the effects of tectonic activity.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have knowledge of elementary algebra concepts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75719",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-02T03:41:01.240033Z"
     },
     {
       "crn": "70552",
@@ -45577,8 +45851,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70552')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70552')",
+      "description": "This course introduces fundamental concepts of geographic information and spatial analysis. Using industry standard geospatial application tools including geographic information systems (GIS), global positioning systems (GPS), and small unmanned aerial vehicle (sUAVs), students perform spatial analysis in various disciplines including but not limited to business, public safety, health, politics, civil engineering, and environmental, social, biological and geological sciences. Students learn how to organize geospatial data; visualize spatial patterns by aggregating numbers by areas, analyzing ratios and proportions, generating scatterplots, qualifying volumes and areas, and performing map algebra; and interpret correlations or suitable locations based on provided or researched criteria.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": "CIT 101Prerequisite: Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: GIS 120 or GIS 220)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70552",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 29,
+        "available": -5
+      },
+      "detail_fetched_at": "2025-09-02T03:41:02.868169Z"
     },
     {
       "crn": "78066",
@@ -45610,7 +45905,29 @@
       "start_date": "10/11",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78066')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78066')",
+      "description": "This course prepares the student to pass the FAA Aeronautical Knowledge Test for a Remote Pilot Certificate. Material covers subjects areas in the Part 107 Aeronautical Knowledge Test including aerodynamics, aircraft performance, navigation, weather, and aviation regulations. Flight workflow demonstration prepares the student in sUAS operation and flight planning with an overview of trending applications including videography, survey mapping, public safety, and biology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "11-OCT-2025",
+        "Last day to drop with a refund": "11-OCT-2025",
+        "Last day to drop without a \"W\"": "18-OCT-2025",
+        "Last day to drop with a \"W\"": "15-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025",
+        "Census Date": "18-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78066",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 9,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-02T03:41:04.495047Z"
     },
     {
       "crn": "70555",
@@ -45642,7 +45959,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70555')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70555')",
+      "description": null,
+      "prerequisites": "GIS 120",
+      "advisory": null,
+      "transfers_to": "CSUEnvironmental technicians collect, manage, manipulate and interpret environmental data using geographic information systems (GIS).",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70555",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 14,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-02T03:41:06.121728Z"
     },
     {
       "crn": "75607",
@@ -45673,8 +46011,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75607')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75607')",
+      "description": null,
+      "prerequisites": "GIS 120",
+      "advisory": null,
+      "transfers_to": "CSU Knowledge of a scripting language is a highly desired skill for geographic information system (GIS) technicians.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75607",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 10,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-09-02T03:41:07.748331Z"
     },
     {
       "crn": "78004",
@@ -45705,8 +46064,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78004')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78004')",
+      "description": "This course supports and reinforces on-the-job training in business and industrial establishments under the supervision of a college instructor. Training is informed by learning objectives. Students work in a skilled or professional-level assignment in their area of vocational interest, and meet performance objectives related to instruction that are above and beyond the conditions of regular employment. This course is intended for students whose job is related to the field of Geographic Information Systems and have completed or enrolled in the appropriate coursework. The course may be taken once and repeated for a maximum of 16 units. Contact the Work Experience Education Office regarding re-enrollment procedures.",
+      "prerequisites": "GIS 120",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78004",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 5,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-02T03:41:09.375402Z"
     },
     {
       "crn": "77404",
@@ -45738,7 +46118,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77404')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77404')",
+      "description": "This introductory course familiarizes students with the basic operation and maintenance of different types of outdoor power equipment. Instruction covers the repair and maintenance of compact tractors, towable backhoes, lawn and brush equipment, portable generators, air compressors, pressure washers, ground vibrating plates, water pumps, gas powered saws, and many kinds of equipment powered by small displacement internal combustion engines. Students have the opportunity to perform minor repair work on their own equipment to complete required tasks. This course is designed to be a companion course to HET 062, HET 063, and HET 064, and is required for the Outdoor Power Equipment Maintenance Technician certificate. Students are encouraged to complete all four courses in order to obtain a firm foundation in the outdoor power equipment field.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This introductory course familiarizes students with the basic operation and maintenance of different types of outdoor power equipment. Instruction covers the repair and maintenance of compact tractors, towable backhoes, lawn and brush equipment, portable generators, air compressors, pressure washers, ground vibrating plates, water pumps, gas powered saws, and many kinds of equipment powered by small displacement internal combustion engines. Students have the opportunity to perform minor repair work on their own equipment to complete required tasks. This course is designed to be a companion course to HET 062, HET 063, and HET 064, and is required for the Outdoor Power Equipment Maintenance Technician certificate. Students are encouraged to complete all four courses in order to obtain a firm foundation in the outdoor power equipment field. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 01-SEP-2025 08:09:26 PM Title: HET 061 Outdoor Equip Oper & Maint CRN: 77404 Instructor: Marius Dornean Instructor: Marius Dornean CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: T 157 Technology Meeting Time S 08:00am - 10:25am T 157 Technology 08/16/25 12/06/25 S 10:35am - 12:00pm T 157 Technology 08/16/25 12/06/25 Seating Availability Capacity Taken Available 24 8 16 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77404",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 8,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-09-02T03:41:11.003176Z"
     },
     {
       "crn": "76476",
@@ -45770,7 +46171,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76476')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76476')",
+      "description": "This is an introductory course designed to familiarize students with the fundamentals of periodic maintenance of various heavy equipment systems such as engines, hydraulics, drive trains, final drives, and hydraulic, and air brake systems. Students learn basic tools and shop equipment, and how to safely perform routine services and minor repair operations on heavy machinery. This course is designed to be a companion course to HET 122, HET 123, HET 124, and HET 125, and is required for the Heavy Equipment Maintenance Technician Certificate. Students are encouraged to complete all five courses in order to obtain a firm foundation in heavy equipment technology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSUThis is an introductory course designed to familiarize students with the fundamentals of periodic maintenance of various heavy equipment systems such as engines, hydraulics, drive trains, final drives, and hydraulic, and air brake systems. Students learn basic tools and shop equipment, and how to safely perform routine services and minor repair operations on heavy machinery.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76476",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 21,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-02T03:41:12.631207Z"
     },
     {
       "crn": "76477",
@@ -45802,7 +46224,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76477')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76477')",
+      "description": "This is an introductory course designed to familiarize students with the basics of heavy equipment electrical systems. Topics include fundamental principles, electrical symbols and schematics, batteries, starting, charging, and lighting systems. Students will learn the proper use of electrical measuring tools and how to safely perform basic electrical tests and minor repairs. This course is designed to be a companion course to HET 121, HET 123, HET 124 and HET 125, and it is required for the Heavy Equipment Maintenance Technician Certificate. Students are encouraged to complete all five courses in order to obtain a firm foundation in heavy equipment technology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSUThis is an introductory course designed to familiarize students with the basics of heavy equipment electrical systems. Topics include fundamental principles, electrical symbols and schematics, batteries, starting, charging, and lighting systems. Students will learn the proper use of electrical measuring tools and how to safely perform basic electrical tests and minor repairs.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76477",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 21,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-02T03:41:14.260316Z"
     },
     {
       "crn": "76925",
@@ -45834,7 +46277,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76925')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76925')",
+      "description": "This is an introductory course designed to familiarize students with the basic construction and operation of mobile hydraulic systems. Topics include hydraulic safety, fundamental principles, pumps, valves, cylinders and motors, hoses, couplers, and hydraulic symbols and schematics. Students learn the proper use of hydraulic tools and how to safely perform hydraulic tests and minor repairs. This course is designed to be a companion course to HET 121, HET 122, HET 124 and HET 125, and it is required for the Heavy Equipment Maintenance Technician Certificate. Students are encouraged to complete all five courses in order to obtain a firm foundation in heavy equipment technology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSUThis is an introductory course designed to familiarize students with the basic construction and operation of mobile hydraulic systems. Topics include hydraulic safety, fundamental principles, pumps, valves, cylinders and motors, hoses, couplers, and hydraulic symbols and schematics. Students learn the proper use of hydraulic tools and how to safely perform hydraulic tests and minor repairs.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76925",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 17,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-02T03:41:15.887850Z"
     },
     {
       "crn": "76926",
@@ -45866,7 +46330,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76926')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76926')",
+      "description": "This is an introductory course designed to familiarize students with the basic construction and operation of heavy equipment powertrains. Topics include principles of gears, friction clutches, fluid couplers, anti-friction bearings, planetary gears, and differential gear sets. Students learn the proper use of precision measuring tools and how to safely perform basic powertrain tests and minor repairs. This course is designed to be a companion course to HET 121, HET 122, HET 123 and HET 125, and it is required for the Heavy Equipment Maintenance Technician Certificate. Students are encouraged to complete all five courses in order to obtain a firm foundation in heavy equipment technology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSUThis is an introductory course designed to familiarize students with the basic construction and operation of heavy equipment powertrains. Topics include principles of gears, friction clutches, fluid couplers, anti-friction bearings, planetary gears, and differential gear sets. Students learn the proper use of precision measuring tools and how to safely perform basic powertrain tests and minor repairs.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76926",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 22,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-02T03:41:17.517920Z"
     },
     {
       "crn": "74127",
@@ -45897,8 +46382,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74127')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74127')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "This course supports and reinforces on-the-job training in business and industrial establishments under the supervision of a college instructor. Training is informed by learning objectives. Students work in a skilled or professional-level assignment in their area of vocational interest, and meet performance objectives related to instruction that are above and beyond the conditions of regular employment. This course is intended for students whose job is related to the field of heavy equipment maintenance and have completed or enrolled in the appropriate coursework. The course may be taken once and repeated for a maximum of 16 units. Contact the Work Experience Education Office regarding re-enrollment procedures. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 01-SEP-2025 08:09:34 PM Title: HET 290 WEE/Internship Heavy Equip CRN: 74127 Instructor: Marius Dornean Instructor: Marius Dornean Positive Attendance Instructional Method Section Corequisites: NONE Bldg/Room: T Technology Meeting Time 3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable 3 Hrs/Wk arr in addition to any scheduled hrs if applicable Seating Availability Capacity Taken Available 15 5 10 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74127",
+      "seating_detail": {
+        "capacity": 15,
+        "taken": 5,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-02T03:41:19.144754Z"
     },
     {
       "crn": "70103",
@@ -45930,7 +46436,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70103')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70103')",
+      "description": "This course is a survey of the political, economic, and social development of world civilization up to the 17th century. Special emphasis is placed on the origins of the earth\u2019s principal centers of civilization, their subsequent interaction, and the emergence of a world economic, political, and intellectual order. The course is designed for students who want to increase their understanding and appreciation of cultural, political, and intellectual diversity, as well as the process of intercultural interaction. This course also satisfies a course requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70103",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 32,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-02T03:41:20.775554Z"
     },
     {
       "crn": "70106",
@@ -45961,8 +46488,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70106')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70106')",
+      "description": "This course is a survey of the political, economic, and social development of world civilization up to the 17th century. Special emphasis is placed on the origins of the earth\u2019s principal centers of civilization, their subsequent interaction, and the emergence of a world economic, political, and intellectual order. The course is designed for students who want to increase their understanding and appreciation of cultural, political, and intellectual diversity, as well as the process of intercultural interaction. This course also satisfies a course requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70106",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 46,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-09-02T03:41:22.407468Z"
     },
     {
       "crn": "70107",
@@ -45993,8 +46541,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70107')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70107')",
+      "description": "This course is a survey of the political, economic, and social development of world civilization up to the 17th century. Special emphasis is placed on the origins of the earth\u2019s principal centers of civilization, their subsequent interaction, and the emergence of a world economic, political, and intellectual order. The course is designed for students who want to increase their understanding and appreciation of cultural, political, and intellectual diversity, as well as the process of intercultural interaction. This course also satisfies a course requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70107",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-02T03:41:24.040934Z"
     },
     {
       "crn": "74178",
@@ -46025,8 +46595,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74178')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74178')",
+      "description": "This course is a survey of the political, economic, and social development of world civilization up to the 17th century. Special emphasis is placed on the origins of the earth\u2019s principal centers of civilization, their subsequent interaction, and the emergence of a world economic, political, and intellectual order. The course is designed for students who want to increase their understanding and appreciation of cultural, political, and intellectual diversity, as well as the process of intercultural interaction. This course also satisfies a course requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74178",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 18,
+        "available": 27
+      },
+      "detail_fetched_at": "2025-09-02T03:41:25.666591Z"
     },
     {
       "crn": "77756",
@@ -46057,8 +46648,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77756')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77756')",
+      "description": "This course is a survey of the political, economic, and social development of world civilization up to the 17th century. Special emphasis is placed on the origins of the earth\u2019s principal centers of civilization, their subsequent interaction, and the emergence of a world economic, political, and intellectual order. The course is designed for students who want to increase their understanding and appreciation of cultural, political, and intellectual diversity, as well as the process of intercultural interaction. This course also satisfies a course requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77756",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-02T03:41:27.290079Z"
     },
     {
       "crn": "70108",
@@ -46089,8 +46702,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70108')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70108')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70108",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-02T03:41:28.916818Z"
     },
     {
       "crn": "70109",
@@ -46121,8 +46755,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70109')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70109')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70109",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-02T03:41:30.539813Z"
     },
     {
       "crn": "75224",
@@ -46154,7 +46810,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75224')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75224')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75224",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-02T03:41:32.167419Z"
     },
     {
       "crn": "76450",
@@ -46185,8 +46862,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76450')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76450')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76450",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 37,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-02T03:41:33.790904Z"
     },
     {
       "crn": "70110",
@@ -46218,7 +46917,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70110')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70110')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70110",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 27,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-02T03:41:35.426098Z"
     },
     {
       "crn": "70111",
@@ -46249,8 +46969,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70111')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70111')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70111",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 32,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-02T03:41:37.051221Z"
     },
     {
       "crn": "70113",
@@ -46281,8 +47022,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70113')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70113')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70113",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 34,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-02T03:41:38.678851Z"
     },
     {
       "crn": "70114",
@@ -46314,7 +47076,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70114')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70114')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70114",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 27,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-09-02T03:41:40.307960Z"
     },
     {
       "crn": "70115",
@@ -46345,8 +47128,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70115')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70115')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70115",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 39,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-02T03:41:41.939908Z"
     },
     {
       "crn": "70116",
@@ -46378,7 +47182,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70116')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70116')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70116",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 28,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-02T03:41:43.563805Z"
     },
     {
       "crn": "70117",
@@ -46409,8 +47234,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70117')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70117')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70117",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 43,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-02T03:41:45.197327Z"
     },
     {
       "crn": "70119",
@@ -46441,8 +47287,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70119')"
+      "additional_hours": "3.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70119')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "02-SEP-2025",
+        "Last day to drop with a \"W\"": "25-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "09-OCT-2025",
+        "Census Date": "26-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70119",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 14,
+        "available": 31
+      },
+      "detail_fetched_at": "2025-09-02T03:41:46.823007Z"
     },
     {
       "crn": "70120",
@@ -46474,7 +47342,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70120')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70120')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70120",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 40,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-02T03:41:48.451675Z"
     },
     {
       "crn": "70121",
@@ -46506,7 +47395,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70121')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70121')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70121",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 36,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-02T03:41:50.077560Z"
     },
     {
       "crn": "72772",
@@ -46538,7 +47448,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72772')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72772')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72772",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 38,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-02T03:41:51.704993Z"
     },
     {
       "crn": "74287",
@@ -46569,8 +47500,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74287')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74287')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74287",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-02T03:41:53.330481Z"
     },
     {
       "crn": "75228",
@@ -46601,8 +47554,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75228')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75228')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75228",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-02T03:41:54.955081Z"
     },
     {
       "crn": "75241",
@@ -46633,8 +47608,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75241')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75241')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75241",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-02T03:41:56.583182Z"
     },
     {
       "crn": "78070",
@@ -46665,8 +47662,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78070')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78070')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, and fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit),CSU(*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78070",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-02T03:41:58.209235Z"
     },
     {
       "crn": "72195",
@@ -46698,7 +47717,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72195')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72195')",
+      "description": "This course is a survey of United States history from Native American origins to post-Civil War Reconstruction. Social, economic, political, and cultural developments are explored, and an emphasis placed on the independence movement, Revolutionary War, new republic, westward expansion, and the Civil War. The course is designed for students interested in the foundational history of the United States. It is recommended for all history majors, fulfills the Cal State University (CSU) and University of California (UC) systems\u2019 American Institutions requirement and the American Institutions requirement for the associate degree, and is intended for those who meet Honors Program requirements. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 143 or HIST 143H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72195",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 8,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-02T03:41:59.835226Z"
     },
     {
       "crn": "70123",
@@ -46730,7 +47770,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70123')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70123')",
+      "description": "This course provides a survey of the political, social, economic, and cultural development of the United States from Reconstruction (1865) to the present. Some topics addressed are Reconstruction, the American West, capital and labor in the age of enterprise, America as an emerging world power, World War I, World War II, the Vietnam Era, the Cold War, and the new world order. This course fulfills the American Institutions requirement for the Associate Degree. It is recommended for all history majors and satisfies a course requirement for the History for Transfer (AA-T) degree.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 144 or HIST 144H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70123",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-02T03:42:01.469445Z"
     },
     {
       "crn": "70124",
@@ -70905,8 +71966,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-09-01T03:45:34.709796+00:00Z",
-    "courses_with_details": 847,
+    "detail_collection_timestamp": "2025-09-02T03:42:01.554114+00:00Z",
+    "courses_with_details": 897,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
