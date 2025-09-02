@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-02T14:33:48.336908Z",
+  "collection_timestamp": "2025-09-02T22:30:40.620250Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -505,8 +505,8 @@
       "location": "Business 117",
       "enrollment": {
         "capacity": 45,
-        "actual": 19,
-        "remaining": 26
+        "actual": 20,
+        "remaining": 25
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -601,8 +601,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 31,
-        "remaining": 9
+        "actual": 30,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -2937,8 +2937,8 @@
       "location": "Administration of Justice 323",
       "enrollment": {
         "capacity": 35,
-        "actual": 24,
-        "remaining": 11
+        "actual": 25,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -4540,7 +4540,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -5549,7 +5549,7 @@
       "title": "Residential Architecture Using Revit and 3D Software",
       "units": 4.0,
       "instructor": "Julio  Rodas",
-      "instructor_email": "",
+      "instructor_email": "JRodas@riohondo.edu",
       "meeting_times": [
         {
           "days": "TR",
@@ -6073,8 +6073,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 45,
-        "actual": 40,
-        "remaining": 5
+        "actual": 41,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -6140,7 +6140,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -8441,8 +8441,8 @@
       "location": "Science 230",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 21,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -8537,8 +8537,8 @@
       "location": "Technology 144",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 22,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -9465,8 +9465,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10777,8 +10777,8 @@
       "location": "Science 221",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10873,8 +10873,8 @@
       "location": "Science 132",
       "enrollment": {
         "capacity": 24,
-        "actual": 19,
-        "remaining": 5
+        "actual": 18,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11481,8 +11481,8 @@
       "location": "Business 105",
       "enrollment": {
         "capacity": 45,
-        "actual": 28,
-        "remaining": 17
+        "actual": 27,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11676,7 +11676,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
@@ -11929,8 +11929,8 @@
       "location": "La Serna High School",
       "enrollment": {
         "capacity": 45,
-        "actual": 17,
-        "remaining": 28
+        "actual": 20,
+        "remaining": 25
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -12473,8 +12473,8 @@
       "location": "El Monte High School",
       "enrollment": {
         "capacity": 45,
-        "actual": 9,
-        "remaining": 36
+        "actual": 13,
+        "remaining": 32
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -12732,7 +12732,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
@@ -13273,8 +13273,8 @@
       "location": "Science 326",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -13305,8 +13305,8 @@
       "location": "Science 326",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 23,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -13945,8 +13945,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 31,
-        "remaining": 14
+        "actual": 29,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14489,8 +14489,8 @@
       "location": "Business 119",
       "enrollment": {
         "capacity": 35,
-        "actual": 27,
-        "remaining": 8
+        "actual": 28,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14617,8 +14617,8 @@
       "location": "Business 115",
       "enrollment": {
         "capacity": 35,
-        "actual": 14,
-        "remaining": 21
+        "actual": 15,
+        "remaining": 20
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15065,8 +15065,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 8,
-        "remaining": 27
+        "actual": 9,
+        "remaining": 26
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16089,8 +16089,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 32,
-        "actual": 31,
-        "remaining": 1
+        "actual": 30,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16505,8 +16505,8 @@
       "location": "Business 109",
       "enrollment": {
         "capacity": 35,
-        "actual": 31,
-        "remaining": 4
+        "actual": 33,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16601,8 +16601,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 23,
-        "remaining": 12
+        "actual": 24,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16761,8 +16761,8 @@
       "location": "South El Monte High School",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 23,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17081,8 +17081,8 @@
       "location": "Business 109",
       "enrollment": {
         "capacity": 35,
-        "actual": 30,
-        "remaining": 5
+        "actual": 29,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17209,8 +17209,8 @@
       "location": "Business 109",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 23,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -18617,8 +18617,8 @@
       "location": "Administration of Justice 322",
       "enrollment": {
         "capacity": 45,
-        "actual": 14,
-        "remaining": 31
+        "actual": 13,
+        "remaining": 32
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -20281,8 +20281,8 @@
       "location": "Administration 216",
       "enrollment": {
         "capacity": 28,
-        "actual": 23,
-        "remaining": 5
+        "actual": 24,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -20921,8 +20921,8 @@
       "location": "Administration 213",
       "enrollment": {
         "capacity": 28,
-        "actual": 24,
-        "remaining": 4
+        "actual": 25,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21337,8 +21337,8 @@
       "location": "Administration 215",
       "enrollment": {
         "capacity": 28,
-        "actual": 25,
-        "remaining": 3
+        "actual": 24,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21881,8 +21881,8 @@
       "location": "Administration 216",
       "enrollment": {
         "capacity": 28,
-        "actual": 23,
-        "remaining": 5
+        "actual": 24,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22585,8 +22585,8 @@
       "location": "Administration 227",
       "enrollment": {
         "capacity": 28,
-        "actual": 17,
-        "remaining": 11
+        "actual": 16,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23161,8 +23161,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 28,
-        "actual": 9,
-        "remaining": 19
+        "actual": 8,
+        "remaining": 20
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23193,8 +23193,8 @@
       "location": "Administration 206",
       "enrollment": {
         "capacity": 28,
-        "actual": 26,
-        "remaining": 2
+        "actual": 25,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23885,7 +23885,7 @@
       "title": "AutoCAD for Basic CADD Applications",
       "units": 4.0,
       "instructor": "Martin  Ortiz",
-      "instructor_email": "MaOrtiz@riohondo.edu",
+      "instructor_email": "maortiz@riohondo.edu",
       "meeting_times": [
         {
           "days": "S",
@@ -28057,8 +28057,8 @@
       "location": "Technology 157",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 22,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28089,8 +28089,8 @@
       "location": "Technology 157",
       "enrollment": {
         "capacity": 24,
-        "actual": 17,
-        "remaining": 7
+        "actual": 18,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28121,8 +28121,8 @@
       "location": "Technology 157",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 22,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28185,8 +28185,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 32,
-        "remaining": 13
+        "actual": 31,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28316,7 +28316,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
@@ -28569,8 +28569,8 @@
       "location": "Administration 208",
       "enrollment": {
         "capacity": 25,
-        "actual": 27,
-        "remaining": 2
+        "actual": 26,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28761,8 +28761,8 @@
       "location": "Science 336",
       "enrollment": {
         "capacity": 45,
-        "actual": 36,
-        "remaining": 9
+        "actual": 35,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28954,7 +28954,7 @@
       "enrollment": {
         "capacity": 20,
         "actual": 8,
-        "remaining": 10
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28985,8 +28985,8 @@
       "location": "Administration 225",
       "enrollment": {
         "capacity": 45,
-        "actual": 45,
-        "remaining": 0
+        "actual": 46,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -31769,8 +31769,8 @@
       "location": "Physical Education 103",
       "enrollment": {
         "capacity": 35,
-        "actual": 12,
-        "remaining": 23
+        "actual": 11,
+        "remaining": 24
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -31897,8 +31897,8 @@
       "location": "Physical Education 103",
       "enrollment": {
         "capacity": 45,
-        "actual": 30,
-        "remaining": 15
+        "actual": 29,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -31993,8 +31993,8 @@
       "location": "Santa Fe High School",
       "enrollment": {
         "capacity": 45,
-        "actual": 8,
-        "remaining": 37
+        "actual": 15,
+        "remaining": 30
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -33305,8 +33305,8 @@
       "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
-        "actual": 14,
-        "remaining": 16
+        "actual": 13,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -33337,8 +33337,8 @@
       "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
-        "actual": 24,
-        "remaining": 6
+        "actual": 25,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -35609,8 +35609,8 @@
       "location": "Administration 204",
       "enrollment": {
         "capacity": 20,
-        "actual": 10,
-        "remaining": 10
+        "actual": 9,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36089,8 +36089,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 23,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36889,8 +36889,8 @@
       "location": "Science 311",
       "enrollment": {
         "capacity": 35,
-        "actual": 27,
-        "remaining": 8
+        "actual": 26,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37209,8 +37209,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 23,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37497,8 +37497,8 @@
       "location": "Science 200",
       "enrollment": {
         "capacity": 35,
-        "actual": 21,
-        "remaining": 14
+        "actual": 22,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39257,8 +39257,8 @@
       "location": "Modular Classrooms 08",
       "enrollment": {
         "capacity": 24,
-        "actual": 16,
-        "remaining": 8
+        "actual": 15,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -40729,8 +40729,8 @@
       "location": "Pico Educational Center 401",
       "enrollment": {
         "capacity": 30,
-        "actual": 11,
-        "remaining": 19
+        "actual": 12,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41049,8 +41049,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 44,
-        "actual": 44,
-        "remaining": 0
+        "actual": 45,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41593,8 +41593,8 @@
       "location": "Community Resource Center",
       "enrollment": {
         "capacity": 30,
-        "actual": 25,
-        "remaining": 5
+        "actual": 27,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41625,8 +41625,8 @@
       "location": "Longfellow Elementary School",
       "enrollment": {
         "capacity": 30,
-        "actual": 17,
-        "remaining": 13
+        "actual": 20,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41849,8 +41849,8 @@
       "location": "Liberty Community Plaza",
       "enrollment": {
         "capacity": 30,
-        "actual": 19,
-        "remaining": 11
+        "actual": 20,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42105,8 +42105,8 @@
       "location": "STEAM Academy at Burke Middle",
       "enrollment": {
         "capacity": 35,
-        "actual": 2,
-        "remaining": 33
+        "actual": 3,
+        "remaining": 32
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -42233,8 +42233,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 30,
-        "actual": 16,
-        "remaining": 14
+        "actual": 17,
+        "remaining": 13
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -42328,9 +42328,9 @@
       ],
       "location": "South El Monte Senior Center",
       "enrollment": {
-        "capacity": 41,
+        "capacity": 45,
         "actual": 41,
-        "remaining": 0
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42937,8 +42937,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 19,
-        "remaining": 16
+        "actual": 20,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42969,8 +42969,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 24,
-        "remaining": 11
+        "actual": 25,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43015,6 +43015,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75940')"
     },
     {
+      "crn": "77063",
+      "subject": "NESL",
+      "course_number": "016",
+      "title": "ESL Intermediate I",
+      "units": 0.0,
+      "instructor": "Fang Yu  Wang",
+      "instructor_email": "DWang@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Mt View Family Center",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 14,
+      "start_date": "09/03",
+      "end_date": "12/05",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77063')"
+    },
+    {
       "crn": "77064",
       "subject": "NESL",
       "course_number": "016",
@@ -43032,11 +43064,11 @@
       ],
       "location": "Mt View Family Center",
       "enrollment": {
-        "capacity": 35,
+        "capacity": 0,
         "actual": 6,
-        "remaining": 29
+        "remaining": 6
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -43513,8 +43545,8 @@
       "location": "Learning Resource Center (LRC) 128",
       "enrollment": {
         "capacity": 20,
-        "actual": 13,
-        "remaining": 7
+        "actual": 14,
+        "remaining": 6
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -43981,7 +44013,7 @@
       "title": "AutoCAD for Basic CADD Applications",
       "units": 0.0,
       "instructor": "Martin  Ortiz",
-      "instructor_email": "MaOrtiz@riohondo.edu",
+      "instructor_email": "maortiz@riohondo.edu",
       "meeting_times": [
         {
           "days": "S",
@@ -44045,7 +44077,7 @@
       "title": "Advanced Architecture Using Revit and 3D Software",
       "units": 0.0,
       "instructor": "Julio  Rodas",
-      "instructor_email": "",
+      "instructor_email": "JRodas@riohondo.edu",
       "meeting_times": [
         {
           "days": "TR",
@@ -44089,8 +44121,8 @@
       "location": "Science 125",
       "enrollment": {
         "capacity": 25,
-        "actual": 14,
-        "remaining": 11
+        "actual": 13,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44121,8 +44153,8 @@
       "location": "Science 125",
       "enrollment": {
         "capacity": 25,
-        "actual": 14,
-        "remaining": 11
+        "actual": 13,
+        "remaining": 12
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44441,8 +44473,8 @@
       "location": "AJ Annex",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 23,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -45724,7 +45756,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -46297,8 +46329,8 @@
       "location": "Business 017",
       "enrollment": {
         "capacity": 20,
-        "actual": 20,
-        "remaining": 0
+        "actual": 19,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46425,8 +46457,8 @@
       "location": "Science 224",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 19,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47417,8 +47449,8 @@
       "location": "Administration 212",
       "enrollment": {
         "capacity": 20,
-        "actual": 19,
-        "remaining": 1
+        "actual": 20,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47481,8 +47513,8 @@
       "location": "Administration 212",
       "enrollment": {
         "capacity": 45,
-        "actual": 25,
-        "remaining": 20
+        "actual": 24,
+        "remaining": 21
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48153,8 +48185,8 @@
       "location": "Administration 228",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 21,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48729,8 +48761,8 @@
       "location": "Administration 212",
       "enrollment": {
         "capacity": 45,
-        "actual": 43,
-        "remaining": 2
+        "actual": 44,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48857,8 +48889,8 @@
       "location": "Science 336",
       "enrollment": {
         "capacity": 45,
-        "actual": 41,
-        "remaining": 4
+        "actual": 40,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49369,8 +49401,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 43,
-        "remaining": 2
+        "actual": 42,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49465,8 +49497,8 @@
       "location": "Administration 228",
       "enrollment": {
         "capacity": 45,
-        "actual": 21,
-        "remaining": 24
+        "actual": 22,
+        "remaining": 23
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51257,8 +51289,8 @@
       "location": "Administration 215",
       "enrollment": {
         "capacity": 32,
-        "actual": 30,
-        "remaining": 2
+        "actual": 29,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51865,8 +51897,8 @@
       "location": "Science 311",
       "enrollment": {
         "capacity": 35,
-        "actual": 23,
-        "remaining": 12
+        "actual": 22,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -52921,8 +52953,8 @@
       "location": "Business 110",
       "enrollment": {
         "capacity": 45,
-        "actual": 45,
-        "remaining": 0
+        "actual": 44,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -53433,8 +53465,8 @@
       "location": "Technology 114",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 22,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -53960,7 +53992,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1686,
+    "total_courses": 1687,
     "departments": [
       "ACCT",
       "ADN",
