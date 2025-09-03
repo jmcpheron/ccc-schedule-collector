@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-03T14:32:47.460551Z",
+  "collection_timestamp": "2025-09-03T22:31:03.988488Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -121,8 +121,8 @@
       "location": "Business 119",
       "enrollment": {
         "capacity": 45,
-        "actual": 24,
-        "remaining": 16
+        "actual": 23,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -410,7 +410,7 @@
       "enrollment": {
         "capacity": 25,
         "actual": 5,
-        "remaining": 16
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -4153,8 +4153,8 @@
       "location": "Learning Resource Center (LRC) 104",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 21,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -4473,8 +4473,8 @@
       "location": "Science 334",
       "enrollment": {
         "capacity": 45,
-        "actual": 40,
-        "remaining": 5
+        "actual": 39,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -5785,8 +5785,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 45,
-        "actual": 46,
-        "remaining": 1
+        "actual": 47,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -5849,8 +5849,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 45,
-        "actual": 34,
-        "remaining": 11
+        "actual": 33,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -6073,8 +6073,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 45,
-        "actual": 41,
-        "remaining": 4
+        "actual": 42,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -8473,8 +8473,8 @@
       "location": "Science 230",
       "enrollment": {
         "capacity": 24,
-        "actual": 19,
-        "remaining": 5
+        "actual": 18,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -8505,8 +8505,8 @@
       "location": "Science 230",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 19,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11545,8 +11545,8 @@
       "location": "Business 118",
       "enrollment": {
         "capacity": 45,
-        "actual": 21,
-        "remaining": 24
+        "actual": 22,
+        "remaining": 23
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11676,7 +11676,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
@@ -11740,7 +11740,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -13209,8 +13209,8 @@
       "location": "Science 333",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 20,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -13433,8 +13433,8 @@
       "location": "Science 333",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14428,7 +14428,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -15385,8 +15385,8 @@
       "location": "Science 306",
       "enrollment": {
         "capacity": 24,
-        "actual": 8,
-        "remaining": 16
+        "actual": 9,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15961,8 +15961,8 @@
       "location": "Administration 220",
       "enrollment": {
         "capacity": 32,
-        "actual": 27,
-        "remaining": 5
+        "actual": 28,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16057,8 +16057,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 32,
-        "actual": 29,
-        "remaining": 3
+        "actual": 28,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16473,8 +16473,8 @@
       "location": "Pioneer High School",
       "enrollment": {
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 33,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -16569,8 +16569,8 @@
       "location": "Ledesma High School",
       "enrollment": {
         "capacity": 35,
-        "actual": 8,
-        "remaining": 27
+        "actual": 12,
+        "remaining": 23
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -16761,8 +16761,8 @@
       "location": "South El Monte High School",
       "enrollment": {
         "capacity": 35,
-        "actual": 23,
-        "remaining": 12
+        "actual": 26,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16793,8 +16793,8 @@
       "location": "South El Monte High School",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 26,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17561,8 +17561,8 @@
       "location": "Physical Education 141",
       "enrollment": {
         "capacity": 25,
-        "actual": 14,
-        "remaining": 11
+        "actual": 16,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17980,7 +17980,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -18105,8 +18105,8 @@
       "location": "Physical Education 141",
       "enrollment": {
         "capacity": 10,
-        "actual": 8,
-        "remaining": 2
+        "actual": 9,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -18905,8 +18905,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 14,
-        "remaining": 31
+        "actual": 15,
+        "remaining": 30
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -20281,8 +20281,8 @@
       "location": "Administration 216",
       "enrollment": {
         "capacity": 28,
-        "actual": 24,
-        "remaining": 4
+        "actual": 25,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21881,8 +21881,8 @@
       "location": "Administration 216",
       "enrollment": {
         "capacity": 28,
-        "actual": 24,
-        "remaining": 4
+        "actual": 25,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -25401,8 +25401,8 @@
       "location": "Business 105",
       "enrollment": {
         "capacity": 45,
-        "actual": 42,
-        "remaining": 3
+        "actual": 41,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26969,8 +26969,8 @@
       "location": "Learning Resource Center (LRC) 104",
       "enrollment": {
         "capacity": 24,
-        "actual": 19,
-        "remaining": 5
+        "actual": 20,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -27577,8 +27577,8 @@
       "location": "Science 221",
       "enrollment": {
         "capacity": 72,
-        "actual": 41,
-        "remaining": 31
+        "actual": 42,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28729,8 +28729,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 40,
-        "remaining": 5
+        "actual": 39,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -30425,8 +30425,8 @@
       "location": "Pioneer High School",
       "enrollment": {
         "capacity": 45,
-        "actual": 28,
-        "remaining": 17
+        "actual": 32,
+        "remaining": 13
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -32409,8 +32409,8 @@
       "location": "Pool",
       "enrollment": {
         "capacity": 40,
-        "actual": 20,
-        "remaining": 20
+        "actual": 19,
+        "remaining": 21
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -33049,8 +33049,8 @@
       "location": "Track",
       "enrollment": {
         "capacity": 45,
-        "actual": 22,
-        "remaining": 23
+        "actual": 20,
+        "remaining": 25
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -33369,8 +33369,8 @@
       "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
-        "actual": 11,
-        "remaining": 19
+        "actual": 12,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36345,8 +36345,8 @@
       "location": "South El Monte High School",
       "enrollment": {
         "capacity": 35,
-        "actual": 32,
-        "remaining": 3
+        "actual": 33,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37082,7 +37082,7 @@
       "enrollment": {
         "capacity": 25,
         "actual": 26,
-        "remaining": 3
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37113,8 +37113,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 35,
-        "actual": 36,
-        "remaining": 1
+        "actual": 37,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37273,8 +37273,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 10,
-        "actual": 12,
-        "remaining": 3
+        "actual": 11,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37721,8 +37721,8 @@
       "location": "Business 118",
       "enrollment": {
         "capacity": 45,
-        "actual": 28,
-        "remaining": 17
+        "actual": 29,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38361,8 +38361,8 @@
       "location": "Pioneer High School",
       "enrollment": {
         "capacity": 32,
-        "actual": 20,
-        "remaining": 12
+        "actual": 22,
+        "remaining": 10
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -38393,8 +38393,8 @@
       "location": "Ledesma High School",
       "enrollment": {
         "capacity": 32,
-        "actual": 10,
-        "remaining": 22
+        "actual": 11,
+        "remaining": 21
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -38777,8 +38777,8 @@
       "location": "South El Monte High School",
       "enrollment": {
         "capacity": 50,
-        "actual": 30,
-        "remaining": 20
+        "actual": 31,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39033,8 +39033,8 @@
       "location": "South El Monte High School",
       "enrollment": {
         "capacity": 50,
-        "actual": 33,
-        "remaining": 17
+        "actual": 29,
+        "remaining": 21
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39929,8 +39929,8 @@
       "location": "Learning Resource Center (LRC) 129",
       "enrollment": {
         "capacity": 24,
-        "actual": 12,
-        "remaining": 12
+        "actual": 11,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -40860,7 +40860,7 @@
         "actual": 30,
         "remaining": 15
       },
-      "status": "CLOSED",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online SYNC",
@@ -43052,8 +43052,8 @@
       "course_number": "016",
       "title": "ESL Intermediate I",
       "units": 0.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
+      "instructor": "Fang Yu  Wang",
+      "instructor_email": "DWang@riohondo.edu",
       "meeting_times": [
         {
           "days": "TBA",
@@ -43068,7 +43068,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -43429,6 +43429,134 @@
       "end_date": "09/13",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76733')"
+    },
+    {
+      "crn": "76734",
+      "subject": "NFIR",
+      "course_number": "015",
+      "title": "Practical Experience in Fire Suppression",
+      "units": 0.0,
+      "instructor": "Jay  Joiner",
+      "instructor_email": "jjoiner@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "10:00am",
+          "end_time": "01:50pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 25,
+        "actual": 1,
+        "remaining": 24
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "09/16",
+      "end_date": "09/16",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76734')"
+    },
+    {
+      "crn": "76735",
+      "subject": "NFIR",
+      "course_number": "015",
+      "title": "Practical Experience in Fire Suppression",
+      "units": 0.0,
+      "instructor": "Jay  Joiner",
+      "instructor_email": "jjoiner@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "10:00am",
+          "end_time": "01:50pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 25,
+        "actual": 0,
+        "remaining": 25
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "10/07",
+      "end_date": "10/07",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76735')"
+    },
+    {
+      "crn": "76736",
+      "subject": "NFIR",
+      "course_number": "015",
+      "title": "Practical Experience in Fire Suppression",
+      "units": 0.0,
+      "instructor": "Jay  Joiner",
+      "instructor_email": "jjoiner@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 25,
+        "actual": 0,
+        "remaining": 25
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "11/19",
+      "end_date": "11/19",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76736')"
+    },
+    {
+      "crn": "76737",
+      "subject": "NFIR",
+      "course_number": "015",
+      "title": "Practical Experience in Fire Suppression",
+      "units": 0.0,
+      "instructor": "Jay  Joiner",
+      "instructor_email": "jjoiner@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "10:00am",
+          "end_time": "01:50pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 25,
+        "actual": 0,
+        "remaining": 25
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "12/02",
+      "end_date": "12/02",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76737')"
     },
     {
       "crn": "74267",
@@ -45223,6 +45351,134 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78489')"
     },
     {
+      "crn": "78490",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "08/28",
+      "end_date": "08/28",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78490')"
+    },
+    {
+      "crn": "78491",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Marc  Butler",
+      "instructor_email": "mbutler@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "08/28",
+      "end_date": "08/28",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78491')"
+    },
+    {
+      "crn": "78492",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Hugo  Figueroa",
+      "instructor_email": "HFigueroa@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "08/27",
+      "end_date": "08/27",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78492')"
+    },
+    {
+      "crn": "78493",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "08/27",
+      "end_date": "08/27",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78493')"
+    },
+    {
       "crn": "78476",
       "subject": "PAC",
       "course_number": "062",
@@ -45756,7 +46012,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -46425,8 +46681,8 @@
       "location": "Science 226",
       "enrollment": {
         "capacity": 24,
-        "actual": 8,
-        "remaining": 16
+        "actual": 7,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49308,7 +49564,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -49497,8 +49753,8 @@
       "location": "Administration 228",
       "enrollment": {
         "capacity": 45,
-        "actual": 22,
-        "remaining": 23
+        "actual": 21,
+        "remaining": 24
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50780,7 +51036,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -51769,8 +52025,8 @@
       "location": "Science 303",
       "enrollment": {
         "capacity": 35,
-        "actual": 27,
-        "remaining": 8
+        "actual": 26,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51801,8 +52057,8 @@
       "location": "Science 301",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 24,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51865,8 +52121,8 @@
       "location": "Science 330",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 24,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51897,8 +52153,8 @@
       "location": "Science 311",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 21,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51929,8 +52185,8 @@
       "location": "Science 301",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 24,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -52025,8 +52281,8 @@
       "location": "Science 303",
       "enrollment": {
         "capacity": 35,
-        "actual": 27,
-        "remaining": 8
+        "actual": 26,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -52409,8 +52665,8 @@
       "location": "Science 330",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 24,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -53992,7 +54248,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1687,
+    "total_courses": 1695,
     "departments": [
       "ACCT",
       "ADN",
