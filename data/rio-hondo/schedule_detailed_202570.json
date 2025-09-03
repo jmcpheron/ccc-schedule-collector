@@ -47823,7 +47823,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70124')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70124')",
+      "description": "This course provides a survey of the political, social, economic, and cultural development of the United States from Reconstruction (1865) to the present. Some topics addressed are Reconstruction, the American West, capital and labor in the age of enterprise, America as an emerging world power, World War I, World War II, the Vietnam Era, the Cold War, and the new world order. This course fulfills the American Institutions requirement for the Associate Degree. It is recommended for all history majors and satisfies a course requirement for the History for Transfer (AA-T) degree.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 144 or HIST 144H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70124",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 26,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-09-03T03:36:20.049681Z"
     },
     {
       "crn": "70125",
@@ -47855,7 +47876,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70125')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70125')",
+      "description": "This course provides a survey of the political, social, economic, and cultural development of the United States from Reconstruction (1865) to the present. Some topics addressed are Reconstruction, the American West, capital and labor in the age of enterprise, America as an emerging world power, World War I, World War II, the Vietnam Era, the Cold War, and the new world order. This course fulfills the American Institutions requirement for the Associate Degree. It is recommended for all history majors and satisfies a course requirement for the History for Transfer (AA-T) degree.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 144 or HIST 144H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70125",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 16,
+        "available": 29
+      },
+      "detail_fetched_at": "2025-09-03T03:36:21.655159Z"
     },
     {
       "crn": "70126",
@@ -47887,7 +47929,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70126')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70126')",
+      "description": "This course provides a survey of the political, social, economic, and cultural development of the United States from Reconstruction (1865) to the present. Some topics addressed are Reconstruction, the American West, capital and labor in the age of enterprise, America as an emerging world power, World War I, World War II, the Vietnam Era, the Cold War, and the new world order. This course fulfills the American Institutions requirement for the Associate Degree. It is recommended for all history majors and satisfies a course requirement for the History for Transfer (AA-T) degree.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 144 or HIST 144H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70126",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 18,
+        "available": 27
+      },
+      "detail_fetched_at": "2025-09-03T03:36:23.261162Z"
     },
     {
       "crn": "70127",
@@ -47919,7 +47982,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70127')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70127')",
+      "description": "This course provides a survey of the political, social, economic, and cultural development of the United States from Reconstruction (1865) to the present. Some topics addressed are Reconstruction, the American West, capital and labor in the age of enterprise, America as an emerging world power, World War I, World War II, the Vietnam Era, the Cold War, and the new world order. This course fulfills the American Institutions requirement for the Associate Degree. It is recommended for all history majors and satisfies a course requirement for the History for Transfer (AA-T) degree.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 144 or HIST 144H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70127",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 32,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-03T03:36:24.864881Z"
     },
     {
       "crn": "70128",
@@ -47950,8 +48034,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70128')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70128')",
+      "description": "This course provides a survey of the political, social, economic, and cultural development of the United States from Reconstruction (1865) to the present. Some topics addressed are Reconstruction, the American West, capital and labor in the age of enterprise, America as an emerging world power, World War I, World War II, the Vietnam Era, the Cold War, and the new world order. This course fulfills the American Institutions requirement for the Associate Degree. It is recommended for all history majors and satisfies a course requirement for the History for Transfer (AA-T) degree.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 144 or HIST 144H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70128",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-03T03:36:26.470748Z"
     },
     {
       "crn": "70129",
@@ -47982,8 +48087,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70129')"
+      "additional_hours": "3.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70129')",
+      "description": "This course provides a survey of the political, social, economic, and cultural development of the United States from Reconstruction (1865) to the present. Some topics addressed are Reconstruction, the American West, capital and labor in the age of enterprise, America as an emerging world power, World War I, World War II, the Vietnam Era, the Cold War, and the new world order. This course fulfills the American Institutions requirement for the Associate Degree. It is recommended for all history majors and satisfies a course requirement for the History for Transfer (AA-T) degree.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 144 or HIST 144H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "14-OCT-2025",
+        "Last day to drop with a refund": "14-OCT-2025",
+        "Last day to drop without a \"W\"": "23-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70129",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 20,
+        "available": 25
+      },
+      "detail_fetched_at": "2025-09-03T03:36:28.073962Z"
     },
     {
       "crn": "70130",
@@ -48014,8 +48141,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70130')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70130')",
+      "description": "This course provides a survey of the political, social, economic, and cultural development of the United States from Reconstruction (1865) to the present. Some topics addressed are Reconstruction, the American West, capital and labor in the age of enterprise, America as an emerging world power, World War I, World War II, the Vietnam Era, the Cold War, and the new world order. This course fulfills the American Institutions requirement for the Associate Degree. It is recommended for all history majors and satisfies a course requirement for the History for Transfer (AA-T) degree.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 144 or HIST 144H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70130",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 19,
+        "available": 26
+      },
+      "detail_fetched_at": "2025-09-03T03:36:29.675010Z"
     },
     {
       "crn": "74180",
@@ -48046,8 +48195,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74180')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74180')",
+      "description": "This course provides a survey of the political, social, economic, and cultural development of the United States from Reconstruction (1865) to the present. Some topics addressed are Reconstruction, the American West, capital and labor in the age of enterprise, America as an emerging world power, World War I, World War II, the Vietnam Era, the Cold War, and the new world order. This course fulfills the American Institutions requirement for the Associate Degree. It is recommended for all history majors and satisfies a course requirement for the History for Transfer (AA-T) degree.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 144 or HIST 144H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74180",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-03T03:36:31.287927Z"
     },
     {
       "crn": "74288",
@@ -48078,8 +48249,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74288')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74288')",
+      "description": "This course provides a survey of the political, social, economic, and cultural development of the United States from Reconstruction (1865) to the present. Some topics addressed are Reconstruction, the American West, capital and labor in the age of enterprise, America as an emerging world power, World War I, World War II, the Vietnam Era, the Cold War, and the new world order. This course fulfills the American Institutions requirement for the Associate Degree. It is recommended for all history majors and satisfies a course requirement for the History for Transfer (AA-T) degree.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 144 or HIST 144H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74288",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 0,
+        "available": 45
+      },
+      "detail_fetched_at": "2025-09-03T03:36:32.898738Z"
     },
     {
       "crn": "75742",
@@ -48110,8 +48303,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75742')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75742')",
+      "description": "This course provides a survey of the political, social, economic, and cultural development of the United States from Reconstruction (1865) to the present. Some topics addressed are Reconstruction, the American West, capital and labor in the age of enterprise, America as an emerging world power, World War I, World War II, the Vietnam Era, the Cold War, and the new world order. This course fulfills the American Institutions requirement for the Associate Degree. It is recommended for all history majors and satisfies a course requirement for the History for Transfer (AA-T) degree.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 144 or HIST 144H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75742",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 35,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-03T03:36:34.516915Z"
     },
     {
       "crn": "75743",
@@ -48142,8 +48356,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75743')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75743')",
+      "description": "This course provides a survey of the political, social, economic, and cultural development of the United States from Reconstruction (1865) to the present. Some topics addressed are Reconstruction, the American West, capital and labor in the age of enterprise, America as an emerging world power, World War I, World War II, the Vietnam Era, the Cold War, and the new world order. This course fulfills the American Institutions requirement for the Associate Degree. It is recommended for all history majors and satisfies a course requirement for the History for Transfer (AA-T) degree.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 144 or HIST 144H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75743",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-03T03:36:36.119708Z"
     },
     {
       "crn": "75744",
@@ -48174,8 +48410,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75744')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75744')",
+      "description": "This course provides a survey of the political, social, economic, and cultural development of the United States from Reconstruction (1865) to the present. Some topics addressed are Reconstruction, the American West, capital and labor in the age of enterprise, America as an emerging world power, World War I, World War II, the Vietnam Era, the Cold War, and the new world order. This course fulfills the American Institutions requirement for the Associate Degree. It is recommended for all history majors and satisfies a course requirement for the History for Transfer (AA-T) degree.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 144 or HIST 144H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75744",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 36,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-03T03:36:37.722393Z"
     },
     {
       "crn": "77683",
@@ -48207,7 +48464,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77683')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77683')",
+      "description": "This course investigates the history of Black Americans from west African origins to the abolition of slavery, roughly dating from the 1400s to 1865. Students examine the ways in which Blacks constructed a distinct African-American culture, influenced by the African past, shared experiences of enslavement, and the experiences of free Blacks. The course also pays close attention to the methods and tactics employed by Blacks to exert control over their lives, highlighting their major successes and achievements despite myriad forms of oppression and discrimination.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77683",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 17,
+        "available": 28
+      },
+      "detail_fetched_at": "2025-09-03T03:36:39.323751Z"
     },
     {
       "crn": "70134",
@@ -48238,8 +48516,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70134')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70134')",
+      "description": "This course is a survey of the role American Indians and Black Americans have played in the historical development of the United States from the earliest times to the present. The course begins with a study of racism, followed by the history and cultural contributions of American Indians and African Americans. This course fulfills the American Institutions requirement for the associate degree (Title 5, Section 40404). The course is intended for students who want to increase their understanding of the history of minorities in the United States. This course also satisfies a course requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70134",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 29,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-09-03T03:36:40.925312Z"
     },
     {
       "crn": "74181",
@@ -48270,8 +48569,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74181')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74181')",
+      "description": "This course surveys the roles selected minorities have played in the historical development of the United States from the earliest times to the present. Emphasis is placed on the history and cultural contributions of Mexican Americans, Asian Americans, and American women. This course is intended for students who want to fulfill the American Institutions requirement for the associate degree (Title 5, Section 40404) and CSU requirements, as well as students want to increase their understanding of the history of minorities in the United States. This course is a restricted elective for the Associate in Arts in History for Transfer. (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU (*Students will receive credit for only one of the following courses: HIST 159 or HIST 159H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74181",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-03T03:36:42.530211Z"
     },
     {
       "crn": "74112",
@@ -48303,7 +48623,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74112')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74112')",
+      "description": "This course is an overview of California history from the first aboriginal inhabitants to modern times. The course addresses cultural, political, social, and economic development in the context of history; the development of contemporary institutions; and the historical context of current issues. This course is suitable for students seeking further understanding of California\u2019s past and present, and those preparing for a career in teaching at the elementary level. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74112",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-03T03:36:44.131758Z"
     },
     {
       "crn": "74299",
@@ -48334,8 +48675,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74299')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74299')",
+      "description": "This course is an overview of California history from the first aboriginal inhabitants to modern times. The course addresses cultural, political, social, and economic development in the context of history; the development of contemporary institutions; and the historical context of current issues. This course is suitable for students seeking further understanding of California\u2019s past and present, and those preparing for a career in teaching at the elementary level. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74299",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 22,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-09-03T03:36:45.733424Z"
     },
     {
       "crn": "77755",
@@ -48366,8 +48728,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77755')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77755')",
+      "description": "This course is an overview of California history from the first aboriginal inhabitants to modern times. The course addresses cultural, political, social, and economic development in the context of history; the development of contemporary institutions; and the historical context of current issues. This course is suitable for students seeking further understanding of California\u2019s past and present, and those preparing for a career in teaching at the elementary level. This course also satisfies a requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77755",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-03T03:36:47.336573Z"
     },
     {
       "crn": "70138",
@@ -48399,7 +48783,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70138')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70138')",
+      "description": "This course surveys the roles, status, and contributions of women of different ethnic groups and social classes in American society from earliest times to the present, with an emphasis on the twentieth century. Special attention is given to an understanding of how gender has shaped women\u2019s options and expectations within the private and public spheres of society. This course is designed for students who want to learn more about women\u2019s history in America, and is recommended for all history majors. This course also satisfies a course requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70138",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 14,
+        "available": 31
+      },
+      "detail_fetched_at": "2025-09-03T03:36:48.945126Z"
     },
     {
       "crn": "77152",
@@ -48430,8 +48835,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77152')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77152')",
+      "description": "This course surveys the roles, status, and contributions of women of different ethnic groups and social classes in American society from earliest times to the present, with an emphasis on the twentieth century. Special attention is given to an understanding of how gender has shaped women\u2019s options and expectations within the private and public spheres of society. This course is designed for students who want to learn more about women\u2019s history in America, and is recommended for all history majors. This course also satisfies a course requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77152",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 39,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-03T03:36:50.555589Z"
     },
     {
       "crn": "77513",
@@ -48462,8 +48888,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77513')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77513')",
+      "description": "This course surveys the roles, status, and contributions of women of different ethnic groups and social classes in American society from earliest times to the present, with an emphasis on the twentieth century. Special attention is given to an understanding of how gender has shaped women\u2019s options and expectations within the private and public spheres of society. This course is designed for students who want to learn more about women\u2019s history in America, and is recommended for all history majors. This course also satisfies a course requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77513",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-03T03:36:52.159270Z"
     },
     {
       "crn": "77561",
@@ -48494,8 +48942,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77561')"
+      "additional_hours": "3.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77561')",
+      "description": "This course surveys the roles, status, and contributions of women of different ethnic groups and social classes in American society from earliest times to the present, with an emphasis on the twentieth century. Special attention is given to an understanding of how gender has shaped women\u2019s options and expectations within the private and public spheres of society. This course is designed for students who want to learn more about women\u2019s history in America, and is recommended for all history majors. This course also satisfies a course requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "24-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "08-OCT-2025",
+        "Census Date": "25-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77561",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 11,
+        "available": 34
+      },
+      "detail_fetched_at": "2025-09-03T03:36:53.765391Z"
     },
     {
       "crn": "77689",
@@ -48526,8 +48996,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77689')"
+      "additional_hours": "3.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77689')",
+      "description": "This course surveys the roles, status, and contributions of women of different ethnic groups and social classes in American society from earliest times to the present, with an emphasis on the twentieth century. Special attention is given to an understanding of how gender has shaped women\u2019s options and expectations within the private and public spheres of society. This course is designed for students who want to learn more about women\u2019s history in America, and is recommended for all history majors. This course also satisfies a course requirement for the Associate in Arts in History for Transfer (AA-T).",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "14-OCT-2025",
+        "Last day to drop with a refund": "14-OCT-2025",
+        "Last day to drop without a \"W\"": "23-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77689",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 12,
+        "available": 33
+      },
+      "detail_fetched_at": "2025-09-03T03:36:55.372717Z"
     },
     {
       "crn": "76933",
@@ -48558,8 +49050,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76933')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76933')",
+      "description": "This course is for students who want to know about emergency planning and response. The course covers this subject using the National Incident Management System (NIMS) and the Incident Command System (ICS) as part of the National Response Framework (NRF). Students learn about national responses to all types of disasters and emergencies in the United States; and how the NRF\u2019s flexibility is used in the public-private sector of the homeland security enterprise, including governmental agencies and regulatory and legal sources responsible for hazard mitigation. Students apply concepts learned in the course to risk assessments and in developing strategies and plans at local, state, national, and international levels.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in college composition written at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76933",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 32,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-03T03:36:56.976553Z"
     },
     {
       "crn": "76394",
@@ -48590,8 +49103,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76394')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76394')",
+      "description": "This course is an introduction to mitigation\u2014one of the four core phases of emergency management. The course covers the hazard planning process to assist students in mitigating or eliminating hazards from an all-hazard approach to emergency management. Students also learn about the national framework used in the public-private sector of the homeland security enterprise, including governmental agencies and regulatory and legal sources responsible for hazard mitigation. Students apply concepts learned in the course to risk assessments and in developing strategies and plans at local, state, national, and international levels.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in college composition written at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76394",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 21,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-09-03T03:36:58.581257Z"
     },
     {
       "crn": "78466",
@@ -48623,7 +49157,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78466')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78466')",
+      "description": "This course is an introduction to maintenance, light, repair, and service (MLRS) operations for late model Honda and Acura vehicles. Students engage in interactive activities related to MLRS, lessons, and/or special assignments via distance learning using Honda Interactive Network Training MLRS modules. Upon completion of each MLRS training module, students are assessed. Successful completion of all MLRS modules is followed by an Express Service performance evaluation. During Express Service, students have an opportunity to demonstrate their skills in MLRS areas in a mock dealership environment. Successful completion of all MLRS modules and the Express Service evaluation count toward MLRS certification.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78466",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 5,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-09-03T03:37:00.186932Z"
     },
     {
       "crn": "78405",
@@ -48655,7 +49210,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78405')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78405')",
+      "description": "This course provides an overview of the 21st century automobile\u2019s electrical system as related to the body and chassis of the vehicle. The course covers the theory of operation, operational characteristics, and methods of problem diagnostics and repair of systems including lighting; instruments; windshield wipers; power windows, seats, and mirrors; convertible tops; safety restraints; and audio, anti-theft, and supplemental restraint systems (S.R.S). This course prepares students for the Automotive Service Excellence (A.S.E.) A-6 exam and is intended for automotive majors. Students with permission from the Division of Career and Technical Education (CTE) may re-enroll only one time for certification or licensure standards.",
+      "prerequisites": "Enrollment requires acceptance into the Honda/Acura program and HOND 106",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78405",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 11,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-03T03:37:01.789609Z"
     },
     {
       "crn": "78406",
@@ -48687,7 +49263,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78406')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78406')",
+      "description": "This course covers the theory of operation, service and repair procedures, related tool and equipment use, and strategy-based problem diagnosis related to brakes and suspension. These procedures for imported and domestic automobiles and light trucks are developed through classroom discussions, demonstrations, and laboratory experiences. This course is designed for students who want to work in the automotive sector or automotive technicians who need to improve their skills and knowledge in brake and suspension service.",
+      "prerequisites": "AUTO 103",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78406",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 11,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-03T03:37:03.393669Z"
     },
     {
       "crn": "75046",
@@ -48718,8 +49315,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75046')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75046')",
+      "description": "This course provides an overview of the hospitality industry with perspectives on customer service, operations, and career opportunities. Key industry segments are presented with close attention to service standards, trends and issues, the interrelationships between industry segments and the connections with the tourism industry.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75046",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 15,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-09-03T03:37:05.004702Z"
     },
     {
       "crn": "75326",
@@ -48750,8 +49368,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75326')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75326')",
+      "description": "This course is designed to introduce students to the hotel industry. Students will gain an understanding of hotel organization and classification, and the range of hotel operations including front office, housekeeping, food and beverage, information systems, accounting, and property maintenance. They will also gain an understanding of how these functional areas work together to deliver the guest experience and exceed guests\u2019 expectations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75326",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 13,
+        "available": 22
+      },
+      "detail_fetched_at": "2025-09-03T03:37:06.619285Z"
     },
     {
       "crn": "77002",
@@ -48782,8 +49421,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77002')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77002')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSUThe course explores the legal relationship and considerations of hotel, restaurant, travel and tourism operations. Limiting personal and business exposure to liability and best practices for complying with requirements of the US legal system are emphasized. Topics include food and beverage liability, employee selection, common contracts, responsibilities to guests and for guest property, safety and security, and Americans with Disabilities Act. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 02-SEP-2025 08:09:23 PM Title: HOSP 201 Hospitality Law CRN: 77002 Instructor: Joseph Delorenzo UA Independent Study Weekly Instructional Method Section Corequisites: NONE Bldg/Room: ASYNC Online Meeting Time 3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable Seating Availability Capacity Taken Available 35 8 27 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77002",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 8,
+        "available": 27
+      },
+      "detail_fetched_at": "2025-09-03T03:37:08.221729Z"
     },
     {
       "crn": "74399",
@@ -48815,7 +49475,29 @@
       "start_date": "08/16",
       "end_date": "10/10",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74399')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74399')",
+      "description": "This is a basic course that focuses on mathematical computation and application within the health care setting. Topics covered within this course include drug dosages, calculation of intake and output, weights and measures, temperatures, intravenous infusion rates and conversions necessary for safe employment in the healthcare setting. This course is an elective course for students wanting to pursue a career in the healthcare industry.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have knowledge of elementary algebra concepts.This is a basic course that focuses on mathematical computation and application within the health care setting. Topics covered within this course include drug dosages, calculation of intake and output, weights and measures, temperatures, intravenous infusion rates and conversions necessary for safe employment in the healthcare setting. This course is an elective course for students wanting to pursue a career in the healthcare industry. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 02-SEP-2025 08:09:25 PM Title: HS 045 Math/Health Care Professional CRN: 74399 Instructor: Jonathan Reyes DH Daily Census Instructional Method Section Corequisites: NONE Bldg/Room: S Science Meeting Time R 08:30am - 10:35am S Science 08/16/25 10/10/25 Seating Availability Capacity Taken Available 0 0 0 Critical Dates for this Course Term: Fall 2025 Last day to add class: 21-AUG-2025 Last day to drop with a refund: 21-AUG-2025 Last day to drop without a \"W\": 28-AUG-2025 Last day to drop with a \"W\": 25-SEP-2025 Pass/No Pass Petition Deadline Date: 09-OCT-2025 Census Date: 28-AUG-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "28-AUG-2025",
+        "Last day to drop with a \"W\"": "25-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "09-OCT-2025",
+        "Census Date": "28-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74399",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-03T03:37:09.832764Z"
     },
     {
       "crn": "78357",
@@ -48847,7 +49529,29 @@
       "start_date": "08/16",
       "end_date": "10/10",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78357')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78357')",
+      "description": "This is a basic course that focuses on mathematical computation and application within the health care setting. Topics covered within this course include drug dosages, calculation of intake and output, weights and measures, temperatures, intravenous infusion rates and conversions necessary for safe employment in the healthcare setting. This course is an elective course for students wanting to pursue a career in the healthcare industry.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, read college-level texts, and have knowledge of elementary algebra concepts.This is a basic course that focuses on mathematical computation and application within the health care setting. Topics covered within this course include drug dosages, calculation of intake and output, weights and measures, temperatures, intravenous infusion rates and conversions necessary for safe employment in the healthcare setting. This course is an elective course for students wanting to pursue a career in the healthcare industry. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 02-SEP-2025 08:09:27 PM Title: HS 045 Math/Health Care Professional CRN: 78357 Instructor: Alicefay Taylor DH Daily Census Instructional Method Section Corequisites: NONE Bldg/Room: S Science Meeting Time T 08:00am - 10:05am S Science 08/16/25 10/10/25 Seating Availability Capacity Taken Available 50 0 50 Critical Dates for this Course Term: Fall 2025 Last day to add class: 19-AUG-2025 Last day to drop with a refund: 19-AUG-2025 Last day to drop without a \"W\": 26-AUG-2025 Last day to drop with a \"W\": 23-SEP-2025 Pass/No Pass Petition Deadline Date: 07-OCT-2025 Census Date: 26-AUG-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "19-AUG-2025",
+        "Last day to drop with a refund": "19-AUG-2025",
+        "Last day to drop without a \"W\"": "26-AUG-2025",
+        "Last day to drop with a \"W\"": "23-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "07-OCT-2025",
+        "Census Date": "26-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78357",
+      "seating_detail": {
+        "capacity": 50,
+        "taken": 0,
+        "available": 50
+      },
+      "detail_fetched_at": "2025-09-03T03:37:11.453746Z"
     },
     {
       "crn": "76585",
@@ -48879,7 +49583,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76585')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76585')",
+      "description": "This entry-level nursing course meets Title 22 regulations for taking care of the geriatric population in a long term care setting, utilizing skills in basic care, emergency care, and communication. The course, which consists of 72 hours of classroom instruction, prepares students to take the California State Certification Exam to become a Certified Nurse Assistant (CNA). After obtaining the state certification, students may find employment in the acute care and/or long-term care settings. The California Department of Public Health (CDPH) requires students must be enrolled in HS 050 and HS 050L concurrently, and pass both courses at the same time; neither course can be taken individually for credit.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76585",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 22,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-03T03:37:13.063674Z"
     },
     {
       "crn": "74255",
@@ -48911,7 +49636,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74255')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74255')",
+      "description": "This lab, to be taken at the same time as HS 050 (the Nurse Assistant Pre-Certification Training Course) meets Title 22 regulations for taking care of the geriatric population in a long term care setting, utilizing skills in basic care, emergency care, and communication. The Nurse Assistant Pre-Certification training course lab consists of 135 hours of supervised clinical practice in the classroom lab and long-term care facilities. The course prepares the student to take the California State Certification Exam to become a Certified Nurse Assistant (CNA). After obtaining the state certification, students may find employment in the acute care and/or long-term care settings. The California Department of Public Health (CDPH) requires students must be enrolled in HS 050 and HS 050L concurrently, and pass both courses at the same time; neither course can be taken individually for credit.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74255",
+      "seating_detail": {
+        "capacity": 15,
+        "taken": 11,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-03T03:37:14.672390Z"
     },
     {
       "crn": "74256",
@@ -48943,7 +49689,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74256')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74256')",
+      "description": "This lab, to be taken at the same time as HS 050 (the Nurse Assistant Pre-Certification Training Course) meets Title 22 regulations for taking care of the geriatric population in a long term care setting, utilizing skills in basic care, emergency care, and communication. The Nurse Assistant Pre-Certification training course lab consists of 135 hours of supervised clinical practice in the classroom lab and long-term care facilities. The course prepares the student to take the California State Certification Exam to become a Certified Nurse Assistant (CNA). After obtaining the state certification, students may find employment in the acute care and/or long-term care settings. The California Department of Public Health (CDPH) requires students must be enrolled in HS 050 and HS 050L concurrently, and pass both courses at the same time; neither course can be taken individually for credit.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74256",
+      "seating_detail": {
+        "capacity": 15,
+        "taken": 11,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-03T03:37:16.279065Z"
     },
     {
       "crn": "74400",
@@ -48974,8 +49741,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74400')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74400')",
+      "description": "This course covers the basic knowledge and understanding of medical language, terminology, and basic human anatomy. Students learn word parts, prefixes, suffixes, word roots and will review the body systems. Anatomical, physiological and pathophysiological terms are also be defined. This is an entry-level course for students interested in the health care field and is highly recommended prior to enrolling in any health-related course.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This course covers the basic knowledge and understanding of medical language, terminology, and basic human anatomy. Students learn word parts, prefixes, suffixes, word roots and will review the body systems. Anatomical, physiological and pathophysiological terms are also be defined. This is an entry-level course for students interested in the health care field and is highly recommended prior to enrolling in any health-related course. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 02-SEP-2025 08:09:33 PM Title: HS 054 Beg. Term for Healthcare Work CRN: 74400 Instructor: Amelia Ortiz UA Independent Study Weekly Instructional Method Section Corequisites: NONE Bldg/Room: ASYNC Online Meeting Time 3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable Seating Availability Capacity Taken Available 50 43 7 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74400",
+      "seating_detail": {
+        "capacity": 50,
+        "taken": 43,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-03T03:37:17.879394Z"
     },
     {
       "crn": "70139",
@@ -49007,7 +49795,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70139')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70139')",
+      "description": "This course provides an interdisciplinary presentation of cultural forces, providing the student with a comprehensive view of the most vital artistic, literary, philosophical, religious and architectural movements within the Western, Eastern and Meso-American traditions from the Egyptians to the 1500s. This course is intended for students who wish to further their understanding of the major cultural developments from around the world.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70139",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 14,
+        "available": 31
+      },
+      "detail_fetched_at": "2025-09-03T03:37:19.476354Z"
     },
     {
       "crn": "70142",
@@ -49038,8 +49847,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70142')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70142')",
+      "description": "This course provides an interdisciplinary presentation of cultural forces, providing the student with a comprehensive view of the most vital artistic, literary, philosophical, religious and architectural movements within the Western, Eastern and Meso-American traditions from the Egyptians to the 1500s. This course is intended for students who wish to further their understanding of the major cultural developments from around the world.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70142",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 36,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-03T03:37:21.077576Z"
     },
     {
       "crn": "70143",
@@ -49070,8 +49900,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70143')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70143')",
+      "description": "This course provides an interdisciplinary presentation of cultural forces, providing the student with a comprehensive view of the most vital artistic, literary, philosophical, religious and architectural movements within the Western, Eastern and Meso-American traditions from the Egyptians to the 1500s. This course is intended for students who wish to further their understanding of the major cultural developments from around the world.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70143",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-03T03:37:22.684243Z"
     },
     {
       "crn": "70146",
@@ -49102,8 +49954,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70146')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70146')",
+      "description": "This course provides an interdisciplinary presentation of vital artistic, literary, architectural, musical, political, religious and historical movements within Mexico spanning from Pre-Cortesian to contemporary times. This course is designed for students who wish to further their understanding of major Mexican cultural and historical developments.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU(*Students will receive credit for only one of the following courses: HUM 125 or HUM 125H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70146",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-03T03:37:24.286322Z"
     },
     {
       "crn": "70150",
@@ -49135,7 +50009,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70150')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70150')",
+      "description": "This course provides an interdisciplinary presentation of vital artistic, literary, architectural, musical, political, religious and historical movements within Mexico spanning from Pre-Cortesian to contemporary times. This course is designed for students who wish to further their understanding of major Mexican cultural and historical developments.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU(*Students will receive credit for only one of the following courses: HUM 125 or HUM 125H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70150",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 13,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-03T03:37:25.899474Z"
     },
     {
       "crn": "70152",
@@ -49166,8 +50061,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70152')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70152')",
+      "description": "This course provides an interdisciplinary presentation of vital artistic, literary, architectural, musical, political, religious and historical movements within Mexico spanning from Pre-Cortesian to contemporary times. This course is designed for students who wish to further their understanding of major Mexican cultural and historical developments.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU(*Students will receive credit for only one of the following courses: HUM 125 or HUM 125H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70152",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 33,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-03T03:37:27.504611Z"
     },
     {
       "crn": "70153",
@@ -49198,8 +50114,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70153')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70153')",
+      "description": "This course provides an interdisciplinary presentation of vital artistic, literary, architectural, musical, political, religious and historical movements within Mexico spanning from Pre-Cortesian to contemporary times. This course is designed for students who wish to further their understanding of major Mexican cultural and historical developments.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU(*Students will receive credit for only one of the following courses: HUM 125 or HUM 125H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70153",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-03T03:37:29.106972Z"
     },
     {
       "crn": "76484",
@@ -49231,7 +50169,29 @@
       "start_date": "09/01",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76484')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76484')",
+      "description": "This course provides an interdisciplinary presentation of vital artistic, literary, architectural, musical, political, religious and historical movements within Mexico spanning from Pre-Cortesian to contemporary times. This course is designed for students who wish to further their understanding of major Mexican cultural and historical developments.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU(*Students will receive credit for only one of the following courses: HUM 125 or HUM 125H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "09-SEP-2025",
+        "Last day to drop with a refund": "09-SEP-2025",
+        "Last day to drop without a \"W\"": "25-SEP-2025",
+        "Last day to drop with a \"W\"": "11-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "18-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76484",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 28,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-03T03:37:30.712992Z"
     },
     {
       "crn": "70154",
@@ -49263,7 +50223,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70154')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70154')",
+      "description": "This course provides an interdisciplinary presentation of vital artistic, literary, architectural, musical, political, religious and historical movements within Mexico spanning from pre-Cortesian to contemporary times. This course is designed for students who wish to further their understanding of major Mexican cultural and historical developments. This course is intended for those who meet Honors Program Requirements.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC, (*credit limit), CSU(*Students will receive credit for only one of the following courses: HUM 125 or HUM 125H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70154",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 5,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-09-03T03:37:32.318834Z"
     },
     {
       "crn": "70155",
@@ -49294,8 +50275,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70155')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70155')",
+      "description": "This course provides a contemporary interdisciplinary examination of the most vital Mexican-American literary, artistic, musical, theatrical, social, political and historical movements. This course is designed for students who wish to further their understanding of major Mexican-American cultural contributions to contemporary society.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70155",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-03T03:37:33.921410Z"
     },
     {
       "crn": "77761",
@@ -49326,8 +50328,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77761')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77761')",
+      "description": "This course provides a contemporary interdisciplinary examination of the most vital Mexican-American literary, artistic, musical, theatrical, social, political and historical movements. This course is designed for students who wish to further their understanding of major Mexican-American cultural contributions to contemporary society.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77761",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 33,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-03T03:37:35.523899Z"
     },
     {
       "crn": "76399",
@@ -49358,8 +50382,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76399')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76399')",
+      "description": "This course is designed for students who wish to further their understanding of major Asian cultural contributions to classic and contemporary society. The student will be provided with an interdisciplinary examination of the most vital Asian literary, artistic, philosophical, architectural, religious, political and historical movements.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76399",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 23,
+        "available": 22
+      },
+      "detail_fetched_at": "2025-09-03T03:37:37.125150Z"
     },
     {
       "crn": "70163",
@@ -49391,7 +50437,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70163')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70163')",
+      "description": "This course is an introduction to the history and philosophy of human services in contemporary society. Emphasis is placed on the function and objectives of human services organizations as well as the qualifications of human services professionals. A survey of the populations served in the field focuses on cultural, social, economic, and historical trends. The course is designed for students pursuing careers in human services, social work, counseling, or community organizing.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70163",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 24,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-09-03T03:37:38.737090Z"
     },
     {
       "crn": "75750",
@@ -71966,8 +73033,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-09-02T03:42:01.554114+00:00Z",
-    "courses_with_details": 897,
+    "detail_collection_timestamp": "2025-09-03T03:37:38.822539+00:00Z",
+    "courses_with_details": 947,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
