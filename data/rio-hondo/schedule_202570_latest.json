@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-04T14:33:12.004892Z",
+  "collection_timestamp": "2025-09-04T22:31:21.554855Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -700,7 +700,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -732,7 +732,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -764,7 +764,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -796,7 +796,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -3289,8 +3289,8 @@
       "location": "Administration of Justice 323",
       "enrollment": {
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 27,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -3833,8 +3833,8 @@
       "location": "Administration of Justice 323",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 21,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -4327,6 +4327,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70004')"
     },
     {
+      "crn": "70005",
+      "subject": "ANTH",
+      "course_number": "101",
+      "title": "Introduction to Physical Anthropology",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70005')"
+    },
+    {
       "crn": "70006",
       "subject": "ANTH",
       "course_number": "101",
@@ -4668,7 +4700,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -6169,8 +6201,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 35,
-        "actual": 29,
-        "remaining": 6
+        "actual": 30,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -6553,8 +6585,8 @@
       "location": "Business 012",
       "enrollment": {
         "capacity": 5,
-        "actual": 6,
-        "remaining": 1
+        "actual": 7,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -6585,8 +6617,8 @@
       "location": "Business 012",
       "enrollment": {
         "capacity": 5,
-        "actual": 5,
-        "remaining": 0
+        "actual": 4,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -7484,7 +7516,7 @@
         "actual": 0,
         "remaining": 2
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -7516,7 +7548,7 @@
         "actual": 0,
         "remaining": 1
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7548,7 +7580,7 @@
         "actual": 0,
         "remaining": 2
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -10745,8 +10777,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 28,
-        "remaining": 4
+        "actual": 27,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10937,8 +10969,8 @@
       "location": "Science 136",
       "enrollment": {
         "capacity": 24,
-        "actual": 26,
-        "remaining": 2
+        "actual": 25,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11769,8 +11801,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 45,
-        "remaining": 0
+        "actual": 46,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -12005,6 +12037,38 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75802')"
+    },
+    {
+      "crn": "75810",
+      "subject": "CD",
+      "course_number": "106",
+      "title": "Child Growth and Development",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75810')"
     },
     {
       "crn": "77358",
@@ -12473,8 +12537,8 @@
       "location": "El Monte High School",
       "enrollment": {
         "capacity": 45,
-        "actual": 13,
-        "remaining": 32
+        "actual": 16,
+        "remaining": 29
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -12517,6 +12581,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74302')"
+    },
+    {
+      "crn": "75696",
+      "subject": "CD",
+      "course_number": "208",
+      "title": "Child, Family, and Community",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75696')"
     },
     {
       "crn": "76425",
@@ -13113,8 +13209,8 @@
       "location": "Science 330",
       "enrollment": {
         "capacity": 24,
-        "actual": 25,
-        "remaining": 1
+        "actual": 24,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14073,8 +14169,8 @@
       "location": "Administration 207",
       "enrollment": {
         "capacity": 45,
-        "actual": 42,
-        "remaining": 3
+        "actual": 41,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14428,7 +14524,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -15353,8 +15449,8 @@
       "location": "Science 307",
       "enrollment": {
         "capacity": 24,
-        "actual": 16,
-        "remaining": 8
+        "actual": 17,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16313,8 +16409,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 32,
-        "actual": 26,
-        "remaining": 6
+        "actual": 25,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17433,8 +17529,8 @@
       "location": "Physical Education 139",
       "enrollment": {
         "capacity": 35,
-        "actual": 12,
-        "remaining": 18
+        "actual": 11,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17497,8 +17593,8 @@
       "location": "Physical Education 141",
       "enrollment": {
         "capacity": 45,
-        "actual": 10,
-        "remaining": 35
+        "actual": 11,
+        "remaining": 34
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -19289,8 +19385,8 @@
       "location": "Technology 101",
       "enrollment": {
         "capacity": 24,
-        "actual": 19,
-        "remaining": 5
+        "actual": 18,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -20537,8 +20633,8 @@
       "location": "Administration 200",
       "enrollment": {
         "capacity": 28,
-        "actual": 22,
-        "remaining": 6
+        "actual": 21,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21177,8 +21273,8 @@
       "location": "Administration 214",
       "enrollment": {
         "capacity": 28,
-        "actual": 24,
-        "remaining": 4
+        "actual": 23,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21337,8 +21433,8 @@
       "location": "Administration 215",
       "enrollment": {
         "capacity": 28,
-        "actual": 24,
-        "remaining": 4
+        "actual": 23,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21529,8 +21625,8 @@
       "location": "Administration 206",
       "enrollment": {
         "capacity": 28,
-        "actual": 27,
-        "remaining": 1
+        "actual": 25,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21785,8 +21881,8 @@
       "location": "Administration 211",
       "enrollment": {
         "capacity": 28,
-        "actual": 25,
-        "remaining": 3
+        "actual": 28,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -24185,8 +24281,8 @@
       "location": "Science 203",
       "enrollment": {
         "capacity": 30,
-        "actual": 12,
-        "remaining": 18
+        "actual": 13,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -25532,7 +25628,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -27161,8 +27257,8 @@
       "location": "Science 302",
       "enrollment": {
         "capacity": 26,
-        "actual": 11,
-        "remaining": 15
+        "actual": 10,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -27801,8 +27897,8 @@
       "location": "Science 229",
       "enrollment": {
         "capacity": 24,
-        "actual": 22,
-        "remaining": 2
+        "actual": 21,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28761,8 +28857,8 @@
       "location": "Science 336",
       "enrollment": {
         "capacity": 45,
-        "actual": 35,
-        "remaining": 10
+        "actual": 34,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28837,6 +28933,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74287')"
+    },
+    {
+      "crn": "74350",
+      "subject": "HIST",
+      "course_number": "143",
+      "title": "History of the United States to 1877",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74350')"
     },
     {
       "crn": "75228",
@@ -29285,6 +29413,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74288')"
+    },
+    {
+      "crn": "74515",
+      "subject": "HIST",
+      "course_number": "144",
+      "title": "History of the United States Since 1865",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74515')"
     },
     {
       "crn": "75742",
@@ -30329,8 +30489,8 @@
       "location": "Administration 205",
       "enrollment": {
         "capacity": 20,
-        "actual": 13,
-        "remaining": 7
+        "actual": 12,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -32985,8 +33145,8 @@
       "location": "Physical Education 139",
       "enrollment": {
         "capacity": 40,
-        "actual": 13,
-        "remaining": 27
+        "actual": 12,
+        "remaining": 28
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -33049,8 +33209,8 @@
       "location": "Track",
       "enrollment": {
         "capacity": 45,
-        "actual": 20,
-        "remaining": 25
+        "actual": 21,
+        "remaining": 24
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -33337,8 +33497,8 @@
       "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
-        "actual": 25,
-        "remaining": 5
+        "actual": 24,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36121,8 +36281,8 @@
       "location": "Science 225",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 21,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36345,8 +36505,8 @@
       "location": "South El Monte High School",
       "enrollment": {
         "capacity": 35,
-        "actual": 33,
-        "remaining": 2
+        "actual": 34,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37497,8 +37657,8 @@
       "location": "Science 200",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 21,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38393,8 +38553,8 @@
       "location": "Ledesma High School",
       "enrollment": {
         "capacity": 32,
-        "actual": 11,
-        "remaining": 21
+        "actual": 18,
+        "remaining": 14
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -39292,7 +39452,7 @@
         "actual": 0,
         "remaining": 26
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -39388,7 +39548,7 @@
         "actual": 0,
         "remaining": 3
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -39420,7 +39580,7 @@
         "actual": 0,
         "remaining": 2
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -39577,8 +39737,8 @@
       "location": "Modular Classrooms 10",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 20,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39612,7 +39772,7 @@
         "actual": 0,
         "remaining": 4
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -39737,8 +39897,8 @@
       "location": "Learning Resource Center (LRC) 129",
       "enrollment": {
         "capacity": 24,
-        "actual": 22,
-        "remaining": 2
+        "actual": 21,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -40601,8 +40761,8 @@
       "location": "Pico Educational Center 701",
       "enrollment": {
         "capacity": 20,
-        "actual": 18,
-        "remaining": 2
+        "actual": 17,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -40825,8 +40985,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 35,
-        "remaining": 5
+        "actual": 34,
+        "remaining": 6
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -40985,8 +41145,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 7,
-        "remaining": 33
+        "actual": 5,
+        "remaining": 35
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41497,8 +41657,8 @@
       "location": "Liberty Community Plaza",
       "enrollment": {
         "capacity": 30,
-        "actual": 28,
-        "remaining": 2
+        "actual": 27,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41689,8 +41849,8 @@
       "location": "Mt View Family Center",
       "enrollment": {
         "capacity": 30,
-        "actual": 2,
-        "remaining": 28
+        "actual": 7,
+        "remaining": 23
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41753,8 +41913,8 @@
       "location": "Community Resource Center",
       "enrollment": {
         "capacity": 30,
-        "actual": 14,
-        "remaining": 16
+        "actual": 16,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41849,8 +42009,8 @@
       "location": "Liberty Community Plaza",
       "enrollment": {
         "capacity": 30,
-        "actual": 20,
-        "remaining": 10
+        "actual": 21,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41881,8 +42041,8 @@
       "location": "Dexter Middle School",
       "enrollment": {
         "capacity": 30,
-        "actual": 17,
-        "remaining": 13
+        "actual": 16,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42105,8 +42265,8 @@
       "location": "STEAM Academy at Burke Middle",
       "enrollment": {
         "capacity": 35,
-        "actual": 3,
-        "remaining": 32
+        "actual": 4,
+        "remaining": 31
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -42809,8 +42969,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 14,
-        "remaining": 11
+        "actual": 15,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42841,8 +43001,8 @@
       "location": "TBA",
       "enrollment": {
         "capacity": 25,
-        "actual": 17,
-        "remaining": 8
+        "actual": 18,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43449,8 +43609,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 1,
-        "remaining": 24
+        "actual": 3,
+        "remaining": 22
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -43641,8 +43801,8 @@
       "location": "Pico Educational Center 701",
       "enrollment": {
         "capacity": 20,
-        "actual": 16,
-        "remaining": 4
+        "actual": 15,
+        "remaining": 5
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -43737,8 +43897,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 23,
-        "remaining": 12
+        "actual": 24,
+        "remaining": 11
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -43769,8 +43929,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 21,
-        "remaining": 19
+        "actual": 22,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -45657,8 +45817,8 @@
       "location": "AJ Annex",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 10,
+        "remaining": 20
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -45977,8 +46137,8 @@
       "location": "Administration 205",
       "enrollment": {
         "capacity": 35,
-        "actual": 34,
-        "remaining": 1
+        "actual": 33,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47996,7 +48156,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "CLOSED",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -48005,6 +48165,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78472')"
+    },
+    {
+      "crn": "78498",
+      "subject": "POLS",
+      "course_number": "C1000",
+      "title": "American Government and Politics (formerly POLS 110)",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78498')"
     },
     {
       "crn": "70225",
@@ -48441,8 +48633,8 @@
       "location": "Science 220",
       "enrollment": {
         "capacity": 35,
-        "actual": 24,
-        "remaining": 11
+        "actual": 23,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48901,6 +49093,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78093')"
+    },
+    {
+      "crn": "78098",
+      "subject": "PSYC",
+      "course_number": "C1000",
+      "title": "Introduction to Psychology (formerly PSY 101)",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78098')"
     },
     {
       "crn": "78109",
@@ -49369,8 +49593,8 @@
       "location": "Science 336",
       "enrollment": {
         "capacity": 45,
-        "actual": 38,
-        "remaining": 7
+        "actual": 37,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49849,8 +50073,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 36,
-        "remaining": 9
+        "actual": 35,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50021,6 +50245,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70290')"
+    },
+    {
+      "crn": "70861",
+      "subject": "SOC",
+      "course_number": "101",
+      "title": "Introduction to Sociology",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70861')"
     },
     {
       "crn": "74532",
@@ -50876,7 +51132,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -53468,7 +53724,7 @@
         "actual": 0,
         "remaining": 2
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -54376,7 +54632,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1699,
+    "total_courses": 1707,
     "departments": [
       "ACCT",
       "ADN",
