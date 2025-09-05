@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-05T14:32:05.178879Z",
+  "collection_timestamp": "2025-09-05T22:31:31.887968Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -6905,8 +6905,8 @@
       "location": "Business 010",
       "enrollment": {
         "capacity": 20,
-        "actual": 16,
-        "remaining": 2
+        "actual": 15,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11289,8 +11289,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 18,
-        "remaining": 6
+        "actual": 17,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11961,8 +11961,8 @@
       "location": "La Serna High School",
       "enrollment": {
         "capacity": 45,
-        "actual": 20,
-        "remaining": 25
+        "actual": 22,
+        "remaining": 23
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -12441,8 +12441,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 32,
-        "remaining": 13
+        "actual": 31,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -12537,8 +12537,8 @@
       "location": "El Monte High School",
       "enrollment": {
         "capacity": 45,
-        "actual": 16,
-        "remaining": 29
+        "actual": 19,
+        "remaining": 26
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -16377,8 +16377,8 @@
       "location": "La Serna High School",
       "enrollment": {
         "capacity": 32,
-        "actual": 12,
-        "remaining": 20
+        "actual": 15,
+        "remaining": 17
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -16569,8 +16569,8 @@
       "location": "Pioneer High School",
       "enrollment": {
         "capacity": 35,
-        "actual": 34,
-        "remaining": 1
+        "actual": 32,
+        "remaining": 3
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -16665,8 +16665,8 @@
       "location": "Ledesma High School",
       "enrollment": {
         "capacity": 35,
-        "actual": 13,
-        "remaining": 22
+        "actual": 15,
+        "remaining": 20
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -17113,8 +17113,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 27,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17241,8 +17241,8 @@
       "location": "California High School",
       "enrollment": {
         "capacity": 35,
-        "actual": 15,
-        "remaining": 20
+        "actual": 19,
+        "remaining": 16
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -19001,8 +19001,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 18,
-        "remaining": 27
+        "actual": 20,
+        "remaining": 25
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -19450,7 +19450,7 @@
       "enrollment": {
         "capacity": 24,
         "actual": 12,
-        "remaining": 1
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -19513,8 +19513,8 @@
       "location": "Technology 101",
       "enrollment": {
         "capacity": 24,
-        "actual": 11,
-        "remaining": 1
+        "actual": 12,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21913,8 +21913,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 28,
-        "actual": 28,
-        "remaining": 0
+        "actual": 27,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23548,7 +23548,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -23801,8 +23801,8 @@
       "location": "Science 310",
       "enrollment": {
         "capacity": 24,
-        "actual": 14,
-        "remaining": 10
+        "actual": 15,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26073,8 +26073,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 39,
-        "remaining": 4
+        "actual": 38,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26137,8 +26137,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 36,
-        "remaining": 1
+        "actual": 35,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26361,8 +26361,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 38,
-        "remaining": 3
+        "actual": 37,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26713,8 +26713,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 39,
-        "remaining": 4
+        "actual": 38,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26841,8 +26841,8 @@
       "location": "Administration of Justice 323",
       "enrollment": {
         "capacity": 35,
-        "actual": 36,
-        "remaining": 1
+        "actual": 35,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -29177,8 +29177,8 @@
       "location": "Administration 224",
       "enrollment": {
         "capacity": 45,
-        "actual": 16,
-        "remaining": 29
+        "actual": 15,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -29561,8 +29561,8 @@
       "location": "Administration 205",
       "enrollment": {
         "capacity": 45,
-        "actual": 17,
-        "remaining": 28
+        "actual": 16,
+        "remaining": 29
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -32153,8 +32153,8 @@
       "location": "Santa Fe High School",
       "enrollment": {
         "capacity": 45,
-        "actual": 15,
-        "remaining": 30
+        "actual": 16,
+        "remaining": 29
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -33209,8 +33209,8 @@
       "location": "Track",
       "enrollment": {
         "capacity": 45,
-        "actual": 21,
-        "remaining": 24
+        "actual": 20,
+        "remaining": 25
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -33689,8 +33689,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 25,
-        "actual": 15,
-        "remaining": 10
+        "actual": 16,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37273,8 +37273,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 35,
-        "actual": 37,
-        "remaining": 2
+        "actual": 38,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38553,8 +38553,8 @@
       "location": "Ledesma High School",
       "enrollment": {
         "capacity": 32,
-        "actual": 19,
-        "remaining": 13
+        "actual": 20,
+        "remaining": 12
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -40921,8 +40921,8 @@
       "location": "Pico Educational Center 401",
       "enrollment": {
         "capacity": 35,
-        "actual": 8,
-        "remaining": 27
+        "actual": 9,
+        "remaining": 26
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -41017,8 +41017,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 45,
-        "actual": 32,
-        "remaining": 13
+        "actual": 33,
+        "remaining": 12
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -41273,8 +41273,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 32,
-        "remaining": 8
+        "actual": 33,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -41369,10 +41369,10 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 42,
-        "actual": 39,
-        "remaining": 3
+        "actual": 42,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online SYNC",
@@ -42585,8 +42585,8 @@
       "location": "Granada Middle School",
       "enrollment": {
         "capacity": 35,
-        "actual": 2,
-        "remaining": 33
+        "actual": 9,
+        "remaining": 26
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -43013,6 +43013,38 @@
       "end_date": "08/30",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78068')"
+    },
+    {
+      "crn": "78069",
+      "subject": "NCOM",
+      "course_number": "012",
+      "title": "Academic Enrichment",
+      "units": 0.0,
+      "instructor": "To Be  Assigned",
+      "instructor_email": "",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "11:45am",
+          "end_time": "02:15pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Katherine Edwards Middle Sch",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 0,
+        "remaining": 35
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 9,
+      "start_date": "09/23",
+      "end_date": "11/18",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78069')"
     },
     {
       "crn": "77565",
@@ -43609,8 +43641,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 10,
-        "remaining": 15
+        "actual": 13,
+        "remaining": 12
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -48124,7 +48156,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -49369,8 +49401,8 @@
       "location": "Administration 212",
       "enrollment": {
         "capacity": 45,
-        "actual": 41,
-        "remaining": 4
+        "actual": 40,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49497,8 +49529,8 @@
       "location": "Science 336",
       "enrollment": {
         "capacity": 45,
-        "actual": 40,
-        "remaining": 5
+        "actual": 39,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -54632,7 +54664,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1707,
+    "total_courses": 1708,
     "departments": [
       "ACCT",
       "ADN",
