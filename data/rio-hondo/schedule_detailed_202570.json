@@ -53158,7 +53158,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73672')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73672')",
+      "description": "This beginning-level course designed for all students provides instruction in the fundamentals of basketball such as dribbling, passing, shooting, team play, rebounding, defense, and strategy. Collegiate rules, class competition, injury prevention and care, and proper diet and fitness needs are included in instruction. Emphasis is placed on active participation, basketball as recreation, and skill development within this team sport.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73672",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 14,
+        "available": 26
+      },
+      "detail_fetched_at": "2025-09-05T03:37:22.080551Z"
     },
     {
       "crn": "73802",
@@ -53190,7 +53211,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73802')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73802')",
+      "description": "This beginning-level course designed for all students provides instruction in the fundamentals of basketball such as dribbling, passing, shooting, team play, rebounding, defense, and strategy. Collegiate rules, class competition, injury prevention and care, and proper diet and fitness needs are included in instruction. Emphasis is placed on active participation, basketball as recreation, and skill development within this team sport.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73802",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 9,
+        "available": 31
+      },
+      "detail_fetched_at": "2025-09-05T03:37:23.726127Z"
     },
     {
       "crn": "73673",
@@ -53222,7 +53264,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73673')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73673')",
+      "description": "This is a beginning soccer/activity class designed for all students interested in developing the physical, technical and tactical elements of the game of soccer. The course includes fundamental technical skills that include dribbling, passing, kicking, collecting, and basic concepts of offensive and defensive tactics. Rules of the game, skill practice, and participation in recreational soccer matches are included.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73673",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 28,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-05T03:37:25.359181Z"
     },
     {
       "crn": "77299",
@@ -53254,7 +53317,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77299')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77299')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)Golf I is designed for the beginning golfer who wants to gain the essential skills necessary to enjoy the game of golf. Students will learn the fundamentals of a proper grip, stance and swing that will allow them to perform a basic golf swing. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 04-SEP-2025 08:09:43 PM Title: KINA 113 Golf I CRN: 77299 Instructor: Michael Salazar CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: COURSE Pico Rivera Golf Course Meeting Time T R 08:00am - 09:25am COURSE Pico Rivera Golf Course 08/16/25 12/06/25 Seating Availability Capacity Taken Available 40 11 29 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77299",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 11,
+        "available": 29
+      },
+      "detail_fetched_at": "2025-09-05T03:37:26.991595Z"
     },
     {
       "crn": "78039",
@@ -53286,7 +53370,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78039')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78039')",
+      "description": "This course is designed to provide the physical training and preparation for students interested in dance, Pilates, Yoga, and athletics, and is suitable for students seeking to move with greater efficiency and less pain in everyday activities. Students learn how to move safely and effectively while developing strength, flexibility, proper alignment, agility, balance, and coordination. Coursework is designed for those who want to work at a more deliberate pace and in a non-competitive atmosphere, or who are recovering from a prior injury.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78039",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 4,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-05T03:37:28.624952Z"
     },
     {
       "crn": "73666",
@@ -53318,7 +53423,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73666')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73666')",
+      "description": "This course is a beginning class designed to equip students with basic water skills and knowledge in order to make them reasonably safe while in the water. It is suitable for all students interested in basic swimming.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73666",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 19,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-09-05T03:37:30.253498Z"
     },
     {
       "crn": "73675",
@@ -53350,7 +53476,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73675')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73675')",
+      "description": "This swimming/fitness course is designed to provide students with beginning swimming skills an opportunity to master the fundamentals of physical fitness as they relate to swimming as an aerobic activity. Emphasis is placed on aerobic training with some training at the anaerobic threshold and anaerobic levels. This class is suitable for all students interested in swimming as a fitness activity.",
+      "prerequisites": null,
+      "advisory": "KINA 117",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73675",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 14,
+        "available": 31
+      },
+      "detail_fetched_at": "2025-09-05T03:37:31.883523Z"
     },
     {
       "crn": "73676",
@@ -53382,7 +53529,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73676')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73676')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. Topics include cardiovascular fitness, flexibility, body composition, muscular strength, and endurance. Students are assessed in each of these areas, and an individual fitness profile is established. Fitness activities primarily utilize exercises organized into an aerobic super circuit with additional activities prescribed to increase strength and flexibility.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73676",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 0,
+        "available": 25
+      },
+      "detail_fetched_at": "2025-09-05T03:37:33.517957Z"
     },
     {
       "crn": "77055",
@@ -53414,7 +53582,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77055')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77055')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. Topics include cardiovascular fitness, flexibility, body composition, muscular strength, and endurance. Students are assessed in each of these areas, and an individual fitness profile is established. Fitness activities primarily utilize exercises organized into an aerobic super circuit with additional activities prescribed to increase strength and flexibility.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77055",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 0,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-09-05T03:37:35.150495Z"
     },
     {
       "crn": "77056",
@@ -53446,7 +53635,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77056')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77056')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. Topics include cardiovascular fitness, flexibility, body composition, muscular strength, and endurance. Students are assessed in each of these areas, and an individual fitness profile is established. Fitness activities primarily utilize exercises organized into an aerobic super circuit with additional activities prescribed to increase strength and flexibility.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77056",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 14,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-05T03:37:36.785296Z"
     },
     {
       "crn": "77058",
@@ -53478,7 +53688,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77058')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77058')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. Topics include cardiovascular fitness, flexibility, body composition, muscular strength, and endurance. Students are assessed in each of these areas, and an individual fitness profile is established. Fitness activities primarily utilize exercises organized into an aerobic super circuit with additional activities prescribed to increase strength and flexibility.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77058",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 15,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-05T03:37:38.421569Z"
     },
     {
       "crn": "77059",
@@ -53510,7 +53741,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77059')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77059')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. Topics include cardiovascular fitness, flexibility, body composition, muscular strength, and endurance. Students are assessed in each of these areas, and an individual fitness profile is established. Fitness activities primarily utilize exercises organized into an aerobic super circuit with additional activities prescribed to increase strength and flexibility.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77059",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 13,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-05T03:37:40.055354Z"
     },
     {
       "crn": "77084",
@@ -53542,7 +53794,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77084')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77084')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. Topics include cardiovascular fitness, flexibility, body composition, muscular strength, and endurance. Students are assessed in each of these areas, and an individual fitness profile is established. Fitness activities primarily utilize exercises organized into an aerobic super circuit with additional activities prescribed to increase strength and flexibility.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77084",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 4,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-09-05T03:37:41.683745Z"
     },
     {
       "crn": "77946",
@@ -53574,7 +53847,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77946')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77946')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. Topics include cardiovascular fitness, flexibility, body composition, muscular strength, and endurance. Students are assessed in each of these areas, and an individual fitness profile is established. Fitness activities primarily utilize exercises organized into an aerobic super circuit with additional activities prescribed to increase strength and flexibility.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77946",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 8,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-05T03:37:43.317422Z"
     },
     {
       "crn": "77949",
@@ -53606,7 +53900,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77949')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77949')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. Topics include cardiovascular fitness, flexibility, body composition, muscular strength, and endurance. Students are assessed in each of these areas, and an individual fitness profile is established. Fitness activities primarily utilize exercises organized into an aerobic super circuit with additional activities prescribed to increase strength and flexibility.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77949",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 9,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-09-05T03:37:44.948450Z"
     },
     {
       "crn": "77953",
@@ -53638,7 +53953,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77953')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77953')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. Topics include cardiovascular fitness, flexibility, body composition, muscular strength, and endurance. Students are assessed in each of these areas, and an individual fitness profile is established. Fitness activities primarily utilize exercises organized into an aerobic super circuit with additional activities prescribed to increase strength and flexibility.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77953",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 5,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-09-05T03:37:46.583921Z"
     },
     {
       "crn": "77954",
@@ -53670,7 +54006,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77954')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77954')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. Topics include cardiovascular fitness, flexibility, body composition, muscular strength, and endurance. Students are assessed in each of these areas, and an individual fitness profile is established. Fitness activities primarily utilize exercises organized into an aerobic super circuit with additional activities prescribed to increase strength and flexibility.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77954",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 6,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-09-05T03:37:48.223977Z"
     },
     {
       "crn": "77959",
@@ -53702,7 +54059,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77959')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77959')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. Topics include cardiovascular fitness, flexibility, body composition, muscular strength, and endurance. Students are assessed in each of these areas, and an individual fitness profile is established. Fitness activities primarily utilize exercises organized into an aerobic super circuit with additional activities prescribed to increase strength and flexibility.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77959",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 17,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-05T03:37:49.853440Z"
     },
     {
       "crn": "77961",
@@ -53734,7 +54112,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77961')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77961')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. Topics include cardiovascular fitness, flexibility, body composition, muscular strength, and endurance. Students are assessed in each of these areas, and an individual fitness profile is established. Fitness activities primarily utilize exercises organized into an aerobic super circuit with additional activities prescribed to increase strength and flexibility.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77961",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 7,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-05T03:37:51.496561Z"
     },
     {
       "crn": "73680",
@@ -53766,7 +54165,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73680')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73680')",
+      "description": "This course is designed for students who want to improve their cardiovascular and core fitness levels. Students learn lifelong skills to improve their health. Workout skills such as core strengthening, cardiovascular fitness, step aerobics, and flexibility training are covered. Instruction includes proper diet, heart rate monitoring, skills proficiency, and fitness program planning.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73680",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 21,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-09-05T03:37:53.136420Z"
     },
     {
       "crn": "73681",
@@ -53798,7 +54218,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73681')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73681')",
+      "description": "This course introduces students to the basic Pilates floor exercises, which are designed to increase strength in abdominal and spinal musculature. Students engage in activities and exercises designed to increase awareness of body alignment; strength in the torso, spine, and limbs; and endurance. By engaging in activities, students also learn breathing techniques to utilize in strength training exercises, how to increase coordination and improve balance, and about the muscle groups and their actions being utilized during traditional Pilates mat work. This course is suitable for students interested in conditioning, dance, Hatha Yoga, and athletics, as well as students seeking to increase strength to better support the spine during everyday activities.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73681",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 29,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-05T03:37:54.769756Z"
     },
     {
       "crn": "73682",
@@ -53830,7 +54271,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73682')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73682')",
+      "description": "This course introduces students to the basic Pilates floor exercises, which are designed to increase strength in abdominal and spinal musculature. Students engage in activities and exercises designed to increase awareness of body alignment; strength in the torso, spine, and limbs; and endurance. By engaging in activities, students also learn breathing techniques to utilize in strength training exercises, how to increase coordination and improve balance, and about the muscle groups and their actions being utilized during traditional Pilates mat work. This course is suitable for students interested in conditioning, dance, Hatha Yoga, and athletics, as well as students seeking to increase strength to better support the spine during everyday activities.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73682",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 15,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-05T03:37:56.400533Z"
     },
     {
       "crn": "74362",
@@ -53862,7 +54324,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74362')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74362')",
+      "description": "This course introduces students to the basic Pilates floor exercises, which are designed to increase strength in abdominal and spinal musculature. Students engage in activities and exercises designed to increase awareness of body alignment; strength in the torso, spine, and limbs; and endurance. By engaging in activities, students also learn breathing techniques to utilize in strength training exercises, how to increase coordination and improve balance, and about the muscle groups and their actions being utilized during traditional Pilates mat work. This course is suitable for students interested in conditioning, dance, Hatha Yoga, and athletics, as well as students seeking to increase strength to better support the spine during everyday activities.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74362",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 15,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-09-05T03:37:58.033486Z"
     },
     {
       "crn": "77552",
@@ -53894,7 +54377,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77552')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77552')",
+      "description": "This course introduces students to the basic Pilates floor exercises, which are designed to increase strength in abdominal and spinal musculature. Students engage in activities and exercises designed to increase awareness of body alignment; strength in the torso, spine, and limbs; and endurance. By engaging in activities, students also learn breathing techniques to utilize in strength training exercises, how to increase coordination and improve balance, and about the muscle groups and their actions being utilized during traditional Pilates mat work. This course is suitable for students interested in conditioning, dance, Hatha Yoga, and athletics, as well as students seeking to increase strength to better support the spine during everyday activities.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77552",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 12,
+        "available": 28
+      },
+      "detail_fetched_at": "2025-09-05T03:37:59.663650Z"
     },
     {
       "crn": "78460",
@@ -53926,7 +54430,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78460')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78460')",
+      "description": "This course introduces students to the basic Pilates floor exercises, which are designed to increase strength in abdominal and spinal musculature. Students engage in activities and exercises designed to increase awareness of body alignment; strength in the torso, spine, and limbs; and endurance. By engaging in activities, students also learn breathing techniques to utilize in strength training exercises, how to increase coordination and improve balance, and about the muscle groups and their actions being utilized during traditional Pilates mat work. This course is suitable for students interested in conditioning, dance, Hatha Yoga, and athletics, as well as students seeking to increase strength to better support the spine during everyday activities.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78460",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 6,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-09-05T03:38:01.305178Z"
     },
     {
       "crn": "73684",
@@ -53958,7 +54483,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73684')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73684')",
+      "description": "This course is designed to meet the needs of daily physical exercise for lifelong fitness and health. Walking is one of the safest and most effective forms of exercise to improve health and develop and maintain physical fitness. The course provides cardiovascular conditioning through the activity of walking. Instruction in proper diet, heart rate monitoring, skill proficiency, and fitness program planning is provided for each student. This class is designed for students interested in starting an exercise program or developing an active lifestyle.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73684",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 21,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-09-05T03:38:02.935245Z"
     },
     {
       "crn": "73812",
@@ -53989,8 +54535,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73812')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73812')",
+      "description": "This course is designed to meet the needs of daily physical exercise for lifelong fitness and health. Walking is one of the safest and most effective forms of exercise to improve health and develop and maintain physical fitness. The course provides cardiovascular conditioning through the activity of walking. Instruction in proper diet, heart rate monitoring, skill proficiency, and fitness program planning is provided for each student. This class is designed for students interested in starting an exercise program or developing an active lifestyle.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73812",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 43,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-05T03:38:04.568285Z"
     },
     {
       "crn": "74374",
@@ -54022,7 +54589,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74374')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74374')",
+      "description": "This course is designed to meet the needs of daily physical exercise for lifelong fitness and health. Walking is one of the safest and most effective forms of exercise to improve health and develop and maintain physical fitness. The course provides cardiovascular conditioning through the activity of walking. Instruction in proper diet, heart rate monitoring, skill proficiency, and fitness program planning is provided for each student. This class is designed for students interested in starting an exercise program or developing an active lifestyle.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74374",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 25,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-09-05T03:38:06.196236Z"
     },
     {
       "crn": "75093",
@@ -54053,8 +54641,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75093')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75093')",
+      "description": "This course is designed to meet the needs of daily physical exercise for lifelong fitness and health. Walking is one of the safest and most effective forms of exercise to improve health and develop and maintain physical fitness. The course provides cardiovascular conditioning through the activity of walking. Instruction in proper diet, heart rate monitoring, skill proficiency, and fitness program planning is provided for each student. This class is designed for students interested in starting an exercise program or developing an active lifestyle.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75093",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 27,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-05T03:38:07.829368Z"
     },
     {
       "crn": "73686",
@@ -54085,8 +54694,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73686')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73686')",
+      "description": "This course is designed for all students preparing for specific physical fitness related to off-season intercollegiate athletic participation. The purpose of the course is to develop a level of physical fitness, strength, and conditioning that will enhance an athlete\u2019s ability to be successful in intercollegiate competition. This course may be taken once and repeated three times for credit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73686",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 17,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-09-05T03:38:09.454566Z"
     },
     {
       "crn": "77075",
@@ -54117,8 +54747,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77075')"
+      "additional_hours": "10.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77075')",
+      "description": "This course is designed for all students preparing for specific physical fitness related to off-season intercollegiate athletic participation. The purpose of the course is to develop a level of physical fitness, strength, and conditioning that will enhance an athlete\u2019s ability to be successful in intercollegiate competition. This course may be taken once and repeated three times for credit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "19-AUG-2025",
+        "Last day to drop with a refund": "19-AUG-2025",
+        "Last day to drop without a \"W\"": "26-AUG-2025",
+        "Last day to drop with a \"W\"": "11-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "19-SEP-2025",
+        "Census Date": "22-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77075",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 19,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-09-05T03:38:11.082300Z"
     },
     {
       "crn": "77097",
@@ -54149,8 +54801,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77097')"
+      "additional_hours": "10.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77097')",
+      "description": "This course is designed for all students preparing for specific physical fitness related to off-season intercollegiate athletic participation. The purpose of the course is to develop a level of physical fitness, strength, and conditioning that will enhance an athlete\u2019s ability to be successful in intercollegiate competition. This course may be taken once and repeated three times for credit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "19-AUG-2025",
+        "Last day to drop with a refund": "19-AUG-2025",
+        "Last day to drop without a \"W\"": "26-AUG-2025",
+        "Last day to drop with a \"W\"": "11-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "19-SEP-2025",
+        "Census Date": "22-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77097",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 15,
+        "available": 25
+      },
+      "detail_fetched_at": "2025-09-05T03:38:12.711631Z"
     },
     {
       "crn": "77375",
@@ -54181,8 +54855,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77375')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77375')",
+      "description": "This course is designed for all students preparing for specific physical fitness related to off-season intercollegiate athletic participation. The purpose of the course is to develop a level of physical fitness, strength, and conditioning that will enhance an athlete\u2019s ability to be successful in intercollegiate competition. This course may be taken once and repeated three times for credit.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77375",
+      "seating_detail": {
+        "capacity": 50,
+        "taken": 80,
+        "available": -30
+      },
+      "detail_fetched_at": "2025-09-05T03:38:14.341411Z"
     },
     {
       "crn": "73688",
@@ -54214,7 +54909,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73688')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73688')",
+      "description": "This course covers the fundamentals of strength and conditioning. Students are introduced to a variety of routines that enable them to develop personal strength and conditioning plans.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73688",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 13,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-05T03:38:15.973582Z"
     },
     {
       "crn": "74349",
@@ -54246,7 +54962,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74349')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74349')",
+      "description": "This course covers the fundamentals of strength and conditioning. Students are introduced to a variety of routines that enable them to develop personal strength and conditioning plans.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74349",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 24,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-05T03:38:17.602865Z"
     },
     {
       "crn": "75086",
@@ -54278,7 +55015,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75086')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75086')",
+      "description": "This course covers the fundamentals of strength and conditioning. Students are introduced to a variety of routines that enable them to develop personal strength and conditioning plans.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75086",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 12,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-05T03:38:19.238374Z"
     },
     {
       "crn": "77544",
@@ -54310,7 +55068,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77544')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77544')",
+      "description": "This course covers the fundamentals of strength and conditioning. Students are introduced to a variety of routines that enable them to develop personal strength and conditioning plans.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77544",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 18,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-05T03:38:20.877250Z"
     },
     {
       "crn": "77938",
@@ -54342,7 +55121,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77938')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77938')",
+      "description": "This course covers the fundamentals of strength and conditioning. Students are introduced to a variety of routines that enable them to develop personal strength and conditioning plans.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77938",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 22,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-05T03:38:22.503077Z"
     },
     {
       "crn": "73690",
@@ -54374,7 +55174,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73690')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73690')",
+      "description": "This introductory course is designed for beginning students who want to learn the fundamental physical Asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to give students tools to better manage stress, alleviate physical tensions, and encourage optimum fitness. In the course, students learn proper physical alignment in the standing poses (i.e., Sun Salutation Series A-C, Warrior 1-2, Downward Dog, Upward Dog, Cobra, Triangle, Crescent); the floor poses (i.e., Staff, Lotus, Cobbler, Twists, Backbends); and elementary inversions (i.e., Inverted Leg Rest, Headstand Preparation, Wall-Dog Preparation). This course is a requirement for the Yoga Teacher Training Certificate of Achievement (C.O.A.) and an elective for the Fitness Specialist C.O.A.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.Transfer to: UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)This introductory course is designed for beginning students who want to learn the fundamental physical Asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to give students tools to better manage stress, alleviate physical tensions, and encourage optimum fitness. In the course, students learn proper physical alignment in the standing poses (i.e., Sun Salutation Series A-C, Warrior 1-2, Downward Dog, Upward Dog, Cobra, Triangle, Crescent); the floor poses (i.e., Staff, Lotus, Cobbler, Twists, Backbends); and elementary inversions (i.e., Inverted Leg Rest, Headstand Preparation, Wall-Dog Preparation). This course is a requirement for the Yoga Teacher Training Certificate of Achievement (C.O.A.) and an elective for the Fitness Specialist C.O.A. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 04-SEP-2025 08:09:40 PM Title: KINA 158 Yoga I CRN: 73690 Instructor: Rachel Lopez CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: PE Physical Education Meeting Time T R 11:10am - 12:35pm PE Physical Education 08/16/25 12/06/25 Seating Availability Capacity Taken Available 45 0 45 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73690",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 0,
+        "available": 45
+      },
+      "detail_fetched_at": "2025-09-05T03:38:24.136210Z"
     },
     {
       "crn": "73691",
@@ -54406,7 +55227,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73691')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73691')",
+      "description": "This introductory course is designed for beginning students who want to learn the fundamental physical Asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to give students tools to better manage stress, alleviate physical tensions, and encourage optimum fitness. In the course, students learn proper physical alignment in the standing poses (i.e., Sun Salutation Series A-C, Warrior 1-2, Downward Dog, Upward Dog, Cobra, Triangle, Crescent); the floor poses (i.e., Staff, Lotus, Cobbler, Twists, Backbends); and elementary inversions (i.e., Inverted Leg Rest, Headstand Preparation, Wall-Dog Preparation). This course is a requirement for the Yoga Teacher Training Certificate of Achievement (C.O.A.) and an elective for the Fitness Specialist C.O.A.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.Transfer to: UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)This introductory course is designed for beginning students who want to learn the fundamental physical Asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to give students tools to better manage stress, alleviate physical tensions, and encourage optimum fitness. In the course, students learn proper physical alignment in the standing poses (i.e., Sun Salutation Series A-C, Warrior 1-2, Downward Dog, Upward Dog, Cobra, Triangle, Crescent); the floor poses (i.e., Staff, Lotus, Cobbler, Twists, Backbends); and elementary inversions (i.e., Inverted Leg Rest, Headstand Preparation, Wall-Dog Preparation). This course is a requirement for the Yoga Teacher Training Certificate of Achievement (C.O.A.) and an elective for the Fitness Specialist C.O.A. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 04-SEP-2025 08:09:42 PM Title: KINA 158 Yoga I CRN: 73691 Instructor: Michael Hinze CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: PE 141 Physical Education Meeting Time M W 09:35am - 11:00am PE 141 Physical Education 08/16/25 12/06/25 Seating Availability Capacity Taken Available 25 7 18 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 Crosslisted Sections CRN Course Title 77503 KINA258 Yoga II Seating Availablity Capacity Taken Available 45 11 34 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73691",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 7,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-05T03:38:25.769069Z"
     },
     {
       "crn": "74375",
@@ -54438,7 +55280,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74375')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74375')",
+      "description": "This introductory course is designed for beginning students who want to learn the fundamental physical Asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to give students tools to better manage stress, alleviate physical tensions, and encourage optimum fitness. In the course, students learn proper physical alignment in the standing poses (i.e., Sun Salutation Series A-C, Warrior 1-2, Downward Dog, Upward Dog, Cobra, Triangle, Crescent); the floor poses (i.e., Staff, Lotus, Cobbler, Twists, Backbends); and elementary inversions (i.e., Inverted Leg Rest, Headstand Preparation, Wall-Dog Preparation). This course is a requirement for the Yoga Teacher Training Certificate of Achievement (C.O.A.) and an elective for the Fitness Specialist C.O.A.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.Transfer to: UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)This introductory course is designed for beginning students who want to learn the fundamental physical Asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to give students tools to better manage stress, alleviate physical tensions, and encourage optimum fitness. In the course, students learn proper physical alignment in the standing poses (i.e., Sun Salutation Series A-C, Warrior 1-2, Downward Dog, Upward Dog, Cobra, Triangle, Crescent); the floor poses (i.e., Staff, Lotus, Cobbler, Twists, Backbends); and elementary inversions (i.e., Inverted Leg Rest, Headstand Preparation, Wall-Dog Preparation). This course is a requirement for the Yoga Teacher Training Certificate of Achievement (C.O.A.) and an elective for the Fitness Specialist C.O.A. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 04-SEP-2025 08:09:43 PM Title: KINA 158 Yoga I CRN: 74375 Instructor: Carol McDowell CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: SYNC Online Meeting Time M W 06:00pm - 07:25pm ONLINE SYNC Online 08/16/25 12/06/25 Seating Availability Capacity Taken Available 25 15 10 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 Crosslisted Sections CRN Course Title 76980 KINA258 Yoga II Seating Availablity Capacity Taken Available 45 18 27 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74375",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 15,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-05T03:38:27.396853Z"
     },
     {
       "crn": "74379",
@@ -54470,7 +55333,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74379')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74379')",
+      "description": "This introductory course is designed for beginning students who want to learn the fundamental physical Asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to give students tools to better manage stress, alleviate physical tensions, and encourage optimum fitness. In the course, students learn proper physical alignment in the standing poses (i.e., Sun Salutation Series A-C, Warrior 1-2, Downward Dog, Upward Dog, Cobra, Triangle, Crescent); the floor poses (i.e., Staff, Lotus, Cobbler, Twists, Backbends); and elementary inversions (i.e., Inverted Leg Rest, Headstand Preparation, Wall-Dog Preparation). This course is a requirement for the Yoga Teacher Training Certificate of Achievement (C.O.A.) and an elective for the Fitness Specialist C.O.A.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.Transfer to: UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)This introductory course is designed for beginning students who want to learn the fundamental physical Asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to give students tools to better manage stress, alleviate physical tensions, and encourage optimum fitness. In the course, students learn proper physical alignment in the standing poses (i.e., Sun Salutation Series A-C, Warrior 1-2, Downward Dog, Upward Dog, Cobra, Triangle, Crescent); the floor poses (i.e., Staff, Lotus, Cobbler, Twists, Backbends); and elementary inversions (i.e., Inverted Leg Rest, Headstand Preparation, Wall-Dog Preparation). This course is a requirement for the Yoga Teacher Training Certificate of Achievement (C.O.A.) and an elective for the Fitness Specialist C.O.A. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 04-SEP-2025 08:09:45 PM Title: KINA 158 Yoga I CRN: 74379 Instructor: Jodi Senk CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: PE Physical Education Meeting Time M W 08:00am - 09:25am PE Physical Education 08/16/25 12/06/25 Seating Availability Capacity Taken Available 45 0 45 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74379",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 0,
+        "available": 45
+      },
+      "detail_fetched_at": "2025-09-05T03:38:29.025919Z"
     },
     {
       "crn": "75087",
@@ -54502,7 +55386,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75087')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75087')",
+      "description": "This introductory course is designed for beginning students who want to learn the fundamental physical Asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to give students tools to better manage stress, alleviate physical tensions, and encourage optimum fitness. In the course, students learn proper physical alignment in the standing poses (i.e., Sun Salutation Series A-C, Warrior 1-2, Downward Dog, Upward Dog, Cobra, Triangle, Crescent); the floor poses (i.e., Staff, Lotus, Cobbler, Twists, Backbends); and elementary inversions (i.e., Inverted Leg Rest, Headstand Preparation, Wall-Dog Preparation). This course is a requirement for the Yoga Teacher Training Certificate of Achievement (C.O.A.) and an elective for the Fitness Specialist C.O.A.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.Transfer to: UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)This introductory course is designed for beginning students who want to learn the fundamental physical Asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to give students tools to better manage stress, alleviate physical tensions, and encourage optimum fitness. In the course, students learn proper physical alignment in the standing poses (i.e., Sun Salutation Series A-C, Warrior 1-2, Downward Dog, Upward Dog, Cobra, Triangle, Crescent); the floor poses (i.e., Staff, Lotus, Cobbler, Twists, Backbends); and elementary inversions (i.e., Inverted Leg Rest, Headstand Preparation, Wall-Dog Preparation). This course is a requirement for the Yoga Teacher Training Certificate of Achievement (C.O.A.) and an elective for the Fitness Specialist C.O.A. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 04-SEP-2025 08:09:47 PM Title: KINA 158 Yoga I CRN: 75087 Instructor: Michael Hinze CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: PE 139 Physical Education Meeting Time T R 09:35am - 11:00am PE 139 Physical Education 08/16/25 12/06/25 Seating Availability Capacity Taken Available 25 8 17 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 Crosslisted Sections CRN Course Title 73813 KINA258 Yoga II Seating Availablity Capacity Taken Available 45 9 36 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75087",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 8,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-05T03:38:30.660781Z"
     },
     {
       "crn": "77506",
@@ -54534,7 +55439,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77506')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77506')",
+      "description": "This introductory course is designed for beginning students who want to learn the fundamental physical Asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to give students tools to better manage stress, alleviate physical tensions, and encourage optimum fitness. In the course, students learn proper physical alignment in the standing poses (i.e., Sun Salutation Series A-C, Warrior 1-2, Downward Dog, Upward Dog, Cobra, Triangle, Crescent); the floor poses (i.e., Staff, Lotus, Cobbler, Twists, Backbends); and elementary inversions (i.e., Inverted Leg Rest, Headstand Preparation, Wall-Dog Preparation). This course is a requirement for the Yoga Teacher Training Certificate of Achievement (C.O.A.) and an elective for the Fitness Specialist C.O.A.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written college composition and read college-level texts.Transfer to: UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)This introductory course is designed for beginning students who want to learn the fundamental physical Asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to give students tools to better manage stress, alleviate physical tensions, and encourage optimum fitness. In the course, students learn proper physical alignment in the standing poses (i.e., Sun Salutation Series A-C, Warrior 1-2, Downward Dog, Upward Dog, Cobra, Triangle, Crescent); the floor poses (i.e., Staff, Lotus, Cobbler, Twists, Backbends); and elementary inversions (i.e., Inverted Leg Rest, Headstand Preparation, Wall-Dog Preparation). This course is a requirement for the Yoga Teacher Training Certificate of Achievement (C.O.A.) and an elective for the Fitness Specialist C.O.A. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 04-SEP-2025 08:09:48 PM Title: KINA 158 Yoga I CRN: 77506 Instructor: Michael Hinze CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: SYNC Online Meeting Time S 08:30am - 11:40am ONLINE SYNC Online 08/16/25 12/06/25 Seating Availability Capacity Taken Available 25 17 8 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 Crosslisted Sections CRN Course Title 77507 KINA258 Yoga II Seating Availablity Capacity Taken Available 45 20 25 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77506",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 17,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-05T03:38:32.304702Z"
     },
     {
       "crn": "77978",
@@ -54566,7 +55492,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77978')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77978')",
+      "description": "This course combines dance, Latin and Funk rhythms, and aerobic elements to provide a fun, upbeat, cardiovascular workout. Students constantly move to various genres of Latin music utilizing various tempos. Salsa, Cha-Cha, Tango, Mambo, Latin Jazz, and Hip-Hop rhythms are incorporated in instruction, and by which students build stamina while increasing cardiovascular fitness. This course is designed to help students develop aerobic capacity, coordination, balance, rhythmic awareness, and flexibility. This class also includes exercises to build abdominal strength, lower body strength, and upper body strength. Classes may incorporate sections with small handheld weights, exercise bands, and/or other fitness props to further develop strength and endurance. Students build a foundation for a personalized exercise and fitness program that can be continued after the course has ended.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77978",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 5,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-05T03:38:33.934010Z"
     },
     {
       "crn": "77380",
@@ -54597,8 +55544,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77380')"
+      "additional_hours": "7.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77380')",
+      "description": "This advanced-level course is designed for students who will be competing in the sport of women\u2019s basketball at the collegiate level. This class is offered for 11 consecutive weeks to run concurrently with the intercollegiate basketball season as determined by the California Community College Athletic Association (C.C.C.A.A.) governing body. Students are required to spend a minimum of 7.36 hours per week for 11 weeks preparing for competition with other colleges. This course may be taken once and repeated 3 times for credit.",
+      "prerequisites": null,
+      "advisory": "Students should be able to read college-level texts; High School or Club team experience recommended.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)This advanced-level course is designed for students who will be competing in the sport of women\u2019s basketball at the collegiate level. This class is offered for 11 consecutive weeks to run concurrently with the intercollegiate basketball season as determined by the California Community College Athletic Association (C.C.C.A.A.) governing body. Students are required to spend a minimum of 7.36 hours per week for 11 weeks preparing for competition with other colleges.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "26-SEP-2025",
+        "Last day to drop with a refund": "26-SEP-2025",
+        "Last day to drop without a \"W\"": "13-OCT-2025",
+        "Last day to drop with a \"W\"": "14-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "03-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77380",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 17,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-09-05T03:38:35.560990Z"
     },
     {
       "crn": "73699",
@@ -54629,8 +55598,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73699')"
+      "additional_hours": "10.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73699')",
+      "description": "This is an advanced course for students who will be competing at the collegiate level in the sport of women\u2019s volleyball. Students will be required to spend a minimum of 10.125 hours a week preparing for competition. This course may be taken once and repeated three times for credit.",
+      "prerequisites": null,
+      "advisory": "Students should be able to read college-level texts; High School or Club Team experience recommended.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)This is an advanced course for students who will be competing at the collegiate level in the sport of women\u2019s volleyball. Students will be required to spend a minimum of 10.125 hours a week preparing for competition.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73699",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 14,
+        "available": 26
+      },
+      "detail_fetched_at": "2025-09-05T03:38:37.187944Z"
     },
     {
       "crn": "73702",
@@ -54661,8 +55651,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73702')"
+      "additional_hours": "10.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73702')",
+      "description": "This is an advanced course designed to prepare athletes for intercollegiate competition in soccer. Emphasis will be placed on all aspects of the sport as well as the academic requirements for transfer and maintaining eligibility. The student-athletes will be monitored and encouraged to advance in their academic and athletic skills through the course. This course may be repeated three times for credit.",
+      "prerequisites": null,
+      "advisory": "Students should be able to read college-level texts; High School or Club team experience recommended",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)This is an advanced course designed to prepare athletes for intercollegiate competition in soccer. Emphasis will be placed on all aspects of the sport as well as the academic requirements for transfer and maintaining eligibility. The student-athletes will be monitored and encouraged to advance in their academic and athletic skills through the course.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73702",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 11,
+        "available": 29
+      },
+      "detail_fetched_at": "2025-09-05T03:38:38.819289Z"
     },
     {
       "crn": "77787",
@@ -54693,8 +55704,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77787')"
+      "additional_hours": "7.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77787')",
+      "description": "This advanced-level course is designed for students who will be competing at the collegiate level in the sport of men\u2019s basketball for pre-season conditioning and play. The course is offered for 11 consecutive weeks to run concurrently with the intercollegiate basketball season as determined by the California Community College Athletic Association (C.C.C.A.A.) governing body. Students are required to spend a minimum of 7.36 hours per week for 11 weeks preparing for competition with other colleges. This course may be taken once and repeated 3 times for credit.",
+      "prerequisites": null,
+      "advisory": "Students should be able to read college-level texts; High School or Club team experience recommended",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)This advanced-level course is designed for students who will be competing at the collegiate level in the sport of men\u2019s basketball for pre-season conditioning and play. The course is offered for 11 consecutive weeks to run concurrently with the intercollegiate basketball season as determined by the California Community College Athletic Association (C.C.C.A.A.) governing body. Students are required to spend a minimum of 7.36 hours per week for 11 weeks preparing for competition with other colleges.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "26-SEP-2025",
+        "Last day to drop with a refund": "26-SEP-2025",
+        "Last day to drop without a \"W\"": "13-OCT-2025",
+        "Last day to drop with a \"W\"": "14-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "03-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77787",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 19,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-09-05T03:38:40.446457Z"
     },
     {
       "crn": "73786",
@@ -54725,8 +55758,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73786')"
+      "additional_hours": "10.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73786')",
+      "description": "This is an advanced course designed for students who will be competing at the collegiate level in the sport of men\u2019s and women\u2019s water polo. Students will be required to spend a minimum of 10.125 hours a week preparing for competition with other colleges. This course may be taken once and repeated three times for credit.",
+      "prerequisites": null,
+      "advisory": "Students should be able to read college-level texts; High School or Club team experience recommended.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)This is an advanced course designed for students who will be competing at the collegiate level in the sport of men\u2019s and women\u2019s water polo. Students will be required to spend a minimum of 10.125 hours a week preparing for competition with other colleges.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73786",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 11,
+        "available": 34
+      },
+      "detail_fetched_at": "2025-09-05T03:38:42.078201Z"
     },
     {
       "crn": "74173",
@@ -74101,8 +75155,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-09-04T03:38:03.946108+00:00Z",
-    "courses_with_details": 997,
+    "detail_collection_timestamp": "2025-09-05T03:38:42.162956+00:00Z",
+    "courses_with_details": 1047,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
