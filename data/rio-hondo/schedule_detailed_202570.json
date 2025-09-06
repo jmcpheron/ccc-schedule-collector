@@ -55811,8 +55811,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74173')"
+      "additional_hours": "10.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74173')",
+      "description": "This is an advanced course designed for students who will be competing at the collegiate level in the sport of men\u2019s and women\u2019s water polo. Students will be required to spend a minimum of 10.125 hours a week preparing for competition with other colleges. This course may be taken once and repeated three times for credit.",
+      "prerequisites": null,
+      "advisory": "Students should be able to read college-level texts; High School or Club team experience recommended.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)This is an advanced course designed for students who will be competing at the collegiate level in the sport of men\u2019s and women\u2019s water polo. Students will be required to spend a minimum of 10.125 hours a week preparing for competition with other colleges.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74173",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 16,
+        "available": 29
+      },
+      "detail_fetched_at": "2025-09-06T03:35:49.417123Z"
     },
     {
       "crn": "73705",
@@ -55843,8 +55864,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73705')"
+      "additional_hours": "10.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73705')",
+      "description": "This is an advanced course designed for students who will be competing at the collegiate level in the sport of men\u2019s wrestling. Students will be required to spend a minimum of 10.125 hours a week preparing for competition with other colleges. This course may be taken once and repeated three times for credit.",
+      "prerequisites": null,
+      "advisory": "Students should be able to read college-level texts; High School or Club team experience is recommended.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)This is an advanced course designed for students who will be competing at the collegiate level in the sport of men\u2019s wrestling. Students will be required to spend a minimum of 10.125 hours a week preparing for competition with other colleges.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73705",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 41,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-09-06T03:35:50.989297Z"
     },
     {
       "crn": "73706",
@@ -55875,8 +55917,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73706')"
+      "additional_hours": "10.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73706')",
+      "description": "This is an advanced course designed to prepare athletes for intercollegiate competition in soccer. Emphasis will be placed on all aspects of the sport as well as the academic requirements for transfer and maintaining eligibility. The student-athletes will be monitored and encouraged to advance in their academic and athletic skills through the course. This course may be repeated three times for credit.",
+      "prerequisites": null,
+      "advisory": "Students should be able to read college-level texts; High School or Club team experience recommended",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)This is an advanced course designed to prepare athletes for intercollegiate competition in soccer. Emphasis will be placed on all aspects of the sport as well as the academic requirements for transfer and maintaining eligibility. The student-athletes will be monitored and encouraged to advance in their academic and athletic skills through the course.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73706",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 33,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-06T03:35:52.565278Z"
     },
     {
       "crn": "74403",
@@ -55908,7 +55971,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74403')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74403')",
+      "description": "This intermediate tennis course is designed to take students beyond recreational tennis skills. Advanced instruction in the serve, ground strokes, volley, and playing strategy is provided. The lob and overhead smash, as well as spins, are also introduced.",
+      "prerequisites": null,
+      "advisory": "KINA 101",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74403",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 3,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-06T03:35:54.143898Z"
     },
     {
       "crn": "77374",
@@ -55939,8 +56023,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77374')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77374')",
+      "description": "This advanced course is designed for students interested in competing in the sport of men\u2019s baseball at the collegiate level. Instruction will focus on advanced drills in the areas of offense, defense, and pitching. Special attention will be placed on preparing students for intercollegiate competition. This course may be taken once and repeated three times for credit.",
+      "prerequisites": "Participation in Intercollegiate Athletics",
+      "advisory": "Students should be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)This advanced course is designed for students interested in competing in the sport of men\u2019s baseball at the collegiate level. Instruction will focus on advanced drills in the areas of offense, defense, and pitching. Special attention will be placed on preparing students for intercollegiate competition.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77374",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 6,
+        "available": 34
+      },
+      "detail_fetched_at": "2025-09-06T03:35:55.716700Z"
     },
     {
       "crn": "73708",
@@ -55971,8 +56077,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73708')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73708')",
+      "description": "This course is designed for advanced softball students competing at the collegiate level. Instruction focuses on advanced drills in the area of offense, defense, and pitching. Special attention is placed on preparing students for intercollegiate competition. This course may be repeated 3 times for credit.",
+      "prerequisites": null,
+      "advisory": "KINA 103",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for KINA activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73708",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 18,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-06T03:35:57.289264Z"
     },
     {
       "crn": "75660",
@@ -56004,7 +56131,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75660')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75660')",
+      "description": "This advanced soccer activity course is designed for all students interested in developing the physical, technical, and tactical elements of the game of soccer. The course includes analysis of fundamental skills, game strategy, team offense, and team defense through participation and an overview of rules. The advanced course is intended to take students beyond recreational skills. Emphasis is placed on team tactics, strategies, and systems of play.",
+      "prerequisites": "KINA 109",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*The UC will grant a maximum of 4 units credit for PE Activity courses.)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75660",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 2,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-06T03:35:58.863848Z"
     },
     {
       "crn": "77304",
@@ -56036,7 +56184,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77304')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77304')",
+      "description": "This advanced course is designed for students interested in competing in the sport of tennis at the collegiate level. Instruction will focus on training and conditioning, and will also include advanced strategies, on court drilling and match play experience. Special attention will be placed on preparing students for intercollegiate competition. This course may be taken once and repeated three times for credit.",
+      "prerequisites": "Participation in Intercollegiate Athletics",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)This advanced course is designed for students interested in competing in the sport of tennis at the collegiate level. Instruction will focus on training and conditioning, and will also include advanced strategies, on court drilling and match play experience. Special attention will be placed on preparing students for intercollegiate competition.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77304",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 9,
+        "available": 31
+      },
+      "detail_fetched_at": "2025-09-06T03:36:00.435928Z"
     },
     {
       "crn": "73710",
@@ -56068,7 +56237,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73710')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73710')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. The course provides students with the skills and information needed to improve cardiovascular fitness through activities like running, rowing, cycling, core training, aerobic activity, aerobic circuit, and resistance bands. Students learn about the importance of nutrition, blood pressure, heart rate, and exercise target zones in relation to cardiovascular disease.",
+      "prerequisites": "KINA 130",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73710",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 0,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-06T03:36:02.010421Z"
     },
     {
       "crn": "77060",
@@ -56100,7 +56290,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77060')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77060')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. The course provides students with the skills and information needed to improve cardiovascular fitness through activities like running, rowing, cycling, core training, aerobic activity, aerobic circuit, and resistance bands. Students learn about the importance of nutrition, blood pressure, heart rate, and exercise target zones in relation to cardiovascular disease.",
+      "prerequisites": "KINA 130",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77060",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 4,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-06T03:36:03.578648Z"
     },
     {
       "crn": "77061",
@@ -56132,7 +56343,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77061')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77061')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. The course provides students with the skills and information needed to improve cardiovascular fitness through activities like running, rowing, cycling, core training, aerobic activity, aerobic circuit, and resistance bands. Students learn about the importance of nutrition, blood pressure, heart rate, and exercise target zones in relation to cardiovascular disease.",
+      "prerequisites": "KINA 130",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77061",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 0,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-06T03:36:05.158591Z"
     },
     {
       "crn": "77942",
@@ -56164,7 +56396,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77942')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77942')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. The course provides students with the skills and information needed to improve cardiovascular fitness through activities like running, rowing, cycling, core training, aerobic activity, aerobic circuit, and resistance bands. Students learn about the importance of nutrition, blood pressure, heart rate, and exercise target zones in relation to cardiovascular disease.",
+      "prerequisites": "KINA 130",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77942",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 5,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:06.737087Z"
     },
     {
       "crn": "77944",
@@ -56196,7 +56449,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77944')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77944')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. The course provides students with the skills and information needed to improve cardiovascular fitness through activities like running, rowing, cycling, core training, aerobic activity, aerobic circuit, and resistance bands. Students learn about the importance of nutrition, blood pressure, heart rate, and exercise target zones in relation to cardiovascular disease.",
+      "prerequisites": "KINA 130",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77944",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 1,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-06T03:36:08.316766Z"
     },
     {
       "crn": "77948",
@@ -56228,7 +56502,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77948')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77948')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. The course provides students with the skills and information needed to improve cardiovascular fitness through activities like running, rowing, cycling, core training, aerobic activity, aerobic circuit, and resistance bands. Students learn about the importance of nutrition, blood pressure, heart rate, and exercise target zones in relation to cardiovascular disease.",
+      "prerequisites": "KINA 130",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77948",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 7,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-06T03:36:09.893289Z"
     },
     {
       "crn": "77950",
@@ -56260,7 +56555,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77950')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77950')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. The course provides students with the skills and information needed to improve cardiovascular fitness through activities like running, rowing, cycling, core training, aerobic activity, aerobic circuit, and resistance bands. Students learn about the importance of nutrition, blood pressure, heart rate, and exercise target zones in relation to cardiovascular disease.",
+      "prerequisites": "KINA 130",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77950",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 7,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-06T03:36:11.476598Z"
     },
     {
       "crn": "77952",
@@ -56292,7 +56608,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77952')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77952')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. The course provides students with the skills and information needed to improve cardiovascular fitness through activities like running, rowing, cycling, core training, aerobic activity, aerobic circuit, and resistance bands. Students learn about the importance of nutrition, blood pressure, heart rate, and exercise target zones in relation to cardiovascular disease.",
+      "prerequisites": "KINA 130",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77952",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 2,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-06T03:36:13.054425Z"
     },
     {
       "crn": "77955",
@@ -56324,7 +56661,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77955')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77955')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. The course provides students with the skills and information needed to improve cardiovascular fitness through activities like running, rowing, cycling, core training, aerobic activity, aerobic circuit, and resistance bands. Students learn about the importance of nutrition, blood pressure, heart rate, and exercise target zones in relation to cardiovascular disease.",
+      "prerequisites": "KINA 130",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77955",
+      "seating_detail": {
+        "capacity": 15,
+        "taken": 13,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-06T03:36:14.629787Z"
     },
     {
       "crn": "77960",
@@ -56356,7 +56714,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77960')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77960')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. The course provides students with the skills and information needed to improve cardiovascular fitness through activities like running, rowing, cycling, core training, aerobic activity, aerobic circuit, and resistance bands. Students learn about the importance of nutrition, blood pressure, heart rate, and exercise target zones in relation to cardiovascular disease.",
+      "prerequisites": "KINA 130",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77960",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 3,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-06T03:36:16.206646Z"
     },
     {
       "crn": "77962",
@@ -56388,7 +56767,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77962')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77962')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. The course provides students with the skills and information needed to improve cardiovascular fitness through activities like running, rowing, cycling, core training, aerobic activity, aerobic circuit, and resistance bands. Students learn about the importance of nutrition, blood pressure, heart rate, and exercise target zones in relation to cardiovascular disease.",
+      "prerequisites": "KINA 130",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77962",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 4,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-06T03:36:17.806563Z"
     },
     {
       "crn": "78336",
@@ -56420,7 +56820,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78336')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78336')",
+      "description": "This course is a self-paced physical fitness laboratory designed to develop and encourage positive health and wellness attitudes and habits. The course provides students with the skills and information needed to improve cardiovascular fitness through activities like running, rowing, cycling, core training, aerobic activity, aerobic circuit, and resistance bands. Students learn about the importance of nutrition, blood pressure, heart rate, and exercise target zones in relation to cardiovascular disease.",
+      "prerequisites": "KINA 130",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78336",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 5,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:19.402136Z"
     },
     {
       "crn": "78314",
@@ -56452,7 +56873,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78314')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78314')",
+      "description": "This self-paced laboratory course is designed for students who are at an intermediate level of physical fitness and can apply skills learned in Fitness and Wellness Laboratory I and II (KINA 130 and KINA 230). The course focuses on developing strength, flexibility, and cardiovascular endurance through a variety of activities, including weight training, cardio, and stretching.",
+      "prerequisites": "KINA 230",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78314",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 1,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-06T03:36:20.994059Z"
     },
     {
       "crn": "78316",
@@ -56484,7 +56926,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78316')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78316')",
+      "description": "This self-paced laboratory course is designed for students who are at an intermediate level of physical fitness and can apply skills learned in Fitness and Wellness Laboratory I and II (KINA 130 and KINA 230). The course focuses on developing strength, flexibility, and cardiovascular endurance through a variety of activities, including weight training, cardio, and stretching.",
+      "prerequisites": "KINA 230",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-25",
+        "Last day to drop with a refund": "01-SEP-25",
+        "Last day to drop without a \"W\"": "12-SEP-25",
+        "Last day to drop with a \"W\"": "07-NOV-25",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-25"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78316",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:22.592128Z"
     },
     {
       "crn": "78318",
@@ -56516,7 +56979,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78318')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78318')",
+      "description": "This self-paced laboratory course is designed for students who are at an intermediate level of physical fitness and can apply skills learned in Fitness and Wellness Laboratory I and II (KINA 130 and KINA 230). The course focuses on developing strength, flexibility, and cardiovascular endurance through a variety of activities, including weight training, cardio, and stretching.",
+      "prerequisites": "KINA 230",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-25",
+        "Last day to drop with a refund": "01-SEP-25",
+        "Last day to drop without a \"W\"": "12-SEP-25",
+        "Last day to drop with a \"W\"": "07-NOV-25",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-25"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78318",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 1,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-06T03:36:24.185276Z"
     },
     {
       "crn": "78320",
@@ -56548,7 +57032,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78320')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78320')",
+      "description": "This self-paced laboratory course is designed for students who are at an intermediate level of physical fitness and can apply skills learned in Fitness and Wellness Laboratory I and II (KINA 130 and KINA 230). The course focuses on developing strength, flexibility, and cardiovascular endurance through a variety of activities, including weight training, cardio, and stretching.",
+      "prerequisites": "KINA 230",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78320",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:25.779856Z"
     },
     {
       "crn": "78322",
@@ -56580,7 +57085,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78322')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78322')",
+      "description": "This self-paced laboratory course is designed for students who are at an intermediate level of physical fitness and can apply skills learned in Fitness and Wellness Laboratory I and II (KINA 130 and KINA 230). The course focuses on developing strength, flexibility, and cardiovascular endurance through a variety of activities, including weight training, cardio, and stretching.",
+      "prerequisites": "KINA 230",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78322",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 4,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-06T03:36:27.373692Z"
     },
     {
       "crn": "78324",
@@ -56612,7 +57138,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78324')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78324')",
+      "description": "This self-paced laboratory course is designed for students who are at an intermediate level of physical fitness and can apply skills learned in Fitness and Wellness Laboratory I and II (KINA 130 and KINA 230). The course focuses on developing strength, flexibility, and cardiovascular endurance through a variety of activities, including weight training, cardio, and stretching.",
+      "prerequisites": "KINA 230",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78324",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:28.967690Z"
     },
     {
       "crn": "78326",
@@ -56644,7 +57191,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78326')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78326')",
+      "description": "This self-paced laboratory course is designed for students who are at an intermediate level of physical fitness and can apply skills learned in Fitness and Wellness Laboratory I and II (KINA 130 and KINA 230). The course focuses on developing strength, flexibility, and cardiovascular endurance through a variety of activities, including weight training, cardio, and stretching.",
+      "prerequisites": "KINA 230",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78326",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:30.558492Z"
     },
     {
       "crn": "78330",
@@ -56676,7 +57244,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78330')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78330')",
+      "description": "This self-paced laboratory course is designed for students who are at an intermediate level of physical fitness and can apply skills learned in Fitness and Wellness Laboratory I and II (KINA 130 and KINA 230). The course focuses on developing strength, flexibility, and cardiovascular endurance through a variety of activities, including weight training, cardio, and stretching.",
+      "prerequisites": "KINA 230",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78330",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 4,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-06T03:36:32.155375Z"
     },
     {
       "crn": "78332",
@@ -56708,7 +57297,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78332')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78332')",
+      "description": "This self-paced laboratory course is designed for students who are at an intermediate level of physical fitness and can apply skills learned in Fitness and Wellness Laboratory I and II (KINA 130 and KINA 230). The course focuses on developing strength, flexibility, and cardiovascular endurance through a variety of activities, including weight training, cardio, and stretching.",
+      "prerequisites": "KINA 230",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78332",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:33.748045Z"
     },
     {
       "crn": "78334",
@@ -56740,7 +57350,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78334')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78334')",
+      "description": "This self-paced laboratory course is designed for students who are at an intermediate level of physical fitness and can apply skills learned in Fitness and Wellness Laboratory I and II (KINA 130 and KINA 230). The course focuses on developing strength, flexibility, and cardiovascular endurance through a variety of activities, including weight training, cardio, and stretching.",
+      "prerequisites": "KINA 230",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78334",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:35.336915Z"
     },
     {
       "crn": "78337",
@@ -56772,7 +57403,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78337')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78337')",
+      "description": "This self-paced laboratory course is designed for students who are at an intermediate level of physical fitness and can apply skills learned in Fitness and Wellness Laboratory I and II (KINA 130 and KINA 230). The course focuses on developing strength, flexibility, and cardiovascular endurance through a variety of activities, including weight training, cardio, and stretching.",
+      "prerequisites": "KINA 230",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78337",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:36.930879Z"
     },
     {
       "crn": "78342",
@@ -56804,7 +57456,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78342')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78342')",
+      "description": "This self-paced laboratory course is designed for students who are at an intermediate level of physical fitness and can apply skills learned in Fitness and Wellness Laboratory I and II (KINA 130 and KINA 230). The course focuses on developing strength, flexibility, and cardiovascular endurance through a variety of activities, including weight training, cardio, and stretching.",
+      "prerequisites": "KINA 230",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78342",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:38.524997Z"
     },
     {
       "crn": "78315",
@@ -56836,7 +57509,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78315')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78315')",
+      "description": "This course is a self-paced physical fitness laboratory designed for students who have completed Fitness and Wellness Laboratory I, II, and III (KINA 130, KINA 230 and KINA 231) to apply knowledge gained in these courses to practical use. The course focuses on increasing strength, cardiovascular fitness levels, body composition, endurance and flexibility utilizing various types of equipment available in the Fitness and Wellness Center. In the course, students demonstrate knowledge and skills in cardiovascular training, Super Circuit training, interval training, and weight training exercises. Additionally, students demonstrate knowledge of definitions and terminology of the current fitness arena, assisting them with fitness as a lifelong process that uses a variety of cardiovascular and strength mediums.",
+      "prerequisites": "KINA 231",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78315",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:40.117138Z"
     },
     {
       "crn": "78317",
@@ -56868,7 +57562,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78317')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78317')",
+      "description": "This course is a self-paced physical fitness laboratory designed for students who have completed Fitness and Wellness Laboratory I, II, and III (KINA 130, KINA 230 and KINA 231) to apply knowledge gained in these courses to practical use. The course focuses on increasing strength, cardiovascular fitness levels, body composition, endurance and flexibility utilizing various types of equipment available in the Fitness and Wellness Center. In the course, students demonstrate knowledge and skills in cardiovascular training, Super Circuit training, interval training, and weight training exercises. Additionally, students demonstrate knowledge of definitions and terminology of the current fitness arena, assisting them with fitness as a lifelong process that uses a variety of cardiovascular and strength mediums.",
+      "prerequisites": "KINA 231",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78317",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:41.710166Z"
     },
     {
       "crn": "78319",
@@ -56900,7 +57615,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78319')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78319')",
+      "description": "This course is a self-paced physical fitness laboratory designed for students who have completed Fitness and Wellness Laboratory I, II, and III (KINA 130, KINA 230 and KINA 231) to apply knowledge gained in these courses to practical use. The course focuses on increasing strength, cardiovascular fitness levels, body composition, endurance and flexibility utilizing various types of equipment available in the Fitness and Wellness Center. In the course, students demonstrate knowledge and skills in cardiovascular training, Super Circuit training, interval training, and weight training exercises. Additionally, students demonstrate knowledge of definitions and terminology of the current fitness arena, assisting them with fitness as a lifelong process that uses a variety of cardiovascular and strength mediums.",
+      "prerequisites": "KINA 231",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78319",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 1,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-06T03:36:43.301672Z"
     },
     {
       "crn": "78321",
@@ -56932,7 +57668,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78321')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78321')",
+      "description": "This course is a self-paced physical fitness laboratory designed for students who have completed Fitness and Wellness Laboratory I, II, and III (KINA 130, KINA 230 and KINA 231) to apply knowledge gained in these courses to practical use. The course focuses on increasing strength, cardiovascular fitness levels, body composition, endurance and flexibility utilizing various types of equipment available in the Fitness and Wellness Center. In the course, students demonstrate knowledge and skills in cardiovascular training, Super Circuit training, interval training, and weight training exercises. Additionally, students demonstrate knowledge of definitions and terminology of the current fitness arena, assisting them with fitness as a lifelong process that uses a variety of cardiovascular and strength mediums.",
+      "prerequisites": "KINA 231",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78321",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:44.898408Z"
     },
     {
       "crn": "78323",
@@ -56964,7 +57721,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78323')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78323')",
+      "description": "This course is a self-paced physical fitness laboratory designed for students who have completed Fitness and Wellness Laboratory I, II, and III (KINA 130, KINA 230 and KINA 231) to apply knowledge gained in these courses to practical use. The course focuses on increasing strength, cardiovascular fitness levels, body composition, endurance and flexibility utilizing various types of equipment available in the Fitness and Wellness Center. In the course, students demonstrate knowledge and skills in cardiovascular training, Super Circuit training, interval training, and weight training exercises. Additionally, students demonstrate knowledge of definitions and terminology of the current fitness arena, assisting them with fitness as a lifelong process that uses a variety of cardiovascular and strength mediums.",
+      "prerequisites": "KINA 231",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78323",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:46.490292Z"
     },
     {
       "crn": "78325",
@@ -56996,7 +57774,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78325')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78325')",
+      "description": "This course is a self-paced physical fitness laboratory designed for students who have completed Fitness and Wellness Laboratory I, II, and III (KINA 130, KINA 230 and KINA 231) to apply knowledge gained in these courses to practical use. The course focuses on increasing strength, cardiovascular fitness levels, body composition, endurance and flexibility utilizing various types of equipment available in the Fitness and Wellness Center. In the course, students demonstrate knowledge and skills in cardiovascular training, Super Circuit training, interval training, and weight training exercises. Additionally, students demonstrate knowledge of definitions and terminology of the current fitness arena, assisting them with fitness as a lifelong process that uses a variety of cardiovascular and strength mediums.",
+      "prerequisites": "KINA 231",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78325",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:48.080993Z"
     },
     {
       "crn": "78327",
@@ -57028,7 +57827,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78327')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78327')",
+      "description": "This course is a self-paced physical fitness laboratory designed for students who have completed Fitness and Wellness Laboratory I, II, and III (KINA 130, KINA 230 and KINA 231) to apply knowledge gained in these courses to practical use. The course focuses on increasing strength, cardiovascular fitness levels, body composition, endurance and flexibility utilizing various types of equipment available in the Fitness and Wellness Center. In the course, students demonstrate knowledge and skills in cardiovascular training, Super Circuit training, interval training, and weight training exercises. Additionally, students demonstrate knowledge of definitions and terminology of the current fitness arena, assisting them with fitness as a lifelong process that uses a variety of cardiovascular and strength mediums.",
+      "prerequisites": "KINA 231",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78327",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:49.672794Z"
     },
     {
       "crn": "78331",
@@ -57060,7 +57880,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78331')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78331')",
+      "description": "This course is a self-paced physical fitness laboratory designed for students who have completed Fitness and Wellness Laboratory I, II, and III (KINA 130, KINA 230 and KINA 231) to apply knowledge gained in these courses to practical use. The course focuses on increasing strength, cardiovascular fitness levels, body composition, endurance and flexibility utilizing various types of equipment available in the Fitness and Wellness Center. In the course, students demonstrate knowledge and skills in cardiovascular training, Super Circuit training, interval training, and weight training exercises. Additionally, students demonstrate knowledge of definitions and terminology of the current fitness arena, assisting them with fitness as a lifelong process that uses a variety of cardiovascular and strength mediums.",
+      "prerequisites": "KINA 231",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78331",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 1,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-06T03:36:51.263513Z"
     },
     {
       "crn": "78333",
@@ -57092,7 +57933,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78333')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78333')",
+      "description": "This course is a self-paced physical fitness laboratory designed for students who have completed Fitness and Wellness Laboratory I, II, and III (KINA 130, KINA 230 and KINA 231) to apply knowledge gained in these courses to practical use. The course focuses on increasing strength, cardiovascular fitness levels, body composition, endurance and flexibility utilizing various types of equipment available in the Fitness and Wellness Center. In the course, students demonstrate knowledge and skills in cardiovascular training, Super Circuit training, interval training, and weight training exercises. Additionally, students demonstrate knowledge of definitions and terminology of the current fitness arena, assisting them with fitness as a lifelong process that uses a variety of cardiovascular and strength mediums.",
+      "prerequisites": "KINA 231",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78333",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:52.855156Z"
     },
     {
       "crn": "78335",
@@ -57124,7 +57986,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78335')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78335')",
+      "description": "This course is a self-paced physical fitness laboratory designed for students who have completed Fitness and Wellness Laboratory I, II, and III (KINA 130, KINA 230 and KINA 231) to apply knowledge gained in these courses to practical use. The course focuses on increasing strength, cardiovascular fitness levels, body composition, endurance and flexibility utilizing various types of equipment available in the Fitness and Wellness Center. In the course, students demonstrate knowledge and skills in cardiovascular training, Super Circuit training, interval training, and weight training exercises. Additionally, students demonstrate knowledge of definitions and terminology of the current fitness arena, assisting them with fitness as a lifelong process that uses a variety of cardiovascular and strength mediums.",
+      "prerequisites": "KINA 231",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78335",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:54.459841Z"
     },
     {
       "crn": "78338",
@@ -57156,7 +58039,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78338')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78338')",
+      "description": "This course is a self-paced physical fitness laboratory designed for students who have completed Fitness and Wellness Laboratory I, II, and III (KINA 130, KINA 230 and KINA 231) to apply knowledge gained in these courses to practical use. The course focuses on increasing strength, cardiovascular fitness levels, body composition, endurance and flexibility utilizing various types of equipment available in the Fitness and Wellness Center. In the course, students demonstrate knowledge and skills in cardiovascular training, Super Circuit training, interval training, and weight training exercises. Additionally, students demonstrate knowledge of definitions and terminology of the current fitness arena, assisting them with fitness as a lifelong process that uses a variety of cardiovascular and strength mediums.",
+      "prerequisites": "KINA 231",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78338",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:56.054135Z"
     },
     {
       "crn": "78343",
@@ -57188,7 +58092,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78343')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78343')",
+      "description": "This course is a self-paced physical fitness laboratory designed for students who have completed Fitness and Wellness Laboratory I, II, and III (KINA 130, KINA 230 and KINA 231) to apply knowledge gained in these courses to practical use. The course focuses on increasing strength, cardiovascular fitness levels, body composition, endurance and flexibility utilizing various types of equipment available in the Fitness and Wellness Center. In the course, students demonstrate knowledge and skills in cardiovascular training, Super Circuit training, interval training, and weight training exercises. Additionally, students demonstrate knowledge of definitions and terminology of the current fitness arena, assisting them with fitness as a lifelong process that uses a variety of cardiovascular and strength mediums.",
+      "prerequisites": "KINA 231",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78343",
+      "seating_detail": {
+        "capacity": 5,
+        "taken": 0,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-06T03:36:57.647035Z"
     },
     {
       "crn": "77722",
@@ -57220,7 +58145,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77722')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77722')",
+      "description": null,
+      "prerequisites": "KINA 136",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)KINA 236 is a continuation of KINA 136, and builds upon the basic Pilates Mat exercises covered in KINA 136. The exercises in this course are designed to further increase strength in the abdominal and spinal musculature. Students engage in exercises and learn how to utilize props (e.g., magic circles, stretch/exercise bands, mini balls, gliders, and hand weights) designed to further increase awareness of body alignment, torso strength, and spine and limbs as well as to increase endurance while fine-tuning breathing techniques utilized in strength training exercises. Additionally, students advance their coordination and balance, and learn about the muscle groups and their actions being utilized during traditional Pilates Mat work.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77722",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 9,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-06T03:36:59.238948Z"
     },
     {
       "crn": "77936",
@@ -57252,7 +58198,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77936')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77936')",
+      "description": null,
+      "prerequisites": "KINA 136",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)KINA 236 is a continuation of KINA 136, and builds upon the basic Pilates Mat exercises covered in KINA 136. The exercises in this course are designed to further increase strength in the abdominal and spinal musculature. Students engage in exercises and learn how to utilize props (e.g., magic circles, stretch/exercise bands, mini balls, gliders, and hand weights) designed to further increase awareness of body alignment, torso strength, and spine and limbs as well as to increase endurance while fine-tuning breathing techniques utilized in strength training exercises. Additionally, students advance their coordination and balance, and learn about the muscle groups and their actions being utilized during traditional Pilates Mat work.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77936",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 3,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-06T03:37:00.831360Z"
     },
     {
       "crn": "77937",
@@ -57284,7 +58251,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77937')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77937')",
+      "description": null,
+      "prerequisites": "KINA 136",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)KINA 236 is a continuation of KINA 136, and builds upon the basic Pilates Mat exercises covered in KINA 136. The exercises in this course are designed to further increase strength in the abdominal and spinal musculature. Students engage in exercises and learn how to utilize props (e.g., magic circles, stretch/exercise bands, mini balls, gliders, and hand weights) designed to further increase awareness of body alignment, torso strength, and spine and limbs as well as to increase endurance while fine-tuning breathing techniques utilized in strength training exercises. Additionally, students advance their coordination and balance, and learn about the muscle groups and their actions being utilized during traditional Pilates Mat work.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77937",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 3,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-06T03:37:02.421467Z"
     },
     {
       "crn": "78461",
@@ -57316,7 +58304,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78461')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78461')",
+      "description": null,
+      "prerequisites": "KINA 136",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*The UC will grant a maximum of 4 units credit for PE activity courses)KINA 236 is a continuation of KINA 136, and builds upon the basic Pilates Mat exercises covered in KINA 136. The exercises in this course are designed to further increase strength in the abdominal and spinal musculature. Students engage in exercises and learn how to utilize props (e.g., magic circles, stretch/exercise bands, mini balls, gliders, and hand weights) designed to further increase awareness of body alignment, torso strength, and spine and limbs as well as to increase endurance while fine-tuning breathing techniques utilized in strength training exercises. Additionally, students advance their coordination and balance, and learn about the muscle groups and their actions being utilized during traditional Pilates Mat work.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78461",
+      "seating_detail": {
+        "capacity": 15,
+        "taken": 1,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-09-06T03:37:04.012155Z"
     },
     {
       "crn": "73813",
@@ -57348,7 +58357,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73813')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73813')",
+      "description": "This course is designed for intermediate students who want to advance their familiarity with the physical asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to further challenge students in their physical practice by increasing sustainment, perfecting alignment, and incorporating twists and wraps. Parivrtta Trikonasana, Prasarita Padottanasana, Malasana, Garudasana, Natasajasana, Utthita Hasta Padangustasana, Chaturanga Dandasana, Purvottanasana, Navasana, Virasana, Ustrasana, Matsyasana, Sarvangasana, Suryya Namaskar B are covered in depth during the course. This course is required for the Yoga Teacher Training Certificate of Achievement (C.O.A.)",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73813",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 1,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-09-06T03:37:05.603562Z"
     },
     {
       "crn": "76980",
@@ -57380,7 +58410,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76980')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76980')",
+      "description": "This course is designed for intermediate students who want to advance their familiarity with the physical asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to further challenge students in their physical practice by increasing sustainment, perfecting alignment, and incorporating twists and wraps. Parivrtta Trikonasana, Prasarita Padottanasana, Malasana, Garudasana, Natasajasana, Utthita Hasta Padangustasana, Chaturanga Dandasana, Purvottanasana, Navasana, Virasana, Ustrasana, Matsyasana, Sarvangasana, Suryya Namaskar B are covered in depth during the course. This course is required for the Yoga Teacher Training Certificate of Achievement (C.O.A.)",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76980",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 3,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-06T03:37:07.199247Z"
     },
     {
       "crn": "77503",
@@ -75155,8 +76206,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-09-05T03:38:42.162956+00:00Z",
-    "courses_with_details": 1047,
+    "detail_collection_timestamp": "2025-09-06T03:37:07.284483+00:00Z",
+    "courses_with_details": 1097,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
