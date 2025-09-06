@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-09-06T15:19:17.680991Z",
+  "collection_timestamp": "2025-09-06T23:19:10.755592Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -953,8 +953,8 @@
       "location": "VA 334",
       "enrollment": {
         "capacity": 14,
-        "actual": 8,
-        "remaining": 6
+        "actual": 7,
+        "remaining": 7
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3097,8 +3097,8 @@
       "location": "MA 225",
       "enrollment": {
         "capacity": 23,
-        "actual": 22,
-        "remaining": 1
+        "actual": 21,
+        "remaining": 2
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3353,7 +3353,7 @@
       "location": "LS 115",
       "enrollment": {
         "capacity": 23,
-        "actual": 25,
+        "actual": 26,
         "remaining": 0
       },
       "status": "Open",
@@ -8313,8 +8313,8 @@
       "location": "MA 222",
       "enrollment": {
         "capacity": 23,
-        "actual": 20,
-        "remaining": 3
+        "actual": 21,
+        "remaining": 2
       },
       "status": "Open",
       "section_type": "LEC",
@@ -8537,8 +8537,8 @@
       "location": "ED 104",
       "enrollment": {
         "capacity": 45,
-        "actual": 31,
-        "remaining": 14
+        "actual": 30,
+        "remaining": 15
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13465,8 +13465,8 @@
       "location": "PC 303",
       "enrollment": {
         "capacity": 45,
-        "actual": 18,
-        "remaining": 27
+        "actual": 17,
+        "remaining": 28
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13657,8 +13657,8 @@
       "location": "ED 212",
       "enrollment": {
         "capacity": 30,
-        "actual": 15,
-        "remaining": 15
+        "actual": 14,
+        "remaining": 16
       },
       "status": "Open",
       "section_type": "LEC",
@@ -15769,8 +15769,8 @@
       "location": "AQ 100",
       "enrollment": {
         "capacity": 35,
-        "actual": 17,
-        "remaining": 18
+        "actual": 18,
+        "remaining": 17
       },
       "status": "Open",
       "section_type": "LEC",
