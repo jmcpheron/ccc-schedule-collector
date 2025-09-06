@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-06T06:35:01.752780Z",
+  "collection_timestamp": "2025-09-06T14:30:04.310165Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -2844,7 +2844,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -9689,8 +9689,8 @@
       "location": "Science 130",
       "enrollment": {
         "capacity": 24,
-        "actual": 19,
-        "remaining": 5
+        "actual": 18,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -12025,8 +12025,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 29,
-        "remaining": 16
+        "actual": 28,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14617,8 +14617,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 26,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14745,8 +14745,8 @@
       "location": "Business 115",
       "enrollment": {
         "capacity": 35,
-        "actual": 26,
-        "remaining": 9
+        "actual": 25,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15129,8 +15129,8 @@
       "location": "Business 114",
       "enrollment": {
         "capacity": 35,
-        "actual": 16,
-        "remaining": 19
+        "actual": 15,
+        "remaining": 20
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -20441,8 +20441,8 @@
       "location": "Learning Resource Center (LRC) 119",
       "enrollment": {
         "capacity": 28,
-        "actual": 26,
-        "remaining": 2
+        "actual": 24,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21177,8 +21177,8 @@
       "location": "Learning Resource Center (LRC) 119",
       "enrollment": {
         "capacity": 28,
-        "actual": 26,
-        "remaining": 2
+        "actual": 24,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22585,8 +22585,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 28,
-        "actual": 21,
-        "remaining": 7
+        "actual": 20,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -25532,7 +25532,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -33209,8 +33209,8 @@
       "location": "Track",
       "enrollment": {
         "capacity": 45,
-        "actual": 20,
-        "remaining": 25
+        "actual": 18,
+        "remaining": 27
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37593,8 +37593,8 @@
       "location": "Science 211",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 21,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39257,8 +39257,8 @@
       "location": "Modular Classrooms 03",
       "enrollment": {
         "capacity": 50,
-        "actual": 33,
-        "remaining": 17
+        "actual": 32,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39321,8 +39321,8 @@
       "location": "Modular Classrooms 10",
       "enrollment": {
         "capacity": 15,
-        "actual": 19,
-        "remaining": 4
+        "actual": 20,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39354,7 +39354,7 @@
       "enrollment": {
         "capacity": 11,
         "actual": 6,
-        "remaining": 5
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39513,8 +39513,8 @@
       "location": "Modular Classrooms 11",
       "enrollment": {
         "capacity": 5,
-        "actual": 3,
-        "remaining": 2
+        "actual": 2,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39644,7 +39644,7 @@
         "actual": 25,
         "remaining": 5
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -43993,8 +43993,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 29,
-        "remaining": 6
+        "actual": 25,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44057,8 +44057,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 21,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46044,7 +46044,7 @@
         "actual": 0,
         "remaining": 30
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -48188,7 +48188,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -54297,8 +54297,8 @@
       "location": "Technology 114",
       "enrollment": {
         "capacity": 24,
-        "actual": 18,
-        "remaining": 6
+        "actual": 17,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
