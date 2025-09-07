@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-06T22:30:36.143137Z",
+  "collection_timestamp": "2025-09-07T06:35:35.726904Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -5052,7 +5052,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -5593,8 +5593,8 @@
       "location": "Science 307",
       "enrollment": {
         "capacity": 20,
-        "actual": 20,
-        "remaining": 0
+        "actual": 19,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -13529,8 +13529,8 @@
       "location": "Science 333",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17817,8 +17817,8 @@
       "location": "Physical Education 139",
       "enrollment": {
         "capacity": 35,
-        "actual": 5,
-        "remaining": 25
+        "actual": 4,
+        "remaining": 26
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23548,7 +23548,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -24345,8 +24345,8 @@
       "location": "Technology 118A",
       "enrollment": {
         "capacity": 24,
-        "actual": 22,
-        "remaining": 2
+        "actual": 21,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43705,8 +43705,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 1,
+        "remaining": 24
       },
       "status": "OPEN",
       "section_type": "LEC",
