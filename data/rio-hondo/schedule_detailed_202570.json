@@ -58463,7 +58463,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77503')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77503')",
+      "description": "This course is designed for intermediate students who want to advance their familiarity with the physical asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to further challenge students in their physical practice by increasing sustainment, perfecting alignment, and incorporating twists and wraps. Parivrtta Trikonasana, Prasarita Padottanasana, Malasana, Garudasana, Natasajasana, Utthita Hasta Padangustasana, Chaturanga Dandasana, Purvottanasana, Navasana, Virasana, Ustrasana, Matsyasana, Sarvangasana, Suryya Namaskar B are covered in depth during the course. This course is required for the Yoga Teacher Training Certificate of Achievement (C.O.A.)",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77503",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 4,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-09-07T03:37:41.557896Z"
     },
     {
       "crn": "77507",
@@ -58495,7 +58516,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77507')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77507')",
+      "description": "This course is designed for intermediate students who want to advance their familiarity with the physical asanas (poses) of Hatha Yoga as well as Pranayama (breathing techniques) and Dhyana (meditation techniques). The goal of the course is to integrate the mind, body, and spirit and to further challenge students in their physical practice by increasing sustainment, perfecting alignment, and incorporating twists and wraps. Parivrtta Trikonasana, Prasarita Padottanasana, Malasana, Garudasana, Natasajasana, Utthita Hasta Padangustasana, Chaturanga Dandasana, Purvottanasana, Navasana, Virasana, Ustrasana, Matsyasana, Sarvangasana, Suryya Namaskar B are covered in depth during the course. This course is required for the Yoga Teacher Training Certificate of Achievement (C.O.A.)",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77507",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 3,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-07T03:37:43.171141Z"
     },
     {
       "crn": "71358",
@@ -58527,7 +58569,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71358')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71358')",
+      "description": "This course is designed for students who wish to study the four general literary forms: poetry, drama, short story, and novel. Emphasis will be placed on critical thinking, critical reading, and composing. Compositions will be based upon discussion, analysis and interpretations of literature, and upon the relationship of Western and Non-Western literature to contemporary thought.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: LIT 102 or LIT 102H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71358",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 13,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-07T03:37:44.790597Z"
     },
     {
       "crn": "71359",
@@ -58558,8 +58621,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71359')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71359')",
+      "description": "This course is designed for students who wish to study the four general literary forms: poetry, drama, short story, and novel. Emphasis will be placed on critical thinking, critical reading, and composing. Compositions will be based upon discussion, analysis and interpretations of literature, and upon the relationship of Western and Non-Western literature to contemporary thought.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: LIT 102 or LIT 102H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71359",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 24,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-07T03:37:46.410920Z"
     },
     {
       "crn": "71360",
@@ -58591,7 +58675,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71360')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71360')",
+      "description": "This course is designed for students who wish to study the four general literary forms: poetry, drama, short story, and novel. Emphasis will be placed on critical thinking, critical reading, and composing. Compositions will be based upon discussion, analysis and interpretations of literature, and upon the relationship of Western and Non-Western literature to contemporary thought. This course is intended for students eligible for the Honors Program.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: LIT 102 or LIT 102H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71360",
+      "seating_detail": {
+        "capacity": 6,
+        "taken": 5,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-07T03:37:48.032337Z"
     },
     {
       "crn": "71363",
@@ -58623,7 +58728,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71363')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71363')",
+      "description": "This course explores a range of American literature, with a focus on major texts and writers from early settlement to 1865. Representative writers include Bradstreet, Bradford, Franklin, Douglass, Paine, Lincoln, Emerson, Thoreau, Poe, Melville, and Dickinson. Course reading and writing assignments explore major cultural and historical themes, including the pre-colonial exploration of the Americas, Native American literary contributions, the Revolutionary and Civil Wars, transcendentalism, and romanticism. This course is designed for students interested in exploring various genres of literature or learning more about cultural expression in the Americas, and students majoring in English or liberal studies.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: LIT 112A or LIT 112AH)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71363",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 9,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-07T03:37:49.653105Z"
     },
     {
       "crn": "71364",
@@ -58655,7 +58781,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71364')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71364')",
+      "description": "This course explores a range of American literature, with a focus on major texts and writers from early settlement to 1865. Representative writers include Bradstreet, Bradford, Franklin, Douglass, Paine, Lincoln, Emerson, Thoreau, Poe, Melville, and Dickinson. Course reading and writing assignments explore major cultural and historical themes, including the pre-colonial exploration of the Americas, Native American literary contributions, the Revolutionary and Civil Wars, transcendentalism, and romanticism. This course is designed for students interested in exploring various genres of literature or learning more about cultural expression in the Americas, and students majoring in English or liberal studies. This course is designed for students eligible for the Honors Program.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following courses: LIT 112A or LIT 112AH)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71364",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 2,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-07T03:37:51.274340Z"
     },
     {
       "crn": "77788",
@@ -58687,7 +58834,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77788')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77788')",
+      "description": "This course introduces students to a wide range of world literature from antiquity, the Middle Ages, and the Renaissance. Although emphasis is placed on continental literature and Western civilization, the course may include significant works from African, Asian, Middle Eastern, and/or Latin American traditions. Course reading and writing assignments emphasize literary periods and literary history, the different genres of literary expression, and literature as a reflection of major cultural events and beliefs. This course is designed for students interested in learning more about literary expression and students intending to major in a literary or arts-related field of study.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77788",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 12,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-09-07T03:37:52.900340Z"
     },
     {
       "crn": "77070",
@@ -58719,7 +58887,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77070')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77070')",
+      "description": "This course is designed for students interested in learning about British literature from the Old English period (circa 450 until circa 1150 C.E.) to the beginning of the nineteenth century. Chaucer, Spenser, Shakespeare, Bacon, Donne, Milton, Dryden, Swift, Pope, Johnson, Boswell, and Fielding are among the major British writers that are discussed in the course.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: LIT 146A or LIT 146AH)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77070",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 10,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-07T03:37:54.519162Z"
     },
     {
       "crn": "71388",
@@ -58751,7 +58940,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71388')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71388')",
+      "description": "This course is designed for students interested in learning about British literature from the Old English period (circa 450 until circa 1150 C.E.) to the beginning of the nineteenth century. Chaucer, Spenser, Shakespeare, Bacon, Donne, Milton, Dryden, Swift, Pope, Johnson, Boswell, and Fielding are among the major British writers that are discussed in the course. This course is designed for students eligible for the Honors Program.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: LIT 146A or LIT 146AH)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71388",
+      "seating_detail": {
+        "capacity": 6,
+        "taken": 2,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-07T03:37:56.139415Z"
     },
     {
       "crn": "71390",
@@ -58782,8 +58992,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71390')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71390')",
+      "description": "This course is intended for students interested in learning about the aesthetics of filmmaking, especially with regard to the adaptation of literature to the cinematic medium. Films are analyzed and evaluated according to their historical, social, cultural, aesthetic, and technical significance. Both American and international filmmaking will be covered.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: LIT 147 or LIT 147H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71390",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 15,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-07T03:37:57.758920Z"
     },
     {
       "crn": "77048",
@@ -58814,8 +59045,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77048')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77048')",
+      "description": "This course is intended for students seeking a career in logistics or supply chain management. This course explores the basic purchasing functions including establishing purchasing requirements and quantities, developing purchasing policies and procedures, receiving acceptable goods, arranging for packaging and shipping, managing inventory control, and the integration of the purchasing activities with other business functions.",
+      "prerequisites": null,
+      "advisory": "CIT 051; ECON 101 or ECON 102; LOG 101",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77048",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 9,
+        "available": 36
+      },
+      "detail_fetched_at": "2025-09-07T03:37:59.380677Z"
     },
     {
       "crn": "77049",
@@ -58846,8 +59099,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77049')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77049')",
+      "description": "This course is intended for students seeking a career in logistics or supply chain management. The course reviews the concepts and techniques available for planning and controlling inventories. Students will examine methods to determine the appropriate amount of inventory to carry; the relationship between inventory as a physical asset and an accounting asset; the difference between raw material, work-in-process, and finished goods inventories; controlling the physical locations of inventory; recognizing and analyzing inventory dysfunctions; bar code technologies; and protecting inventory from natural, technological, and man-made disasters.",
+      "prerequisites": null,
+      "advisory": "CIT 051; ACCT 100; LOG 101",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77049",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 27,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-07T03:38:00.998927Z"
     },
     {
       "crn": "77947",
@@ -58879,7 +59154,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77947')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77947')",
+      "description": "This support course is designed to develop the mathematical knowledge necessary for the successful completion of Elements of Calculus (MATH 170). Students must be concurrently enrolled in a section of MATH 170 to take this support course. Topics from college algebra are covered to build a foundation for Elements of Calculus. This is a nondegree applicable course offered on a pass/no pass basis.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This support course is designed to develop the mathematical knowledge necessary for the successful completion of Elements of Calculus (MATH 170). Students must be concurrently enrolled in a section of MATH 170 to take this support course. Topics from college algebra are covered to build a foundation for Elements of Calculus. This is a nondegree applicable course offered on a pass/no pass basis. View Book Learning Outcomes and Important Section Information Course Corequisites: MATH 170 Section Information as of 06-SEP-2025 08:09:02 PM Title: MATH 007E Esential Tops Elements of Calc CRN: 77947 Instructor: Cameron English Instructor: Cameron English CH Weekly Census Instructional Method Section Corequisites: 77752 Bldg/Room: S 301 Science Meeting Time M 02:55pm - 04:00pm S 301 Science 08/16/25 12/06/25 W 02:55pm - 03:45pm S 301 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 35 20 15 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77947",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 20,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-07T03:38:02.617350Z"
     },
     {
       "crn": "78307",
@@ -58911,7 +59207,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78307')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78307')",
+      "description": "This support course is designed to develop the mathematical knowledge and study skills necessary for successful completion of Algebra and Trigonometry for Calculus (MATH 185). Students must be concurrently enrolled in a section of MATH 185 to take this support course. Topics from arithmetic, geometry, and algebra are covered. This is a non-degree applicable course offered on a pass-no pass basis.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This support course is designed to develop the mathematical knowledge and study skills necessary for successful completion of Algebra and Trigonometry for Calculus (MATH 185). Students must be concurrently enrolled in a section of MATH 185 to take this support course. Topics from arithmetic, geometry, and algebra are covered. This is a non-degree applicable course offered on a pass-no pass basis. View Book Learning Outcomes and Important Section Information Course Corequisites: MATH 185 Section Information as of 06-SEP-2025 08:09:04 PM Title: MATH 008E Topics for Alg & Trig for Calc CRN: 78307 Instructor: Jupei Hsiao CH Weekly Census Instructional Method Section Corequisites: 78306 Bldg/Room: S 311 Science Section Information Text This course is available to students whose majors or programs require it and who have not yet completed Pre-calculus, Calculus, Trigonometry, and Integrated Math 4 with a C or higher. Meeting Time M W 10:15am - 11:20am S 311 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 35 14 21 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78307",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 14,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-09-07T03:38:04.239262Z"
     },
     {
       "crn": "78395",
@@ -58943,7 +59260,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78395')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78395')",
+      "description": "This support course is designed to help students develop the mathematical knowledge necessary for the successful completion of Calculus II (MATH 191). Students must be concurrently enrolled in a section of MATH 191 to take this support course. Topics from pre-calculus, trigonometry, and calculus are covered to build a foundation for Calculus II. This is a non-degree applicable course offered on a pass/no pass basis.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78395",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 36,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-09-07T03:38:05.861860Z"
     },
     {
       "crn": "76431",
@@ -58975,7 +59313,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76431')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76431')",
+      "description": "This support course is designed to develop the mathematical knowledge and study skills needed to complete MATH 150 (Survey of Mathematics) successfully. Topics from intermediate algebra and geometry are covered to build a foundation for college-level quantitative reasoning. Additionally, strategic reading and critical thinking are taken up to build the strategies needed to solve contextualized problems. Topics in the area of study skills and metacognition are also included to support students in a college-level math course. This is a non-degree-applicable course offered on a pass/no-pass basis.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This support course is designed to develop the mathematical knowledge and study skills needed to complete MATH 150 (Survey of Mathematics) successfully. Topics from intermediate algebra and geometry are covered to build a foundation for college-level quantitative reasoning. Additionally, strategic reading and critical thinking are taken up to build the strategies needed to solve contextualized problems. Topics in the area of study skills and metacognition are also included to support students in a college-level math course. This is a non-degree-applicable course offered on a pass/no-pass basis. View Book Learning Outcomes and Important Section Information Course Corequisites: MATH 150 Section Information as of 06-SEP-2025 08:09:07 PM Title: MATH 015E Survey of Mathematics CRN: 76431 Instructor: Marissa Berru-licon Instructor: Marissa Berru-licon CH Weekly Census Instructional Method Section Corequisites: 76432 Bldg/Room: S 303 Science Meeting Time M 09:35am - 10:40am S 303 Science 08/16/25 12/06/25 W 09:35am - 10:25am S 303 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 35 27 8 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76431",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 27,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-07T03:38:07.482148Z"
     },
     {
       "crn": "76526",
@@ -59007,7 +59366,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76526')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76526')",
+      "description": "This support course is designed to develop the mathematical knowledge and study skills necessary for successful completion of College Algebra (MATH 16). Students must be concurrently enrolled in a College Algebra course to take this support course. Topics from intermediate algebra are covered to build a foundation for success in college-level algebra. Strategic reading, critical thinking, and problem-solving are incorporated to build the strategies needed to solve contextualized problems. Topics in the area of study skills and meta-cognition are also included to support students in a college-level math course. This is a non-degree applicable course offered on a pass/no pass basis.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This support course is designed to develop the mathematical knowledge and study skills necessary for successful completion of College Algebra (MATH 16). Students must be concurrently enrolled in a College Algebra course to take this support course. Topics from intermediate algebra are covered to build a foundation for success in college-level algebra. Strategic reading, critical thinking, and problem-solving are incorporated to build the strategies needed to solve contextualized problems. Topics in the area of study skills and meta-cognition are also included to support students in a college-level math course. This is a non-degree applicable course offered on a pass/no pass basis. View Book Learning Outcomes and Important Section Information Course Corequisites: MATH 160 Section Information as of 06-SEP-2025 08:09:09 PM Title: MATH 016E Essential Topics Coll Algebra CRN: 76526 Instructor: Hank Fung CH Weekly Census Instructional Method Section Corequisites: 71305 Bldg/Room: S 330 Science Meeting Time R 10:15am - 11:05am S 330 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 35 15 20 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76526",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 15,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-09-07T03:38:09.101916Z"
     },
     {
       "crn": "76529",
@@ -59039,7 +59419,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76529')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76529')",
+      "description": "This course develops the mathematical knowledge and study skills necessary for successful completion of MATH 175 (Plane Trigonometry). Students must be concurrently enrolled in a trigonometry course to take this support course. Topics from intermediate algebra are covered. Strategic reading, critical thinking, and problem-solving are incorporated to aid in solving contextualized problems. Study skills and metacognitive topics are included to support students in a college-level math course. This is a non-degree-applicable course offered on a pass/no-pass basis.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This course develops the mathematical knowledge and study skills necessary for successful completion of MATH 175 (Plane Trigonometry). Students must be concurrently enrolled in a trigonometry course to take this support course. Topics from intermediate algebra are covered. Strategic reading, critical thinking, and problem-solving are incorporated to aid in solving contextualized problems. Study skills and metacognitive topics are included to support students in a college-level math course. This is a non-degree-applicable course offered on a pass/no-pass basis. View Book Learning Outcomes and Important Section Information Course Corequisites: MATH 175 Section Information as of 06-SEP-2025 08:09:11 PM Title: MATH 017E Essential Topics Plane Trig CRN: 76529 Instructor: Ryan Bronkar CH Weekly Census Instructional Method Section Corequisites: 76530 Bldg/Room: S 330 Science Meeting Time T 10:15am - 11:05am S 330 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 35 18 17 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76529",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 18,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-07T03:38:10.735466Z"
     },
     {
       "crn": "76428",
@@ -59071,7 +59472,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76428')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76428')",
+      "description": "This course develops the mathematical knowledge and study skills necessary for successful completion of MATH 180 (Pre-Calculus). Students must be concurrently enrolled in a section of MATH 180 to take this support course. Topics from intermediate algebra and trigonometry are covered to build a foundation for college-level quantitative reasoning. Strategic reading, critical thinking, and problem-solving are incorporated to aid in solving contextualized problems. Study skills are included to support students in a college level math course. This course is not degree applicable and is offered in a pass/no-pass format.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This course develops the mathematical knowledge and study skills necessary for successful completion of MATH 180 (Pre-Calculus). Students must be concurrently enrolled in a section of MATH 180 to take this support course. Topics from intermediate algebra and trigonometry are covered to build a foundation for college-level quantitative reasoning. Strategic reading, critical thinking, and problem-solving are incorporated to aid in solving contextualized problems. Study skills are included to support students in a college level math course. This course is not degree applicable and is offered in a pass/no-pass format. View Book Learning Outcomes and Important Section Information Course Corequisites: MATH 180 Section Information as of 06-SEP-2025 08:09:12 PM Title: MATH 018E Essential Topics for Pre-Calc CRN: 76428 Instructor: Nancy Garcia CH Weekly Census Instructional Method Section Corequisites: 71318 Bldg/Room: S 330 Science Meeting Time W 10:15am - 11:05am S 330 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 35 26 9 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76428",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 26,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-07T03:38:12.357014Z"
     },
     {
       "crn": "78328",
@@ -59103,7 +59525,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78328')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78328')",
+      "description": "This support course is designed to help students develop the mathematical knowledge necessary for the successful completion of Calculus I (MATH 190). Students must be concurrently enrolled in a section of MATH 190 to take this support course. Topics from pre-calculus and trigonometry are covered to build a foundation for Calculus I. This is a non-degree applicable course offered on a pass/no pass basis.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This support course is designed to help students develop the mathematical knowledge necessary for the successful completion of Calculus I (MATH 190). Students must be concurrently enrolled in a section of MATH 190 to take this support course. Topics from pre-calculus and trigonometry are covered to build a foundation for Calculus I. This is a non-degree applicable course offered on a pass/no pass basis. View Book Learning Outcomes and Important Section Information Course Corequisites: MATH 190 Section Information as of 06-SEP-2025 08:09:14 PM Title: MATH 019E Essential Topic for Calculus I CRN: 78328 Instructor: Henry Leang Instructor: Henry Leang CH Weekly Census Instructional Method Section Corequisites: 76975 Bldg/Room: S 209 Science Meeting Time T 12:05pm - 01:10pm S 209 Science 08/16/25 12/06/25 R 12:05pm - 12:55pm S 209 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 35 24 11 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78328",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 24,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-07T03:38:13.978544Z"
     },
     {
       "crn": "71290",
@@ -59135,7 +59578,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71290')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71290')",
+      "description": "This course is designed to deepen and extend the student's understanding of the foundations of the mathematics taught in elementary school. Because it is intended for the student preparing to teach at that level, it frequently refers to and uses materials and methodology appropriate for students at that level, but it is not a methods course. The course is concept-driven with an emphasis on problem solving. Concrete manipulatives are used to give meaning to abstract mathematical concepts. Topics include numeration and place value concepts, models and algorithms for operations with whole numbers, integers, fractions and decimals, and the structure and properties of the real number system.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71290",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 21,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-09-07T03:38:15.597189Z"
     },
     {
       "crn": "76430",
@@ -59166,8 +59630,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76430')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76430')",
+      "description": null,
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": null,
+      "transfers_to": "CSU, UCIn this course students will learn to read and understand quantitative information, solve practical problems, and make sound decisions using numbers. Topics include consumer applications, logic, probability, statistics, algebra, and geometry.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76430",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 29,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-07T03:38:17.215241Z"
     },
     {
       "crn": "76432",
@@ -59199,7 +59684,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76432')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76432')",
+      "description": null,
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": null,
+      "transfers_to": "CSU, UCIn this course students will learn to read and understand quantitative information, solve practical problems, and make sound decisions using numbers. Topics include consumer applications, logic, probability, statistics, algebra, and geometry.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76432",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 27,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-07T03:38:18.835722Z"
     },
     {
       "crn": "76512",
@@ -59231,7 +59737,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76512')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76512')",
+      "description": null,
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": null,
+      "transfers_to": "CSU, UCIn this course students will learn to read and understand quantitative information, solve practical problems, and make sound decisions using numbers. Topics include consumer applications, logic, probability, statistics, algebra, and geometry.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76512",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 22,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-07T03:38:20.453743Z"
     },
     {
       "crn": "76552",
@@ -59263,7 +59790,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76552')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76552')",
+      "description": null,
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": null,
+      "transfers_to": "CSU, UCIn this course students will learn to read and understand quantitative information, solve practical problems, and make sound decisions using numbers. Topics include consumer applications, logic, probability, statistics, algebra, and geometry.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76552",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 30,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-07T03:38:22.072253Z"
     },
     {
       "crn": "76560",
@@ -59294,8 +59842,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76560')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76560')",
+      "description": null,
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": null,
+      "transfers_to": "CSU, UCIn this course students will learn to read and understand quantitative information, solve practical problems, and make sound decisions using numbers. Topics include consumer applications, logic, probability, statistics, algebra, and geometry.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76560",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 33,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-07T03:38:23.689822Z"
     },
     {
       "crn": "77342",
@@ -59327,7 +59896,29 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77342')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77342')",
+      "description": null,
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": null,
+      "transfers_to": "CSU, UCIn this course students will learn to read and understand quantitative information, solve practical problems, and make sound decisions using numbers. Topics include consumer applications, logic, probability, statistics, algebra, and geometry.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "26-AUG-2025",
+        "Last day to drop with a refund": "26-AUG-2025",
+        "Last day to drop without a \"W\"": "16-SEP-2025",
+        "Last day to drop with a \"W\"": "30-OCT-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "04-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77342",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 31,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-07T03:38:25.308208Z"
     },
     {
       "crn": "78044",
@@ -59359,7 +59950,29 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78044')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78044')",
+      "description": null,
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": null,
+      "transfers_to": "CSU, UCIn this course students will learn to read and understand quantitative information, solve practical problems, and make sound decisions using numbers. Topics include consumer applications, logic, probability, statistics, algebra, and geometry.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "26-AUG-2025",
+        "Last day to drop with a refund": "26-AUG-2025",
+        "Last day to drop without a \"W\"": "16-SEP-2025",
+        "Last day to drop with a \"W\"": "30-OCT-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "04-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78044",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 34,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-07T03:38:26.928534Z"
     },
     {
       "crn": "71294",
@@ -59391,7 +60004,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71294')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71294')",
+      "description": "This course covers linear, quadratic, polynomial, power, exponential, and logarithmic functions and their applications from a graphical, numerical, and analytical point of view. The course also covers systems of equations and inequalities and sequences and series. This course serves as preparation for students planning to take Elements of Calculus (MATH 170).",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": null,
+      "transfers_to": "UC, (*credit limit), CSU(*Students will receive credit for only one of the following courses: MATH 160 or MATH 180)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71294",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 11,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-09-07T03:38:28.547140Z"
     },
     {
       "crn": "71305",
@@ -59423,7 +60057,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71305')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71305')",
+      "description": "This course covers linear, quadratic, polynomial, power, exponential, and logarithmic functions and their applications from a graphical, numerical, and analytical point of view. The course also covers systems of equations and inequalities and sequences and series. This course serves as preparation for students planning to take Elements of Calculus (MATH 170).",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an intermediate algebra course.",
+      "advisory": null,
+      "transfers_to": "UC, (*credit limit), CSU(*Students will receive credit for only one of the following courses: MATH 160 or MATH 180)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71305",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 15,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-09-07T03:38:30.166041Z"
     },
     {
       "crn": "71308",
@@ -59455,7 +60110,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71308')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71308')",
+      "description": "This one-semester course focuses on the fundamentals of algebra-based calculus and its applications to the fields of business, economics, social sciences, biology, and technology. Course topics include graphing of functions; applications of derivatives and integrals of functions including polynomials; rational, exponential, and logarithmic functions; multivariable derivatives; and differential equations.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures) or completion of an intermediate algebra course.",
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (8credit limit),CSU (*Students will receive credit for only one of the following courses: MATH 170, MATH 190, or MATH 190H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71308",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 25,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-07T03:38:31.788838Z"
     },
     {
       "crn": "74534",
@@ -59487,7 +60163,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74534')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74534')",
+      "description": "This one-semester course focuses on the fundamentals of algebra-based calculus and its applications to the fields of business, economics, social sciences, biology, and technology. Course topics include graphing of functions; applications of derivatives and integrals of functions including polynomials; rational, exponential, and logarithmic functions; multivariable derivatives; and differential equations.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures) or completion of an intermediate algebra course.",
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (8credit limit),CSU (*Students will receive credit for only one of the following courses: MATH 170, MATH 190, or MATH 190H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74534",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 20,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-07T03:38:33.422799Z"
     },
     {
       "crn": "77752",
@@ -59519,7 +60216,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77752')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77752')",
+      "description": "This one-semester course focuses on the fundamentals of algebra-based calculus and its applications to the fields of business, economics, social sciences, biology, and technology. Course topics include graphing of functions; applications of derivatives and integrals of functions including polynomials; rational, exponential, and logarithmic functions; multivariable derivatives; and differential equations.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures) or completion of an intermediate algebra course.",
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (8credit limit),CSU (*Students will receive credit for only one of the following courses: MATH 170, MATH 190, or MATH 190H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77752",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 20,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-07T03:38:35.035750Z"
     },
     {
       "crn": "77925",
@@ -59551,7 +60269,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77925')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77925')",
+      "description": "This one-semester course focuses on the fundamentals of algebra-based calculus and its applications to the fields of business, economics, social sciences, biology, and technology. Course topics include graphing of functions; applications of derivatives and integrals of functions including polynomials; rational, exponential, and logarithmic functions; multivariable derivatives; and differential equations.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures) or completion of an intermediate algebra course.",
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (8credit limit),CSU (*Students will receive credit for only one of the following courses: MATH 170, MATH 190, or MATH 190H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77925",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 6,
+        "available": 29
+      },
+      "detail_fetched_at": "2025-09-07T03:38:36.656745Z"
     },
     {
       "crn": "77943",
@@ -59582,8 +60321,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77943')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77943')",
+      "description": "This one-semester course focuses on the fundamentals of algebra-based calculus and its applications to the fields of business, economics, social sciences, biology, and technology. Course topics include graphing of functions; applications of derivatives and integrals of functions including polynomials; rational, exponential, and logarithmic functions; multivariable derivatives; and differential equations.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures) or completion of an intermediate algebra course.",
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (8credit limit),CSU (*Students will receive credit for only one of the following courses: MATH 170, MATH 190, or MATH 190H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77943",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 27,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-07T03:38:38.278788Z"
     },
     {
       "crn": "78399",
@@ -59614,8 +60374,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78399')"
+      "additional_hours": "1.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78399')",
+      "description": "This one-semester course focuses on the fundamentals of algebra-based calculus and its applications to the fields of business, economics, social sciences, biology, and technology. Course topics include graphing of functions; applications of derivatives and integrals of functions including polynomials; rational, exponential, and logarithmic functions; multivariable derivatives; and differential equations.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures) or completion of an intermediate algebra course.",
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (8credit limit),CSU (*Students will receive credit for only one of the following courses: MATH 170, MATH 190, or MATH 190H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "25-AUG-2025",
+        "Last day to drop with a refund": "25-AUG-2025",
+        "Last day to drop without a \"W\"": "17-SEP-2025",
+        "Last day to drop with a \"W\"": "03-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "08-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78399",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 6,
+        "available": 29
+      },
+      "detail_fetched_at": "2025-09-07T03:38:39.896152Z"
     },
     {
       "crn": "78459",
@@ -59646,8 +60428,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78459')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78459')",
+      "description": "This one-semester course focuses on the fundamentals of algebra-based calculus and its applications to the fields of business, economics, social sciences, biology, and technology. Course topics include graphing of functions; applications of derivatives and integrals of functions including polynomials; rational, exponential, and logarithmic functions; multivariable derivatives; and differential equations.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures) or completion of an intermediate algebra course.",
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (8credit limit),CSU (*Students will receive credit for only one of the following courses: MATH 170, MATH 190, or MATH 190H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78459",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 33,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-07T03:38:41.507740Z"
     },
     {
       "crn": "78478",
@@ -59678,8 +60481,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78478')"
+      "additional_hours": "4.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78478')",
+      "description": "This one-semester course focuses on the fundamentals of algebra-based calculus and its applications to the fields of business, economics, social sciences, biology, and technology. Course topics include graphing of functions; applications of derivatives and integrals of functions including polynomials; rational, exponential, and logarithmic functions; multivariable derivatives; and differential equations.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures) or completion of an intermediate algebra course.",
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (8credit limit),CSU (*Students will receive credit for only one of the following courses: MATH 170, MATH 190, or MATH 190H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-SEP-2025",
+        "Last day to drop with a refund": "03-SEP-2025",
+        "Last day to drop without a \"W\"": "23-SEP-2025",
+        "Last day to drop with a \"W\"": "06-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "12-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78478",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 30,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-07T03:38:43.125603Z"
     },
     {
       "crn": "71315",
@@ -59711,7 +60536,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71315')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71315')",
+      "description": "This course is for students majoring in mathematics, science, and engineering. The course equips students with the skills necessary for success in precalculus, presenting the concepts of plane trigonometry using a functions approach. The course also includes a study of trigonometric functions including their inverses and graphs, identities and proofs related to trigonometric expressions, trigonometric equations, solving right triangles, solving triangles using the law of cosines and the law of sines, polar coordinates, and an introduction to vectors.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of a geometry and an intermediate algebra course.",
+      "advisory": "ENGL C1000",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71315",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-07T03:38:44.742729Z"
     },
     {
       "crn": "71316",
@@ -59743,7 +60589,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71316')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71316')",
+      "description": "This course is for students majoring in mathematics, science, and engineering. The course equips students with the skills necessary for success in precalculus, presenting the concepts of plane trigonometry using a functions approach. The course also includes a study of trigonometric functions including their inverses and graphs, identities and proofs related to trigonometric expressions, trigonometric equations, solving right triangles, solving triangles using the law of cosines and the law of sines, polar coordinates, and an introduction to vectors.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of a geometry and an intermediate algebra course.",
+      "advisory": "ENGL C1000",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71316",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 11,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-09-07T03:38:46.363124Z"
     },
     {
       "crn": "75285",
@@ -59775,7 +60642,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75285')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75285')",
+      "description": "This course is for students majoring in mathematics, science, and engineering. The course equips students with the skills necessary for success in precalculus, presenting the concepts of plane trigonometry using a functions approach. The course also includes a study of trigonometric functions including their inverses and graphs, identities and proofs related to trigonometric expressions, trigonometric equations, solving right triangles, solving triangles using the law of cosines and the law of sines, polar coordinates, and an introduction to vectors.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of a geometry and an intermediate algebra course.",
+      "advisory": "ENGL C1000",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75285",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-07T03:38:47.980810Z"
     },
     {
       "crn": "76530",
@@ -59807,7 +60695,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76530')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76530')",
+      "description": "This course is for students majoring in mathematics, science, and engineering. The course equips students with the skills necessary for success in precalculus, presenting the concepts of plane trigonometry using a functions approach. The course also includes a study of trigonometric functions including their inverses and graphs, identities and proofs related to trigonometric expressions, trigonometric equations, solving right triangles, solving triangles using the law of cosines and the law of sines, polar coordinates, and an introduction to vectors.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of a geometry and an intermediate algebra course.",
+      "advisory": "ENGL C1000",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76530",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 18,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-07T03:38:49.600171Z"
     },
     {
       "crn": "76564",
@@ -59838,8 +60747,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76564')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76564')",
+      "description": "This course is for students majoring in mathematics, science, and engineering. The course equips students with the skills necessary for success in precalculus, presenting the concepts of plane trigonometry using a functions approach. The course also includes a study of trigonometric functions including their inverses and graphs, identities and proofs related to trigonometric expressions, trigonometric equations, solving right triangles, solving triangles using the law of cosines and the law of sines, polar coordinates, and an introduction to vectors.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of a geometry and an intermediate algebra course.",
+      "advisory": "ENGL C1000",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76564",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 36,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-09-07T03:38:51.219228Z"
     },
     {
       "crn": "71318",
@@ -59871,7 +60801,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71318')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71318')",
+      "description": "This course is designed to prepare students for the study of calculus. The course presents a comprehensive study of linear, quadratic, polynomial, exponential, logarithmic, rational, and trigonometric functions. Inequalities, introductory analytic geometry, polar coordinates, polar equations, and their graphs, and an introduction to sequences are also included.",
+      "prerequisites": "MATH 175 or appropriate placement (based on high school GPA and/or other measures)",
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: MATH 160 or MATH 180 combined)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71318",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 26,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-07T03:38:52.835901Z"
     },
     {
       "crn": "74394",
@@ -59903,7 +60854,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74394')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74394')",
+      "description": "This course is designed to prepare students for the study of calculus. The course presents a comprehensive study of linear, quadratic, polynomial, exponential, logarithmic, rational, and trigonometric functions. Inequalities, introductory analytic geometry, polar coordinates, polar equations, and their graphs, and an introduction to sequences are also included.",
+      "prerequisites": "MATH 175 or appropriate placement (based on high school GPA and/or other measures)",
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: MATH 160 or MATH 180 combined)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74394",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 25,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-07T03:38:54.455871Z"
     },
     {
       "crn": "78306",
@@ -59935,7 +60907,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78306')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78306')",
+      "description": "This course serves as preparation for calculus. Algebra topics include exponents, radicals, equations, inequalities, and functions, which consist of quadratic, polynomial, rational, exponential, and logarithmic. Trigonometry topics include definitions, graphs, inverse functions, identities, and solving equations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, READ 101",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78306",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 14,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-09-07T03:38:56.081520Z"
     },
     {
       "crn": "78308",
@@ -59967,7 +60960,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78308')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78308')",
+      "description": "This course serves as preparation for calculus. Algebra topics include exponents, radicals, equations, inequalities, and functions, which consist of quadratic, polynomial, rational, exponential, and logarithmic. Trigonometry topics include definitions, graphs, inverse functions, identities, and solving equations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, READ 101",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78308",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 8,
+        "available": 27
+      },
+      "detail_fetched_at": "2025-09-07T03:38:57.705286Z"
     },
     {
       "crn": "78309",
@@ -59999,7 +61013,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78309')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78309')",
+      "description": "This course serves as preparation for calculus. Algebra topics include exponents, radicals, equations, inequalities, and functions, which consist of quadratic, polynomial, rational, exponential, and logarithmic. Trigonometry topics include definitions, graphs, inverse functions, identities, and solving equations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, READ 101",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78309",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 20,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-07T03:38:59.324397Z"
     },
     {
       "crn": "78310",
@@ -60031,7 +61066,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78310')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78310')",
+      "description": "This course serves as preparation for calculus. Algebra topics include exponents, radicals, equations, inequalities, and functions, which consist of quadratic, polynomial, rational, exponential, and logarithmic. Trigonometry topics include definitions, graphs, inverse functions, identities, and solving equations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, READ 101",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78310",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 9,
+        "available": 26
+      },
+      "detail_fetched_at": "2025-09-07T03:39:00.959043Z"
     },
     {
       "crn": "78313",
@@ -76206,8 +77262,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-09-06T03:37:07.284483+00:00Z",
-    "courses_with_details": 1097,
+    "detail_collection_timestamp": "2025-09-07T03:39:01.049889+00:00Z",
+    "courses_with_details": 1147,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
