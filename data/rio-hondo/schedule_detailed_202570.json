@@ -66402,8 +66402,26 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77051')"
+      "additional_hours": "1.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77051')",
+      "description": "This course is designed to provide law enforcement students or those involved in a related public service subject to expand on their knowledge in the major points of law enforcement. Topics include history and general development of law enforcement, ethical and moral standards, California law, and other related issues. Students will receive individualized instruction tailored to their plan of study.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025",
+        "Census Date": "02-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77051",
+      "seating_detail": {
+        "capacity": 100,
+        "taken": 0,
+        "available": 100
+      },
+      "detail_fetched_at": "2025-09-10T03:36:26.789026Z"
     },
     {
       "crn": "77145",
@@ -66434,8 +66452,26 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77145')"
+      "additional_hours": "1.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77145')",
+      "description": "This course is designed to provide law enforcement students or those involved in a related public service subject to expand on their knowledge in the major points of law enforcement. Topics include history and general development of law enforcement, ethical and moral standards, California law, and other related issues. Students will receive individualized instruction tailored to their plan of study.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025",
+        "Census Date": "02-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77145",
+      "seating_detail": {
+        "capacity": 100,
+        "taken": 0,
+        "available": 100
+      },
+      "detail_fetched_at": "2025-09-10T03:36:28.394588Z"
     },
     {
       "crn": "71531",
@@ -66466,8 +66502,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71531')"
+      "additional_hours": "1 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71531')",
+      "description": "This course provides students with the tools they need to excel in their courses. Trained tutors individually help students attain higher levels of comprehension and competency by providing supplemental instruction for pre-approved subjects. Workshops enhance student learning. The course is open-entry/open-exit.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "05-NOV-2025",
+        "Last day to drop with a refund": "27-AUG-2025",
+        "Last day to drop without a \"W\"": "18-SEP-2025",
+        "Last day to drop with a \"W\"": "05-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "21-NOV-2025",
+        "Census Date": "08-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71531",
+      "seating_detail": {
+        "capacity": 9900,
+        "taken": 8779,
+        "available": 1121
+      },
+      "detail_fetched_at": "2025-09-10T03:36:30.000548Z"
     },
     {
       "crn": "72260",
@@ -66498,8 +66556,26 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72260')"
+      "additional_hours": "1 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72260')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Pass/No Pass Petition Deadline Date": "06-SEP-2025",
+        "Census Date": "02-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72260",
+      "seating_detail": {
+        "capacity": 3655,
+        "taken": 3,
+        "available": 3652
+      },
+      "detail_fetched_at": "2025-09-10T03:36:31.616049Z"
     },
     {
       "crn": "77133",
@@ -66531,7 +66607,29 @@
       "start_date": "09/01",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77133')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77133')",
+      "description": "This course is designed to enable efficient operation of the alphanumeric keyboard on a computer. Common keyboarding techniques are applied to develop speed and accuracy. Students create typed document files and learn editing/formatting functions on Microsoft\u00ae Word\u00ae and a variety of word processing programs in order to prepare school assignments, personal and essential business correspondence.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "04-SEP-2025",
+        "Last day to drop with a refund": "04-SEP-2025",
+        "Last day to drop without a \"W\"": "25-SEP-2025",
+        "Last day to drop with a \"W\"": "06-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "18-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77133",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-10T03:36:33.224005Z"
     },
     {
       "crn": "77387",
@@ -66563,7 +66661,28 @@
       "start_date": "08/16",
       "end_date": "11/21",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77387')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77387')",
+      "description": "This course is designed to enable efficient operation of the alphanumeric keyboard on a computer. Common keyboarding techniques are applied to develop speed and accuracy. Students create typed document files and learn editing/formatting functions on Microsoft\u00ae Word\u00ae and a variety of word processing programs in order to prepare school assignments, personal and essential business correspondence.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77387",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-10T03:36:34.824455Z"
     },
     {
       "crn": "77135",
@@ -66595,7 +66714,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77135')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77135')",
+      "description": "This course is designed to enable efficient operation of the alphanumeric keyboard on a computer. Common keyboarding techniques are applied to develop speed and accuracy. Students create typed document files and learn editing/formatting functions in order to prepare school assignments and personal and business correspondences.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-NOV-2025",
+        "Last day to drop with a refund": "25-AUG-2025",
+        "Last day to drop without a \"W\"": "22-SEP-2025",
+        "Last day to drop with a \"W\"": "03-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "24-NOV-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77135",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 15,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-09-10T03:36:36.431811Z"
     },
     {
       "crn": "77710",
@@ -66627,7 +66767,29 @@
       "start_date": "08/18",
       "end_date": "09/26",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77710')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77710')",
+      "description": "This course is designed to enable efficient operation of the alphanumeric keyboard on a computer. Common keyboarding techniques are applied to develop speed and accuracy. Students create typed document files and learn editing/formatting functions in order to prepare school assignments and personal and business correspondences.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "28-AUG-2025",
+        "Last day to drop with a \"W\"": "18-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "25-SEP-2025",
+        "Census Date": "21-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77710",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 17,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-10T03:36:38.044106Z"
     },
     {
       "crn": "77909",
@@ -66659,7 +66821,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77909')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77909')",
+      "description": "This course is designed to enable efficient operation of the alphanumeric keyboard on a computer. Common keyboarding techniques are applied to develop speed and accuracy. Students create typed document files and learn editing/formatting functions in order to prepare school assignments and personal and business correspondences.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77909",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 22,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-10T03:36:39.653344Z"
     },
     {
       "crn": "77381",
@@ -66691,7 +66874,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77381')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77381')",
+      "description": "This course prepares students for independent and confident use of Microsoft Word. Students will create documents applying to a variety of editing features including the following: adjusting margins and tab settings; copying, pasting, moving texts; formatting layout; running the integrated grammar and spelling review; modifying header and footer areas; creating tables and graphs. Students will prepare a variety of documents for school and office environments, including creating a professional resume.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77381",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 14,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-09-10T03:36:41.259111Z"
     },
     {
       "crn": "77382",
@@ -66723,7 +66927,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77382')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77382')",
+      "description": "This course is an orientation to the primary functions of spreadsheets for data management using Microsoft\u00ae Excel\u00ae. Topics include creating cell data, formatting cells and worksheets, and applying formulas and functions. Students will learn how to analyze and organize data, present data visually by creating charts, and manage the worksheet and workbook environment.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77382",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 24,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-10T03:36:42.865238Z"
     },
     {
       "crn": "77386",
@@ -66755,7 +66980,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77386')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77386')",
+      "description": "This course is an orientation to the primary functions of spreadsheets for data management using Microsoft\u00ae Excel\u00ae. Topics include creating cell data, formatting cells and worksheets, and applying formulas and functions. Students will learn how to analyze and organize data, present data visually by creating charts, and manage the worksheet and workbook environment.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77386",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 12,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-10T03:36:44.472161Z"
     },
     {
       "crn": "77383",
@@ -66787,7 +67033,29 @@
       "start_date": "10/13",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77383')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77383')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "15-OCT-2025",
+        "Last day to drop with a refund": "15-OCT-2025",
+        "Last day to drop without a \"W\"": "22-OCT-2025",
+        "Last day to drop with a \"W\"": "19-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "22-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77383",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 9,
+        "available": 26
+      },
+      "detail_fetched_at": "2025-09-10T03:36:46.072538Z"
     },
     {
       "crn": "77927",
@@ -66819,7 +67087,29 @@
       "start_date": "09/01",
       "end_date": "11/22",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77927')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77927')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "06-SEP-2025",
+        "Last day to drop with a refund": "06-SEP-2025",
+        "Last day to drop without a \"W\"": "27-SEP-2025",
+        "Last day to drop with a \"W\"": "01-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "22-NOV-2025",
+        "Census Date": "13-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77927",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 22,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-10T03:36:47.677715Z"
     },
     {
       "crn": "77434",
@@ -66851,7 +67141,25 @@
       "start_date": "08/25",
       "end_date": "09/26",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77434')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77434')",
+      "description": "This course orients students to essential capacities for professional and collegial workplace performance: critical thinking, communication, collaboration, and cultural humility. Additionally, students gain practical guidance in resum\u00e9 composition and job interview preparation.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Pass/No Pass Petition Deadline Date": "06-SEP-2025",
+        "Census Date": "02-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77434",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 33,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-10T03:36:49.286560Z"
     },
     {
       "crn": "77438",
@@ -66883,7 +67191,29 @@
       "start_date": "10/20",
       "end_date": "11/22",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77438')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77438')",
+      "description": "This course orients students to essential capacities for professional and collegial workplace performance: critical thinking, communication, collaboration, and cultural humility. Additionally, students gain practical guidance in resum\u00e9 composition and job interview preparation.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "24-OCT-2025",
+        "Last day to drop with a refund": "24-OCT-2025",
+        "Last day to drop without a \"W\"": "31-OCT-2025",
+        "Last day to drop with a \"W\"": "14-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "21-NOV-2025",
+        "Census Date": "24-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77438",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 35,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-10T03:36:50.891056Z"
     },
     {
       "crn": "77907",
@@ -66915,7 +67245,29 @@
       "start_date": "08/18",
       "end_date": "10/10",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77907')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77907')",
+      "description": "This course orients students to essential capacities for professional and collegial workplace performance: critical thinking, communication, collaboration, and cultural humility. Additionally, students gain practical guidance in resum\u00e9 composition and job interview preparation.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "27-AUG-2025",
+        "Last day to drop with a \"W\"": "24-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "08-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77907",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 14,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-10T03:36:52.506145Z"
     },
     {
       "crn": "76520",
@@ -66947,7 +67299,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76520')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76520')",
+      "description": "This class is an introduction to the professional aspects of the real estate industry. The focus of the course is on the agency responsibilities of the salesperson including office management, listing and prospecting property, selling and marketing techniques, advertising, securing loans, and closing procedures. Students will also acquire general knowledge of other pertinent fields as they relate to real estate, such as finance, appraisal, escrow, and investing. This course is approved by the California Department of Real Estate (DRE) to fulfill education requirements for the California Real Estate Salesperson License and may be applied towards the California Real Estate Broker License requirements. Taken in sequence with NBIZ 039, students earn the Certificate of Completion in Real Estate Practice and Finance issued by the California Community Colleges Chancellor\u2019s Office.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76520",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 16,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-09-10T03:36:54.117129Z"
     },
     {
       "crn": "77065",
@@ -66979,7 +67352,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77065')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77065')",
+      "description": "This class is an introduction to the professional aspects of the real estate industry. The focus of the course is on the agency responsibilities of the salesperson including office management, listing and prospecting property, selling and marketing techniques, advertising, securing loans, and closing procedures. Students will also acquire general knowledge of other pertinent fields as they relate to real estate, such as finance, appraisal, escrow, and investing. This course is approved by the California Department of Real Estate (DRE) to fulfill education requirements for the California Real Estate Salesperson License and may be applied towards the California Real Estate Broker License requirements. Taken in sequence with NBIZ 039, students earn the Certificate of Completion in Real Estate Practice and Finance issued by the California Community Colleges Chancellor\u2019s Office.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77065",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 17,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-09-10T03:36:55.723208Z"
     },
     {
       "crn": "76524",
@@ -67011,7 +67405,29 @@
       "start_date": "08/16",
       "end_date": "10/11",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76524')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76524')",
+      "description": "This course is designed to help the pre- and new licensee, the experienced real estate agent, the investor, and the lender gain a better understanding of the complex world of real estate finance. It covers all aspects of real estate financing from completing loan applications, navigating the escrow process, to closing loans. The course details current lending policies, qualifying standards, and disclosure requirements. This course is approved by the California Department of Real Estate (DRE) to meet the elective education requirements for the California Real Estate Salesperson License and the California Real Estate Broker License. Taken in sequence with NBIZ 038, students earn the Certificate of Completion in Real Estate Practice and Finance.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "02-SEP-2025",
+        "Last day to drop with a \"W\"": "25-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "09-OCT-2025",
+        "Census Date": "26-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76524",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 5,
+        "available": 35
+      },
+      "detail_fetched_at": "2025-09-10T03:36:57.335169Z"
     },
     {
       "crn": "77711",
@@ -67043,7 +67459,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77711')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77711')",
+      "description": "This course is designed to help the pre- and new licensee, the experienced real estate agent, the investor, and the lender gain a better understanding of the complex world of real estate finance. It covers all aspects of real estate financing from completing loan applications, navigating the escrow process, to closing loans. The course details current lending policies, qualifying standards, and disclosure requirements. This course is approved by the California Department of Real Estate (DRE) to meet the elective education requirements for the California Real Estate Salesperson License and the California Real Estate Broker License. Taken in sequence with NBIZ 038, students earn the Certificate of Completion in Real Estate Practice and Finance.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77711",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 15,
+        "available": 25
+      },
+      "detail_fetched_at": "2025-09-10T03:36:58.945828Z"
     },
     {
       "crn": "76531",
@@ -67075,7 +67512,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76531')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76531')",
+      "description": "This is a foundational real estate course that covers the basic laws and principles of land and property transactions. Course topics include overview of property laws, land descriptions, titles, acquisition and transfer, liens and encumbrances, taxation, contract law, landlord and tenant laws, and real estate mathematics and finance. Students will become familiar with terminology and forms commonly used in everyday real estate transactions. This course is approved by the California Department of Real Estate (DRE) to fulfill education requirements for the California Real Estate Salesperson License. Taken in sequence with NBIZ 041, students earn the Certificate of Completion in Real Estate Principles and Appraisal.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76531",
+      "seating_detail": {
+        "capacity": 44,
+        "taken": 44,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-10T03:37:00.560312Z"
     },
     {
       "crn": "77965",
@@ -67107,7 +67565,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77965')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77965')",
+      "description": "This is a foundational real estate course that covers the basic laws and principles of land and property transactions. Course topics include overview of property laws, land descriptions, titles, acquisition and transfer, liens and encumbrances, taxation, contract law, landlord and tenant laws, and real estate mathematics and finance. Students will become familiar with terminology and forms commonly used in everyday real estate transactions. This course is approved by the California Department of Real Estate (DRE) to fulfill education requirements for the California Real Estate Salesperson License. Taken in sequence with NBIZ 041, students earn the Certificate of Completion in Real Estate Principles and Appraisal.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77965",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 26,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-09-10T03:37:02.166526Z"
     },
     {
       "crn": "77713",
@@ -67139,7 +67618,29 @@
       "start_date": "10/13",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77713')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77713')",
+      "description": "This course provides a comprehensive overview of real estate appraisal principles and procedures. Topics include land values and their characteristics, the process of appraising, capitalization theory, site analysis, and construction methods. Students gain guided practice in accrued depreciation analysis, income and expense analysis, and techniques in the income approach method of appraising. This course is approved by the California Department of Real Estate (DRE) to meet the elective education requirements for the California Real Estate Salesperson License and the California Real Estate Broker License. Taken in sequence with NBIZ 040, students earn the Certificate of Completion in Real Estate Principles and Appraisal.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "14-OCT-2025",
+        "Last day to drop with a refund": "14-OCT-2025",
+        "Last day to drop without a \"W\"": "23-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77713",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 35,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-10T03:37:03.771382Z"
     },
     {
       "crn": "77878",
@@ -67171,7 +67672,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77878')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77878')",
+      "description": "This course provides a comprehensive overview of real estate appraisal principles and procedures. Topics include land values and their characteristics, the process of appraising, capitalization theory, site analysis, and construction methods. Students gain guided practice in accrued depreciation analysis, income and expense analysis, and techniques in the income approach method of appraising. This course is approved by the California Department of Real Estate (DRE) to meet the elective education requirements for the California Real Estate Salesperson License and the California Real Estate Broker License. Taken in sequence with NBIZ 040, students earn the Certificate of Completion in Real Estate Principles and Appraisal.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77878",
+      "seating_detail": {
+        "capacity": 52,
+        "taken": 34,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-10T03:37:05.382315Z"
     },
     {
       "crn": "77432",
@@ -67203,7 +67725,29 @@
       "start_date": "08/16",
       "end_date": "09/19",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77432')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77432')",
+      "description": "This course provides students with a fundamental knowledge of California\u2019s property tax system for assessing purposes. The course provides students with an overview of Proposition 13, who apply its provisions to various property assessment situations, including appraisals, changes in ownership, exemptions, and assessment appeals.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "27-AUG-2025",
+        "Last day to drop with a \"W\"": "17-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "08-OCT-2025",
+        "Census Date": "20-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77432",
+      "seating_detail": {
+        "capacity": 40,
+        "taken": 30,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-10T03:37:06.988499Z"
     },
     {
       "crn": "77433",
@@ -67235,7 +67779,29 @@
       "start_date": "10/13",
       "end_date": "11/21",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77433')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77433')",
+      "description": "This course provides students with a fundamental knowledge of California\u2019s property tax system for assessing purposes. The course provides students with an overview of Proposition 13, who apply its provisions to various property assessment situations, including appraisals, changes in ownership, exemptions, and assessment appeals.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "15-OCT-2025",
+        "Last day to drop with a refund": "15-OCT-2025",
+        "Last day to drop without a \"W\"": "22-OCT-2025",
+        "Last day to drop with a \"W\"": "12-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "15-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77433",
+      "seating_detail": {
+        "capacity": 42,
+        "taken": 42,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-10T03:37:08.598276Z"
     },
     {
       "crn": "77889",
@@ -67266,8 +67832,26 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77889')"
+      "additional_hours": "6.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77889')",
+      "description": "This course is designed as a pre-employment training for rewarding careers in the social services sector. Students gain an overview of career pathways in the field and receive contextualized training for employment as case managers, peer specialists, and community outreach workers in government and nonprofit agencies. Topics include client integrated support, intervention and advocacy, mental health, trauma-informed care, effective engagement, and data entry training (Human Management Integration System). Job search and placement assistance is integrated in the course.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Pass/No Pass Petition Deadline Date": "06-SEP-2025",
+        "Census Date": "02-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77889",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 14,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-10T03:37:10.202472Z"
     },
     {
       "crn": "77397",
@@ -67299,7 +67883,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77397')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77397')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77397",
+      "seating_detail": {
+        "capacity": 14,
+        "taken": 14,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-10T03:37:11.807440Z"
     },
     {
       "crn": "77398",
@@ -67331,7 +67936,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77398')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77398')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77398",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 22,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-10T03:37:13.411561Z"
     },
     {
       "crn": "77399",
@@ -67363,7 +67989,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77399')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77399')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77399",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 25,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-10T03:37:15.017146Z"
     },
     {
       "crn": "77400",
@@ -67395,7 +68042,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77400')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77400')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77400",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 19,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-10T03:37:16.634036Z"
     },
     {
       "crn": "77401",
@@ -67427,7 +68095,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77401')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77401')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77401",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 16,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-09-10T03:37:18.239761Z"
     },
     {
       "crn": "77402",
@@ -67459,7 +68148,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77402')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77402')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77402",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 18,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-10T03:37:19.844441Z"
     },
     {
       "crn": "77558",
@@ -67491,7 +68201,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77558')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77558')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77558",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 12,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-10T03:37:21.452140Z"
     },
     {
       "crn": "77559",
@@ -67523,7 +68254,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77559')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77559')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77559",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 27,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-10T03:37:23.065743Z"
     },
     {
       "crn": "77719",
@@ -67555,7 +68307,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77719')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77719')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77719",
+      "seating_detail": {
+        "capacity": 14,
+        "taken": 14,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-10T03:37:24.671290Z"
     },
     {
       "crn": "77791",
@@ -67587,7 +68360,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77791')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77791')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77791",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 14,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-09-10T03:37:26.277544Z"
     },
     {
       "crn": "77855",
@@ -67619,7 +68413,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77855')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77855')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77855",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 27,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-10T03:37:27.890281Z"
     },
     {
       "crn": "77856",
@@ -67651,7 +68466,28 @@
       "start_date": "08/16",
       "end_date": "11/07",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77856')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77856')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77856",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 21,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-10T03:37:29.497285Z"
     },
     {
       "crn": "77976",
@@ -67683,7 +68519,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77976')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77976')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77976",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 15,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-10T03:37:31.103718Z"
     },
     {
       "crn": "78414",
@@ -67715,7 +68572,29 @@
       "start_date": "09/02",
       "end_date": "12/05",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78414')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78414')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "02-SEP-2025",
+        "Last day to drop with a refund": "02-SEP-2025",
+        "Last day to drop without a \"W\"": "23-SEP-2025",
+        "Last day to drop with a \"W\"": "04-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "02-DEC-2025",
+        "Census Date": "16-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78414",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 13,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-10T03:37:32.711375Z"
     },
     {
       "crn": "71512",
@@ -67747,7 +68626,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71512')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71512')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71512",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 17,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-10T03:37:34.324810Z"
     },
     {
       "crn": "71513",
@@ -67779,7 +68679,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71513')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71513')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71513",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 17,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-10T03:37:35.930998Z"
     },
     {
       "crn": "71514",
@@ -67811,7 +68732,29 @@
       "start_date": "08/25",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71514')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71514')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "25-AUG-2025",
+        "Last day to drop with a refund": "25-AUG-2025",
+        "Last day to drop without a \"W\"": "22-SEP-2025",
+        "Last day to drop with a \"W\"": "10-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "01-DEC-2025",
+        "Census Date": "15-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71514",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 21,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-09-10T03:37:37.559290Z"
     },
     {
       "crn": "74569",
@@ -67843,7 +68786,29 @@
       "start_date": "08/25",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74569')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74569')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "28-AUG-2025",
+        "Last day to drop with a refund": "28-AUG-2025",
+        "Last day to drop without a \"W\"": "18-SEP-2025",
+        "Last day to drop with a \"W\"": "06-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "11-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74569",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 19,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-10T03:37:39.167691Z"
     },
     {
       "crn": "75312",
@@ -67875,7 +68840,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75312')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75312')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-25",
+        "Last day to drop with a refund": "01-SEP-25",
+        "Last day to drop without a \"W\"": "12-SEP-25",
+        "Last day to drop with a \"W\"": "07-NOV-25",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-25"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75312",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 21,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-10T03:37:40.781466Z"
     },
     {
       "crn": "75313",
@@ -67907,7 +68893,29 @@
       "start_date": "08/25",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75313')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75313')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "29-AUG-25",
+        "Last day to drop with a refund": "29-AUG-25",
+        "Last day to drop without a \"W\"": "19-SEP-25",
+        "Last day to drop with a \"W\"": "07-NOV-25",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-25",
+        "Census Date": "12-SEP-25"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75313",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 16,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-09-10T03:37:42.394527Z"
     },
     {
       "crn": "75314",
@@ -67939,7 +68947,29 @@
       "start_date": "09/01",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75314')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75314')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "04-SEP-25",
+        "Last day to drop with a refund": "04-SEP-25",
+        "Last day to drop without a \"W\"": "25-SEP-25",
+        "Last day to drop with a \"W\"": "06-NOV-25",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-25",
+        "Census Date": "18-SEP-25"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75314",
+      "seating_detail": {
+        "capacity": 52,
+        "taken": 52,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-10T03:37:44.002356Z"
     },
     {
       "crn": "77104",
@@ -67971,7 +69001,29 @@
       "start_date": "09/01",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77104')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77104')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "02-SEP-2025",
+        "Last day to drop with a refund": "02-SEP-2025",
+        "Last day to drop without a \"W\"": "23-SEP-2025",
+        "Last day to drop with a \"W\"": "04-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "02-DEC-2025",
+        "Census Date": "16-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77104",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 15,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-10T03:37:45.610338Z"
     },
     {
       "crn": "77105",
@@ -79346,8 +80398,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-09-09T03:39:29.210298+00:00Z",
-    "courses_with_details": 1247,
+    "detail_collection_timestamp": "2025-09-10T03:37:45.703960+00:00Z",
+    "courses_with_details": 1297,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
