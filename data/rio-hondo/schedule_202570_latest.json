@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-13T14:29:18.604747Z",
+  "collection_timestamp": "2025-09-13T22:30:32.288015Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -9689,8 +9689,8 @@
       "location": "Science 221",
       "enrollment": {
         "capacity": 24,
-        "actual": 12,
-        "remaining": 12
+        "actual": 11,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22041,8 +22041,8 @@
       "location": "Administration 216",
       "enrollment": {
         "capacity": 28,
-        "actual": 24,
-        "remaining": 4
+        "actual": 22,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -25849,8 +25849,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 1,
-        "remaining": 34
+        "actual": 2,
+        "remaining": 33
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -32729,8 +32729,8 @@
       "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
-        "actual": 14,
-        "remaining": 11
+        "actual": 13,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41049,8 +41049,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 45,
-        "actual": 38,
-        "remaining": 7
+        "actual": 40,
+        "remaining": 5
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -41305,10 +41305,10 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 39,
-        "remaining": 1
+        "actual": 40,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online SYNC",
@@ -43673,8 +43673,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 18,
-        "remaining": 7
+        "actual": 19,
+        "remaining": 6
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -43961,8 +43961,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 30,
-        "remaining": 5
+        "actual": 32,
+        "remaining": 3
       },
       "status": "OPEN",
       "section_type": "LEC",
