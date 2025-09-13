@@ -74406,8 +74406,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78247')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78247')",
+      "description": "This course introduces philosophical ideas and methods concerning knowledge, reality, and values while centering voices and traditions from Asia, the Americas, and the African diaspora. Topics may include the sources and limits of knowledge and the nature of reality. Other topics that may be examined from a philosophical perspective include the nature of the self, truth, ethics, political theory, and ways of life. This course is appropriate for students seeking a broader program of philosophical study, or to fulfill a General Education Humanities or Philosophy major requirements.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000, It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC/CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78247",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-13T03:33:10.012269Z"
     },
     {
       "crn": "78463",
@@ -74438,8 +74459,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78463')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78463')",
+      "description": "This course introduces philosophical ideas and methods concerning knowledge, reality, and values while centering voices and traditions from Asia, the Americas, and the African diaspora. Topics may include the sources and limits of knowledge and the nature of reality. Other topics that may be examined from a philosophical perspective include the nature of the self, truth, ethics, political theory, and ways of life. This course is appropriate for students seeking a broader program of philosophical study, or to fulfill a General Education Humanities or Philosophy major requirements.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000, It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC/CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78463",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 33,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-13T03:33:11.632465Z"
     },
     {
       "crn": "74182",
@@ -74470,8 +74513,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74182')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74182')",
+      "description": "This course is an introduction to the methods and techniques of informal reasoning. Topics include schematizing and articulating arguments, causal arguments, analogical arguments, testimony arguments, and informal fallacies. Emphasis on the application of critical thinking for effective writing is reflected in the frequency, scope, and nature of course writing assignments, which are evaluated with regard to both content and form. Students should expect to write approximately 8,000 words in various writing assignments. This course is appropriate for students seeking to improve their writing and reasoning skills.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PHIL 110 or PHIL 110H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74182",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 19,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-13T03:33:13.257354Z"
     },
     {
       "crn": "74306",
@@ -74502,8 +74566,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74306')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74306')",
+      "description": "This course is an introduction to the methods and techniques of informal reasoning. Topics include schematizing and articulating arguments, causal arguments, analogical arguments, testimony arguments, and informal fallacies. Emphasis on the application of critical thinking for effective writing is reflected in the frequency, scope, and nature of course writing assignments, which are evaluated with regard to both content and form. Students should expect to write approximately 8,000 words in various writing assignments. This course is appropriate for students seeking to improve their writing and reasoning skills.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PHIL 110 or PHIL 110H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "22-AUG-2025",
+        "Last day to drop with a refund": "22-AUG-2025",
+        "Last day to drop without a \"W\"": "08-SEP-2025",
+        "Last day to drop with a \"W\"": "08-OCT-2025",
+        "Pass/No Pass Petition Deadline Date": "24-OCT-2025",
+        "Census Date": "29-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74306",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 28,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-13T03:33:14.875346Z"
     },
     {
       "crn": "75364",
@@ -74535,7 +74621,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75364')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75364')",
+      "description": "This course is an introduction to the methods and techniques of informal reasoning. Topics include schematizing and articulating arguments, causal arguments, analogical arguments, testimony arguments, and informal fallacies. Emphasis on the application of critical thinking for effective writing is reflected in the frequency, scope, and nature of course writing assignments, which are evaluated with regard to both content and form. Students should expect to write approximately 8,000 words in various writing assignments. This course is appropriate for students seeking to improve their writing and reasoning skills.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PHIL 110 or PHIL 110H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75364",
+      "seating_detail": {
+        "capacity": 22,
+        "taken": 14,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-13T03:33:16.509806Z"
     },
     {
       "crn": "75748",
@@ -74566,8 +74673,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75748')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75748')",
+      "description": "This course is an introduction to the methods and techniques of informal reasoning. Topics include schematizing and articulating arguments, causal arguments, analogical arguments, testimony arguments, and informal fallacies. Emphasis on the application of critical thinking for effective writing is reflected in the frequency, scope, and nature of course writing assignments, which are evaluated with regard to both content and form. Students should expect to write approximately 8,000 words in various writing assignments. This course is appropriate for students seeking to improve their writing and reasoning skills.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PHIL 110 or PHIL 110H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "22-AUG-2025",
+        "Last day to drop with a refund": "22-AUG-2025",
+        "Last day to drop without a \"W\"": "08-SEP-2025",
+        "Last day to drop with a \"W\"": "08-OCT-2025",
+        "Pass/No Pass Petition Deadline Date": "24-OCT-2025",
+        "Census Date": "29-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75748",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 27,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-13T03:33:18.136697Z"
     },
     {
       "crn": "76405",
@@ -74599,7 +74728,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76405')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76405')",
+      "description": "This course is an introduction to the methods and techniques of informal reasoning. Topics include schematizing and articulating arguments, causal arguments, analogical arguments, testimony arguments, and informal fallacies. Emphasis on the application of critical thinking for effective writing is reflected in the frequency, scope, and nature of course writing assignments, which are evaluated with regard to both content and form. Students should expect to write approximately 8,000 words in various writing assignments. This course is appropriate for students seeking to improve their writing and reasoning skills, and is intended for students who meet Honors Program requirements.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PHIL 110 or PHIL 110H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76405",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 4,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-13T03:33:19.762171Z"
     },
     {
       "crn": "70183",
@@ -74630,8 +74780,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70183')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70183')",
+      "description": "This course introduces the formal methods and principles of deductive logic. Topics include translation between natural and formal language, syllogistic logic, and propositional logic. This course is especially recommended for students in mathematics, business, computer science, science, engineering, law, and humanities majors.",
+      "prerequisites": null,
+      "advisory": "It is advised that students have a knowledge of elementary algebra concepts, be able to engage in written composition at a college level, and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PHIL 112 or PHIL 112H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70183",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 27,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-13T03:33:21.386998Z"
     },
     {
       "crn": "70185",
@@ -74662,8 +74833,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70185')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70185')",
+      "description": "This introductory level course is for students interested in the humanities, law, medicine, politics, social science and related fields, and will expose them to some of the most profound moral and ethical questions in the Western philosophical tradition. We will examine the concept of morality and values, representative ethical theories, and may include their applications to moral problems.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000; It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70185",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-13T03:33:23.020020Z"
     },
     {
       "crn": "77680",
@@ -74694,8 +74886,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77680')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77680')",
+      "description": "This course introduces students to a broad array of themes associated with death and dying. Students consider both practical and philosophical aspects of death, comparing the concept of death historically, socially, psychologically, and cross-culturally. Current legal, medical, and ethical issues related to death and dying are explored through the lens of philosophy, with topics that may include suicide, euthanasia, moral and social issues stemming from modern medical technology, hospice and palliative care, end-of-life issues, violent deaths, mass killings, and the beliefs and customs of various cultures worldwide concerning death and the possibility of an afterlife. This course is well suited for students interested in the humanities, law, medicine, politics, social science and related fields, or for those seeking to improve their ability to process and respond to death and dying in a healthy manner.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "22-AUG-2025",
+        "Last day to drop with a refund": "22-AUG-2025",
+        "Last day to drop without a \"W\"": "08-SEP-2025",
+        "Last day to drop with a \"W\"": "08-OCT-2025",
+        "Pass/No Pass Petition Deadline Date": "24-OCT-2025",
+        "Census Date": "29-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77680",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 26,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-09-13T03:33:24.644464Z"
     },
     {
       "crn": "75128",
@@ -74726,8 +74940,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75128')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75128')",
+      "description": "This course is for students interested in the relationship between political systems and philosophy, and is especially relevant for students interested in political science, philosophy, and law. The course introduces the history and development of political thought, and considers the justification of the state, interpretations of justice, systems of government, conceptions of rights and distributions of goods, and justification for civil disobedience, among other topics. This course is designed for students who meet Honors Program requirements.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PHIL 128 or PHIL 128H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75128",
+      "seating_detail": {
+        "capacity": 8,
+        "taken": 10,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-09-13T03:33:26.272460Z"
     },
     {
       "crn": "77349",
@@ -74758,8 +74993,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77349')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77349')",
+      "description": "This introductory course explores the philosophical aspects of a variety of contemporary issues, with an emphasis on the theoretical foundations as well as practical applications of social justice. The course is intended for students interested in applying philosophical methods to contemporary topics in social justice, enrolled in the Pathway to Law program (i.e., pre-law students), and/or majoring in philosophy, political science, or social justice.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000; It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77349",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 17,
+        "available": 28
+      },
+      "detail_fetched_at": "2025-09-13T03:33:27.891320Z"
     },
     {
       "crn": "74184",
@@ -74790,8 +75046,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74184')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74184')",
+      "description": "This introductory-level course is intended for students who seek a thoughtful exploration of religious issues in a non-sectarian context, or as part of a broader program of philosophical study. Topics include Western religion from a philosophical perspective, including arguments for and against the existence of God, and an investigation into the status of religious beliefs. Additional topics may include a consideration of the evolution-creationism debate and a discussion of religious pluralism.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000; It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74184",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-13T03:33:29.522457Z"
     },
     {
       "crn": "75127",
@@ -74822,8 +75099,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75127')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75127')",
+      "description": "This upper division general education course is designed for students pursuing a Bachelor of Science in Automotive Technology. This course is intended for students who seek a greater understanding of the relationship between ethics and human living. This course will expose them to the moral and ethical views in the Western philosophical tradition. Students will then apply these views to various contemporary issues. Expected topics include: business ethics, euthanasia, terrorism, public policy, the death penalty, and issues in science and technology.",
+      "prerequisites": "ENGL C1001 or ENGL C1001H and PHIL 110 or PHIL 110H or PHIL 101 or PHIL 101H or PHIL 120",
+      "advisory": null,
+      "transfers_to": "CSUThis upper division general education course is designed for students pursuing a Bachelor of Science in Automotive Technology.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75127",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 14,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-09-13T03:33:31.146340Z"
     },
     {
       "crn": "77709",
@@ -74854,8 +75153,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77709')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77709')",
+      "description": "This introductory course covers the processes, principles, and tools of digital photography. Topics include the development of technical and aesthetic skills, elements of design and composition, camera technology, materials and equipment, and contemporary trends in photography. Students are required to supply their own mirrorless or digital single-lens reflex (D.S.L.R.) cameras. The course is suitable for students pursuing an Associate of Arts in Photography as well as non-majors who have an interest in learning basic digital photography skills.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77709",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 17,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-13T03:33:32.768930Z"
     },
     {
       "crn": "78022",
@@ -74887,7 +75207,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78022')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78022')",
+      "description": "This introductory course covers the processes, principles, and tools of digital photography. Topics include the development of technical and aesthetic skills, elements of design and composition, camera technology, materials and equipment, and contemporary trends in photography. Students are required to supply their own mirrorless or digital single-lens reflex (D.S.L.R.) cameras. The course is suitable for students pursuing an Associate of Arts in Photography as well as non-majors who have an interest in learning basic digital photography skills.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78022",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 22,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-13T03:33:34.397232Z"
     },
     {
       "crn": "78023",
@@ -74919,7 +75260,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78023')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78023')",
+      "description": "This introductory course covers the processes, principles, and tools of digital photography. Topics include the development of technical and aesthetic skills, elements of design and composition, camera technology, materials and equipment, and contemporary trends in photography. Students are required to supply their own mirrorless or digital single-lens reflex (D.S.L.R.) cameras. The course is suitable for students pursuing an Associate of Arts in Photography as well as non-majors who have an interest in learning basic digital photography skills.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC,CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78023",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 21,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-13T03:33:36.030526Z"
     },
     {
       "crn": "76943",
@@ -74951,7 +75313,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76943')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76943')",
+      "description": "This course is designed for students who wish to study the basic technical and conceptual approaches to contemporary photography. Traditional black and white photography techniques are explored, with special emphasis on the basic use of the 35 mm camera and enlarger as well as the processing of black-and-white film and printing paper. Students are required to provide their own 35 mm camera with manual controls.",
+      "prerequisites": null,
+      "advisory": "ART 120",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76943",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 19,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-13T03:33:37.657629Z"
     },
     {
       "crn": "77519",
@@ -74983,7 +75366,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77519')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77519')",
+      "description": "This course is designed for students who have successfully completed Beginning Photography and want to study more advanced technical and conceptual approaches to contemporary black and white photography in a 35 mm film-based, wet lab environment. Techniques such as the use of studio lighting, light meters, toners, hand coloring, and solarization are explored, with special emphasis given to understanding the conceptual framework for the production and analysis of both personal and commercial photographic imagery. Students are required to provide their own 35 mm camera with manual controls.",
+      "prerequisites": "PHTO 130",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77519",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 3,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-13T03:33:39.289638Z"
     },
     {
       "crn": "77537",
@@ -75015,7 +75419,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77537')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77537')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "PHTO 110 or TV 135",
+      "transfers_to": "UC,CSUIn this course students use cameras to explore the creative use of light, and to produce works that apply to basic lighting principles with natural, continuous, or strobe light sources. Topics include an introduction to lighting vocabulary, design, and exposure control, and light modifiers are covered through concept-driven assignments. Relevant examples of lighting from historic and contemporary photography as well as the cinematic arts are presented throughout.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77537",
+      "seating_detail": {
+        "capacity": 26,
+        "taken": 13,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-13T03:33:40.918511Z"
     },
     {
       "crn": "76572",
@@ -75047,7 +75472,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76572')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76572')",
+      "description": "This course investigates the basic characteristics of matter and the interactions that govern its behavior, and emphasizes how remarkable everyday phenomena are from this perspective. Examples from popular culture (e.g., movies, TV, and sports) are utilized. Topics include how to describe an object\u2019s motion, how to explain changes in an object\u2019s motion, and the roles of work and energy, among other topics. The course is intended for non-science majors, stresses conceptual understanding, and presents students with an opportunity to see how our world works according to physics.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive no credit from UC for PHY 120 if taken after PHY 150 or PHY 211)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76572",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 7,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-13T03:33:42.550469Z"
     },
     {
       "crn": "76962",
@@ -75079,7 +75525,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76962')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76962')",
+      "description": "This course investigates the basic characteristics of matter and the interactions that govern its behavior, and emphasizes how remarkable everyday phenomena are from this perspective. Examples from popular culture (e.g., movies, TV, and sports) are utilized. Topics include how to describe an object\u2019s motion, how to explain changes in an object\u2019s motion, and the roles of work and energy, among other topics. The course is intended for non-science majors, stresses conceptual understanding, and presents students with an opportunity to see how our world works according to physics.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of an elementary algebra course.",
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive no credit from UC for PHY 120 if taken after PHY 150 or PHY 211)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76962",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 19,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-13T03:33:44.181793Z"
     },
     {
       "crn": "76967",
@@ -75111,7 +75578,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76967')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76967')",
+      "description": "This course is the first of a two-semester, trigonometry-based physics sequence and is designed for students transferring to a four-year institution and planning careers in health professional fields such as medicine, dentistry, veterinary science, pharmacy, and optometry as well as those students in engineering technology and architecture. Topics include kinematics, dynamics, energy, work, momentum, conservation principles, rotational motion, simple harmonic motion, fluids, and thermodynamics. Students majoring in the biological sciences should consult a counselor as to whether this course satisfies the general preparation requirements for their major at their intended transfer university.",
+      "prerequisites": "MATH 175",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76967",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 19,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-13T03:33:45.808126Z"
     },
     {
       "crn": "77406",
@@ -75143,7 +75631,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77406')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77406')",
+      "description": "This course is the first of a two-semester, trigonometry-based physics sequence and is designed for students transferring to a four-year institution and planning careers in health professional fields such as medicine, dentistry, veterinary science, pharmacy, and optometry as well as those students in engineering technology and architecture. Topics include kinematics, dynamics, energy, work, momentum, conservation principles, rotational motion, simple harmonic motion, fluids, and thermodynamics. Students majoring in the biological sciences should consult a counselor as to whether this course satisfies the general preparation requirements for their major at their intended transfer university.",
+      "prerequisites": "MATH 175",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77406",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 22,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-13T03:33:47.435916Z"
     },
     {
       "crn": "70806",
@@ -75175,7 +75684,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70806')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70806')",
+      "description": "This course is the first of a three-semester sequence designed for students transferring to four-year institutions with majors in the sciences and engineering. Topics covered include kinematics, dynamics, energy, work, momentum, and conservation principles.",
+      "prerequisites": "MATH 190 or MATH 190H",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for one physics series: PHY 150 and PHY 160 or PHY 211, PHY 212, and PHY 213)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70806",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-13T03:33:49.068188Z"
     },
     {
       "crn": "72743",
@@ -75207,7 +75737,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72743')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72743')",
+      "description": "This course is the first of a three-semester sequence designed for students transferring to four-year institutions with majors in the sciences and engineering. Topics covered include kinematics, dynamics, energy, work, momentum, and conservation principles.",
+      "prerequisites": "MATH 190 or MATH 190H",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for one physics series: PHY 150 and PHY 160 or PHY 211, PHY 212, and PHY 213)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72743",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-13T03:33:50.692827Z"
     },
     {
       "crn": "75698",
@@ -75239,7 +75790,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75698')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75698')",
+      "description": "This course is the first of a three-semester sequence designed for students transferring to four-year institutions with majors in the sciences and engineering. Topics covered include kinematics, dynamics, energy, work, momentum, and conservation principles.",
+      "prerequisites": "MATH 190 or MATH 190H",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for one physics series: PHY 150 and PHY 160 or PHY 211, PHY 212, and PHY 213)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75698",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 26,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-09-13T03:33:52.318881Z"
     },
     {
       "crn": "70807",
@@ -75271,7 +75843,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70807')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70807')",
+      "description": "This course is the second of a three-semester sequence designed for students transferring to four-year institutions with majors in the sciences and engineering. Topics covered include kinematics, dynamics, energy, work, momentum, and conservation principles.",
+      "prerequisites": "PHY 211, MATH 191",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for one physics series: PHY 150 and 160 or PHY 211, PHY 212, and PHY 213)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70807",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 22,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-13T03:33:53.945776Z"
     },
     {
       "crn": "70808",
@@ -75303,7 +75896,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70808')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70808')",
+      "description": "This course is the first of a three-semester sequence designed for students transferring to four-year institutions with majors in the sciences and engineering. Topics covered include electric fields, electric potential, current, circuits, magnetic fields, Gauss' law, Ampere's law, Maxwell's equations, induction, and electromagnetic waves.",
+      "prerequisites": "PHY 211 and MATH 191",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for one physics series: PHY 150 and PHY 160 or PHY 211, PHY 212, and PHY 213)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70808",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-13T03:33:55.576926Z"
     },
     {
       "crn": "75119",
@@ -75335,7 +75949,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75119')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75119')",
+      "description": "This course is the first of a three-semester sequence designed for students transferring to four-year institutions with majors in the sciences and engineering. Topics covered include electric fields, electric potential, current, circuits, magnetic fields, Gauss' law, Ampere's law, Maxwell's equations, induction, and electromagnetic waves.",
+      "prerequisites": "PHY 211 and MATH 191",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for one physics series: PHY 150 and PHY 160 or PHY 211, PHY 212, and PHY 213)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75119",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-13T03:33:57.204626Z"
     },
     {
       "crn": "77413",
@@ -75366,8 +76001,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77413')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77413')",
+      "description": "This course examines the status and role of women in American politics and their participation in the electoral process as voters, activists, candidates, and elected officeholders. Topics of discussion include theoretical frameworks and approaches to studying women in American politics; the intersection of gender, race, and ethnicity in U.S. politics; the gender gap in elections and public opinion; gender stereotypes in American elections; women\u2019s underrepresentation in U.S. politics; and women in political institutions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77413",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 20,
+        "available": 25
+      },
+      "detail_fetched_at": "2025-09-13T03:33:58.839502Z"
     },
     {
       "crn": "78416",
@@ -75399,7 +76055,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78416')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78416')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "COMM C1000, COMM C1000H.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78416",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 12,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-13T03:34:00.463855Z"
     },
     {
       "crn": "77026",
@@ -75430,8 +76107,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77026')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77026')",
+      "description": "This course is for students interested in the relationship between political systems and philosophy, and is especially relevant for students interested in political science, philosophy, and law. The course introduces the history and development of political thought, and considers the justification of the state, interpretations of justice, systems of government, conceptions of rights and distributions of goods, and justification for civil disobedience, among other topics. This course is designed for students who meet Honors Program requirements.",
+      "prerequisites": "ENGL C1000",
+      "advisory": "It is advised that students be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS 128 or POLS 128H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77026",
+      "seating_detail": {
+        "capacity": 17,
+        "taken": 22,
+        "available": -5
+      },
+      "detail_fetched_at": "2025-09-13T03:34:02.093389Z"
     },
     {
       "crn": "77355",
@@ -75462,8 +76160,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77355')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77355')",
+      "description": "This course examines the political systems of selected industrial democracies, dictatorships, and governments of the developing world. Emphasis is placed on the institutional development and political processes and cultures within these countries. The course features an examination of current political problems and a comparison of such differing ideologies as Marxism, democracy, theocracy, and totalitarianism, and is intended for students interested in the study of foreign governments as well as those who want to major in political science.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77355",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-13T03:34:03.727239Z"
     },
     {
       "crn": "77356",
@@ -75494,8 +76214,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77356')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77356')",
+      "description": "This course examines the structure and operation of the international system. Emphasis is placed on the nature and sources of conflict and cooperation, issues of war and peace among states in the international system, and international economic development. The impact of nation-states, international organizations, and non-governmental actors are all examined. This course is suitable for students who wish to expand their knowledge of international politics and for those who wish to major in political science or international relations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77356",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-13T03:34:05.351392Z"
     },
     {
       "crn": "78108",
@@ -75526,8 +76268,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78108')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78108')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78108",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 31,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-09-13T03:34:06.976415Z"
     },
     {
       "crn": "78158",
@@ -75558,8 +76322,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78158')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78158')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78158",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-13T03:34:08.613472Z"
     },
     {
       "crn": "78166",
@@ -75590,8 +76376,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78166')"
+      "additional_hours": "3.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78166')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "02-SEP-2025",
+        "Last day to drop with a \"W\"": "25-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "09-OCT-2025",
+        "Census Date": "26-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78166",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 32,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-13T03:34:10.238195Z"
     },
     {
       "crn": "78167",
@@ -75622,8 +76430,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78167')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78167')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78167",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-13T03:34:11.859757Z"
     },
     {
       "crn": "78169",
@@ -75654,8 +76484,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78169')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78169')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78169",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 34,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-13T03:34:13.483061Z"
     },
     {
       "crn": "78170",
@@ -75686,8 +76537,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78170')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78170')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78170",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-13T03:34:15.114664Z"
     },
     {
       "crn": "78171",
@@ -75718,8 +76591,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78171')"
+      "additional_hours": "3.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78171')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "14-OCT-2025",
+        "Last day to drop with a refund": "14-OCT-2025",
+        "Last day to drop without a \"W\"": "23-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78171",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 11,
+        "available": 34
+      },
+      "detail_fetched_at": "2025-09-13T03:34:16.734032Z"
     },
     {
       "crn": "78207",
@@ -75750,8 +76645,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78207')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78207')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78207",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-13T03:34:18.358160Z"
     },
     {
       "crn": "78209",
@@ -75782,8 +76698,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78209')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78209')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78209",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 0,
+        "available": 45
+      },
+      "detail_fetched_at": "2025-09-13T03:34:19.983393Z"
     },
     {
       "crn": "78211",
@@ -75815,7 +76752,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78211')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78211')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78211",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 34,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-13T03:34:21.616029Z"
     },
     {
       "crn": "78214",
@@ -75846,8 +76804,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78214')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78214')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78214",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-13T03:34:23.241607Z"
     },
     {
       "crn": "78216",
@@ -75879,7 +76858,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78216')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78216')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78216",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 25,
+        "available": 20
+      },
+      "detail_fetched_at": "2025-09-13T03:34:24.864212Z"
     },
     {
       "crn": "78217",
@@ -75910,8 +76910,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78217')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78217')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78217",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-13T03:34:26.490527Z"
     },
     {
       "crn": "78218",
@@ -75943,7 +76964,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78218')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78218')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78218",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 36,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-13T03:34:28.122018Z"
     },
     {
       "crn": "78280",
@@ -75974,8 +77016,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78280')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78280')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78280",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-13T03:34:29.744045Z"
     },
     {
       "crn": "78281",
@@ -82550,8 +83614,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-09-12T03:37:26.613739+00:00Z",
-    "courses_with_details": 1397,
+    "detail_collection_timestamp": "2025-09-13T03:34:29.842855+00:00Z",
+    "courses_with_details": 1447,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
