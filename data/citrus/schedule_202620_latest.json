@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-09-14T07:19:31.424535Z",
+  "collection_timestamp": "2025-09-14T15:19:26.157664Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -4793,7 +4793,7 @@
       "location": "PS 222",
       "enrollment": {
         "capacity": 24,
-        "actual": 28,
+        "actual": 27,
         "remaining": 0
       },
       "status": "Open",
