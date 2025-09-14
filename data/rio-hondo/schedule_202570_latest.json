@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-13T22:30:32.288015Z",
+  "collection_timestamp": "2025-09-14T06:35:40.891309Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -9753,8 +9753,8 @@
       "location": "Science 136",
       "enrollment": {
         "capacity": 24,
-        "actual": 15,
-        "remaining": 9
+        "actual": 14,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -25849,8 +25849,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 2,
-        "remaining": 33
+        "actual": 3,
+        "remaining": 32
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -48572,7 +48572,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -49244,7 +49244,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -52057,8 +52057,8 @@
       "location": "Administration 215",
       "enrollment": {
         "capacity": 32,
-        "actual": 29,
-        "remaining": 3
+        "actual": 28,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
