@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-14T14:30:03.781805Z",
+  "collection_timestamp": "2025-09-14T22:30:43.051524Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -5785,8 +5785,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 45,
-        "actual": 46,
-        "remaining": 1
+        "actual": 40,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15897,8 +15897,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 32,
-        "actual": 29,
-        "remaining": 3
+        "actual": 28,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -25849,8 +25849,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 3,
-        "remaining": 32
+        "actual": 4,
+        "remaining": 31
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -27161,8 +27161,8 @@
       "location": "Science 302",
       "enrollment": {
         "capacity": 26,
-        "actual": 17,
-        "remaining": 9
+        "actual": 16,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38268,7 +38268,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -43673,8 +43673,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 19,
-        "remaining": 6
+        "actual": 20,
+        "remaining": 5
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -43961,8 +43961,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 32,
-        "remaining": 3
+        "actual": 33,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -48185,8 +48185,8 @@
       "location": "Administration 212",
       "enrollment": {
         "capacity": 45,
-        "actual": 22,
-        "remaining": 23
+        "actual": 21,
+        "remaining": 24
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49596,7 +49596,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
