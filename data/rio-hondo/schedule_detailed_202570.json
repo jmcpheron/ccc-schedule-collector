@@ -77071,7 +77071,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78281')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78281')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78281",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-14T03:37:26.745604Z"
     },
     {
       "crn": "78282",
@@ -77103,7 +77124,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78282')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78282')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78282",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 15,
+        "available": 30
+      },
+      "detail_fetched_at": "2025-09-14T03:37:28.359265Z"
     },
     {
       "crn": "78284",
@@ -77135,7 +77177,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78284')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78284')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78284",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 18,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-14T03:37:29.977820Z"
     },
     {
       "crn": "78285",
@@ -77167,7 +77230,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78285')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78285')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78285",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 31,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-09-14T03:37:31.587335Z"
     },
     {
       "crn": "78286",
@@ -77199,7 +77283,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78286')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78286')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78286",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 22,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-09-14T03:37:33.197862Z"
     },
     {
       "crn": "78289",
@@ -77230,8 +77335,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78289')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78289')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78289",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-14T03:37:34.816443Z"
     },
     {
       "crn": "78290",
@@ -77262,8 +77389,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78290')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78290')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78290",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-14T03:37:36.427804Z"
     },
     {
       "crn": "78472",
@@ -77294,8 +77443,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78472')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78472')",
+      "description": "This course is an introduction to government and politics in the United States and California. Students examine the constitutions, structure, and operation of governing institutions, civil liberties and civil rights, political behaviors, political issues, and public policy using political science theory and methodology.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: POLS C1000 or POLS C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78472",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-14T03:37:38.037436Z"
     },
     {
       "crn": "70225",
@@ -77327,7 +77498,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70225')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70225')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70225",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 24,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-14T03:37:39.648892Z"
     },
     {
       "crn": "70269",
@@ -77358,8 +77550,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70269')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70269')",
+      "description": "This course provides an overview of human psychological development across the lifespan. The course addresses the physical, cognitive, social, and emotional changes that occur from the prenatal period through death; explores the development issues of stability versus change, continuity versus discontinuity, and nature versus nurture; examines the perspectives of major developmental theorists, including Freud, Erickson, and Piaget; and considers current research findings and their applicability to ongoing developmental problems. This course is appropriate for students who want to develop a better understanding of the developmental gains and losses that occur throughout our lives.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at the college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSY 112 or CD 106)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70269",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 39,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-14T03:37:41.265415Z"
     },
     {
       "crn": "70271",
@@ -77390,8 +77603,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70271')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70271')",
+      "description": "This course provides an overview of human psychological development across the lifespan. The course addresses the physical, cognitive, social, and emotional changes that occur from the prenatal period through death; explores the development issues of stability versus change, continuity versus discontinuity, and nature versus nurture; examines the perspectives of major developmental theorists, including Freud, Erickson, and Piaget; and considers current research findings and their applicability to ongoing developmental problems. This course is appropriate for students who want to develop a better understanding of the developmental gains and losses that occur throughout our lives.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at the college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSY 112 or CD 106)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70271",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-14T03:37:42.867883Z"
     },
     {
       "crn": "74292",
@@ -77423,7 +77658,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74292')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74292')",
+      "description": "This course provides an overview of human psychological development across the lifespan. The course addresses the physical, cognitive, social, and emotional changes that occur from the prenatal period through death; explores the development issues of stability versus change, continuity versus discontinuity, and nature versus nurture; examines the perspectives of major developmental theorists, including Freud, Erickson, and Piaget; and considers current research findings and their applicability to ongoing developmental problems. This course is appropriate for students who want to develop a better understanding of the developmental gains and losses that occur throughout our lives.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at the college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSY 112 or CD 106)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74292",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 37,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-14T03:37:44.479570Z"
     },
     {
       "crn": "77415",
@@ -77454,8 +77710,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77415')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77415')",
+      "description": "This course provides an overview of human psychological development across the lifespan. The course addresses the physical, cognitive, social, and emotional changes that occur from the prenatal period through death; explores the development issues of stability versus change, continuity versus discontinuity, and nature versus nurture; examines the perspectives of major developmental theorists, including Freud, Erickson, and Piaget; and considers current research findings and their applicability to ongoing developmental problems. This course is appropriate for students who want to develop a better understanding of the developmental gains and losses that occur throughout our lives.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at the college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSY 112 or CD 106)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77415",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-14T03:37:46.092334Z"
     },
     {
       "crn": "77812",
@@ -77487,7 +77765,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77812')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77812')",
+      "description": "This course provides an overview of human psychological development across the lifespan. The course addresses the physical, cognitive, social, and emotional changes that occur from the prenatal period through death; explores the development issues of stability versus change, continuity versus discontinuity, and nature versus nurture; examines the perspectives of major developmental theorists, including Freud, Erickson, and Piaget; and considers current research findings and their applicability to ongoing developmental problems. This course is appropriate for students who want to develop a better understanding of the developmental gains and losses that occur throughout our lives.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at the college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSY 112 or CD 106)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77812",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 28,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-14T03:37:47.698666Z"
     },
     {
       "crn": "73769",
@@ -77518,8 +77817,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73769')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73769')",
+      "description": "This course provides an introduction to the study of abnormal behavior for psychology majors, those with an interest in mental illness, or anyone with a desire to further their understanding of how psychological \"abnormalities\" are defined, studied, and treated. The classification, assessment and treatment of psychological disorders will be explored. Students will not only develop an understanding of the etiology and diagnosis of such disorders, as based upon the criteria provided in the most current version of the Diagnostic and Statistical Manual of Mental Disorders (\"DSM\"), but develop an appreciation of the cultural, historical and theoretical influences that affect the definitions and treatment of abnormal behavior.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73769",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 43,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-14T03:37:49.307296Z"
     },
     {
       "crn": "78107",
@@ -77550,8 +77870,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78107')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78107')",
+      "description": "This course provides an introduction to the study of abnormal behavior for psychology majors, those with an interest in mental illness, or anyone with a desire to further their understanding of how psychological \"abnormalities\" are defined, studied, and treated. The classification, assessment and treatment of psychological disorders will be explored. Students will not only develop an understanding of the etiology and diagnosis of such disorders, as based upon the criteria provided in the most current version of the Diagnostic and Statistical Manual of Mental Disorders (\"DSM\"), but develop an appreciation of the cultural, historical and theoretical influences that affect the definitions and treatment of abnormal behavior.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78107",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-14T03:37:50.921256Z"
     },
     {
       "crn": "70274",
@@ -77583,7 +77925,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70274')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70274')",
+      "description": "This course is designed for students interested in furthering their understanding of psychoactive drugs, and those interested in working with populations recovering from or at risk for drug problems. The course examines the pharmacological actions of drugs of abuse as they relate to the physiological and behavioral effects of such drugs, and emphasizes the properties of drugs that increase the likelihood of developing substance use disorders.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC/CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70274",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 27,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-14T03:37:52.531748Z"
     },
     {
       "crn": "70275",
@@ -77615,7 +77978,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70275')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70275')",
+      "description": "This course focuses on the research, theories, and ideas surrounding, promoting, and maintaining well-being, good health, and happiness. Students explore topics in the field of positive psychology including but not limited to wellness, optimism, flow, happiness, and positive thinking. The course is beneficial for students majoring in psychology, or looking to transfer as a psychology major.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70275",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 13,
+        "available": 32
+      },
+      "detail_fetched_at": "2025-09-14T03:37:54.144834Z"
     },
     {
       "crn": "72190",
@@ -77646,8 +78030,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72190')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72190')",
+      "description": "This course provides an overview of the types of statistics that are important in the behavioral sciences. It is designed to teach students majoring in psychology, sociology, political science, and anthropology how to present and interpret experimental data. The course focuses on hypothesis testing and the statistics used to analyze assumptions, with topics including basic probability, measures of central tendency, measures of variance, sampling, and inferential statistics.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of a pre-statistics or an intermediate algebra course.",
+      "advisory": "ENGL C1000 and the ability to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant credit for only one of the following courses: STAT C1000 or STAT C1000H or PSY 190)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72190",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 29,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-14T03:37:55.759638Z"
     },
     {
       "crn": "74186",
@@ -77679,7 +78084,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74186')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74186')",
+      "description": "This course provides an overview of the types of statistics that are important in the behavioral sciences. It is designed to teach students majoring in psychology, sociology, political science, and anthropology how to present and interpret experimental data. The course focuses on hypothesis testing and the statistics used to analyze assumptions, with topics including basic probability, measures of central tendency, measures of variance, sampling, and inferential statistics.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of a pre-statistics or an intermediate algebra course.",
+      "advisory": "ENGL C1000 and the ability to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant credit for only one of the following courses: STAT C1000 or STAT C1000H or PSY 190)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74186",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 23,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-14T03:37:57.369606Z"
     },
     {
       "crn": "74293",
@@ -77711,7 +78137,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74293')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74293')",
+      "description": "This course provides an overview of the types of statistics that are important in the behavioral sciences. It is designed to teach students majoring in psychology, sociology, political science, and anthropology how to present and interpret experimental data. The course focuses on hypothesis testing and the statistics used to analyze assumptions, with topics including basic probability, measures of central tendency, measures of variance, sampling, and inferential statistics.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of a pre-statistics or an intermediate algebra course.",
+      "advisory": "ENGL C1000 and the ability to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant credit for only one of the following courses: STAT C1000 or STAT C1000H or PSY 190)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74293",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 32,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-14T03:37:58.978849Z"
     },
     {
       "crn": "77511",
@@ -77743,7 +78190,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77511')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77511')",
+      "description": "This course provides an overview of the types of statistics that are important in the behavioral sciences. It is designed to teach students majoring in psychology, sociology, political science, and anthropology how to present and interpret experimental data. The course focuses on hypothesis testing and the statistics used to analyze assumptions, with topics including basic probability, measures of central tendency, measures of variance, sampling, and inferential statistics.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of a pre-statistics or an intermediate algebra course.",
+      "advisory": "ENGL C1000 and the ability to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant credit for only one of the following courses: STAT C1000 or STAT C1000H or PSY 190)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77511",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 26,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-14T03:38:00.597323Z"
     },
     {
       "crn": "77512",
@@ -77774,8 +78242,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77512')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77512')",
+      "description": "This course provides an overview of the types of statistics that are important in the behavioral sciences. It is designed to teach students majoring in psychology, sociology, political science, and anthropology how to present and interpret experimental data. The course focuses on hypothesis testing and the statistics used to analyze assumptions, with topics including basic probability, measures of central tendency, measures of variance, sampling, and inferential statistics.",
+      "prerequisites": "Enrollment requires appropriate placement (based on high school GPA and/or other measures), or completion of a pre-statistics or an intermediate algebra course.",
+      "advisory": "ENGL C1000 and the ability to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*The UC will grant credit for only one of the following courses: STAT C1000 or STAT C1000H or PSY 190)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77512",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 34,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-14T03:38:02.213655Z"
     },
     {
       "crn": "70276",
@@ -77807,7 +78296,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70276')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70276')",
+      "description": "This course provides an introduction to the philosophy of science and the examination of hypothetical deductive methods and their relationship to theory. Topics include the nature of experimental research and design, experimental and non-experimental research-including group and single-subject designs, literature reviews, research ethics, the collection and analysis of data, and writing APA-style reports. Collection, handling, and analysis of original empirical data during and outside of class, and in both experimental and nonexperimental designs, are an integral component of the course. The course is designed for students intending to pursue a degree in psychology.",
+      "prerequisites": "PSYC C1000 or PSYC C1000H and PSY 190 or STAT C1000 or STAT C1000H",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70276",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 21,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-14T03:38:03.824142Z"
     },
     {
       "crn": "73772",
@@ -77838,8 +78348,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73772')"
+      "additional_hours": "2.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73772')",
+      "description": "This course provides an introduction to the philosophy of science and the examination of hypothetical deductive methods and their relationship to theory. Topics include the nature of experimental research and design, experimental and non-experimental research-including group and single-subject designs, literature reviews, research ethics, the collection and analysis of data, and writing APA-style reports. Collection, handling, and analysis of original empirical data during and outside of class, and in both experimental and nonexperimental designs, are an integral component of the course. The course is designed for students intending to pursue a degree in psychology.",
+      "prerequisites": "PSYC C1000 or PSYC C1000H and PSY 190 or STAT C1000 or STAT C1000H",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=73772",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-14T03:38:05.443988Z"
     },
     {
       "crn": "74188",
@@ -77871,7 +78402,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74188')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74188')",
+      "description": "This course provides an introduction to the philosophy of science and the examination of hypothetical deductive methods and their relationship to theory. Topics include the nature of experimental research and design, experimental and non-experimental research-including group and single-subject designs, literature reviews, research ethics, the collection and analysis of data, and writing APA-style reports. Collection, handling, and analysis of original empirical data during and outside of class, and in both experimental and nonexperimental designs, are an integral component of the course. The course is designed for students intending to pursue a degree in psychology.",
+      "prerequisites": "PSYC C1000 or PSYC C1000H and PSY 190 or STAT C1000 or STAT C1000H",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74188",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 12,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-14T03:38:07.055398Z"
     },
     {
       "crn": "77322",
@@ -77902,8 +78454,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77322')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77322')",
+      "description": "This course provides an introduction to the philosophy of science and the examination of hypothetical deductive methods and their relationship to theory. Topics include the nature of experimental research and design, experimental and non-experimental research-including group and single-subject designs, literature reviews, research ethics, the collection and analysis of data, and writing APA-style reports. Collection, handling, and analysis of original empirical data during and outside of class, and in both experimental and nonexperimental designs, are an integral component of the course. The course is designed for students intending to pursue a degree in psychology.",
+      "prerequisites": "PSYC C1000 or PSYC C1000H and PSY 190 or STAT C1000 or STAT C1000H",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77322",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 24,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-14T03:38:08.665618Z"
     },
     {
       "crn": "70277",
@@ -77935,7 +78508,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70277')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70277')",
+      "description": "This course is designed for students interested in understanding the biological processes that underlie human behavior. The biological basis of normal and abnormal behavior\u2014including sensory systems, brain and behavior relationships, and underlying neurochemical processes\u2014is explored, as is the extent to which biological processes interact with environmental influences to determine behavior.",
+      "prerequisites": "PSYC C1000 or PSYC C1000H",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSY 210 or PSY 210H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70277",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 25,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-14T03:38:10.283005Z"
     },
     {
       "crn": "75745",
@@ -77966,8 +78560,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75745')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75745')",
+      "description": "This course is designed for students interested in understanding the biological processes that underlie human behavior. The biological basis of normal and abnormal behavior\u2014including sensory systems, brain and behavior relationships, and underlying neurochemical processes\u2014is explored, as is the extent to which biological processes interact with environmental influences to determine behavior.",
+      "prerequisites": "PSYC C1000 or PSYC C1000H",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSY 210 or PSY 210H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75745",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-14T03:38:11.895300Z"
     },
     {
       "crn": "76970",
@@ -77999,7 +78614,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76970')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76970')",
+      "description": "This course is designed for students interested in understanding the biological processes that underlie human behavior. The biological basis of normal and abnormal behavior\u2014including sensory systems, brain and behavior relationships, and underlying neurochemical processes\u2014is explored, as is the extent to which biological processes interact with environmental influences to determine behavior.",
+      "prerequisites": "PSYC C1000 or PSYC C1000H",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSY 210 or PSY 210H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76970",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 31,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-09-14T03:38:13.504803Z"
     },
     {
       "crn": "78431",
@@ -78031,7 +78667,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78431')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78431')",
+      "description": "This course is designed for students interested in understanding the biological processes that underlie human behavior. The biological basis of normal and abnormal behavior\u2014including sensory systems, brain and behavior relationships, and underlying neurochemical processes\u2014is explored, as is the extent to which biological processes interact with environmental influences to determine behavior. This course is intended for students eligible for the Honors Program.",
+      "prerequisites": "PSYC C1000 or PSYC C1000H and ENGL C1000",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSY 210 or PSY 210H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78431",
+      "seating_detail": {
+        "capacity": 15,
+        "taken": 4,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-14T03:38:15.124958Z"
     },
     {
       "crn": "78091",
@@ -78062,8 +78719,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78091')"
+      "additional_hours": "3.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78091')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "02-SEP-2025",
+        "Last day to drop with a \"W\"": "25-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "09-OCT-2025",
+        "Census Date": "26-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78091",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 31,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-09-14T03:38:16.736040Z"
     },
     {
       "crn": "78092",
@@ -78094,8 +78773,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78092')"
+      "additional_hours": "3.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78092')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "14-OCT-2025",
+        "Last day to drop with a refund": "14-OCT-2025",
+        "Last day to drop without a \"W\"": "23-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78092",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 36,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-14T03:38:18.347622Z"
     },
     {
       "crn": "78109",
@@ -78126,8 +78827,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78109')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78109')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78109",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 32,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-14T03:38:19.961410Z"
     },
     {
       "crn": "78110",
@@ -78159,7 +78881,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78110')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78110')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78110",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 40,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-14T03:38:21.572362Z"
     },
     {
       "crn": "78182",
@@ -78190,8 +78933,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78182')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78182')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78182",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-14T03:38:23.181225Z"
     },
     {
       "crn": "78201",
@@ -78223,7 +78988,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78201')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78201')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78201",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 21,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-09-14T03:38:24.796069Z"
     },
     {
       "crn": "78202",
@@ -78254,8 +79040,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78202')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78202')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78202",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 37,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-14T03:38:26.404530Z"
     },
     {
       "crn": "78225",
@@ -78286,8 +79093,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78225')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78225')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78225",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 35,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-14T03:38:28.014615Z"
     },
     {
       "crn": "78226",
@@ -78319,7 +79147,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78226')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78226')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78226",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 43,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-14T03:38:29.629914Z"
     },
     {
       "crn": "78248",
@@ -78351,7 +79200,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78248')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78248')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78248",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 38,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-14T03:38:31.244059Z"
     },
     {
       "crn": "78250",
@@ -78383,7 +79253,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78250')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78250')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78250",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 27,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-14T03:38:32.851195Z"
     },
     {
       "crn": "78257",
@@ -78414,8 +79305,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78257')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78257')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78257",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 38,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-14T03:38:34.468764Z"
     },
     {
       "crn": "78269",
@@ -78446,8 +79359,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78269')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78269')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78269",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-14T03:38:36.077828Z"
     },
     {
       "crn": "78275",
@@ -78479,7 +79414,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78275')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78275')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78275",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 37,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-14T03:38:37.691588Z"
     },
     {
       "crn": "78276",
@@ -78511,7 +79467,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78276')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78276')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78276",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 35,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-14T03:38:39.308407Z"
     },
     {
       "crn": "78277",
@@ -78543,7 +79520,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78277')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78277')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78277",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 25,
+        "available": -5
+      },
+      "detail_fetched_at": "2025-09-14T03:38:40.930584Z"
     },
     {
       "crn": "78278",
@@ -78575,7 +79573,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78278')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78278')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78278",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 37,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-14T03:38:42.535918Z"
     },
     {
       "crn": "78279",
@@ -78606,8 +79625,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78279')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78279')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78279",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 29,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-09-14T03:38:44.155303Z"
     },
     {
       "crn": "78283",
@@ -78638,8 +79679,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78283')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78283')",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: PSYC C1000, PSYC C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78283",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-14T03:38:45.764395Z"
     },
     {
       "crn": "78434",
@@ -83614,8 +84677,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-09-13T03:34:29.842855+00:00Z",
-    "courses_with_details": 1447,
+    "detail_collection_timestamp": "2025-09-14T03:38:45.866536+00:00Z",
+    "courses_with_details": 1497,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
