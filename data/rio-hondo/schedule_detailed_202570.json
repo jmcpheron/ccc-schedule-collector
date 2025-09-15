@@ -79734,7 +79734,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78434')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78434')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78434",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 14,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-15T03:41:21.723230Z"
     },
     {
       "crn": "70641",
@@ -79766,7 +79787,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70641')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70641')",
+      "description": null,
+      "prerequisites": "ENGL C1000",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70641",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 8,
+        "available": 24
+      },
+      "detail_fetched_at": "2025-09-15T03:41:23.301504Z"
     },
     {
       "crn": "70642",
@@ -79798,7 +79840,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70642')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70642')",
+      "description": null,
+      "prerequisites": "ENGL C1000",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70642",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 5,
+        "available": 27
+      },
+      "detail_fetched_at": "2025-09-15T03:41:24.872152Z"
     },
     {
       "crn": "70643",
@@ -79830,7 +79893,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70643')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70643')",
+      "description": null,
+      "prerequisites": "ENGL C1000",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70643",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 5,
+        "available": 27
+      },
+      "detail_fetched_at": "2025-09-15T03:41:26.442844Z"
     },
     {
       "crn": "75131",
@@ -79861,8 +79945,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75131')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75131')",
+      "description": null,
+      "prerequisites": "ENGL C1000",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75131",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 15,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-15T03:41:28.014015Z"
     },
     {
       "crn": "76576",
@@ -79893,8 +79998,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76576')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76576')",
+      "description": null,
+      "prerequisites": "ENGL C1000",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76576",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 22,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-15T03:41:29.592336Z"
     },
     {
       "crn": "78471",
@@ -79925,8 +80051,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78471')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78471')",
+      "description": null,
+      "prerequisites": "ENGL C1000",
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78471",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 21,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-15T03:41:31.162435Z"
     },
     {
       "crn": "70280",
@@ -79958,7 +80106,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70280')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70280')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70280",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 33,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-15T03:41:32.734035Z"
     },
     {
       "crn": "70281",
@@ -79990,7 +80159,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70281')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70281')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70281",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 39,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-15T03:41:34.308900Z"
     },
     {
       "crn": "70282",
@@ -80022,7 +80212,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70282')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70282')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70282",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-15T03:41:35.886792Z"
     },
     {
       "crn": "70283",
@@ -80054,7 +80265,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70283')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70283')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70283",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-15T03:41:37.457798Z"
     },
     {
       "crn": "70284",
@@ -80086,7 +80318,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70284')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70284')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70284",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 35,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-15T03:41:39.028861Z"
     },
     {
       "crn": "70285",
@@ -80118,7 +80371,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70285')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70285')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70285",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 19,
+        "available": 26
+      },
+      "detail_fetched_at": "2025-09-15T03:41:40.608674Z"
     },
     {
       "crn": "70286",
@@ -80149,8 +80423,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70286')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70286')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70286",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-15T03:41:42.184593Z"
     },
     {
       "crn": "70287",
@@ -80181,8 +80477,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70287')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70287')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70287",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-15T03:41:43.753736Z"
     },
     {
       "crn": "70288",
@@ -80213,8 +80531,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70288')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70288')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70288",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 36,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-15T03:41:45.323818Z"
     },
     {
       "crn": "70290",
@@ -80245,8 +80584,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70290')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70290')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70290",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 28,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-15T03:41:46.892593Z"
     },
     {
       "crn": "74532",
@@ -80277,8 +80637,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74532')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74532')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025",
+        "Census Date": "02-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74532",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 44,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-15T03:41:48.463629Z"
     },
     {
       "crn": "76644",
@@ -80309,8 +80691,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76644')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76644')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76644",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 39,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-15T03:41:50.034120Z"
     },
     {
       "crn": "77335",
@@ -80342,7 +80745,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77335')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77335')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77335",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 19,
+        "available": 26
+      },
+      "detail_fetched_at": "2025-09-15T03:41:51.598729Z"
     },
     {
       "crn": "77360",
@@ -80374,7 +80798,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77360')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77360')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77360",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 34,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-15T03:41:53.176315Z"
     },
     {
       "crn": "77426",
@@ -80405,8 +80850,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77426')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77426')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle; the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "21-AUG-2025",
+        "Last day to drop with a refund": "21-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "26-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "10-OCT-2025",
+        "Census Date": "27-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77426",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 33,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-15T03:41:54.752178Z"
     },
     {
       "crn": "77682",
@@ -80437,8 +80904,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77682')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77682')",
+      "description": "This course is designed for students with an interest in the discipline of sociology, or anyone who wants to further their understanding of human group behavior and the organization of society. Using several theoretical points of view, students study and analyze the organization of social life; problems of inequality, including age, sex, race and ethnicity, social class, and lifestyle;the basic social institutions of family, religion, and economics; and global issues related to technology, social movements, and social change. This course is intended for students eligible for the Honors Program.",
+      "prerequisites": "Enrollment is restricted to those who meet Honors Program requirements (minimum GPA of 3.0);completion of ENGL C1000 and be able to read college-level texts.",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SOC 101 or SOC 101H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77682",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 24,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-15T03:41:56.323728Z"
     },
     {
       "crn": "70291",
@@ -80469,8 +80957,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70291')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70291')",
+      "description": "This course is designed to provide students with an understanding of the definition, development, reduction, and elimination of major social problems in contemporary society. Topics include problems of mental and physical health, including addictions, crime and violence, social inequality, terrorism and war, and technology and the environment. Various social theories and relevant empirical research are critically examined throughout the course.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70291",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-15T03:41:57.893230Z"
     },
     {
       "crn": "76448",
@@ -80501,8 +81011,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76448')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76448')",
+      "description": "This course is designed to provide students with an understanding of the definition, development, reduction, and elimination of major social problems in contemporary society. Topics include problems of mental and physical health, including addictions, crime and violence, social inequality, terrorism and war, and technology and the environment. Various social theories and relevant empirical research are critically examined throughout the course.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76448",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 36,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-15T03:41:59.474404Z"
     },
     {
       "crn": "76630",
@@ -80534,7 +81065,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76630')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76630')",
+      "description": "This course is designed to provide students with an understanding of the definition, development, reduction, and elimination of major social problems in contemporary society. Topics include problems of mental and physical health, including addictions, crime and violence, social inequality, terrorism and war, and technology and the environment. Various social theories and relevant empirical research are critically examined throughout the course.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76630",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 20,
+        "available": 25
+      },
+      "detail_fetched_at": "2025-09-15T03:42:01.045045Z"
     },
     {
       "crn": "76972",
@@ -80565,8 +81117,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76972')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76972')",
+      "description": "This course is designed for students interested in the social scientific study of human sexuality. The course provides students with knowledge about the processes and variation in sexual functions, reproduction, intimate relationships, sexual and gender role development, and sexual activities. The social, cultural, and historical contexts of human sexuality are critically analyzed; and numerous factors involved in human sexuality are explored, emphasizing sexuality as a form of human interaction.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76972",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-15T03:42:02.614748Z"
     },
     {
       "crn": "77324",
@@ -80597,8 +81171,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77324')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77324')",
+      "description": "This course is designed for students interested in the social scientific study of human sexuality. The course provides students with knowledge about the processes and variation in sexual functions, reproduction, intimate relationships, sexual and gender role development, and sexual activities. The social, cultural, and historical contexts of human sexuality are critically analyzed; and numerous factors involved in human sexuality are explored, emphasizing sexuality as a form of human interaction.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77324",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 22,
+        "available": 23
+      },
+      "detail_fetched_at": "2025-09-15T03:42:04.200474Z"
     },
     {
       "crn": "77813",
@@ -80630,7 +81225,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77813')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77813')",
+      "description": "This course is designed for students interested in the social scientific study of human sexuality. The course provides students with knowledge about the processes and variation in sexual functions, reproduction, intimate relationships, sexual and gender role development, and sexual activities. The social, cultural, and historical contexts of human sexuality are critically analyzed; and numerous factors involved in human sexuality are explored, emphasizing sexuality as a form of human interaction.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77813",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 16,
+        "available": 29
+      },
+      "detail_fetched_at": "2025-09-15T03:42:05.770118Z"
     },
     {
       "crn": "70298",
@@ -80661,8 +81277,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70298')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70298')",
+      "description": "This course is designed for students interested in examining issues such as marriage, family, and emerging alternative lifestyles from a sociological perspective. The course explores love, sexuality, mate selection, and engagement preceding traditional marriage and family patterns; extra-marital and non-marital unions; singles; and future trends in intimate relationship styles.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70298",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 18,
+        "available": 27
+      },
+      "detail_fetched_at": "2025-09-15T03:42:07.339558Z"
     },
     {
       "crn": "76408",
@@ -80693,8 +81330,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76408')"
+      "additional_hours": "5.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76408')",
+      "description": "This course is designed for students interested in examining issues such as marriage, family, and emerging alternative lifestyles from a sociological perspective. The course explores love, sexuality, mate selection, and engagement preceding traditional marriage and family patterns; extra-marital and non-marital unions; singles; and future trends in intimate relationship styles.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-OCT-2025",
+        "Last day to drop with a refund": "03-OCT-2025",
+        "Last day to drop without a \"W\"": "16-OCT-2025",
+        "Last day to drop with a \"W\"": "17-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "09-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76408",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 43,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-15T03:42:08.910705Z"
     },
     {
       "crn": "76409",
@@ -80725,8 +81384,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76409')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76409')",
+      "description": "This course is designed for students interested in examining issues such as marriage, family, and emerging alternative lifestyles from a sociological perspective. The course explores love, sexuality, mate selection, and engagement preceding traditional marriage and family patterns; extra-marital and non-marital unions; singles; and future trends in intimate relationship styles.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76409",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-15T03:42:10.483963Z"
     },
     {
       "crn": "76631",
@@ -80758,7 +81439,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76631')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76631')",
+      "description": "This course is designed for students interested in examining issues such as marriage, family, and emerging alternative lifestyles from a sociological perspective. The course explores love, sexuality, mate selection, and engagement preceding traditional marriage and family patterns; extra-marital and non-marital unions; singles; and future trends in intimate relationship styles.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76631",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-15T03:42:12.059207Z"
     },
     {
       "crn": "76978",
@@ -80789,8 +81491,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76978')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76978')",
+      "description": "This course is designed for students interested in understanding the complexities of multiethnic, multiracial societies. The course presents an overview of the structure and character of racial and ethnic relations in the United States and abroad. Students gain knowledge of the treatment and experiences of a variety of racial and ethnic groups and gain insight into the complex social features of intergroup contact.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76978",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 26,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-09-15T03:42:13.632549Z"
     },
     {
       "crn": "76406",
@@ -80821,8 +81544,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76406')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76406')",
+      "description": "This course is designed for students interested in the subject of criminology. The scientific analysis of the nature, extent, and causes of violations of societal rules of behavior formally defined as crime and delinquency is emphasized. The course includes an analysis of the development of criminal law and the administration of criminal justice; the patterns of criminality and delinquency; the impact of crime on social change; and the labeling, identification, characteristics, and treatment of criminals and delinquents.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76406",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 45,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-15T03:42:15.210772Z"
     },
     {
       "crn": "77509",
@@ -80853,8 +81598,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77509')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77509')",
+      "description": "This course is designed for students interested in the subject of criminology. The scientific analysis of the nature, extent, and causes of violations of societal rules of behavior formally defined as crime and delinquency is emphasized. The course includes an analysis of the development of criminal law and the administration of criminal justice; the patterns of criminality and delinquency; the impact of crime on social change; and the labeling, identification, characteristics, and treatment of criminals and delinquents.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77509",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 15,
+        "available": 30
+      },
+      "detail_fetched_at": "2025-09-15T03:42:16.781990Z"
     },
     {
       "crn": "70903",
@@ -80885,8 +81651,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70903')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70903')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70903",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 30,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-15T03:42:18.352549Z"
     },
     {
       "crn": "70905",
@@ -80917,8 +81704,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70905')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70905')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70905",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 26,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-15T03:42:19.927707Z"
     },
     {
       "crn": "70906",
@@ -80949,8 +81757,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70906')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70906')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70906",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 28,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-15T03:42:21.500045Z"
     },
     {
       "crn": "70933",
@@ -80981,8 +81810,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70933')"
+      "additional_hours": "1.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70933')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70933",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 10,
+        "available": 22
+      },
+      "detail_fetched_at": "2025-09-15T03:42:23.075531Z"
     },
     {
       "crn": "71007",
@@ -81013,8 +81863,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71007')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71007')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71007",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 32,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-15T03:42:24.645257Z"
     },
     {
       "crn": "71016",
@@ -81045,8 +81917,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71016')"
+      "additional_hours": "9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71016')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71016",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 32,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-15T03:42:26.221059Z"
     },
     {
       "crn": "74658",
@@ -81077,8 +81971,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74658')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74658')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74658",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 31,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-15T03:42:27.793040Z"
     },
     {
       "crn": "75605",
@@ -81109,8 +82025,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75605')"
+      "additional_hours": "1.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75605')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "09-SEP-2025",
+        "Last day to drop with a refund": "09-SEP-2025",
+        "Last day to drop without a \"W\"": "25-SEP-2025",
+        "Last day to drop with a \"W\"": "11-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "18-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75605",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 31,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-15T03:42:29.368852Z"
     },
     {
       "crn": "75769",
@@ -81141,8 +82079,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75769')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75769')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75769",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 13,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-09-15T03:42:30.947770Z"
     },
     {
       "crn": "75770",
@@ -81173,8 +82132,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75770')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75770')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75770",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 17,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-15T03:42:32.519110Z"
     },
     {
       "crn": "75771",
@@ -81205,8 +82185,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75771')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75771')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75771",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 17,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-15T03:42:34.090698Z"
     },
     {
       "crn": "75772",
@@ -81237,8 +82238,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75772')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75772')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75772",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-15T03:42:35.662037Z"
     },
     {
       "crn": "75773",
@@ -81269,8 +82291,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75773')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75773')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75773",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 21,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-15T03:42:37.238692Z"
     },
     {
       "crn": "75774",
@@ -81301,8 +82344,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75774')"
+      "additional_hours": "2 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75774')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "09-SEP-2025",
+        "Last day to drop with a refund": "09-SEP-2025",
+        "Last day to drop without a \"W\"": "25-SEP-2025",
+        "Last day to drop with a \"W\"": "11-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "04-DEC-2025",
+        "Census Date": "18-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75774",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 28,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-15T03:42:38.804143Z"
     },
     {
       "crn": "75776",
@@ -84677,8 +85742,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-09-14T03:38:45.866536+00:00Z",
-    "courses_with_details": 1497,
+    "detail_collection_timestamp": "2025-09-15T03:42:38.901565+00:00Z",
+    "courses_with_details": 1547,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
