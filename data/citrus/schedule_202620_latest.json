@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-09-15T23:19:26.279597Z",
+  "collection_timestamp": "2025-09-16T07:20:01.493551Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -1529,8 +1529,8 @@
       "location": "VA 210",
       "enrollment": {
         "capacity": 20,
-        "actual": 1,
-        "remaining": 19
+        "actual": 2,
+        "remaining": 18
       },
       "status": "Open",
       "section_type": "LEC",
@@ -5753,8 +5753,8 @@
       "location": "VT 323",
       "enrollment": {
         "capacity": 15,
-        "actual": 15,
-        "remaining": 0
+        "actual": 14,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -8825,8 +8825,8 @@
       "location": "ED 104",
       "enrollment": {
         "capacity": 45,
-        "actual": 31,
-        "remaining": 14
+        "actual": 30,
+        "remaining": 15
       },
       "status": "Open",
       "section_type": "LEC",
@@ -10905,8 +10905,8 @@
       "location": "ONLINE",
       "enrollment": {
         "capacity": 40,
-        "actual": 25,
-        "remaining": 15
+        "actual": 26,
+        "remaining": 14
       },
       "status": "Open",
       "section_type": "LEC",
@@ -12121,8 +12121,8 @@
       "location": "ED 213",
       "enrollment": {
         "capacity": 45,
-        "actual": 28,
-        "remaining": 17
+        "actual": 27,
+        "remaining": 18
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13081,8 +13081,8 @@
       "location": "PC 314",
       "enrollment": {
         "capacity": 45,
-        "actual": 31,
-        "remaining": 14
+        "actual": 32,
+        "remaining": 13
       },
       "status": "Open",
       "section_type": "LEC",
@@ -14585,7 +14585,7 @@
       "location": "VT 208",
       "enrollment": {
         "capacity": 25,
-        "actual": 30,
+        "actual": 29,
         "remaining": 0
       },
       "status": "Open",
