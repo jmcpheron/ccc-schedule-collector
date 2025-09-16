@@ -82398,8 +82398,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75776')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75776')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75776",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 19,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-16T03:36:58.297505Z"
     },
     {
       "crn": "75800",
@@ -82430,8 +82451,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75800')"
+      "additional_hours": "5.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75800')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "09-SEP-2025",
+        "Last day to drop with a refund": "09-SEP-2025",
+        "Last day to drop without a \"W\"": "29-SEP-2025",
+        "Last day to drop with a \"W\"": "12-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "18-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75800",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 28,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-16T03:36:59.907945Z"
     },
     {
       "crn": "77017",
@@ -82462,8 +82505,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77017')"
+      "additional_hours": "5.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77017')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "10-SEP-2025",
+        "Last day to drop with a refund": "10-SEP-2025",
+        "Last day to drop without a \"W\"": "29-SEP-2025",
+        "Last day to drop with a \"W\"": "10-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "18-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77017",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 32,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-16T03:37:01.523106Z"
     },
     {
       "crn": "75804",
@@ -82494,8 +82559,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75804')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75804')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do have a Spanish language background and want to develop a better written and oral competency in the language, or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*Students will receive credit from UC for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75804",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 9,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-16T03:37:03.135041Z"
     },
     {
       "crn": "77020",
@@ -82526,8 +82612,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77020')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77020')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do have a Spanish language background and want to develop a better written and oral competency in the language, or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*Students will receive credit from UC for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77020",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 29,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-16T03:37:04.751975Z"
     },
     {
       "crn": "77592",
@@ -82558,8 +82665,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77592')"
+      "additional_hours": "9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77592')",
+      "description": "This course is an introduction to the essentials of Spanish language: reading, listening, speaking, and writing skills. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do have a Spanish language background and want to develop a better written and oral competency in the language, or who seek a degree in the Spanish language.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC (credit limit*), CSU(*Students will receive credit from UC for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77592",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 32,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-16T03:37:06.363010Z"
     },
     {
       "crn": "71053",
@@ -82590,8 +82719,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71053')"
+      "additional_hours": "1.7 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71053')",
+      "description": "This course is a continuation of the study of the essentials of Spanish language: reading, listening, speaking, and writing skills. The skills learned in SPAN 101 will be reviewed. The class will increase vocabulary, grammar, and cultural knowledge to improve on the reading, listening, speaking and writing skills presented in SPAN 101. In this course the study of verb tenses and constructions is completed. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs, and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do not have a Spanish language background who wish to learn to speak Spanish or who seek a degree in the Spanish language.",
+      "prerequisites": "Completion of SPAN 101 or completion of 2 years of high school Spanish with a grade of \"C\" or better",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU (*Students will receive credit for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71053",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 25,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-16T03:37:07.978684Z"
     },
     {
       "crn": "75813",
@@ -82622,8 +82772,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75813')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75813')",
+      "description": "This course is a continuation of the essentials of the Spanish language: reading, listening, speaking, and writing skills. The skills learned in Spanish 101S will be reviewed. The class will increase vocabulary, grammar, and cultural knowledge to improve on the reading, listening, speaking and writing skills presented in Spanish 101S. In this course the study or verb tenses and constructions is completed. It is designed to further improve the language skills of students with a Spanish language background. Various facets of Spanish-speaking cultures will be analyzed via cross-cultural comparisons. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs, and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who do have a Spanish language background and want to develop a better written and oral competency in the language, or who seek a degree in the Spanish language.",
+      "prerequisites": "SPAN 101S",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*Students will receive credit from UC for only one of the following sequences of courses: SPAN 101 and SPAN 102 or SPAN 101S and SPAN 102S)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75813",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 11,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-09-16T03:37:09.590875Z"
     },
     {
       "crn": "75814",
@@ -82654,8 +82825,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75814')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75814')",
+      "description": "This is an intermediate level course in which Spanish grammar is reviewed. It includes intensive practice in conversation and composition. Many aspects of Spanish culture are introduced in short stories by Latin-American and Spanish authors. Students strengthen their communications and written skills by analyzing these stories in Spanish. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs, and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for students who wish to broaden their knowledge in Spanish as well as for those seeking a degree in the Spanish language.",
+      "prerequisites": "SPAN 102 or SPAN 102S or completion of three years of high school Spanish with a grade of \"C\" or better.",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SPAN 201 or SPAN 201H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "24-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "08-OCT-2025",
+        "Census Date": "25-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75814",
+      "seating_detail": {
+        "capacity": 18,
+        "taken": 5,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-16T03:37:11.201380Z"
     },
     {
       "crn": "75819",
@@ -82686,8 +82879,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75819')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75819')",
+      "description": "This is an intermediate level course in which Spanish grammar is reviewed. It includes intensive practice in conversation and composition. Many aspects of Spanish culture are introduced in short stories by Latin-American and Spanish authors. Students strengthen their communications and written skills by analyzing these stories in Spanish. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs, and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for students who wish to broaden their knowledge in Spanish as well as for those seeking a degree in the Spanish language. This course is intended for students eligible for the Honors Program.",
+      "prerequisites": "Completion of SPAN 102 or SPAN 102S or completion of three years of high school Spanish with a grade of \"C\" or better. Completion of ENGL C1000",
+      "advisory": null,
+      "transfers_to": "UC (*credit limit), CSU(*Students will receive credit for only one of the following courses: SPAN 201 or SPAN 201H)This is an intermediate level course in which Spanish grammar is reviewed. It includes intensive practice in conversation and composition. Many aspects of Spanish culture are introduced in short stories by Latin-American and Spanish authors. Students strengthen their communications and written skills by analyzing these stories in Spanish. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs, and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for students who wish to broaden their knowledge in Spanish as well as for those seeking a degree in the Spanish language.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "24-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "08-OCT-2025",
+        "Census Date": "25-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75819",
+      "seating_detail": {
+        "capacity": 6,
+        "taken": 0,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-16T03:37:12.819228Z"
     },
     {
       "crn": "74410",
@@ -82718,8 +82933,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74410')"
+      "additional_hours": "9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74410')",
+      "description": "This course is the continuation of SPAN 201. SPAN 202 is an intermediate level course in which Spanish language and culture is reviewed. It stresses written and oral proficiency as well as reading comprehension and composition. Many aspects of Spanish culture, literature, and history are analyzed in readings by Latin American and Spanish authors. Students strengthen their communication and writing skills by analyzing these stories in Spanish. In addition to classroom discussion, students are required to complete at least 27 hours of intensive individualized oral-aural practice in the Language Laboratory via interactive websites, audio CDs, video programs, and films. The Language Laboratory work focuses on vocabulary, grammar, and cultural practices. This class is designed for those students who wish to broaden their knowledge in Spanish as well as for those interested in pursuing a degree in the Spanish language.",
+      "prerequisites": "SPAN 201 or 201H or completion of four years of high school Spanish with a grade of \"C\" or better",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74410",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 8,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-09-16T03:37:14.432612Z"
     },
     {
       "crn": "70479",
@@ -82750,8 +82987,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70479')"
+      "additional_hours": "1.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70479')",
+      "description": "This course focuses on the oral communication that occurs in dyadic interactions, such as the rhetorical strategies to maintain and strengthen personal and professional relationships. Students become aware of theory and research related to the influences of language, nonverbal communication, and other communication aspects influencing the dyadic interaction. This course includes faculty-supervised, faculty-evaluated oral presentations in the presence of others. This course is designed for Communication Studies majors and anyone interested in the rhetorical and communicative principles involved in the social interaction in interpersonal interactions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*)CSU, (*Students will receive credit for only one of the following courses: SPCH 100 or SPCH 100H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70479",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 24,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-16T03:37:16.051137Z"
     },
     {
       "crn": "70485",
@@ -82782,8 +83040,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70485')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70485')",
+      "description": "This course focuses on the oral communication that occurs in dyadic interactions, such as the rhetorical strategies to maintain and strengthen personal and professional relationships. Students become aware of theory and research related to the influences of language, nonverbal communication, and other communication aspects influencing the dyadic interaction. This course includes faculty-supervised, faculty-evaluated oral presentations in the presence of others. This course is designed for Communication Studies majors and anyone interested in the rhetorical and communicative principles involved in the social interaction in interpersonal interactions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*)CSU, (*Students will receive credit for only one of the following courses: SPCH 100 or SPCH 100H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70485",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 22,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-16T03:37:17.672238Z"
     },
     {
       "crn": "70489",
@@ -82814,8 +83093,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70489')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70489')",
+      "description": "This course focuses on the oral communication that occurs in dyadic interactions, such as the rhetorical strategies to maintain and strengthen personal and professional relationships. Students become aware of theory and research related to the influences of language, nonverbal communication, and other communication aspects influencing the dyadic interaction. This course includes faculty-supervised, faculty-evaluated oral presentations in the presence of others. This course is designed for Communication Studies majors and anyone interested in the rhetorical and communicative principles involved in the social interaction in interpersonal interactions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*)CSU, (*Students will receive credit for only one of the following courses: SPCH 100 or SPCH 100H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70489",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 27,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-16T03:37:19.289200Z"
     },
     {
       "crn": "75683",
@@ -82847,7 +83147,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75683')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75683')",
+      "description": "This course focuses on the oral communication that occurs in dyadic interactions, such as the rhetorical strategies to maintain and strengthen personal and professional relationships. Students become aware of theory and research related to the influences of language, nonverbal communication, and other communication aspects influencing the dyadic interaction. This course includes faculty-supervised, faculty-evaluated oral presentations in the presence of others. This course is designed for Communication Studies majors and anyone interested in the rhetorical and communicative principles involved in the social interaction in interpersonal interactions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*)CSU, (*Students will receive credit for only one of the following courses: SPCH 100 or SPCH 100H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75683",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 21,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-16T03:37:20.899619Z"
     },
     {
       "crn": "76391",
@@ -82878,8 +83199,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76391')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76391')",
+      "description": "This course focuses on the oral communication that occurs in dyadic interactions, such as the rhetorical strategies to maintain and strengthen personal and professional relationships. Students become aware of theory and research related to the influences of language, nonverbal communication, and other communication aspects influencing the dyadic interaction. This course includes faculty-supervised, faculty-evaluated oral presentations in the presence of others. This course is designed for Communication Studies majors and anyone interested in the rhetorical and communicative principles involved in the social interaction in interpersonal interactions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*)CSU, (*Students will receive credit for only one of the following courses: SPCH 100 or SPCH 100H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76391",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 28,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-16T03:37:22.511179Z"
     },
     {
       "crn": "76577",
@@ -82910,8 +83252,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76577')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76577')",
+      "description": "This course focuses on the oral communication that occurs in dyadic interactions, such as the rhetorical strategies to maintain and strengthen personal and professional relationships. Students become aware of theory and research related to the influences of language, nonverbal communication, and other communication aspects influencing the dyadic interaction. This course includes faculty-supervised, faculty-evaluated oral presentations in the presence of others. This course is designed for Communication Studies majors and anyone interested in the rhetorical and communicative principles involved in the social interaction in interpersonal interactions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*)CSU, (*Students will receive credit for only one of the following courses: SPCH 100 or SPCH 100H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76577",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 32,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-16T03:37:24.119791Z"
     },
     {
       "crn": "77137",
@@ -82942,8 +83306,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77137')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77137')",
+      "description": "This course focuses on the oral communication that occurs in dyadic interactions, such as the rhetorical strategies to maintain and strengthen personal and professional relationships. Students become aware of theory and research related to the influences of language, nonverbal communication, and other communication aspects influencing the dyadic interaction. This course includes faculty-supervised, faculty-evaluated oral presentations in the presence of others. This course is designed for Communication Studies majors and anyone interested in the rhetorical and communicative principles involved in the social interaction in interpersonal interactions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*)CSU, (*Students will receive credit for only one of the following courses: SPCH 100 or SPCH 100H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77137",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 24,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-16T03:37:25.730767Z"
     },
     {
       "crn": "77566",
@@ -82975,7 +83360,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77566')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77566')",
+      "description": "This course focuses on the oral communication that occurs in dyadic interactions, such as the rhetorical strategies to maintain and strengthen personal and professional relationships. Students become aware of theory and research related to the influences of language, nonverbal communication, and other communication aspects influencing the dyadic interaction. This course includes faculty-supervised, faculty-evaluated oral presentations in the presence of others. This course is designed for Communication Studies majors and anyone interested in the rhetorical and communicative principles involved in the social interaction in interpersonal interactions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*)CSU, (*Students will receive credit for only one of the following courses: SPCH 100 or SPCH 100H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77566",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 28,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-16T03:37:27.339744Z"
     },
     {
       "crn": "77572",
@@ -83006,8 +83412,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77572')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77572')",
+      "description": "This course focuses on the oral communication that occurs in dyadic interactions, such as the rhetorical strategies to maintain and strengthen personal and professional relationships. Students become aware of theory and research related to the influences of language, nonverbal communication, and other communication aspects influencing the dyadic interaction. This course includes faculty-supervised, faculty-evaluated oral presentations in the presence of others. This course is designed for Communication Studies majors and anyone interested in the rhetorical and communicative principles involved in the social interaction in interpersonal interactions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*)CSU, (*Students will receive credit for only one of the following courses: SPCH 100 or SPCH 100H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77572",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 28,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-16T03:37:28.957253Z"
     },
     {
       "crn": "77612",
@@ -83038,8 +83465,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77612')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77612')",
+      "description": "This course focuses on the oral communication that occurs in dyadic interactions, such as the rhetorical strategies to maintain and strengthen personal and professional relationships. Students become aware of theory and research related to the influences of language, nonverbal communication, and other communication aspects influencing the dyadic interaction. This course includes faculty-supervised, faculty-evaluated oral presentations in the presence of others. This course is designed for Communication Studies majors and anyone interested in the rhetorical and communicative principles involved in the social interaction in interpersonal interactions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*)CSU, (*Students will receive credit for only one of the following courses: SPCH 100 or SPCH 100H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77612",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 32,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-16T03:37:30.566816Z"
     },
     {
       "crn": "77772",
@@ -83070,8 +83519,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77772')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77772')",
+      "description": "This course focuses on the oral communication that occurs in dyadic interactions, such as the rhetorical strategies to maintain and strengthen personal and professional relationships. Students become aware of theory and research related to the influences of language, nonverbal communication, and other communication aspects influencing the dyadic interaction. This course includes faculty-supervised, faculty-evaluated oral presentations in the presence of others. This course is designed for Communication Studies majors and anyone interested in the rhetorical and communicative principles involved in the social interaction in interpersonal interactions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*)CSU, (*Students will receive credit for only one of the following courses: SPCH 100 or SPCH 100H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77772",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 21,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-16T03:37:32.181939Z"
     },
     {
       "crn": "77808",
@@ -83102,8 +83572,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77808')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77808')",
+      "description": "This course focuses on the oral communication that occurs in dyadic interactions, such as the rhetorical strategies to maintain and strengthen personal and professional relationships. Students become aware of theory and research related to the influences of language, nonverbal communication, and other communication aspects influencing the dyadic interaction. This course includes faculty-supervised, faculty-evaluated oral presentations in the presence of others. This course is designed for Communication Studies majors and anyone interested in the rhetorical and communicative principles involved in the social interaction in interpersonal interactions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*)CSU, (*Students will receive credit for only one of the following courses: SPCH 100 or SPCH 100H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77808",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 32,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-16T03:37:33.795496Z"
     },
     {
       "crn": "77930",
@@ -83135,7 +83627,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77930')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77930')",
+      "description": "This course focuses on the oral communication that occurs in dyadic interactions, such as the rhetorical strategies to maintain and strengthen personal and professional relationships. Students become aware of theory and research related to the influences of language, nonverbal communication, and other communication aspects influencing the dyadic interaction. This course includes faculty-supervised, faculty-evaluated oral presentations in the presence of others. This course is designed for Communication Studies majors and anyone interested in the rhetorical and communicative principles involved in the social interaction in interpersonal interactions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC (credit limit*)CSU, (*Students will receive credit for only one of the following courses: SPCH 100 or SPCH 100H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77930",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 20,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-16T03:37:35.403953Z"
     },
     {
       "crn": "70560",
@@ -83166,8 +83679,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70560')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70560')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Prior or concurrent enrollment in SPCH 101 or SPCH 101H or SPCH 130 or SPCH 140; It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70560",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 10,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-16T03:37:37.013821Z"
     },
     {
       "crn": "74443",
@@ -83198,8 +83732,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74443')"
+      "additional_hours": "6.6 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74443')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Prior or concurrent enrollment in SPCH 101 or SPCH 101H or SPCH 130 or SPCH 140; It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74443",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 7,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-16T03:37:38.630299Z"
     },
     {
       "crn": "74444",
@@ -83230,8 +83785,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74444')"
+      "additional_hours": "9.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74444')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "Prior or concurrent enrollment in SPCH 101 or SPCH 101H or SPCH 130 or SPCH 140; It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74444",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 4,
+        "available": 6
+      },
+      "detail_fetched_at": "2025-09-16T03:37:40.248329Z"
     },
     {
       "crn": "70568",
@@ -83263,7 +83839,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70568')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70568')",
+      "description": "This course focuses on the oral performance aspects of various forms of literature, including poetry, prose, and drama. The skills needed for making such public performances are addressed and students\u2019 knowledge of the various forms of literature will be enhanced. Emphasis is placed on creating the essence of characters in a text through facial, vocal, and kinetic methods. This course is appropriate for speech majors or anyone interested in public performance and literature.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70568",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 7,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-16T03:37:41.860613Z"
     },
     {
       "crn": "70569",
@@ -83295,7 +83892,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70569')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70569')",
+      "description": "This course provides students with the foundational knowledge of argumentation and debate concepts and theories to successfully dissect and deliver arguments in distinct contexts and public speaking settings and to critically evaluate the arguments of others. The course emphasizes Aristotle\u2019s ethos, pathos, and logos, audience analysis, ethics, critical listening, and effective verbal and nonverbal practices for effective argumentation. Lastly, the course includes analysis of strong evidence and the process of reasoning needed for effective arguing and presentation of arguments to live audiences. Central to this course is the learning of the foundational knowledge and practice of public speaking in a democratic society to communicate ideas through speaking in debate contexts such as to audience\u2019s expected to refute or question the speaker\u2019s central thesis and/or arguments.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (credit limit*), CSU(*Students will receive credit for only one of the following courses: SPCH 140 or SPCH 240)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70569",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 13,
+        "available": 12
+      },
+      "detail_fetched_at": "2025-09-16T03:37:43.476990Z"
     },
     {
       "crn": "70570",
@@ -83327,7 +83945,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70570')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70570')",
+      "description": "This course provides students with the foundational knowledge of argumentation and debate concepts and theories to successfully dissect and deliver arguments in distinct contexts and public speaking settings and to critically evaluate the arguments of others. The course emphasizes Aristotle\u2019s ethos, pathos, and logos, audience analysis, ethics, critical listening, and effective verbal and nonverbal practices for effective argumentation. Lastly, the course includes analysis of strong evidence and the process of reasoning needed for effective arguing and presentation of arguments to live audiences. Central to this course is the learning of the foundational knowledge and practice of public speaking in a democratic society to communicate ideas through speaking in debate contexts such as to audience\u2019s expected to refute or question the speaker\u2019s central thesis and/or arguments.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (credit limit*), CSU(*Students will receive credit for only one of the following courses: SPCH 140 or SPCH 240)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70570",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 7,
+        "available": 18
+      },
+      "detail_fetched_at": "2025-09-16T03:37:45.085026Z"
     },
     {
       "crn": "77353",
@@ -83358,8 +83997,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77353')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77353')",
+      "description": "This course provides students with the foundational knowledge of argumentation and debate concepts and theories to successfully dissect and deliver arguments in distinct contexts and public speaking settings and to critically evaluate the arguments of others. The course emphasizes Aristotle\u2019s ethos, pathos, and logos, audience analysis, ethics, critical listening, and effective verbal and nonverbal practices for effective argumentation. Lastly, the course includes analysis of strong evidence and the process of reasoning needed for effective arguing and presentation of arguments to live audiences. Central to this course is the learning of the foundational knowledge and practice of public speaking in a democratic society to communicate ideas through speaking in debate contexts such as to audience\u2019s expected to refute or question the speaker\u2019s central thesis and/or arguments.",
+      "prerequisites": null,
+      "advisory": "ENGL C1000",
+      "transfers_to": "UC (credit limit*), CSU(*Students will receive credit for only one of the following courses: SPCH 140 or SPCH 240)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77353",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 24,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-16T03:37:46.695282Z"
     },
     {
       "crn": "76392",
@@ -83390,8 +84050,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76392')"
+      "additional_hours": "3.4 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76392')",
+      "description": "This course is an introduction to intercultural communication. Emphasis is placed on applying intercultural theories and concepts to understand the influence of cultural membership upon communicative situations. Students who complete the course improve their intercultural communication competence. This course is recommended for students in all fields, but particularly for students majoring in communication studies and students who anticipate high levels of interaction with people from diverse cultures.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76392",
+      "seating_detail": {
+        "capacity": 32,
+        "taken": 22,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-16T03:37:48.311245Z"
     },
     {
       "crn": "72284",
@@ -83423,7 +84104,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72284')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72284')",
+      "description": "This course provides students with expanded practice and theory in argumentation. Students further develop their argumentation knowledge and skills through debate participation, observation, and discussion. The course is particularly appropriate for students anticipating entering occupations that involve extensive argumentation and deliberation such as law, communication, negotiation, and any area where argumentation and debate occur frequently.",
+      "prerequisites": "SPCH 140",
+      "advisory": null,
+      "transfers_to": "UC (credit limit*), CSU(*Students will receive credit for only one of the following courses: SPCH 140 or SPCH 240)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72284",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-16T03:37:49.919663Z"
     },
     {
       "crn": "78255",
@@ -83455,7 +84157,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78255')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78255')",
+      "description": "This support course is designed to develop the mathematical knowledge and study skills necessary for successful completion of Introduction to Statistics (STAT C1000). Students must be concurrently enrolled in a section of STAT C1000 to take this support course. Topics from algebra and intermediate algebra are covered to build a foundation for college-level statistics. Strategic reading, critical thinking and problem-solving are incorporated to build the strategies needed to solve contextualized problems. Topics in the area of study skills are also included to support students in a college-level math course. This is a non-degree applicable course offered on a pass/no pass basis.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This support course is designed to develop the mathematical knowledge and study skills necessary for successful completion of Introduction to Statistics (STAT C1000). Students must be concurrently enrolled in a section of STAT C1000 to take this support course. Topics from algebra and intermediate algebra are covered to build a foundation for college-level statistics. Strategic reading, critical thinking and problem-solving are incorporated to build the strategies needed to solve contextualized problems. Topics in the area of study skills are also included to support students in a college-level math course. This is a non-degree applicable course offered on a pass/no pass basis. View Book Learning Outcomes and Important Section Information Course Corequisites: STAT C1000 Section Information as of 15-SEP-2025 08:09:55 PM Title: STAT 001E Essential Topics for Statistic CRN: 78255 Instructor: Ryan Bronkar CH Weekly Census Instructional Method Section Corequisites: 78258 Bldg/Room: S 303 Science Section Information Text This class requires students to have a laptop, access to the internet and google sheets. Math students can borrow graphing calculators or laptops at no cost from the Library. Graphing calculators or laptops can be checked out for two weeks at a time with unlimited renewals possible if no other student is on the waitlist when the borrower's calculator or laptop is due. Reservations open about a month before the start of an upcoming semester/session at: http://gorio.page/tech. (Graphing calculators are also available in the MSEC, Room LR-114, but for in-room-use only, unless needed by student for a test when none are available from the Library). Meeting Time T 02:55pm - 03:45pm S 303 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 35 26 9 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78255",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 26,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-16T03:37:51.537408Z"
     },
     {
       "crn": "78256",
@@ -83487,7 +84210,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78256')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78256')",
+      "description": "This support course is designed to develop the mathematical knowledge and study skills necessary for successful completion of Introduction to Statistics (STAT C1000). Students must be concurrently enrolled in a section of STAT C1000 to take this support course. Topics from algebra and intermediate algebra are covered to build a foundation for college-level statistics. Strategic reading, critical thinking and problem-solving are incorporated to build the strategies needed to solve contextualized problems. Topics in the area of study skills are also included to support students in a college-level math course. This is a non-degree applicable course offered on a pass/no pass basis.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This support course is designed to develop the mathematical knowledge and study skills necessary for successful completion of Introduction to Statistics (STAT C1000). Students must be concurrently enrolled in a section of STAT C1000 to take this support course. Topics from algebra and intermediate algebra are covered to build a foundation for college-level statistics. Strategic reading, critical thinking and problem-solving are incorporated to build the strategies needed to solve contextualized problems. Topics in the area of study skills are also included to support students in a college-level math course. This is a non-degree applicable course offered on a pass/no pass basis. View Book Learning Outcomes and Important Section Information Course Corequisites: STAT C1000 Section Information as of 15-SEP-2025 08:09:57 PM Title: STAT 001E Essential Topics for Statistic CRN: 78256 Instructor: Veronica Holbrook CH Weekly Census Instructional Method Section Corequisites: 78252 Bldg/Room: S 301 Science Section Information Text This class requires students to have a laptop, access to the internet and Google Sheets. Math students can borrow graphing calculators or laptops at no cost from the Library. Graphing calculators or laptops can be checked out for two weeks at a time, with unlimited renewals possible if no other student is on the waitlist when the borrower's calculator or laptop is due. Reservations open about a month before the start of an upcoming semester/session at: http://gorio.page/tech. (Graphing calculators are also available in the MSEC, Room LR-114, but for in-room use only, unless needed by a student for a test when none are available from the Library.) Please inquire about hotspots for eligible students. Meeting Time M 10:15am - 11:05am S 301 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 35 24 11 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78256",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 24,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-16T03:37:53.146376Z"
     },
     {
       "crn": "78266",
@@ -83519,7 +84263,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78266')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78266')",
+      "description": "This support course is designed to develop the mathematical knowledge and study skills necessary for successful completion of Introduction to Statistics (STAT C1000). Students must be concurrently enrolled in a section of STAT C1000 to take this support course. Topics from algebra and intermediate algebra are covered to build a foundation for college-level statistics. Strategic reading, critical thinking and problem-solving are incorporated to build the strategies needed to solve contextualized problems. Topics in the area of study skills are also included to support students in a college-level math course. This is a non-degree applicable course offered on a pass/no pass basis.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This support course is designed to develop the mathematical knowledge and study skills necessary for successful completion of Introduction to Statistics (STAT C1000). Students must be concurrently enrolled in a section of STAT C1000 to take this support course. Topics from algebra and intermediate algebra are covered to build a foundation for college-level statistics. Strategic reading, critical thinking and problem-solving are incorporated to build the strategies needed to solve contextualized problems. Topics in the area of study skills are also included to support students in a college-level math course. This is a non-degree applicable course offered on a pass/no pass basis. View Book Learning Outcomes and Important Section Information Course Corequisites: STAT C1000 Section Information as of 15-SEP-2025 08:09:58 PM Title: STAT 001E Essential Topics for Statistic CRN: 78266 Instructor: Cameron English CH Weekly Census Instructional Method Section Corequisites: 78265 Bldg/Room: S Science Meeting Time M 02:55pm - 03:45pm S Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 0 0 0 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78266",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-16T03:37:54.762903Z"
     },
     {
       "crn": "78274",
@@ -83551,7 +84316,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78274')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78274')",
+      "description": "This support course is designed to develop the mathematical knowledge and study skills necessary for successful completion of Introduction to Statistics (STAT C1000). Students must be concurrently enrolled in a section of STAT C1000 to take this support course. Topics from algebra and intermediate algebra are covered to build a foundation for college-level statistics. Strategic reading, critical thinking and problem-solving are incorporated to build the strategies needed to solve contextualized problems. Topics in the area of study skills are also included to support students in a college-level math course. This is a non-degree applicable course offered on a pass/no pass basis.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This support course is designed to develop the mathematical knowledge and study skills necessary for successful completion of Introduction to Statistics (STAT C1000). Students must be concurrently enrolled in a section of STAT C1000 to take this support course. Topics from algebra and intermediate algebra are covered to build a foundation for college-level statistics. Strategic reading, critical thinking and problem-solving are incorporated to build the strategies needed to solve contextualized problems. Topics in the area of study skills are also included to support students in a college-level math course. This is a non-degree applicable course offered on a pass/no pass basis. View Book Learning Outcomes and Important Section Information Course Corequisites: STAT C1000 Section Information as of 15-SEP-2025 08:09:00 PM Title: STAT 001E Essential Topics for Statistic CRN: 78274 Instructor: Alan Archambault CH Weekly Census Instructional Method Section Corequisites: 78272 Bldg/Room: S 330 Science Meeting Time W 03:45pm - 04:35pm S 330 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 35 22 13 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78274",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 22,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-16T03:37:56.374928Z"
     },
     {
       "crn": "78251",
@@ -83583,7 +84369,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78251')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78251')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78251",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 18,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-16T03:37:57.983833Z"
     },
     {
       "crn": "78252",
@@ -83615,7 +84422,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78252')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78252')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78252",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 24,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-16T03:37:59.598713Z"
     },
     {
       "crn": "78253",
@@ -83646,8 +84474,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78253')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78253')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78253",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 32,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-16T03:38:01.211438Z"
     },
     {
       "crn": "78254",
@@ -83679,7 +84528,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78254')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78254')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78254",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 24,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-16T03:38:02.830219Z"
     },
     {
       "crn": "78258",
@@ -83711,7 +84581,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78258')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78258')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78258",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 26,
+        "available": 9
+      },
+      "detail_fetched_at": "2025-09-16T03:38:04.443653Z"
     },
     {
       "crn": "78259",
@@ -83743,7 +84634,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78259')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78259')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78259",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 19,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-09-16T03:38:06.061391Z"
     },
     {
       "crn": "78260",
@@ -83775,7 +84687,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78260')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78260')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78260",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 22,
+        "available": 13
+      },
+      "detail_fetched_at": "2025-09-16T03:38:07.671136Z"
     },
     {
       "crn": "78261",
@@ -83806,8 +84739,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78261')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78261')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78261",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 38,
+        "available": -3
+      },
+      "detail_fetched_at": "2025-09-16T03:38:09.297761Z"
     },
     {
       "crn": "78262",
@@ -83839,7 +84793,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78262')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78262')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78262",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 32,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-16T03:38:10.906438Z"
     },
     {
       "crn": "78263",
@@ -83871,7 +84846,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78263')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78263')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78263",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 16,
+        "available": 19
+      },
+      "detail_fetched_at": "2025-09-16T03:38:12.520917Z"
     },
     {
       "crn": "78264",
@@ -83902,8 +84898,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78264')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78264')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78264",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 28,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-16T03:38:14.130350Z"
     },
     {
       "crn": "78265",
@@ -83935,7 +84952,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78265')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78265')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78265",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-16T03:38:15.745752Z"
     },
     {
       "crn": "78267",
@@ -83967,7 +85005,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78267')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78267')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78267",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 34,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-16T03:38:17.354962Z"
     },
     {
       "crn": "78268",
@@ -85742,8 +86801,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-09-15T03:42:38.901565+00:00Z",
-    "courses_with_details": 1547,
+    "detail_collection_timestamp": "2025-09-16T03:38:17.456142+00:00Z",
+    "courses_with_details": 1597,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
