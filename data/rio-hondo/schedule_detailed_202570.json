@@ -85057,8 +85057,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78268')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78268')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78268",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 21,
+        "available": 14
+      },
+      "detail_fetched_at": "2025-09-17T03:36:29.739818Z"
     },
     {
       "crn": "78270",
@@ -85090,7 +85111,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78270')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78270')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78270",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 20,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-17T03:36:31.354011Z"
     },
     {
       "crn": "78271",
@@ -85122,7 +85164,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78271')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78271')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78271",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 32,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-17T03:36:32.953683Z"
     },
     {
       "crn": "78272",
@@ -85154,7 +85217,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78272')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78272')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78272",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 18,
+        "available": 17
+      },
+      "detail_fetched_at": "2025-09-17T03:36:34.560495Z"
     },
     {
       "crn": "78273",
@@ -85185,8 +85269,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78273')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78273')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78273",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 36,
+        "available": -1
+      },
+      "detail_fetched_at": "2025-09-17T03:36:36.171016Z"
     },
     {
       "crn": "78294",
@@ -85217,8 +85322,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78294')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78294')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78294",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 28,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-17T03:36:37.775677Z"
     },
     {
       "crn": "78295",
@@ -85250,7 +85376,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78295')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78295')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78295",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 13,
+        "available": 22
+      },
+      "detail_fetched_at": "2025-09-17T03:36:39.385213Z"
     },
     {
       "crn": "78296",
@@ -85282,7 +85429,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78296')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78296')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78296",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 14,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-09-17T03:36:41.002886Z"
     },
     {
       "crn": "78297",
@@ -85313,8 +85481,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78297')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78297')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78297",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 33,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-17T03:36:42.613696Z"
     },
     {
       "crn": "78298",
@@ -85345,8 +85534,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78298')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78298')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78298",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-17T03:36:44.217340Z"
     },
     {
       "crn": "78299",
@@ -85377,8 +85587,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78299')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78299')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78299",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-17T03:36:45.827697Z"
     },
     {
       "crn": "78300",
@@ -85410,7 +85641,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78300')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78300')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78300",
+      "seating_detail": {
+        "capacity": 25,
+        "taken": 4,
+        "available": 21
+      },
+      "detail_fetched_at": "2025-09-17T03:36:47.433879Z"
     },
     {
       "crn": "78301",
@@ -85442,7 +85694,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78301')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78301')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78301",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 27,
+        "available": 8
+      },
+      "detail_fetched_at": "2025-09-17T03:36:49.046342Z"
     },
     {
       "crn": "78302",
@@ -85473,8 +85746,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78302')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78302')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78302",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 33,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-17T03:36:50.653787Z"
     },
     {
       "crn": "78303",
@@ -85505,8 +85799,29 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78303')"
+      "additional_hours": "4.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78303')",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines.",
+      "prerequisites": null,
+      "advisory": "Placement as determined by the college\u2019s multiple measures assessment process or completion of a course taught at or above the level of intermediate algebra. ENGL C1000, READ 101",
+      "transfers_to": "UC (*credit limit),CSU(*Students will receive credit for only one of the following courses: STAT C1000, STAT C1000H)",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78303",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 34,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-17T03:36:52.261888Z"
     },
     {
       "crn": "78340",
@@ -85538,7 +85853,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78340')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78340')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78340",
+      "seating_detail": {
+        "capacity": 10,
+        "taken": 7,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-17T03:36:53.865524Z"
     },
     {
       "crn": "78465",
@@ -85569,8 +85905,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78465')"
+      "additional_hours": "1.5 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78465')",
+      "description": "This course is designed for students entering science, technology, engineering, or math (STEM) degree programs who plan to transfer to earn a bachelor's degree in their field. The course introduces students to effective STEM study skills, the importance of participating in internships, and appropriate extracurricular activities. Topics covered are designed to increase student success in STEM fields. Students are expected to be concurrently enrolled in at least one mathematics or science course in order to apply skills covered in this course.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.This course is designed for students entering science, technology, engineering, or math (STEM) degree programs who plan to transfer to earn a bachelor's degree in their field. The course introduces students to effective STEM study skills, the importance of participating in internships, and appropriate extracurricular activities. Topics covered are designed to increase student success in STEM fields. Students are expected to be concurrently enrolled in at least one mathematics or science course in order to apply skills covered in this course. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 16-SEP-2025 08:09:59 PM Title: STEM 049A Be a Successful STEM Student CRN: 78465 Instructor: Gisela Spieler-Persad UA Independent Study Daily Instructional Method Section Corequisites: NONE Bldg/Room: ASYNC Online Meeting Time 1.5 Hrs/Wk arr in addition to any scheduled hrs if applicable Seating Availability Capacity Taken Available 45 29 16 Critical Dates for this Course Term: Fall 2025 Last day to add class: 22-SEP-2025 Last day to drop with a refund: 22-SEP-2025 Last day to drop without a \"W\": 07-OCT-2025 Last day to drop with a \"W\": 13-NOV-2025 Pass/No Pass Petition Deadline Date: 05-DEC-2025 Census Date: 29-SEP-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "22-SEP-2025",
+        "Last day to drop with a refund": "22-SEP-2025",
+        "Last day to drop without a \"W\"": "07-OCT-2025",
+        "Last day to drop with a \"W\"": "13-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "29-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78465",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 29,
+        "available": 16
+      },
+      "detail_fetched_at": "2025-09-17T03:36:55.475844Z"
     },
     {
       "crn": "78424",
@@ -85602,7 +85960,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78424')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78424')",
+      "description": "This course is for all students interested in pursuing certificates, degrees and careers related to manufacturing, welding, and drafting technologies. The course presents an introduction to the use of engineering documents or blueprints as used in industrial applications and focuses on interpreting and visualizing technical drawings in order to read and understand \u201cThe Language of Industry.\u201d Principles of reading drawings, specifications, projection principles, working drawings, details, assemblies, and pictorial representations are examined and discussed. The course is also helpful for apprentices and employees in all areas of technology including planning, purchasing, machine trades, welding/fabrication, future engineers, and inspection.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.This course is for all students interested in pursuing certificates, degrees and careers related to manufacturing, welding, and drafting technologies. The course presents an introduction to the use of engineering documents or blueprints as used in industrial applications and focuses on interpreting and visualizing technical drawings in order to read and understand \u201cThe Language of Industry.\u201d Principles of reading drawings, specifications, projection principles, working drawings, details, assemblies, and pictorial representations are examined and discussed. The course is also helpful for apprentices and employees in all areas of technology including planning, purchasing, machine trades, welding/fabrication, future engineers, and inspection. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 16-SEP-2025 08:09:01 PM Title: TCED 090 Blueprint Reading for Industry CRN: 78424 Instructor: Anh-Tuan Le Instructor: Anh-Tuan Le CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: S Science Meeting Time R 06:00pm - 07:25pm S Science 08/16/25 12/06/25 R 07:35pm - 09:00pm S Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 0 0 0 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78424",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-17T03:36:57.082182Z"
     },
     {
       "crn": "78458",
@@ -85634,7 +86013,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78458')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78458')",
+      "description": "This course is for all students interested in pursuing certificates, degrees and careers related to manufacturing, welding, and drafting technologies. The course presents an introduction to the use of engineering documents or blueprints as used in industrial applications and focuses on interpreting and visualizing technical drawings in order to read and understand \u201cThe Language of Industry.\u201d Principles of reading drawings, specifications, projection principles, working drawings, details, assemblies, and pictorial representations are examined and discussed. The course is also helpful for apprentices and employees in all areas of technology including planning, purchasing, machine trades, welding/fabrication, future engineers, and inspection.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.This course is for all students interested in pursuing certificates, degrees and careers related to manufacturing, welding, and drafting technologies. The course presents an introduction to the use of engineering documents or blueprints as used in industrial applications and focuses on interpreting and visualizing technical drawings in order to read and understand \u201cThe Language of Industry.\u201d Principles of reading drawings, specifications, projection principles, working drawings, details, assemblies, and pictorial representations are examined and discussed. The course is also helpful for apprentices and employees in all areas of technology including planning, purchasing, machine trades, welding/fabrication, future engineers, and inspection. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 16-SEP-2025 08:09:03 PM Title: TCED 090 Blueprint Reading for Industry CRN: 78458 Instructor: Anh-Tuan Le Instructor: Anh-Tuan Le CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: S 304 Science Meeting Time W 06:00pm - 07:25pm S 304 Science 08/16/25 12/06/25 W 07:35pm - 09:00pm S 304 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 24 13 11 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78458",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 13,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-17T03:36:58.691142Z"
     },
     {
       "crn": "77908",
@@ -85666,7 +86066,29 @@
       "start_date": "08/11",
       "end_date": "09/03",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77908')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77908')",
+      "description": "This course is the final one in a series of four courses intended to teach entry-level students about electric vehicle (EV) applications and the technology used at Tesla, Inc. The course is suitable for students already working in the battery electric/hybrid vehicle and energy technology field and students who have completed a two-year automotive program. This final course improves students' skills and speed in servicing Tesla electric vehicles. The course focuses on infotainment systems, voice commands, navigation, full driverless controls, vehicle reconditioning, advanced braking and suspension system skills with lift and lowering controls, computer area networks (CAN), and vehicle remote access for diagnostics. Upon completing the course, students are granted an interview with Tesla, Inc. for placement at a permanent service center. R\u00edo Hondo's Tesla START program provides students with skills needed for a successful career with Tesla, Inc. A formal application and interview process is required for acceptance into this course/program.",
+      "prerequisites": "TESL 101C",
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "11-AUG-2025",
+        "Last day to drop with a refund": "11-AUG-2025",
+        "Last day to drop without a \"W\"": "13-AUG-2025",
+        "Last day to drop with a \"W\"": "26-AUG-2025",
+        "Pass/No Pass Petition Deadline Date": "03-SEP-2025",
+        "Census Date": "12-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77908",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 9,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-17T03:37:00.309636Z"
     },
     {
       "crn": "76712",
@@ -85698,7 +86120,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76712')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76712')",
+      "description": "This course is for students seeking an introduction to all aspects of theatre. The course examines the following: the audience, theatre spaces, actors, directors, producers, playwrights, dramatic structure, dramatic characters, theatrical genres, theatrical forms, criticism, and the design elements of scenery, costume, make-up, lighting, and sound. Students will see a college and/or professional theatre production. The course prepares the student for other course offerings in the theatre curriculum.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=76712",
+      "seating_detail": {
+        "capacity": 45,
+        "taken": 41,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-17T03:37:01.915228Z"
     },
     {
       "crn": "71031",
@@ -85730,7 +86173,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71031')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71031')",
+      "description": "This course is for students who are interested in acting in the areas of theatre, film, and television, whether as a profession or as a hobby. The class explores the theory, practice, and techniques of acting. Emphasis is placed on theatre games and exercises culminating in the presentation of scenes from contemporary dramatic literature.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71031",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 14,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-17T03:37:03.523266Z"
     },
     {
       "crn": "77758",
@@ -85762,7 +86226,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77758')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77758')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSUThe course is designed for the student who wishes to gain a basic understanding of the technical phases of scene production including construction, painting, rigging, placement and manipulation of stage scenery, lighting equipment, sound equipment, properties and wardrobe as well as the organization and management of stage activity and stagecraft terminology. The student will study the aesthetics and practical application principles of stage scenic, sound and lighting design. Students are assigned a specific crew responsibility that directly relates to a college theatre production. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 16-SEP-2025 08:09:09 PM Title: THTR 150 Stagecraft I CRN: 77758 Instructor: Eric Larson Instructor: Eric Larson Instructor: Eric Larson CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: MC 01 Modular Classrooms Meeting Time M 12:45pm - 01:35pm MC 01 Modular Classrooms 08/16/25 12/06/25 W 12:45pm - 04:15pm MC 01 Modular Classrooms 08/16/25 12/06/25 M 01:45pm - 04:15pm MC 01 Modular Classrooms 08/16/25 12/06/25 Seating Availability Capacity Taken Available 18 14 4 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 Crosslisted Sections CRN Course Title 77759 THTR151 Stagecraft II 77760 THTR152 Stagecraft III Seating Availablity Capacity Taken Available 24 15 9 [ Close Window ] Rio Hondo College 8.1",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77758",
+      "seating_detail": {
+        "capacity": 18,
+        "taken": 14,
+        "available": 4
+      },
+      "detail_fetched_at": "2025-09-17T03:37:05.137109Z"
     },
     {
       "crn": "77759",
@@ -85794,7 +86279,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77759')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77759')",
+      "description": "This course is designed for the student who wishes to expand the skills and concepts acquired in Stagecraft I for Theatre, TV, and Film (THTR 150). Topics such as the technical phases of scene production including construction, painting, rigging, placement and manipulation of stage scenery, lighting equipment, sound equipment, properties and wardrobe as well as the organization and management of stage activity and stagecraft terminology are revisited and expanded upon. The student will additionally do extensive study of the aesthetics and practical application principles of set design, sound design, and lighting design. Students are assigned a specific crew duty such as light board operator, sound operator or stage crew lead with added responsibility that directly relates to a college theatre production.",
+      "prerequisites": "THTR 150",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77759",
+      "seating_detail": {
+        "capacity": 4,
+        "taken": 1,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-17T03:37:06.745577Z"
     },
     {
       "crn": "77760",
@@ -85826,7 +86332,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77760')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77760')",
+      "description": "This course is designed for the student who wishes to further expand the skills and concepts acquired in Stagecraft I and II for Theatre, TV, and Film (THTR 150 and 151). Technical phases of scene production including construction, painting, rigging, placement and manipulation of stage scenery, lighting equipment, sound equipment, properties and wardrobe as well as the organization and management of stage activity and stagecraft are examined in greater depth. The student will complete an in depth study of the theatrical design process by designing scenery, properties, lighting and or sound for",
+      "prerequisites": "THTR 151",
+      "advisory": null,
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77760",
+      "seating_detail": {
+        "capacity": 2,
+        "taken": 0,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-17T03:37:08.353986Z"
     },
     {
       "crn": "72923",
@@ -85857,8 +86384,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72923')"
+      "additional_hours": "3.9 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72923')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and be able to read college-level texts, THTR 150",
+      "transfers_to": "UC,CSUmusical, or dance productions presented to the community. Students will be involved in one or more of the following areas of concentration and responsibility: stage management, house management, stage crew, scenery building and painting, props, lighting, costumes, make-up, sound and/or special effects. Students will identify a preference for stage crew/technical theatre production assignments through the interview process.",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "10-SEP-2025",
+        "Last day to drop with a refund": "10-SEP-2025",
+        "Last day to drop without a \"W\"": "29-SEP-2025",
+        "Last day to drop with a \"W\"": "10-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "18-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72923",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 14,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-17T03:37:09.963247Z"
     },
     {
       "crn": "71069",
@@ -85890,7 +86439,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71069')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71069')",
+      "description": "This course offers students practical experience in the rehearsal and performance of a theatrical production. Students are provided an opportunity to be part of a theatre company in the organization of full-length and/or one-act plays under the guidance of a faculty director. During the public performance at",
+      "prerequisites": null,
+      "advisory": "THTR 110, THTR 150Limitations: Performing students must audition/interview and Technical/Production students must interview prior to participating in the course. It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=71069",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 22,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-17T03:37:11.576528Z"
     },
     {
       "crn": "77409",
@@ -85922,7 +86492,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77409')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77409')",
+      "description": "This course is designed for students who seek to gain an understanding and appreciation of makeup techniques used for the theatre and other entertainment industries. Students gain the practical knowledge and experience necessary to apply theatrical makeup; an understanding of makeup history; basic makeup design, including sketching; basic application, including wigs and facial hair; makeup design tools, materials, and crafts; makeup sourcing practices; and dressing room makeup preparation and practices for productions. Students identify period makeup styles and analyze the effectiveness of character makeup in a production, and design, create, and source makeup supplies needed for a production.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC/CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77409",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 14,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-17T03:37:13.183075Z"
     },
     {
       "crn": "74331",
@@ -85954,7 +86545,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74331')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74331')",
+      "description": "This is an introductory course in film production techniques for narrative, documentary, and music video, and may be of interest to students interested in both film and television production. Topics include creating a story treatment, screenwriting, storyboarding, camera operation, lighting, introductory production sound, and non-linear editing. Students work in teams and crew all positions, including writer, producer, director, assistant director, cinematographer, boom operator, and editor. Emphasis is placed on defining the content, structure, and style of the production. Students implement these skills with projects in documentary, music video, and narrative filmmaking traditions.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.",
+      "transfers_to": "UC, CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74331",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 17,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-17T03:37:14.787417Z"
     },
     {
       "crn": "77418",
@@ -85986,7 +86598,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77418')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77418')",
+      "description": "This is an introductory course of basic techniques and computations used in the administration of medications. Completion of the course prepares the student to safely administer medications to patients under the supervision of the nursing instructor. This course is open to students enrolled in the Vocational Nursing Program and is required for the Vocational Nursing Licensure.",
+      "prerequisites": "VN 061 and VN 061L",
+      "advisory": "HS 045This is an introductory course of basic techniques and computations used in the administration of medications. Completion of the course prepares the student to safely administer medications to patients under the supervision of the nursing instructor. This course is open to students enrolled in the Vocational Nursing Program and is required for the Vocational Nursing Licensure. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 16-SEP-2025 08:09:20 PM Title: VN 073 Basic Pharmacology CRN: 77418 Instructor: Gladys Quintero DH Daily Census Instructional Method Section Corequisites: NONE Bldg/Room: S 125 Science Fees: Health Sci. Material Fee $40 Meeting Time T 02:30pm - 04:40pm S 125 Science 08/16/25 12/06/25 Seating Availability Capacity Taken Available 35 20 15 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77418",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 20,
+        "available": 15
+      },
+      "detail_fetched_at": "2025-09-17T03:37:16.401056Z"
     },
     {
       "crn": "78379",
@@ -86018,7 +86651,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78379')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78379')",
+      "description": null,
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78379",
+      "seating_detail": {
+        "capacity": 30,
+        "taken": 20,
+        "available": 10
+      },
+      "detail_fetched_at": "2025-09-17T03:37:18.007319Z"
     },
     {
       "crn": "78374",
@@ -86050,7 +86704,28 @@
       "start_date": "08/16",
       "end_date": "11/10",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78374')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78374')",
+      "description": "This course provides the student with the opportunity to use the nursing process with increasing independence in providing care for elderly patients in the clinical setting. The student increases competency in data collection and nursing skills. Special emphasis is placed on the care of the patient with problems of the musculoskeletal, endocrine, GI, GU, cardiac, and respiratory systems. This course is offered on a pass/no pass basis.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78374",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 10,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-17T03:37:19.613800Z"
     },
     {
       "crn": "78375",
@@ -86082,7 +86757,28 @@
       "start_date": "08/16",
       "end_date": "10/10",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78375')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78375')",
+      "description": "This course provides the student with the opportunity to use the nursing process with increasing independence in providing care for elderly patients in the clinical setting. The student increases competency in data collection and nursing skills. Special emphasis is placed on the care of the patient with problems of the musculoskeletal, endocrine, GI, GU, cardiac, and respiratory systems. This course is offered on a pass/no pass basis.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78375",
+      "seating_detail": {
+        "capacity": 12,
+        "taken": 10,
+        "available": 2
+      },
+      "detail_fetched_at": "2025-09-17T03:37:21.227824Z"
     },
     {
       "crn": "74277",
@@ -86114,7 +86810,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74277')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74277')",
+      "description": "This is an introductory class designed to familiarize the student with several welding processes that are currently used in the welding and metal fabrication industry. This course offers an overview and basic introduction to the theory and practice of a variety of welding and metal cutting methods. This course will emphasize safety, theory, procedure, and practical skill development.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This is an introductory class designed to familiarize the student with several welding processes that are currently used in the welding and metal fabrication industry. This course offers an overview and basic introduction to the theory and practice of a variety of welding and metal cutting methods. This course will emphasize safety, theory, procedure, and practical skill development. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 16-SEP-2025 08:09:27 PM Title: WELD 040 Intro to Welding Processes CRN: 74277 Instructor: Jan Banas Instructor: Jan Banas CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: T 114 Technology Meeting Time S 08:00am - 08:50am T 114 Technology 08/16/25 12/06/25 S 09:00am - 12:10pm T 114 Technology 08/16/25 12/06/25 Seating Availability Capacity Taken Available 24 19 5 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74277",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 19,
+        "available": 5
+      },
+      "detail_fetched_at": "2025-09-17T03:37:22.830936Z"
     },
     {
       "crn": "74278",
@@ -86146,7 +86863,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74278')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74278')",
+      "description": "This is an introductory class designed to familiarize the student with several welding processes that are currently used in the welding and metal fabrication industry. This course offers an overview and basic introduction to the theory and practice of a variety of welding and metal cutting methods. This course will emphasize safety, theory, procedure, and practical skill development.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This is an introductory class designed to familiarize the student with several welding processes that are currently used in the welding and metal fabrication industry. This course offers an overview and basic introduction to the theory and practice of a variety of welding and metal cutting methods. This course will emphasize safety, theory, procedure, and practical skill development. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 16-SEP-2025 08:09:28 PM Title: WELD 040 Intro to Welding Processes CRN: 74278 Instructor: Paul Ortiz Instructor: Paul Ortiz CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: T 114 Technology Fees: Welding Purchase Card-4175 $35 Meeting Time T 12:45pm - 01:35pm T 114 Technology 08/16/25 12/06/25 T R 01:45pm - 03:10pm T 114 Technology 08/16/25 12/06/25 Seating Availability Capacity Taken Available 24 23 1 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74278",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-17T03:37:24.437921Z"
     },
     {
       "crn": "78292",
@@ -86178,7 +86916,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78292')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78292')",
+      "description": "This is an introductory class designed to familiarize the student with several welding processes that are currently used in the welding and metal fabrication industry. This course offers an overview and basic introduction to the theory and practice of a variety of welding and metal cutting methods. This course will emphasize safety, theory, procedure, and practical skill development.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This is an introductory class designed to familiarize the student with several welding processes that are currently used in the welding and metal fabrication industry. This course offers an overview and basic introduction to the theory and practice of a variety of welding and metal cutting methods. This course will emphasize safety, theory, procedure, and practical skill development. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 16-SEP-2025 08:09:30 PM Title: WELD 040 Intro to Welding Processes CRN: 78292 Instructor: Jose Callejas-Reyes Instructor: Jose Callejas-Reyes CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: T 114 Technology Fees: Welding Purchase Card-4175 $35 Meeting Time M 12:45pm - 01:35pm T 114 Technology 08/16/25 12/06/25 M 01:45pm - 04:55pm T 144 Technology 08/16/25 12/06/25 Seating Availability Capacity Taken Available 24 21 3 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78292",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 21,
+        "available": 3
+      },
+      "detail_fetched_at": "2025-09-17T03:37:26.048081Z"
     },
     {
       "crn": "75045",
@@ -86210,7 +86969,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75045')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75045')",
+      "description": "This course is intended for the student who wants to progress to a basic level of welding processes and further their skills in manual and semi-automatic electric arc welding methods and techniques. This course emphasizes skills in Shielded Metal Arc Welding (SMAW), Gas Metal Arc Welding (GMAW), Flux Cored Arc Welding (FCAW), and Gas Tungsten Arc Welding (GTAW). The course also focuses on safety, theory, characteristics and settings for power supplies and welding units, electric current settings, electrode identification and selection, welding positions, and welding of ferrous and non-ferrous metals. Special emphasis will be placed on developing proficiency and speed for high volume production applications.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This course is intended for the student who wants to progress to a basic level of welding processes and further their skills in manual and semi-automatic electric arc welding methods and techniques. This course emphasizes skills in Shielded Metal Arc Welding (SMAW), Gas Metal Arc Welding (GMAW), Flux Cored Arc Welding (FCAW), and Gas Tungsten Arc Welding (GTAW). The course also focuses on safety, theory, characteristics and settings for power supplies and welding units, electric current settings, electrode identification and selection, welding positions, and welding of ferrous and non-ferrous metals. Special emphasis will be placed on developing proficiency and speed for high volume production applications. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 16-SEP-2025 08:09:32 PM Title: WELD 045 Basic Electric Arc Welding CRN: 75045 Instructor: Robert Gavela Instructor: Robert Gavela CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: T Technology Fees: Welding Purchase Card-4175 $35 Meeting Time R 06:00pm - 06:50pm T Technology 08/16/25 12/06/25 R 07:00pm - 10:10pm T Technology 08/16/25 12/06/25 Seating Availability Capacity Taken Available 0 0 0 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 Crosslisted Sections CRN Course Title 77295 NVOC071 Basic Electric Arc Welding Seating Availablity Capacity Taken Available 24 0 24 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75045",
+      "seating_detail": {
+        "capacity": 0,
+        "taken": 0,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-17T03:37:27.664971Z"
     },
     {
       "crn": "77806",
@@ -86242,7 +87022,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77806')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77806')",
+      "description": "This course is intended for the student who wants to progress to a basic level of welding processes and further their skills in manual and semi-automatic electric arc welding methods and techniques. This course emphasizes skills in Shielded Metal Arc Welding (SMAW), Gas Metal Arc Welding (GMAW), Flux Cored Arc Welding (FCAW), and Gas Tungsten Arc Welding (GTAW). The course also focuses on safety, theory, characteristics and settings for power supplies and welding units, electric current settings, electrode identification and selection, welding positions, and welding of ferrous and non-ferrous metals. Special emphasis will be placed on developing proficiency and speed for high volume production applications.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This course is intended for the student who wants to progress to a basic level of welding processes and further their skills in manual and semi-automatic electric arc welding methods and techniques. This course emphasizes skills in Shielded Metal Arc Welding (SMAW), Gas Metal Arc Welding (GMAW), Flux Cored Arc Welding (FCAW), and Gas Tungsten Arc Welding (GTAW). The course also focuses on safety, theory, characteristics and settings for power supplies and welding units, electric current settings, electrode identification and selection, welding positions, and welding of ferrous and non-ferrous metals. Special emphasis will be placed on developing proficiency and speed for high volume production applications. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 16-SEP-2025 08:09:33 PM Title: WELD 045 Basic Electric Arc Welding CRN: 77806 Instructor: Robert Gavela Instructor: Robert Gavela CH Weekly Census Instructional Method Section Corequisites: NONE Bldg/Room: T 114 Technology Meeting Time T 06:00pm - 06:50pm T 114 Technology 08/16/25 12/06/25 T 07:00pm - 10:10pm T 114 Technology 08/16/25 12/06/25 Seating Availability Capacity Taken Available 20 22 -2 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 Crosslisted Sections CRN Course Title 77807 NVOC071 Basic Electric Arc Welding Seating Availablity Capacity Taken Available 24 23 1 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77806",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 22,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-09-17T03:37:29.274509Z"
     },
     {
       "crn": "78304",
@@ -86274,7 +87075,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78304')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78304')",
+      "description": "This course is intended for the student who wants to progress to a basic level of welding processes and further their skills in manual and semi-automatic electric arc welding methods and techniques. This course emphasizes skills in Shielded Metal Arc Welding (SMAW), Gas Metal Arc Welding (GMAW), Flux Cored Arc Welding (FCAW), and Gas Tungsten Arc Welding (GTAW). The course also focuses on safety, theory, characteristics and settings for power supplies and welding units, electric current settings, electrode identification and selection, welding positions, and welding of ferrous and non-ferrous metals. Special emphasis will be placed on developing proficiency and speed for high volume production applications.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college-level texts.This course is intended for the student who wants to progress to a basic level of welding processes and further their skills in manual and semi-automatic electric arc welding methods and techniques. This course emphasizes skills in Shielded Metal Arc Welding (SMAW), Gas Metal Arc Welding (GMAW), Flux Cored Arc Welding (FCAW), and Gas Tungsten Arc Welding (GTAW). The course also focuses on safety, theory, characteristics and settings for power supplies and welding units, electric current settings, electrode identification and selection, welding positions, and welding of ferrous and non-ferrous metals. Special emphasis will be placed on developing proficiency and speed for high volume production applications. View Book Learning Outcomes and Important Section Information Course Corequisites: NONE Section Information as of 16-SEP-2025 08:09:35 PM Title: WELD 045 Basic Electric Arc Welding CRN: 78304 Instructor: Paul Ortiz Instructor: Paul Ortiz UA Independent Study Weekly Instructional Method Section Corequisites: NONE Bldg/Room: T 114 Technology Meeting Time W 08:00am - 08:50am T 114 Technology 08/16/25 12/06/25 W 09:00am - 12:10pm T 114 Technology 08/16/25 12/06/25 Seating Availability Capacity Taken Available 20 19 1 Critical Dates for this Course Term: Fall 2025 Last day to add class: 01-SEP-2025 Last day to drop with a refund: 01-SEP-2025 Last day to drop without a \"W\": 12-SEP-2025 Last day to drop with a \"W\": 07-NOV-2025 Pass/No Pass Petition Deadline Date: 06-DEC-2025 Crosslisted Sections CRN Course Title 78305 NVOC071 Basic Electric Arc Welding Seating Availablity Capacity Taken Available 24 19 5 [ Close Window ] Rio Hondo College 8.1",
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78304",
+      "seating_detail": {
+        "capacity": 20,
+        "taken": 19,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-17T03:37:30.882015Z"
     },
     {
       "crn": "74275",
@@ -86306,7 +87128,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74275')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74275')",
+      "description": "This course is intended for the student who wants to progress to an intermediate level of welding processes and further their skills in manual electric arc welding methods and techniques. This course emphasizes skills in shielded metal arc welding (SMAW) and gas tungsten arc welding (GTAW). The course also focuses on safety, theory, characteristics and settings for power supplies and welding units, electric current settings, electrode identification and selection, welding positions, and welding of ferrous and non-ferrous metals. Special emphasis will be placed on developing proficiency and speed for high volume production applications.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74275",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 23,
+        "available": 1
+      },
+      "detail_fetched_at": "2025-09-17T03:37:32.496212Z"
     },
     {
       "crn": "77337",
@@ -86338,7 +87181,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77337')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77337')",
+      "description": "This course introduces the principles and practices of gas tungsten arc welding (GTAW), including setup/use of GTAW equipment and safe use of tools and equipment. Instruction and practice is provided for gaining proficiency welding carbon steel, stainless steel, and aluminum weld joints in the flat and horizontal positions. Fundamentals of the GTAW process, correct consumables, equipment, and pre-weld preparation will be covered.",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": null,
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77337",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 17,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-17T03:37:34.101497Z"
     },
     {
       "crn": "78411",
@@ -86370,7 +87234,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78411')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78411')",
+      "description": "This course covers the content requirements for the California Occupational Safety and Health Administration (Cal OSHA) 30-hour training. The contents of this course are derived by an authorized OSHA Outreach trainer who will cover the mandatory and elective training topics specified by the OSHA outreach training program requirements for the construction industry. The course\u2019s content also will include specific welding occupational safety and health hazards, emphasizing hazard identification, avoidance, control, and prevention. The course contents will include an introduction to OSHA, managing safety and health, OSHA Focus Four Hazards, personal protective and lifesaving equipment, health hazards in construction, stairways and ladders, confined space entry, excavations, fire protection and prevention, scaffolds, steel erection, welding and cutting, and foundations for safety leadership. Upon successfully completing this course, students receive an OSHA 30-hour training Certificate in addition to a letter grade. (To receive a certificate, students must attend a minimum of 30 classroom hours and earn a passing grade on the final exam).",
+      "prerequisites": null,
+      "advisory": null,
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=78411",
+      "seating_detail": {
+        "capacity": 24,
+        "taken": 17,
+        "available": 7
+      },
+      "detail_fetched_at": "2025-09-17T03:37:35.705725Z"
     },
     {
       "crn": "72844",
@@ -86402,7 +87287,29 @@
       "start_date": "08/16",
       "end_date": "10/10",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72844')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72844')",
+      "description": "This course is part of a series of core courses required for the Wildland Fire Technology Certificate of Achievement and Associate of Science degree programs. This course provides students with information necessary to understand basic wildland fire behavior, wildland fire predictions, and wildland fire operation safety. Wildland fire environmental factors and the tools required to monitor weather and fire behavior are discussed as related to wildland fire predictions. This course meets or exceeds National Wildfire Coordinating Group (NWCG) requirements.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level, perform mathematical operations with whole numbers, fractions, decimals, and percentages, and read college level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "20-AUG-2025",
+        "Last day to drop with a refund": "20-AUG-2025",
+        "Last day to drop without a \"W\"": "03-SEP-2025",
+        "Last day to drop with a \"W\"": "24-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "08-OCT-2025",
+        "Census Date": "25-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=72844",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 37,
+        "available": -2
+      },
+      "detail_fetched_at": "2025-09-17T03:37:37.320192Z"
     },
     {
       "crn": "70454",
@@ -86434,7 +87341,28 @@
       "start_date": "08/16",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70454')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70454')",
+      "description": "This course is part of a series of core courses required by the Wildland Fire Technology Certificate of Achievement and Associate of Science degree programs. The course provides students with information necessary to understand occupational safety and hazards associated with wildland firefighting operations. Emphasis is placed on situational awareness, protective measures, accident avoidance procedures, and the risk management process. Students also review fire ground near misses, entrapments, and fatalities. This course meets or exceeds National Wildfire Coordinating Group (NWCG) requirements.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "01-SEP-2025",
+        "Last day to drop with a refund": "01-SEP-2025",
+        "Last day to drop without a \"W\"": "12-SEP-2025",
+        "Last day to drop with a \"W\"": "07-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "06-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70454",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 24,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-17T03:37:38.923923Z"
     },
     {
       "crn": "70455",
@@ -86466,7 +87394,29 @@
       "start_date": "10/11",
       "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70455')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70455')",
+      "description": "This course is one in a series of core courses required by the Wildland Fire Technology Certificate of Achievement and Associate of Science Degree programs. This course provides students with information necessary to understand ground and air operations associated with wildland firefighting operations. Emphasis is placed on incident command system use, strategy, tactics, hazards, resource typing, management, and safety procedures during wildland fire incidents. This course meets or exceeds National Wildfire Coordinating Group (NWCG) requirements.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "15-OCT-2025",
+        "Last day to drop with a refund": "15-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "19-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "03-DEC-2025",
+        "Census Date": "20-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=70455",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 24,
+        "available": 11
+      },
+      "detail_fetched_at": "2025-09-17T03:37:40.535945Z"
     },
     {
       "crn": "77805",
@@ -86497,8 +87447,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77805')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77805')",
+      "description": "This course is part of a series of core courses required by the Wildland Fire Technology Certificate of Achievement and Associate of Science degree programs. This course provides students with information and skills necessary to understand the roles and functions of a public information officer (PIO, S-203), fire prevention education team member (PETM, P-101), and the wildland fire investigator (INVF, FI-110). Various wildland fire-associated class projects engage students' public speaking, report writing, and presentation skills. This course meets or exceeds National Wildfire Coordinating Group (NWCG) requirements.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=77805",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-17T03:37:42.141005Z"
     },
     {
       "crn": "74389",
@@ -86529,8 +87501,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74389')"
+      "additional_hours": "6.8 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74389')",
+      "description": "This course is part of a series of core courses required by the Wildland Fire Technology Certificate of Achievement and Associate of Science degree programs. The course provides students with information necessary to understand the responsibilities and functions of the logistics, finance, and planning sections. Emphasis is placed on how the different incident command system sections are organized and utilized during wildland fire incidents. This course meets or exceeds National Wildfire Coordinating Group (NWCG) requirements.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college and read college-level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "16-OCT-2025",
+        "Last day to drop with a refund": "16-OCT-2025",
+        "Last day to drop without a \"W\"": "27-OCT-2025",
+        "Last day to drop with a \"W\"": "20-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "05-DEC-2025",
+        "Census Date": "21-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74389",
+      "seating_detail": {
+        "capacity": 35,
+        "taken": 35,
+        "available": 0
+      },
+      "detail_fetched_at": "2025-09-17T03:37:43.750468Z"
     },
     {
       "crn": "74599",
@@ -86561,8 +87555,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74599')"
+      "additional_hours": "3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74599')",
+      "description": "This course supports and reinforces on-the-job training in business and industrial establishments under the supervision of a college instructor. Training is informed by learning objectives. Students work in a skilled or professional-level assignment in their area of vocational interest, and meet performance objectives related to instruction that are above and beyond the conditions of regular employment. This course is intended for students whose job is related to the field of wildland fire technology and have completed or enrolled in the appropriate coursework. The course may be taken once and repeated for a maximum of 16 units. Contact the Work Experience Education Office regarding re-enrollment procedures.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "04-AUG-2025",
+        "Last day to drop with a refund": "04-AUG-2025",
+        "Last day to drop without a \"W\"": "08-AUG-2025",
+        "Last day to drop with a \"W\"": "22-AUG-2025",
+        "Pass/No Pass Petition Deadline Date": "29-AUG-2025",
+        "Census Date": "06-AUG-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74599",
+      "seating_detail": {
+        "capacity": 125,
+        "taken": 0,
+        "available": 125
+      },
+      "detail_fetched_at": "2025-09-17T03:37:45.355254Z"
     },
     {
       "crn": "74733",
@@ -86593,8 +87609,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74733')"
+      "additional_hours": "3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74733')",
+      "description": "This course supports and reinforces on-the-job training in business and industrial establishments under the supervision of a college instructor. Training is informed by learning objectives. Students work in a skilled or professional-level assignment in their area of vocational interest, and meet performance objectives related to instruction that are above and beyond the conditions of regular employment. This course is intended for students whose job is related to the field of wildland fire technology and have completed or enrolled in the appropriate coursework. The course may be taken once and repeated for a maximum of 16 units. Contact the Work Experience Education Office regarding re-enrollment procedures.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "03-SEP-2025",
+        "Last day to drop with a refund": "03-SEP-2025",
+        "Last day to drop without a \"W\"": "09-SEP-2025",
+        "Last day to drop with a \"W\"": "23-SEP-2025",
+        "Pass/No Pass Petition Deadline Date": "30-SEP-2025",
+        "Census Date": "05-SEP-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74733",
+      "seating_detail": {
+        "capacity": 125,
+        "taken": 0,
+        "available": 125
+      },
+      "detail_fetched_at": "2025-09-17T03:37:46.961409Z"
     },
     {
       "crn": "74976",
@@ -86625,8 +87663,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74976')"
+      "additional_hours": "3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74976')",
+      "description": "This course supports and reinforces on-the-job training in business and industrial establishments under the supervision of a college instructor. Training is informed by learning objectives. Students work in a skilled or professional-level assignment in their area of vocational interest, and meet performance objectives related to instruction that are above and beyond the conditions of regular employment. This course is intended for students whose job is related to the field of wildland fire technology and have completed or enrolled in the appropriate coursework. The course may be taken once and repeated for a maximum of 16 units. Contact the Work Experience Education Office regarding re-enrollment procedures.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "02-OCT-2025",
+        "Last day to drop with a refund": "02-OCT-2025",
+        "Last day to drop without a \"W\"": "09-OCT-2025",
+        "Last day to drop with a \"W\"": "23-OCT-2025",
+        "Pass/No Pass Petition Deadline Date": "31-OCT-2025",
+        "Census Date": "07-OCT-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74976",
+      "seating_detail": {
+        "capacity": 125,
+        "taken": 0,
+        "available": 125
+      },
+      "detail_fetched_at": "2025-09-17T03:37:48.571921Z"
     },
     {
       "crn": "74977",
@@ -86801,8 +87861,8 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-09-16T03:38:17.456142+00:00Z",
-    "courses_with_details": 1597,
+    "detail_collection_timestamp": "2025-09-17T03:37:48.670217+00:00Z",
+    "courses_with_details": 1647,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
     "courses_processed_this_run": 50
