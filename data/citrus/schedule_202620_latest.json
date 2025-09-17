@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-09-17T07:20:08.848338Z",
+  "collection_timestamp": "2025-09-17T15:20:44.496267Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -2169,8 +2169,8 @@
       "location": "TE 102",
       "enrollment": {
         "capacity": 30,
-        "actual": 25,
-        "remaining": 5
+        "actual": 24,
+        "remaining": 6
       },
       "status": "Open",
       "section_type": "LEC",
@@ -7353,8 +7353,8 @@
       "location": "LI 204",
       "enrollment": {
         "capacity": 30,
-        "actual": 11,
-        "remaining": 19
+        "actual": 12,
+        "remaining": 18
       },
       "status": "Open",
       "section_type": "LEC",
