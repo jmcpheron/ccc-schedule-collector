@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-17T14:32:45.515236Z",
+  "collection_timestamp": "2025-09-17T22:29:56.086980Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -121,8 +121,8 @@
       "location": "Business 119",
       "enrollment": {
         "capacity": 45,
-        "actual": 20,
-        "remaining": 20
+        "actual": 19,
+        "remaining": 21
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -345,8 +345,8 @@
       "location": "Business 117",
       "enrollment": {
         "capacity": 45,
-        "actual": 35,
-        "remaining": 10
+        "actual": 34,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -2777,8 +2777,8 @@
       "location": "Technology 101",
       "enrollment": {
         "capacity": 24,
-        "actual": 13,
-        "remaining": 11
+        "actual": 11,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -5785,8 +5785,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 45,
-        "actual": 40,
-        "remaining": 5
+        "actual": 42,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -9849,8 +9849,8 @@
       "location": "Science 136",
       "enrollment": {
         "capacity": 48,
-        "actual": 34,
-        "remaining": 14
+        "actual": 33,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10009,8 +10009,8 @@
       "location": "Science 124",
       "enrollment": {
         "capacity": 24,
-        "actual": 27,
-        "remaining": 3
+        "actual": 28,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -12505,8 +12505,8 @@
       "location": "El Monte High School",
       "enrollment": {
         "capacity": 45,
-        "actual": 17,
-        "remaining": 28
+        "actual": 16,
+        "remaining": 29
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16057,8 +16057,8 @@
       "location": "Administration 220",
       "enrollment": {
         "capacity": 32,
-        "actual": 29,
-        "remaining": 3
+        "actual": 28,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16121,8 +16121,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 32,
-        "actual": 25,
-        "remaining": 7
+        "actual": 24,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17319,6 +17319,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74414')"
     },
     {
+      "crn": "74416",
+      "subject": "COUN",
+      "course_number": "151",
+      "title": "Career Exploration and Life Planning (Same as EDEV 151)",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74416')"
+    },
+    {
       "crn": "75460",
       "subject": "COUN",
       "course_number": "151",
@@ -18201,8 +18233,8 @@
       "location": "Business 116",
       "enrollment": {
         "capacity": 24,
-        "actual": 9,
-        "remaining": 15
+        "actual": 8,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -18457,8 +18489,8 @@
       "location": "Administration of Justice 322",
       "enrollment": {
         "capacity": 45,
-        "actual": 40,
-        "remaining": 5
+        "actual": 39,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -18969,8 +19001,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 35,
-        "remaining": 10
+        "actual": 39,
+        "remaining": 6
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -19001,8 +19033,8 @@
       "location": "Administration 224",
       "enrollment": {
         "capacity": 45,
-        "actual": 40,
-        "remaining": 5
+        "actual": 39,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22972,7 +23004,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -25881,8 +25913,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 11,
-        "remaining": 24
+        "actual": 12,
+        "remaining": 23
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -40985,8 +41017,8 @@
       "location": "Pico Educational Center 401",
       "enrollment": {
         "capacity": 35,
-        "actual": 9,
-        "remaining": 26
+        "actual": 10,
+        "remaining": 25
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -41913,8 +41945,8 @@
       "location": "Mt View Family Center",
       "enrollment": {
         "capacity": 30,
-        "actual": 14,
-        "remaining": 16
+        "actual": 31,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41925,6 +41957,38 @@
       "end_date": "12/05",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78414')"
+    },
+    {
+      "crn": "77464",
+      "subject": "NCOA",
+      "course_number": "007",
+      "title": "Chorus Singing for Older Adults",
+      "units": 0.0,
+      "instructor": "Linda  Brown",
+      "instructor_email": "lbrown@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "TBA",
+      "enrollment": {
+        "capacity": 70,
+        "actual": 0,
+        "remaining": 70
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 12,
+      "start_date": "09/15",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77464')"
     },
     {
       "crn": "71512",
@@ -42617,8 +42681,8 @@
       "location": "East Whittier Middle School",
       "enrollment": {
         "capacity": 35,
-        "actual": 31,
-        "remaining": 4
+        "actual": 30,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42956,8 +43020,8 @@
       "course_number": "012",
       "title": "Academic Enrichment",
       "units": 0.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
+      "instructor": "Vanessa  Valdez",
+      "instructor_email": "vavaldez@riohondo.edu",
       "meeting_times": [
         {
           "days": "TR",
@@ -42988,8 +43052,8 @@
       "course_number": "012",
       "title": "Academic Enrichment",
       "units": 0.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
+      "instructor": "Philemon  Michael",
+      "instructor_email": "PMichael@riohondo.edu",
       "meeting_times": [
         {
           "days": "TR",
@@ -43084,8 +43148,8 @@
       "course_number": "012",
       "title": "Academic Enrichment",
       "units": 0.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
+      "instructor": "Philemon  Michael",
+      "instructor_email": "PMichael@riohondo.edu",
       "meeting_times": [
         {
           "days": "T",
@@ -43769,8 +43833,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 3,
-        "remaining": 22
+        "actual": 4,
+        "remaining": 21
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -43961,8 +44025,8 @@
       "location": "Learning Resource Center (LRC) 128",
       "enrollment": {
         "capacity": 20,
-        "actual": 17,
-        "remaining": 3
+        "actual": 18,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44346,7 +44410,7 @@
       "enrollment": {
         "capacity": 5,
         "actual": 1,
-        "remaining": 1
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44825,8 +44889,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 32,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48441,8 +48505,8 @@
       "location": "Administration 212",
       "enrollment": {
         "capacity": 20,
-        "actual": 18,
-        "remaining": 2
+        "actual": 17,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48956,7 +49020,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -52889,8 +52953,8 @@
       "location": "Science 301",
       "enrollment": {
         "capacity": 35,
-        "actual": 24,
-        "remaining": 11
+        "actual": 23,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -53017,8 +53081,8 @@
       "location": "Science 301",
       "enrollment": {
         "capacity": 35,
-        "actual": 24,
-        "remaining": 11
+        "actual": 23,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -53977,8 +54041,8 @@
       "location": "Science 304",
       "enrollment": {
         "capacity": 24,
-        "actual": 13,
-        "remaining": 11
+        "actual": 12,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -54617,8 +54681,8 @@
       "location": "Technology 114",
       "enrollment": {
         "capacity": 20,
-        "actual": 22,
-        "remaining": 2
+        "actual": 21,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -55080,7 +55144,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1721,
+    "total_courses": 1723,
     "departments": [
       "ACCT",
       "ADN",
