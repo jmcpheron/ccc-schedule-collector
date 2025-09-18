@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-09-17T23:19:58.136648Z",
+  "collection_timestamp": "2025-09-18T07:20:09.395034Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -761,8 +761,8 @@
       "location": "VA 309",
       "enrollment": {
         "capacity": 24,
-        "actual": 9,
-        "remaining": 15
+        "actual": 10,
+        "remaining": 14
       },
       "status": "Open",
       "section_type": "LEC",
@@ -1657,8 +1657,8 @@
       "location": "VA 202",
       "enrollment": {
         "capacity": 24,
-        "actual": 6,
-        "remaining": 18
+        "actual": 5,
+        "remaining": 19
       },
       "status": "Open",
       "section_type": "LEC",
@@ -7993,8 +7993,8 @@
       "location": "ED 101",
       "enrollment": {
         "capacity": 25,
-        "actual": 22,
-        "remaining": 3
+        "actual": 21,
+        "remaining": 4
       },
       "status": "Open",
       "section_type": "LEC",
@@ -10777,8 +10777,8 @@
       "location": "MA 126",
       "enrollment": {
         "capacity": 36,
-        "actual": 33,
-        "remaining": 3
+        "actual": 32,
+        "remaining": 4
       },
       "status": "Open",
       "section_type": "LEC",
@@ -11737,8 +11737,8 @@
       "location": "MA 207",
       "enrollment": {
         "capacity": 36,
-        "actual": 32,
-        "remaining": 4
+        "actual": 31,
+        "remaining": 5
       },
       "status": "Open",
       "section_type": "LEC",
@@ -12409,8 +12409,8 @@
       "location": "PS 125",
       "enrollment": {
         "capacity": 17,
-        "actual": 15,
-        "remaining": 2
+        "actual": 14,
+        "remaining": 3
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13657,8 +13657,8 @@
       "location": "ED 212",
       "enrollment": {
         "capacity": 30,
-        "actual": 18,
-        "remaining": 12
+        "actual": 19,
+        "remaining": 11
       },
       "status": "Open",
       "section_type": "LEC",
