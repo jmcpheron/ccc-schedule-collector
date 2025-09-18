@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-17T22:29:56.086980Z",
+  "collection_timestamp": "2025-09-18T06:37:48.293049Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -11929,8 +11929,8 @@
       "location": "La Serna High School",
       "enrollment": {
         "capacity": 45,
-        "actual": 20,
-        "remaining": 25
+        "actual": 21,
+        "remaining": 24
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -12505,8 +12505,8 @@
       "location": "El Monte High School",
       "enrollment": {
         "capacity": 45,
-        "actual": 16,
-        "remaining": 29
+        "actual": 17,
+        "remaining": 28
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16825,8 +16825,8 @@
       "location": "South El Monte High School",
       "enrollment": {
         "capacity": 35,
-        "actual": 27,
-        "remaining": 8
+        "actual": 26,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -19001,8 +19001,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 39,
-        "remaining": 6
+        "actual": 41,
+        "remaining": 4
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -20537,8 +20537,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 28,
-        "actual": 13,
-        "remaining": 15
+        "actual": 12,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21273,8 +21273,8 @@
       "location": "Administration 214",
       "enrollment": {
         "capacity": 28,
-        "actual": 24,
-        "remaining": 4
+        "actual": 23,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22265,8 +22265,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 28,
-        "actual": 13,
-        "remaining": 15
+        "actual": 12,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -24057,8 +24057,8 @@
       "location": "Science 307",
       "enrollment": {
         "capacity": 24,
-        "actual": 14,
-        "remaining": 10
+        "actual": 15,
+        "remaining": 9
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -24377,8 +24377,8 @@
       "location": "Technology 118A",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 20,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -24409,8 +24409,8 @@
       "location": "Technology 118A",
       "enrollment": {
         "capacity": 24,
-        "actual": 29,
-        "remaining": 5
+        "actual": 30,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -25913,8 +25913,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 12,
-        "remaining": 23
+        "actual": 13,
+        "remaining": 22
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -28025,8 +28025,8 @@
       "location": "Science 305",
       "enrollment": {
         "capacity": 24,
-        "actual": 12,
-        "remaining": 12
+        "actual": 13,
+        "remaining": 11
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -33287,6 +33287,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78460')"
     },
     {
+      "crn": "73683",
+      "subject": "KINA",
+      "course_number": "139",
+      "title": "Cross Training for Fitness",
+      "units": 1.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73683')"
+    },
+    {
       "crn": "73684",
       "subject": "KINA",
       "course_number": "140",
@@ -38073,8 +38105,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 45,
-        "actual": 9,
-        "remaining": 36
+        "actual": 8,
+        "remaining": 37
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42681,8 +42713,8 @@
       "location": "East Whittier Middle School",
       "enrollment": {
         "capacity": 35,
-        "actual": 30,
-        "remaining": 5
+        "actual": 33,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42777,8 +42809,8 @@
       "location": "Dexter Middle School",
       "enrollment": {
         "capacity": 35,
-        "actual": 12,
-        "remaining": 23
+        "actual": 15,
+        "remaining": 20
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -42809,8 +42841,8 @@
       "location": "Katherine Edwards Middle Sch",
       "enrollment": {
         "capacity": 35,
-        "actual": 17,
-        "remaining": 18
+        "actual": 20,
+        "remaining": 15
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -42969,8 +43001,8 @@
       "location": "Rivera Middle School",
       "enrollment": {
         "capacity": 35,
-        "actual": 30,
-        "remaining": 5
+        "actual": 33,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44474,7 +44506,7 @@
       "enrollment": {
         "capacity": 5,
         "actual": 3,
-        "remaining": 2
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -45209,8 +45241,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 7,
+        "remaining": 23
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47481,8 +47513,8 @@
       "location": "Science 226",
       "enrollment": {
         "capacity": 24,
-        "actual": 6,
-        "remaining": 18
+        "actual": 5,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48377,8 +48409,8 @@
       "location": "Administration 212",
       "enrollment": {
         "capacity": 45,
-        "actual": 36,
-        "remaining": 9
+        "actual": 35,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49020,7 +49052,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -53017,8 +53049,8 @@
       "location": "Science 330",
       "enrollment": {
         "capacity": 35,
-        "actual": 21,
-        "remaining": 14
+        "actual": 18,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -54745,8 +54777,8 @@
       "location": "Technology 114",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 2
+        "actual": 22,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -54905,8 +54937,8 @@
       "location": "Administration of Justice 320",
       "enrollment": {
         "capacity": 35,
-        "actual": 23,
-        "remaining": 12
+        "actual": 24,
+        "remaining": 11
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -55144,7 +55176,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1723,
+    "total_courses": 1724,
     "departments": [
       "ACCT",
       "ADN",
