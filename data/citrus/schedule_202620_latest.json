@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-09-19T15:20:10.612105Z",
+  "collection_timestamp": "2025-09-19T23:19:25.813899Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -409,8 +409,8 @@
       "location": "ES 616",
       "enrollment": {
         "capacity": 45,
-        "actual": 20,
-        "remaining": 25
+        "actual": 19,
+        "remaining": 26
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3033,8 +3033,8 @@
       "location": "MA 225",
       "enrollment": {
         "capacity": 23,
-        "actual": 21,
-        "remaining": 2
+        "actual": 20,
+        "remaining": 3
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3897,8 +3897,8 @@
       "location": "MA 130",
       "enrollment": {
         "capacity": 45,
-        "actual": 23,
-        "remaining": 22
+        "actual": 21,
+        "remaining": 24
       },
       "status": "Open",
       "section_type": "LEC",
@@ -3993,8 +3993,8 @@
       "location": "MA 109",
       "enrollment": {
         "capacity": 45,
-        "actual": 28,
-        "remaining": 17
+        "actual": 29,
+        "remaining": 16
       },
       "status": "Open",
       "section_type": "LEC",
@@ -11929,8 +11929,8 @@
       "location": "ONLINE",
       "enrollment": {
         "capacity": 36,
-        "actual": 37,
-        "remaining": 0
+        "actual": 35,
+        "remaining": 1
       },
       "status": "Open",
       "section_type": "LEC",
@@ -12793,8 +12793,8 @@
       "location": "ED 111",
       "enrollment": {
         "capacity": 45,
-        "actual": 21,
-        "remaining": 24
+        "actual": 20,
+        "remaining": 25
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13497,8 +13497,8 @@
       "location": "PC 314",
       "enrollment": {
         "capacity": 45,
-        "actual": 37,
-        "remaining": 8
+        "actual": 36,
+        "remaining": 9
       },
       "status": "Open",
       "section_type": "LEC",
@@ -13977,8 +13977,8 @@
       "location": "MA 130",
       "enrollment": {
         "capacity": 36,
-        "actual": 34,
-        "remaining": 2
+        "actual": 33,
+        "remaining": 3
       },
       "status": "Open",
       "section_type": "LEC",
@@ -14329,8 +14329,8 @@
       "location": "MA 130",
       "enrollment": {
         "capacity": 36,
-        "actual": 34,
-        "remaining": 2
+        "actual": 33,
+        "remaining": 3
       },
       "status": "Open",
       "section_type": "LEC",
@@ -15527,38 +15527,6 @@
       "book_link": null
     },
     {
-      "crn": "23146",
-      "subject": "THEA",
-      "course_number": "245",
-      "title": "Stage and Project Mgt",
-      "units": 3.0,
-      "instructor": "Holbrook, Joseph",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "M",
-          "start_time": "02:40PM",
-          "end_time": "03:30PM",
-          "is_arranged": false
-        }
-      ],
-      "location": "ONLINE",
-      "enrollment": {
-        "capacity": 15,
-        "actual": 4,
-        "remaining": 11
-      },
-      "status": "Open",
-      "section_type": "LEC",
-      "zero_textbook_cost": true,
-      "delivery_method": "Online Asynchronous",
-      "weeks": 12,
-      "start_date": "09/22",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
       "crn": "22016",
       "subject": "THEA",
       "course_number": "262",
@@ -15586,38 +15554,6 @@
       "delivery_method": "In-Person",
       "weeks": 16,
       "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
-      "crn": "24992",
-      "subject": "THEA",
-      "course_number": "270",
-      "title": "Intro to Production Management",
-      "units": 3.0,
-      "instructor": "Holbrook, Joseph",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "M",
-          "start_time": "02:40PM",
-          "end_time": "03:30PM",
-          "is_arranged": false
-        }
-      ],
-      "location": "VT 208",
-      "enrollment": {
-        "capacity": 5,
-        "actual": 2,
-        "remaining": 3
-      },
-      "status": "Open",
-      "section_type": "LEC",
-      "zero_textbook_cost": true,
-      "delivery_method": "In-Person",
-      "weeks": 12,
-      "start_date": "09/22",
       "end_date": "12/12",
       "additional_hours": null,
       "book_link": null
@@ -15848,7 +15784,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 495,
+    "total_courses": 493,
     "departments": [
       "ACCT",
       "ANTH",
