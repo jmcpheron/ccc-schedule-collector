@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-19T14:32:55.324030Z",
+  "collection_timestamp": "2025-09-19T22:30:56.017792Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -6425,8 +6425,8 @@
       "location": "Business 012",
       "enrollment": {
         "capacity": 22,
-        "actual": 17,
-        "remaining": 5
+        "actual": 16,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10201,8 +10201,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 16,
-        "remaining": 8
+        "actual": 15,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -12092,7 +12092,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -15004,7 +15004,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -16761,8 +16761,8 @@
       "location": "Business 109",
       "enrollment": {
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 25,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17342,7 +17342,7 @@
       },
       "status": "OPEN",
       "section_type": "LEC",
-      "zero_textbook_cost": false,
+      "zero_textbook_cost": true,
       "delivery_method": "Arranged",
       "weeks": 16,
       "start_date": null,
@@ -18988,7 +18988,7 @@
       "course_number": "110",
       "title": "Introduction to Ethnic Studies",
       "units": 3.0,
-      "instructor": "Brian  Damacio",
+      "instructor": "Bri  Damacio",
       "instructor_email": "bdamacio@riohondo.edu",
       "meeting_times": [
         {
@@ -19001,8 +19001,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 40,
-        "remaining": 5
+        "actual": 41,
+        "remaining": 4
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -19612,7 +19612,7 @@
         "actual": 39,
         "remaining": 1
       },
-      "status": "CLOSED",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -25913,8 +25913,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 15,
-        "remaining": 20
+        "actual": 16,
+        "remaining": 19
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -26905,8 +26905,8 @@
       "location": "Administration of Justice 323",
       "enrollment": {
         "capacity": 35,
-        "actual": 35,
-        "remaining": 0
+        "actual": 34,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28025,8 +28025,8 @@
       "location": "Science 305",
       "enrollment": {
         "capacity": 24,
-        "actual": 16,
-        "remaining": 8
+        "actual": 17,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -28217,8 +28217,8 @@
       "location": "Technology 157",
       "enrollment": {
         "capacity": 24,
-        "actual": 22,
-        "remaining": 2
+        "actual": 21,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -30649,8 +30649,8 @@
       "location": "Pioneer High School",
       "enrollment": {
         "capacity": 45,
-        "actual": 30,
-        "remaining": 15
+        "actual": 29,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -32857,8 +32857,8 @@
       "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
-        "actual": 13,
-        "remaining": 12
+        "actual": 12,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -33145,8 +33145,8 @@
       "location": "Physical Education 139",
       "enrollment": {
         "capacity": 35,
-        "actual": 27,
-        "remaining": 8
+        "actual": 26,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38649,8 +38649,8 @@
       "location": "Pioneer High School",
       "enrollment": {
         "capacity": 32,
-        "actual": 30,
-        "remaining": 2
+        "actual": 31,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41976,9 +41976,9 @@
       ],
       "location": "Mt View Family Center",
       "enrollment": {
-        "capacity": 30,
+        "capacity": 40,
         "actual": 31,
-        "remaining": 1
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42425,8 +42425,8 @@
       "location": "STEAM Academy at Burke Middle",
       "enrollment": {
         "capacity": 35,
-        "actual": 8,
-        "remaining": 27
+        "actual": 9,
+        "remaining": 26
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42649,8 +42649,8 @@
       "location": "South El Monte Senior Center",
       "enrollment": {
         "capacity": 45,
-        "actual": 44,
-        "remaining": 1
+        "actual": 45,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42841,8 +42841,8 @@
       "location": "Katherine Edwards Middle Sch",
       "enrollment": {
         "capacity": 35,
-        "actual": 23,
-        "remaining": 12
+        "actual": 33,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -43704,9 +43704,9 @@
       ],
       "location": "South El Monte Senior Center",
       "enrollment": {
-        "capacity": 35,
+        "capacity": 40,
         "actual": 35,
-        "remaining": 0
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43941,6 +43941,38 @@
       "end_date": "12/02",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76737')"
+    },
+    {
+      "crn": "76738",
+      "subject": "NFIR",
+      "course_number": "015",
+      "title": "Practical Experience in Fire Suppression",
+      "units": 0.0,
+      "instructor": "Jay  Joiner",
+      "instructor_email": "jjoiner@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "S",
+          "start_time": "07:00am",
+          "end_time": "06:50pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 100,
+        "actual": 0,
+        "remaining": 100
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "10/11",
+      "end_date": "10/11",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76738')"
     },
     {
       "crn": "74267",
@@ -45191,6 +45223,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75871')"
     },
     {
+      "crn": "77441",
+      "subject": "PAC",
+      "course_number": "042",
+      "title": "Police Supervision",
+      "units": 4.5,
+      "instructor": "George  Kimber",
+      "instructor_email": "gkimber@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "AJ Annex T",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 2,
+      "start_date": "12/01",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77441')"
+    },
+    {
       "crn": "74466",
       "subject": "PAC",
       "course_number": "043",
@@ -45593,8 +45657,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 11,
+        "remaining": 39
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47065,8 +47129,8 @@
       "location": "Physical Education 105",
       "enrollment": {
         "capacity": 10,
-        "actual": 4,
-        "remaining": 6
+        "actual": 3,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -54937,8 +55001,8 @@
       "location": "Administration of Justice 320",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 26,
+        "remaining": 9
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -55173,10 +55237,74 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75485')"
+    },
+    {
+      "crn": "75931",
+      "subject": "WFT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Wildland Fire Technology-Related Fields",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "3",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75931')"
+    },
+    {
+      "crn": "75936",
+      "subject": "WFT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Wildland Fire Technology-Related Fields",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "2",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75936')"
     }
   ],
   "metadata": {
-    "total_courses": 1724,
+    "total_courses": 1728,
     "departments": [
       "ACCT",
       "ADN",
