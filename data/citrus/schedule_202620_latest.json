@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-09-19T07:20:30.962797Z",
+  "collection_timestamp": "2025-09-19T15:20:10.612105Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -1401,8 +1401,8 @@
       "location": "VA 110",
       "enrollment": {
         "capacity": 20,
-        "actual": 12,
-        "remaining": 8
+        "actual": 11,
+        "remaining": 9
       },
       "status": "Open",
       "section_type": "LEC",
