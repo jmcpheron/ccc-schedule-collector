@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-19T22:30:56.017792Z",
+  "collection_timestamp": "2025-09-20T06:35:56.633208Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -4668,7 +4668,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -5593,8 +5593,8 @@
       "location": "Business 011",
       "enrollment": {
         "capacity": 26,
-        "actual": 23,
-        "remaining": 3
+        "actual": 22,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -6329,8 +6329,8 @@
       "location": "Business 011",
       "enrollment": {
         "capacity": 26,
-        "actual": 20,
-        "remaining": 6
+        "actual": 19,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14553,8 +14553,8 @@
       "location": "Business 119",
       "enrollment": {
         "capacity": 35,
-        "actual": 23,
-        "remaining": 12
+        "actual": 22,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -19609,8 +19609,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 40,
-        "actual": 39,
-        "remaining": 1
+        "actual": 40,
+        "remaining": 0
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -30780,7 +30780,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -42009,8 +42009,8 @@
       "location": "TBA",
       "enrollment": {
         "capacity": 70,
-        "actual": 0,
-        "remaining": 70
+        "actual": 37,
+        "remaining": 33
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44857,8 +44857,8 @@
       "location": "AJ Annex",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 5,
+        "remaining": 25
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -55068,7 +55068,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
