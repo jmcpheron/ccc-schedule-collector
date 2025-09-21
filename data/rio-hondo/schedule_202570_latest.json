@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-21T14:30:32.135629Z",
+  "collection_timestamp": "2025-09-21T22:31:18.726478Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -14553,8 +14553,8 @@
       "location": "Business 119",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 20,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14617,8 +14617,8 @@
       "location": "Business 115",
       "enrollment": {
         "capacity": 35,
-        "actual": 20,
-        "remaining": 15
+        "actual": 17,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -33273,8 +33273,8 @@
       "location": "Physical Education 139",
       "enrollment": {
         "capacity": 25,
-        "actual": 6,
-        "remaining": 19
+        "actual": 5,
+        "remaining": 20
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -34841,8 +34841,8 @@
       "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
-        "actual": 1,
-        "remaining": 4
+        "actual": 0,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38300,7 +38300,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
