@@ -87717,8 +87717,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74977')"
+      "additional_hours": "3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74977')",
+      "description": "This course supports and reinforces on-the-job training in business and industrial establishments under the supervision of a college instructor. Training is informed by learning objectives. Students work in a skilled or professional-level assignment in their area of vocational interest, and meet performance objectives related to instruction that are above and beyond the conditions of regular employment. This course is intended for students whose job is related to the field of wildland fire technology and have completed or enrolled in the appropriate coursework. The course may be taken once and repeated for a maximum of 16 units. Contact the Work Experience Education Office regarding re-enrollment procedures.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "04-NOV-2025",
+        "Last day to drop with a refund": "04-NOV-2025",
+        "Last day to drop without a \"W\"": "07-NOV-2025",
+        "Last day to drop with a \"W\"": "21-NOV-2025",
+        "Pass/No Pass Petition Deadline Date": "28-NOV-2025",
+        "Census Date": "06-NOV-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=74977",
+      "seating_detail": {
+        "capacity": 125,
+        "taken": 0,
+        "available": 125
+      },
+      "detail_fetched_at": "2025-09-18T03:37:36.707880Z"
     },
     {
       "crn": "75485",
@@ -87749,8 +87771,30 @@
       "weeks": 16,
       "start_date": null,
       "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75485')"
+      "additional_hours": "43.3 Hrs/Wk arr in addition to any scheduled hrs if applicable",
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75485')",
+      "description": "This course supports and reinforces on-the-job training in business and industrial establishments under the supervision of a college instructor. Training is informed by learning objectives. Students work in a skilled or professional-level assignment in their area of vocational interest, and meet performance objectives related to instruction that are above and beyond the conditions of regular employment. This course is intended for students whose job is related to the field of wildland fire technology and have completed or enrolled in the appropriate coursework. The course may be taken once and repeated for a maximum of 16 units. Contact the Work Experience Education Office regarding re-enrollment procedures.",
+      "prerequisites": null,
+      "advisory": "It is advised that students be able to engage in written composition at a college level and read college level texts.",
+      "transfers_to": "CSU",
+      "former_course_number": null,
+      "critical_dates": {
+        "Last day to add class": "02-DEC-2025",
+        "Last day to drop with a refund": "02-DEC-2025",
+        "Last day to drop without a \"W\"": "09-DEC-2025",
+        "Last day to drop with a \"W\"": "23-DEC-2025",
+        "Pass/No Pass Petition Deadline Date": "31-DEC-2025",
+        "Census Date": "04-DEC-2025"
+      },
+      "instructional_method": null,
+      "section_corequisites": null,
+      "syllabus_link": "https://ssb.riohondo.edu:8443/prodssb/i$_disp_syllabus?term_in=202570&crn_in=75485",
+      "seating_detail": {
+        "capacity": 125,
+        "taken": 0,
+        "available": 125
+      },
+      "detail_fetched_at": "2025-09-18T03:37:38.317073Z"
     }
   ],
   "metadata": {
@@ -87861,11 +87905,11 @@
     ],
     "collection_errors": null,
     "details_collected": true,
-    "detail_collection_timestamp": "2025-09-17T03:37:48.670217+00:00Z",
-    "courses_with_details": 1647,
+    "detail_collection_timestamp": "2025-09-18T03:37:38.322119+00:00Z",
+    "courses_with_details": 1649,
     "detail_collection_errors": null,
     "detail_rate_limit": 1.5,
-    "courses_processed_this_run": 50
+    "courses_processed_this_run": 2
   },
   "total_courses": null,
   "departments": null
