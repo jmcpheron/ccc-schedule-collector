@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-21T06:36:26.006278Z",
+  "collection_timestamp": "2025-09-21T14:30:32.135629Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -441,8 +441,8 @@
       "location": "Business 119",
       "enrollment": {
         "capacity": 45,
-        "actual": 33,
-        "remaining": 9
+        "actual": 32,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -30780,7 +30780,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -44092,7 +44092,7 @@
         "actual": 18,
         "remaining": 2
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -44892,7 +44892,7 @@
         "actual": 0,
         "remaining": 30
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -51644,7 +51644,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
