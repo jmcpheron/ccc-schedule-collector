@@ -1,13 +1,13 @@
-## Rio Hondo Collection Report - Mon Sep 22 14:33:20 UTC 2025
+## Rio Hondo Collection Report - Mon Sep 22 22:31:18 UTC 2025
 
-Total courses collected: 1728
-Departments: 102
+Total courses collected: 1758
+Departments: 103
 
 Top departments:
   - ENGL: 115 courses
   - KINA: 106 courses
+  - PAC: 82 courses
   - ART: 70 courses
-  - PAC: 62 courses
   - ADN: 61 courses
   - BIOL: 59 courses
   - MATH: 53 courses
