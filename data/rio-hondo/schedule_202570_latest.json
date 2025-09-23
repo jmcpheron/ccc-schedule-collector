@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-23T06:38:13.625327Z",
+  "collection_timestamp": "2025-09-23T14:33:28.113734Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -13369,8 +13369,8 @@
       "location": "Science 336",
       "enrollment": {
         "capacity": 24,
-        "actual": 18,
-        "remaining": 6
+        "actual": 17,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -24988,7 +24988,7 @@
         "actual": 0,
         "remaining": 40
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -28281,8 +28281,8 @@
       "location": "Science 305",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 23,
+        "remaining": 1
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -45852,7 +45852,7 @@
         "actual": 0,
         "remaining": 30
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -54972,7 +54972,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
