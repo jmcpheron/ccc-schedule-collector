@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-25T14:34:02.506011Z",
+  "collection_timestamp": "2025-09-25T22:31:23.033300Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -8345,8 +8345,8 @@
       "location": "Science 236",
       "enrollment": {
         "capacity": 62,
-        "actual": 38,
-        "remaining": 24
+        "actual": 37,
+        "remaining": 25
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -8537,8 +8537,8 @@
       "location": "Science 230",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 19,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11033,7 +11033,7 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 25,
+        "actual": 23,
         "remaining": 1
       },
       "status": "CLOSED",
@@ -13401,8 +13401,8 @@
       "location": "Science 333",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14969,8 +14969,8 @@
       "location": "Business 115",
       "enrollment": {
         "capacity": 35,
-        "actual": 17,
-        "remaining": 18
+        "actual": 18,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16889,8 +16889,8 @@
       "location": "Pioneer High School",
       "enrollment": {
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 27,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17497,8 +17497,8 @@
       "location": "Business 109",
       "enrollment": {
         "capacity": 35,
-        "actual": 29,
-        "remaining": 6
+        "actual": 28,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -18841,8 +18841,8 @@
       "location": "Administration of Justice 322",
       "enrollment": {
         "capacity": 45,
-        "actual": 39,
-        "remaining": 6
+        "actual": 38,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -19964,7 +19964,7 @@
         "actual": 40,
         "remaining": 0
       },
-      "status": "CLOSED",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -22521,8 +22521,8 @@
       "location": "Learning Resource Center (LRC) 124",
       "enrollment": {
         "capacity": 28,
-        "actual": 27,
-        "remaining": 1
+        "actual": 26,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23065,8 +23065,8 @@
       "location": "Learning Resource Center (LRC) 124",
       "enrollment": {
         "capacity": 28,
-        "actual": 15,
-        "remaining": 13
+        "actual": 14,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28537,8 +28537,8 @@
       "location": "Technology 157",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 20,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28569,8 +28569,8 @@
       "location": "Technology 157",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 20,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28601,8 +28601,8 @@
       "location": "Technology 157",
       "enrollment": {
         "capacity": 24,
-        "actual": 18,
-        "remaining": 6
+        "actual": 17,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28633,8 +28633,8 @@
       "location": "Technology 157",
       "enrollment": {
         "capacity": 24,
-        "actual": 22,
-        "remaining": 2
+        "actual": 21,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -29756,7 +29756,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -33369,8 +33369,8 @@
       "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
-        "actual": 9,
-        "remaining": 16
+        "actual": 8,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -33465,8 +33465,8 @@
       "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
-        "actual": 17,
-        "remaining": 8
+        "actual": 12,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36921,8 +36921,8 @@
       "location": "Science 301",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 19,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39065,8 +39065,8 @@
       "location": "Pioneer High School",
       "enrollment": {
         "capacity": 32,
-        "actual": 31,
-        "remaining": 1
+        "actual": 30,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39353,8 +39353,8 @@
       "location": "Modular Classrooms 03",
       "enrollment": {
         "capacity": 30,
-        "actual": 29,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41369,8 +41369,8 @@
       "location": "Community Resource Center",
       "enrollment": {
         "capacity": 30,
-        "actual": 24,
-        "remaining": 6
+        "actual": 25,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42201,8 +42201,8 @@
       "location": "Pico Rivera Senior Center",
       "enrollment": {
         "capacity": 30,
-        "actual": 13,
-        "remaining": 17
+        "actual": 22,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42297,8 +42297,8 @@
       "location": "Richard Graves Middle School",
       "enrollment": {
         "capacity": 30,
-        "actual": 14,
-        "remaining": 16
+        "actual": 15,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42873,8 +42873,8 @@
       "location": "STEAM Academy at Burke Middle",
       "enrollment": {
         "capacity": 35,
-        "actual": 11,
-        "remaining": 24
+        "actual": 12,
+        "remaining": 23
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43257,8 +43257,8 @@
       "location": "Dexter Middle School",
       "enrollment": {
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 30,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43801,8 +43801,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 29,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44121,8 +44121,8 @@
       "location": "Pico Educational Center 201",
       "enrollment": {
         "capacity": 40,
-        "actual": 35,
-        "remaining": 5
+        "actual": 36,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44313,8 +44313,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 5,
-        "remaining": 20
+        "actual": 6,
+        "remaining": 19
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44345,8 +44345,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 1,
-        "remaining": 24
+        "actual": 2,
+        "remaining": 23
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44473,8 +44473,8 @@
       "location": "Learning Resource Center (LRC) 128",
       "enrollment": {
         "capacity": 20,
-        "actual": 6,
-        "remaining": 14
+        "actual": 7,
+        "remaining": 13
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -45753,8 +45753,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 9,
-        "remaining": 21
+        "actual": 13,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46649,8 +46649,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 18,
+        "remaining": 32
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46681,8 +46681,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 24,
+        "remaining": 26
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46745,8 +46745,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 19,
+        "remaining": 31
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47577,8 +47577,8 @@
       "location": "Administration of Justice 321",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 32,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50142,7 +50142,7 @@
       },
       "status": "Waitlisted",
       "section_type": "LEC",
-      "zero_textbook_cost": true,
+      "zero_textbook_cost": false,
       "delivery_method": "Arranged",
       "weeks": 16,
       "start_date": null,
@@ -54553,8 +54553,8 @@
       "location": "Science 200",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 21,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -56281,8 +56281,8 @@
       "location": "Administration of Justice 320",
       "enrollment": {
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 29,
+        "remaining": 6
       },
       "status": "OPEN",
       "section_type": "LEC",
