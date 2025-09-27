@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-09-26T22:31:13.696266Z",
+  "collection_timestamp": "2025-09-27T06:35:01.065560Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -4476,7 +4476,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -13497,8 +13497,8 @@
       "location": "Science 336",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 19,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23033,8 +23033,8 @@
       "location": "Administration 227",
       "enrollment": {
         "capacity": 28,
-        "actual": 14,
-        "remaining": 14
+        "actual": 13,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23065,8 +23065,8 @@
       "location": "Learning Resource Center (LRC) 124",
       "enrollment": {
         "capacity": 28,
-        "actual": 14,
-        "remaining": 14
+        "actual": 13,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26265,8 +26265,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 23,
+        "remaining": 12
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -43545,8 +43545,8 @@
       "location": "Twin Lakes School",
       "enrollment": {
         "capacity": 35,
-        "actual": 21,
-        "remaining": 14
+        "actual": 22,
+        "remaining": 13
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44313,8 +44313,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 8,
-        "remaining": 17
+        "actual": 9,
+        "remaining": 16
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -46457,8 +46457,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 5,
-        "remaining": 45
+        "actual": 27,
+        "remaining": 23
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -54233,8 +54233,8 @@
       "location": "Science 303",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 24,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -54489,8 +54489,8 @@
       "location": "Science 303",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 24,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
