@@ -6,59 +6,172 @@
   "results_endpoint": "az_tw_zipsched.p_list_this",
   "schedule_endpoint": "az_tw_zipsched.P_SEARCH",
   "parser_type": "beautifulsoup",
-  
   "current_term": {
     "code": "202620",
     "name": "Fall 2025"
   },
-  
   "terms": [
-    {"code": "202620", "name": "Fall 2025"},
-    {"code": "202560", "name": "Spring 2025"},
-    {"code": "202540", "name": "Summer 2025"},
-    {"code": "202520", "name": "Spring 2025"},
-    {"code": "202460", "name": "Fall 2024"}
+    {
+      "code": "202620",
+      "name": "Fall 2025"
+    },
+    {
+      "code": "202560",
+      "name": "Spring 2025"
+    },
+    {
+      "code": "202540",
+      "name": "Summer 2025"
+    },
+    {
+      "code": "202520",
+      "name": "Spring 2025"
+    },
+    {
+      "code": "202460",
+      "name": "Fall 2024"
+    }
   ],
-  
   "term_mapping": {
     "pattern": "{year}{season}0",
     "seasons": {
       "spring": "20",
-      "summer": "40", 
+      "summer": "40",
       "fall": "60"
     },
     "description": "Citrus uses year + season code + 0 format (e.g., 202620 = 2026 Fall)"
   },
-  
-  "departments": ["ALL"],
-  
+  "departments": [
+    "ALL"
+  ],
   "all_subjects": [
-    "ACCT", "ADS", "ANTH", "ART", "AUTO", "BIOL", "BIOT", "BUS", 
-    "CDEV", "CHEM", "CIS", "COMM", "COUN", "CS", "DANC", "DH", 
-    "DS", "ECE", "ECON", "EDUC", "EET", "ENGL", "ENGR", "ENV", 
-    "ESL", "ETHN", "FN", "FREN", "GEOG", "GEOL", "GERO", "HIST", 
-    "HUM", "ITAL", "JAPN", "JOUR", "KIN", "LAW", "LIB", "LING", 
-    "LIT", "MATH", "MUS", "NURS", "PHIL", "PHOT", "PHYS", "POLS", 
-    "PORT", "PSY", "READ", "SOC", "SPAN", "SPCH", "STAT", "THEA", 
-    "UAS", "VET", "VN", "WATR"
+    "ACCT",
+    "ADS",
+    "ANTH",
+    "ART",
+    "AUTO",
+    "BIOL",
+    "BIOT",
+    "BUS",
+    "CDEV",
+    "CHEM",
+    "CIS",
+    "COMM",
+    "COUN",
+    "CS",
+    "DANC",
+    "DH",
+    "DS",
+    "ECE",
+    "ECON",
+    "EDUC",
+    "EET",
+    "ENGL",
+    "ENGR",
+    "ENV",
+    "ESL",
+    "ETHN",
+    "FN",
+    "FREN",
+    "GEOG",
+    "GEOL",
+    "GERO",
+    "HIST",
+    "HUM",
+    "ITAL",
+    "JAPN",
+    "JOUR",
+    "KIN",
+    "LAW",
+    "LIB",
+    "LING",
+    "LIT",
+    "MATH",
+    "MUS",
+    "NURS",
+    "PHIL",
+    "PHOT",
+    "PHYS",
+    "POLS",
+    "PORT",
+    "PSY",
+    "READ",
+    "SOC",
+    "SPAN",
+    "SPCH",
+    "STAT",
+    "THEA",
+    "UAS",
+    "VET",
+    "VN",
+    "WATR"
   ],
-  
   "expected_subjects": [
-    "ACCT", "ADS", "ANTH", "ART", "AUTO", "BIOL", "BIOT", "BUS", 
-    "CDEV", "CHEM", "CIS", "COMM", "COUN", "CS", "DANC", "DH", 
-    "DS", "ECE", "ECON", "EDUC", "EET", "ENGL", "ENGR", "ENV", 
-    "ESL", "ETHN", "FN", "FREN", "GEOG", "GEOL", "GERO", "HIST", 
-    "HUM", "ITAL", "JAPN", "JOUR", "KIN", "LAW", "LIB", "LING", 
-    "LIT", "MATH", "MUS", "NURS", "PHIL", "PHOT", "PHYS", "POLS", 
-    "PORT", "PSY", "READ", "SOC", "SPAN", "SPCH", "STAT", "THEA", 
-    "UAS", "VET", "VN", "WATR"
+    "ACCT",
+    "ADS",
+    "ANTH",
+    "ART",
+    "AUTO",
+    "BIOL",
+    "BIOT",
+    "BUS",
+    "CDEV",
+    "CHEM",
+    "CIS",
+    "COMM",
+    "COUN",
+    "CS",
+    "DANC",
+    "DH",
+    "DS",
+    "ECE",
+    "ECON",
+    "EDUC",
+    "EET",
+    "ENGL",
+    "ENGR",
+    "ENV",
+    "ESL",
+    "ETHN",
+    "FN",
+    "FREN",
+    "GEOG",
+    "GEOL",
+    "GERO",
+    "HIST",
+    "HUM",
+    "ITAL",
+    "JAPN",
+    "JOUR",
+    "KIN",
+    "LAW",
+    "LIB",
+    "LING",
+    "LIT",
+    "MATH",
+    "MUS",
+    "NURS",
+    "PHIL",
+    "PHOT",
+    "PHYS",
+    "POLS",
+    "PORT",
+    "PSY",
+    "READ",
+    "SOC",
+    "SPAN",
+    "SPCH",
+    "STAT",
+    "THEA",
+    "UAS",
+    "VET",
+    "VN",
+    "WATR"
   ],
-  
   "subject_code_mappings": {
     "comments": "Maps expected codes to actual college codes when they differ",
     "THTR": "THEA"
   },
-  
   "search_params": {
     "sel_subj": "%",
     "sel_day": "dummy",
@@ -80,20 +193,16 @@
     "end_mi": "0",
     "end_ap": "a"
   },
-  
   "rate_limit": {
     "requests_per_second": 0.3,
     "retry_attempts": 5,
     "backoff_factor": 2
   },
-  
   "http_config": {
     "timeout": 60,
     "verify_ssl": true
   },
-  
   "user_agent": "CCC-Schedule-Collector/1.0 (https://github.com/jmcpheron/ccc-schedule-collector)",
-  
   "selectors": {
     "schedule_table": "table.datadisplaytable",
     "subject_header": "td.ddheader",
@@ -111,5 +220,12 @@
     "capacity": "td:nth-child(11)",
     "actual": "td:nth-child(12)",
     "remaining": "td:nth-child(13)"
+  },
+  "subject_management": {
+    "expected_subjects": [],
+    "optional_subjects": [],
+    "discovered_subjects": {},
+    "deprecated_subjects": {},
+    "last_discovery": "2025-09-28T02:37:35.609951+00:00Z"
   }
 }
