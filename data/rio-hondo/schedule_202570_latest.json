@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-01T14:33:38.328588Z",
+  "collection_timestamp": "2025-10-01T22:31:31.219156Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -3676,7 +3676,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -12249,8 +12249,8 @@
       "location": "La Serna High School",
       "enrollment": {
         "capacity": 45,
-        "actual": 20,
-        "remaining": 25
+        "actual": 19,
+        "remaining": 26
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15356,7 +15356,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -20377,8 +20377,8 @@
       "location": "Administration 211",
       "enrollment": {
         "capacity": 28,
-        "actual": 20,
-        "remaining": 8
+        "actual": 19,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21689,8 +21689,8 @@
       "location": "Learning Resource Center (LRC) 119",
       "enrollment": {
         "capacity": 28,
-        "actual": 24,
-        "remaining": 4
+        "actual": 23,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22585,8 +22585,8 @@
       "location": "Administration 211",
       "enrollment": {
         "capacity": 28,
-        "actual": 20,
-        "remaining": 8
+        "actual": 19,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26265,8 +26265,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 26,
+        "remaining": 9
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -28377,10 +28377,10 @@
       "location": "Science 305",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -32921,8 +32921,8 @@
       "location": "Gym GYM",
       "enrollment": {
         "capacity": 40,
-        "actual": 14,
-        "remaining": 26
+        "actual": 13,
+        "remaining": 27
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -33657,8 +33657,8 @@
       "location": "Physical Education 139",
       "enrollment": {
         "capacity": 40,
-        "actual": 11,
-        "remaining": 29
+        "actual": 10,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -34009,8 +34009,8 @@
       "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
-        "actual": 13,
-        "remaining": 17
+        "actual": 12,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36377,8 +36377,8 @@
       "location": "Learning Resource Center (LRC) 123",
       "enrollment": {
         "capacity": 32,
-        "actual": 12,
-        "remaining": 20
+        "actual": 11,
+        "remaining": 21
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38041,8 +38041,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 24,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41497,8 +41497,8 @@
       "location": "Pico Educational Center 401",
       "enrollment": {
         "capacity": 35,
-        "actual": 13,
-        "remaining": 22
+        "actual": 12,
+        "remaining": 23
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -42361,8 +42361,8 @@
       "location": "Longfellow Elementary School",
       "enrollment": {
         "capacity": 30,
-        "actual": 21,
-        "remaining": 9
+        "actual": 22,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43065,8 +43065,8 @@
       "location": "South El Monte Senior Center",
       "enrollment": {
         "capacity": 40,
-        "actual": 38,
-        "remaining": 2
+        "actual": 39,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43449,8 +43449,8 @@
       "location": "Rivera Middle School",
       "enrollment": {
         "capacity": 35,
-        "actual": 34,
-        "remaining": 1
+        "actual": 35,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43513,8 +43513,8 @@
       "location": "Parkview Elementary School",
       "enrollment": {
         "capacity": 35,
-        "actual": 13,
-        "remaining": 22
+        "actual": 18,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43545,8 +43545,8 @@
       "location": "Twin Lakes School",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 28,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -45369,8 +45369,8 @@
       "location": "AJ Annex",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 25,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46905,8 +46905,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 20,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47033,8 +47033,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 19,
-        "remaining": 31
+        "actual": 22,
+        "remaining": 28
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47065,8 +47065,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 22,
+        "remaining": 28
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47097,8 +47097,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 18,
+        "remaining": 32
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47129,8 +47129,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 20,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
