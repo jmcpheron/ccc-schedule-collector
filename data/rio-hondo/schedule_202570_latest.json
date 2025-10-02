@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-02T06:37:34.445500Z",
+  "collection_timestamp": "2025-10-02T14:32:51.633409Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -8889,8 +8889,8 @@
       "location": "Technology 154",
       "enrollment": {
         "capacity": 24,
-        "actual": 26,
-        "remaining": 2
+        "actual": 25,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14078,7 +14078,7 @@
       },
       "status": "CLOSED",
       "section_type": "LEC",
-      "zero_textbook_cost": false,
+      "zero_textbook_cost": true,
       "delivery_method": "Arranged",
       "weeks": 16,
       "start_date": "08/16",
@@ -16121,8 +16121,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 32,
-        "actual": 27,
-        "remaining": 5
+        "actual": 26,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
