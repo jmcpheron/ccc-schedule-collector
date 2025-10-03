@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-03T14:32:10.690938Z",
+  "collection_timestamp": "2025-10-03T22:30:50.733191Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -6105,8 +6105,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 45,
-        "actual": 40,
-        "remaining": 5
+        "actual": 35,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -6137,8 +6137,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 45,
-        "actual": 18,
-        "remaining": 27
+        "actual": 14,
+        "remaining": 31
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -6329,8 +6329,8 @@
       "location": "Business 011",
       "enrollment": {
         "capacity": 26,
-        "actual": 17,
-        "remaining": 9
+        "actual": 16,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10489,8 +10489,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 14,
-        "remaining": 10
+        "actual": 13,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22201,8 +22201,8 @@
       "location": "Administration 206",
       "enrollment": {
         "capacity": 28,
-        "actual": 21,
-        "remaining": 7
+        "actual": 20,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26076,7 +26076,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -27004,7 +27004,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -43321,8 +43321,8 @@
       "location": "Wallen L Andrews School",
       "enrollment": {
         "capacity": 35,
-        "actual": 14,
-        "remaining": 21
+        "actual": 15,
+        "remaining": 20
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43481,8 +43481,8 @@
       "location": "Monte Vista Elem - El Monte",
       "enrollment": {
         "capacity": 35,
-        "actual": 19,
-        "remaining": 16
+        "actual": 24,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44313,8 +44313,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 23,
-        "remaining": 2
+        "actual": 24,
+        "remaining": 1
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -45881,8 +45881,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 13,
-        "remaining": 17
+        "actual": 14,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47033,8 +47033,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 20,
-        "remaining": 30
+        "actual": 21,
+        "remaining": 29
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47696,39 +47696,7 @@
       "instructor_email": "HFigueroa@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "AJ Annex",
-      "enrollment": {
-        "capacity": 30,
-        "actual": 0,
-        "remaining": 30
-      },
-      "status": "OPEN",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 1,
-      "start_date": "11/09",
-      "end_date": "11/09",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78537')"
-    },
-    {
-      "crn": "78538",
-      "subject": "PAC",
-      "course_number": "062",
-      "title": "First Aid/CPR",
-      "units": 0.3,
-      "instructor": "Hugo  Figueroa",
-      "instructor_email": "HFigueroa@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "T",
+          "days": "R",
           "start_time": "08:00am",
           "end_time": "11:50am",
           "is_arranged": false
@@ -47745,8 +47713,40 @@
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
       "weeks": 1,
-      "start_date": "11/11",
-      "end_date": "11/11",
+      "start_date": "11/06",
+      "end_date": "11/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78537')"
+    },
+    {
+      "crn": "78538",
+      "subject": "PAC",
+      "course_number": "062",
+      "title": "First Aid/CPR",
+      "units": 0.3,
+      "instructor": "Hugo  Figueroa",
+      "instructor_email": "HFigueroa@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "AJ Annex",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "11/13",
+      "end_date": "11/13",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78538')"
     },
@@ -47758,6 +47758,38 @@
       "units": 0.3,
       "instructor": "Hugo  Figueroa",
       "instructor_email": "HFigueroa@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "AJ Annex",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "11/20",
+      "end_date": "11/20",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78539')"
+    },
+    {
+      "crn": "78544",
+      "subject": "PAC",
+      "course_number": "062",
+      "title": "First Aid/CPR",
+      "units": 0.3,
+      "instructor": "Marc  Butler",
+      "instructor_email": "mbutler@riohondo.edu",
       "meeting_times": [
         {
           "days": "TBA",
@@ -47777,10 +47809,10 @@
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
       "weeks": 1,
-      "start_date": "11/19",
-      "end_date": "11/19",
+      "start_date": "10/20",
+      "end_date": "10/20",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78539')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78544')"
     },
     {
       "crn": "78494",
@@ -50332,7 +50364,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -57064,7 +57096,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1783,
+    "total_courses": 1784,
     "departments": [
       "ACCT",
       "ADN",
