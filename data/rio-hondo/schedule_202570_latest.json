@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-03T22:30:50.733191Z",
+  "collection_timestamp": "2025-10-04T06:35:39.739027Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -26201,8 +26201,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 35,
-        "remaining": 0
+        "actual": 34,
+        "remaining": 1
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -26265,8 +26265,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 31,
-        "remaining": 4
+        "actual": 30,
+        "remaining": 5
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -43353,8 +43353,8 @@
       "location": "Dean L Shively School",
       "enrollment": {
         "capacity": 35,
-        "actual": 20,
-        "remaining": 15
+        "actual": 21,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43545,8 +43545,8 @@
       "location": "Twin Lakes School",
       "enrollment": {
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 31,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44313,10 +44313,10 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 24,
-        "remaining": 1
+        "actual": 25,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
