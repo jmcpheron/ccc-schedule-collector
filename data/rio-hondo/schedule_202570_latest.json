@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-08T06:38:09.540770Z",
+  "collection_timestamp": "2025-10-08T14:34:06.533924Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -19708,7 +19708,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -25820,7 +25820,7 @@
         "actual": 0,
         "remaining": 150
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -25964,8 +25964,8 @@
       "course_number": "101",
       "title": "Introduction to Financial Planning",
       "units": 3.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
+      "instructor": "Hannah  O'Neill",
+      "instructor_email": "honeill@riohondo.edu",
       "meeting_times": [
         {
           "days": "TR",
@@ -29436,7 +29436,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -51740,7 +51740,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
