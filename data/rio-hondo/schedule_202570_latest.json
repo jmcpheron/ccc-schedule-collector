@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-09T14:33:18.004604Z",
+  "collection_timestamp": "2025-10-09T22:31:34.884487Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -4444,7 +4444,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -4505,8 +4505,8 @@
       "location": "Science 334",
       "enrollment": {
         "capacity": 45,
-        "actual": 34,
-        "remaining": 11
+        "actual": 35,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10009,8 +10009,8 @@
       "location": "Science 136",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10361,8 +10361,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 48,
-        "actual": 21,
-        "remaining": 27
+        "actual": 20,
+        "remaining": 28
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11001,8 +11001,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 21,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11161,8 +11161,8 @@
       "location": "Science 132",
       "enrollment": {
         "capacity": 24,
-        "actual": 17,
-        "remaining": 7
+        "actual": 16,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11289,8 +11289,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 22,
-        "remaining": 2
+        "actual": 21,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -12313,8 +12313,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 27,
-        "remaining": 18
+        "actual": 26,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -13337,8 +13337,8 @@
       "location": "Science 333",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 20,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14585,8 +14585,8 @@
       "location": "Science 334",
       "enrollment": {
         "capacity": 45,
-        "actual": 40,
-        "remaining": 5
+        "actual": 39,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17529,8 +17529,8 @@
       "location": "Business 109",
       "enrollment": {
         "capacity": 35,
-        "actual": 28,
-        "remaining": 7
+        "actual": 25,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -20857,8 +20857,8 @@
       "location": "Administration 213",
       "enrollment": {
         "capacity": 28,
-        "actual": 11,
-        "remaining": 17
+        "actual": 10,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22777,8 +22777,8 @@
       "location": "Administration 213",
       "enrollment": {
         "capacity": 28,
-        "actual": 11,
-        "remaining": 17
+        "actual": 10,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23417,8 +23417,8 @@
       "location": "Administration 213",
       "enrollment": {
         "capacity": 28,
-        "actual": 20,
-        "remaining": 8
+        "actual": 19,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -24391,6 +24391,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71025')"
     },
     {
+      "crn": "71090",
+      "subject": "ENGT",
+      "course_number": "150",
+      "title": "AutoCAD for Basic CADD Applications",
+      "units": 4.0,
+      "instructor": "Farrah  Nakatani",
+      "instructor_email": "fnakatani@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "07:50am",
+          "end_time": "09:20am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 305",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 13,
+        "remaining": 11
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 8,
+      "start_date": "10/11",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71090')"
+    },
+    {
       "crn": "75623",
       "subject": "ENGT",
       "course_number": "150",
@@ -24409,8 +24441,8 @@
       "location": "Science",
       "enrollment": {
         "capacity": 0,
-        "actual": 5,
-        "remaining": 5
+        "actual": 0,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26233,8 +26265,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 35,
-        "remaining": 0
+        "actual": 34,
+        "remaining": 1
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -30044,7 +30076,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -33625,8 +33657,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 30,
-        "actual": 14,
-        "remaining": 16
+        "actual": 13,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37273,8 +37305,8 @@
       "location": "Science 211",
       "enrollment": {
         "capacity": 35,
-        "actual": 6,
-        "remaining": 29
+        "actual": 5,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38748,7 +38780,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -43673,8 +43705,8 @@
       "location": "Katherine Edwards Middle Sch",
       "enrollment": {
         "capacity": 35,
-        "actual": 35,
-        "remaining": 0
+        "actual": 34,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44377,8 +44409,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 3,
-        "remaining": 22
+        "actual": 4,
+        "remaining": 21
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44505,8 +44537,8 @@
       "location": "Learning Resource Center (LRC) 128",
       "enrollment": {
         "capacity": 20,
-        "actual": 9,
-        "remaining": 11
+        "actual": 10,
+        "remaining": 10
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -45433,8 +45465,8 @@
       "location": "AJ Annex",
       "enrollment": {
         "capacity": 30,
-        "actual": 4,
-        "remaining": 26
+        "actual": 10,
+        "remaining": 20
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50137,8 +50169,8 @@
       "location": "Administration 212",
       "enrollment": {
         "capacity": 45,
-        "actual": 24,
-        "remaining": 21
+        "actual": 23,
+        "remaining": 22
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51740,7 +51772,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
@@ -55321,8 +55353,8 @@
       "location": "Science 211",
       "enrollment": {
         "capacity": 35,
-        "actual": 33,
-        "remaining": 2
+        "actual": 32,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -57192,7 +57224,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1787,
+    "total_courses": 1788,
     "departments": [
       "ACCT",
       "ADN",
