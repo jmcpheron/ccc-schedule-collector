@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-11T06:35:26.801568Z",
+  "collection_timestamp": "2025-10-11T14:29:43.617583Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -50140,7 +50140,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
