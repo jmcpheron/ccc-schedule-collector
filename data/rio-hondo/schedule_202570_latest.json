@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-12T14:30:22.501443Z",
+  "collection_timestamp": "2025-10-12T22:31:09.618725Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -15545,8 +15545,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 34,
-        "remaining": 1
+        "actual": 33,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -19961,8 +19961,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 40,
-        "actual": 34,
-        "remaining": 6
+        "actual": 32,
+        "remaining": 8
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -26009,10 +26009,10 @@
       "location": "Business 116",
       "enrollment": {
         "capacity": 35,
-        "actual": 35,
-        "remaining": 0
+        "actual": 34,
+        "remaining": 1
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -26076,7 +26076,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -34841,8 +34841,8 @@
       "location": "Tennis Courts",
       "enrollment": {
         "capacity": 40,
-        "actual": 9,
-        "remaining": 31
+        "actual": 8,
+        "remaining": 32
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51772,7 +51772,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
