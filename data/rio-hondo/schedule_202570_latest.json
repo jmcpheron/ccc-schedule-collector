@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-13T14:33:40.270782Z",
+  "collection_timestamp": "2025-10-13T22:31:39.015681Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -2873,8 +2873,8 @@
       "location": "Administration of Justice 323",
       "enrollment": {
         "capacity": 35,
-        "actual": 33,
-        "remaining": 2
+        "actual": 32,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -3417,8 +3417,8 @@
       "location": "Administration of Justice 323",
       "enrollment": {
         "capacity": 35,
-        "actual": 23,
-        "remaining": 12
+        "actual": 22,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -5625,8 +5625,8 @@
       "location": "Business 011",
       "enrollment": {
         "capacity": 26,
-        "actual": 21,
-        "remaining": 5
+        "actual": 20,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -8560,9 +8560,9 @@
       "instructor_email": "",
       "meeting_times": [
         {
-          "days": "TR",
+          "days": "S",
           "start_time": "08:00am",
-          "end_time": "09:05am",
+          "end_time": "03:15pm",
           "is_arranged": false
         }
       ],
@@ -8576,8 +8576,8 @@
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
-      "weeks": 8,
-      "start_date": "10/11",
+      "weeks": 6,
+      "start_date": "10/25",
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77913')"
@@ -8620,8 +8620,8 @@
       "course_number": "102",
       "title": "Shop Safety and Measurements",
       "units": 2.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
+      "instructor": "Christopher  Hirunthanakorn",
+      "instructor_email": "chirunthanakorn@riohondo.edu",
       "meeting_times": [
         {
           "days": "TBA",
@@ -8640,43 +8640,11 @@
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
-      "weeks": 8,
-      "start_date": "10/11",
+      "weeks": 6,
+      "start_date": "10/20",
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77914')"
-    },
-    {
-      "crn": "78528",
-      "subject": "ATMN",
-      "course_number": "102",
-      "title": "Shop Safety and Measurements",
-      "units": 2.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "Science 304",
-      "enrollment": {
-        "capacity": 24,
-        "actual": 0,
-        "remaining": 24
-      },
-      "status": "OPEN",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 8,
-      "start_date": "10/11",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78528')"
     },
     {
       "crn": "78526",
@@ -8857,8 +8825,8 @@
       "location": "Pico Educational Center 201",
       "enrollment": {
         "capacity": 24,
-        "actual": 13,
-        "remaining": 11
+        "actual": 12,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10809,8 +10777,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 19,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11289,8 +11257,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 20,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11737,8 +11705,8 @@
       "location": "Business 105",
       "enrollment": {
         "capacity": 45,
-        "actual": 16,
-        "remaining": 29
+        "actual": 15,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -13497,8 +13465,8 @@
       "location": "Science 336",
       "enrollment": {
         "capacity": 24,
-        "actual": 17,
-        "remaining": 7
+        "actual": 16,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -13945,8 +13913,8 @@
       "location": "Science 325",
       "enrollment": {
         "capacity": 24,
-        "actual": 16,
-        "remaining": 8
+        "actual": 15,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15001,8 +14969,8 @@
       "location": "Business 115",
       "enrollment": {
         "capacity": 35,
-        "actual": 10,
-        "remaining": 25
+        "actual": 9,
+        "remaining": 26
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15097,8 +15065,8 @@
       "location": "Business 115",
       "enrollment": {
         "capacity": 35,
-        "actual": 16,
-        "remaining": 19
+        "actual": 15,
+        "remaining": 20
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15289,8 +15257,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 20,
-        "remaining": 15
+        "actual": 18,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15737,8 +15705,8 @@
       "location": "Science 306",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16473,8 +16441,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 32,
-        "actual": 24,
-        "remaining": 8
+        "actual": 23,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -19353,10 +19321,10 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 45,
-        "remaining": 0
+        "actual": 44,
+        "remaining": 1
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -19961,8 +19929,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 40,
-        "actual": 32,
-        "remaining": 8
+        "actual": 33,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -20121,8 +20089,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 35,
-        "remaining": 0
+        "actual": 34,
+        "remaining": 1
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -24185,8 +24153,8 @@
       "location": "Science 310",
       "enrollment": {
         "capacity": 24,
-        "actual": 15,
-        "remaining": 9
+        "actual": 14,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -24409,8 +24377,8 @@
       "location": "Science 305",
       "enrollment": {
         "capacity": 24,
-        "actual": 13,
-        "remaining": 11
+        "actual": 15,
+        "remaining": 9
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -24871,6 +24839,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74655')"
     },
     {
+      "crn": "74672",
+      "subject": "FAC",
+      "course_number": "043",
+      "title": "Advanced Fire Course",
+      "units": 0.5,
+      "instructor": "Stan  Bakey",
+      "instructor_email": "sbakey@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 25,
+        "actual": 0,
+        "remaining": 25
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "08/24",
+      "end_date": "08/24",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74672')"
+    },
+    {
       "crn": "74846",
       "subject": "FAC",
       "course_number": "043",
@@ -25017,8 +25017,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 40,
-        "actual": 23,
-        "remaining": 17
+        "actual": 24,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26009,8 +26009,8 @@
       "location": "Business 116",
       "enrollment": {
         "capacity": 35,
-        "actual": 33,
-        "remaining": 2
+        "actual": 34,
+        "remaining": 1
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -28153,8 +28153,8 @@
       "location": "Science 221",
       "enrollment": {
         "capacity": 72,
-        "actual": 42,
-        "remaining": 30
+        "actual": 41,
+        "remaining": 31
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28761,8 +28761,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 29,
-        "remaining": 16
+        "actual": 24,
+        "remaining": 21
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -34748,7 +34748,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -38009,8 +38009,8 @@
       "location": "Science 203",
       "enrollment": {
         "capacity": 35,
-        "actual": 39,
-        "remaining": 4
+        "actual": 38,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41561,8 +41561,8 @@
       "location": "Pico Educational Center 401",
       "enrollment": {
         "capacity": 35,
-        "actual": 12,
-        "remaining": 23
+        "actual": 13,
+        "remaining": 22
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -41913,8 +41913,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 45,
-        "actual": 42,
-        "remaining": 3
+        "actual": 43,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -41945,8 +41945,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 52,
-        "actual": 33,
-        "remaining": 19
+        "actual": 34,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44089,8 +44089,8 @@
       "location": "Dexter Middle School",
       "enrollment": {
         "capacity": 35,
-        "actual": 24,
-        "remaining": 11
+        "actual": 25,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44185,8 +44185,8 @@
       "location": "Pico Educational Center 201",
       "enrollment": {
         "capacity": 40,
-        "actual": 21,
-        "remaining": 19
+        "actual": 22,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44249,8 +44249,8 @@
       "location": "Pico Educational Center 201",
       "enrollment": {
         "capacity": 35,
-        "actual": 16,
-        "remaining": 19
+        "actual": 18,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44665,8 +44665,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 35,
-        "remaining": 5
+        "actual": 36,
+        "remaining": 4
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -51772,7 +51772,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
@@ -51868,7 +51868,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -56025,8 +56025,8 @@
       "location": "Technology 121",
       "enrollment": {
         "capacity": 20,
-        "actual": 1,
-        "remaining": 19
+        "actual": 2,
+        "remaining": 18
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -56761,8 +56761,8 @@
       "location": "Technology 114",
       "enrollment": {
         "capacity": 24,
-        "actual": 17,
-        "remaining": 7
+        "actual": 16,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
