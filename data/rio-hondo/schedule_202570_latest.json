@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-13T22:31:39.015681Z",
+  "collection_timestamp": "2025-10-14T06:37:54.563166Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -13785,8 +13785,8 @@
       "location": "Science 333",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 19,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15353,8 +15353,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 14,
-        "remaining": 21
+        "actual": 13,
+        "remaining": 22
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15513,8 +15513,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 33,
-        "remaining": 2
+        "actual": 31,
+        "remaining": 4
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -19321,10 +19321,10 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 44,
-        "remaining": 1
+        "actual": 45,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -19929,8 +19929,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 40,
-        "actual": 33,
-        "remaining": 7
+        "actual": 30,
+        "remaining": 10
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -20089,8 +20089,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 34,
-        "remaining": 1
+        "actual": 33,
+        "remaining": 2
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -24377,8 +24377,8 @@
       "location": "Science 305",
       "enrollment": {
         "capacity": 24,
-        "actual": 15,
-        "remaining": 9
+        "actual": 16,
+        "remaining": 8
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -24761,8 +24761,8 @@
       "location": "Technology 118A",
       "enrollment": {
         "capacity": 24,
-        "actual": 31,
-        "remaining": 7
+        "actual": 30,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -24857,8 +24857,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 9,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26265,8 +26265,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 34,
-        "remaining": 1
+        "actual": 33,
+        "remaining": 2
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -30076,7 +30076,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -32444,7 +32444,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -33657,8 +33657,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 30,
-        "actual": 13,
-        "remaining": 17
+        "actual": 12,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36249,8 +36249,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 20,
-        "actual": 3,
-        "remaining": 17
+        "actual": 2,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38972,7 +38972,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -43545,8 +43545,8 @@
       "location": "Monte Vista Elem - El Monte",
       "enrollment": {
         "capacity": 35,
-        "actual": 29,
-        "remaining": 6
+        "actual": 30,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44409,8 +44409,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 5,
-        "remaining": 20
+        "actual": 7,
+        "remaining": 18
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -45050,7 +45050,7 @@
       "enrollment": {
         "capacity": 5,
         "actual": 3,
-        "remaining": 1
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51868,7 +51868,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -56025,8 +56025,8 @@
       "location": "Technology 121",
       "enrollment": {
         "capacity": 20,
-        "actual": 2,
-        "remaining": 18
+        "actual": 3,
+        "remaining": 17
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -56729,8 +56729,8 @@
       "location": "Technology 114",
       "enrollment": {
         "capacity": 24,
-        "actual": 22,
-        "remaining": 1
+        "actual": 19,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
