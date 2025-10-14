@@ -1,6 +1,6 @@
-## Rio Hondo Collection Report - Tue Oct 14 14:34:15 UTC 2025
+## Rio Hondo Collection Report - Tue Oct 14 22:31:46 UTC 2025
 
-Total courses collected: 1788
+Total courses collected: 1782
 Departments: 103
 
 Top departments:
