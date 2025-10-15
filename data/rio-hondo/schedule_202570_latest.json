@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-15T14:34:37.710218Z",
+  "collection_timestamp": "2025-10-15T22:31:09.099837Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -4444,7 +4444,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -9913,8 +9913,8 @@
       "location": "Science 136",
       "enrollment": {
         "capacity": 48,
-        "actual": 32,
-        "remaining": 16
+        "actual": 31,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11321,8 +11321,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 6,
-        "remaining": 18
+        "actual": 5,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -12668,7 +12668,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
@@ -13241,8 +13241,8 @@
       "location": "Science 336",
       "enrollment": {
         "capacity": 24,
-        "actual": 16,
-        "remaining": 8
+        "actual": 15,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -13305,8 +13305,8 @@
       "location": "Science 330",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 20,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -20135,6 +20135,70 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77998')"
     },
     {
+      "crn": "78000",
+      "subject": "EMT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Emergency Medical Technician-Related Fields",
+      "units": 6.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "17",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78000')"
+    },
+    {
+      "crn": "78002",
+      "subject": "EMT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Emergency Medical Technician-Related Fields",
+      "units": 6.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "17",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78002')"
+    },
+    {
       "crn": "76364",
       "subject": "ENGL",
       "course_number": "010S",
@@ -20153,8 +20217,8 @@
       "location": "Administration 211",
       "enrollment": {
         "capacity": 28,
-        "actual": 19,
-        "remaining": 9
+        "actual": 18,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22361,8 +22425,8 @@
       "location": "Administration 211",
       "enrollment": {
         "capacity": 28,
-        "actual": 19,
-        "remaining": 9
+        "actual": 18,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -24185,8 +24249,8 @@
       "location": "Science 305",
       "enrollment": {
         "capacity": 24,
-        "actual": 16,
-        "remaining": 8
+        "actual": 13,
+        "remaining": 11
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -25093,6 +25157,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78445')"
+    },
+    {
+      "crn": "78546",
+      "subject": "FAC",
+      "course_number": "043C",
+      "title": "Engine Company Operations",
+      "units": 3.0,
+      "instructor": "Stan  Bakey",
+      "instructor_email": "sbakey@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "TBA",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "09/22",
+      "end_date": "09/22",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78546')"
     },
     {
       "crn": "78435",
@@ -33689,8 +33785,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 45,
-        "actual": 21,
-        "remaining": 24
+        "actual": 20,
+        "remaining": 25
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -40345,8 +40441,8 @@
       "location": "Learning Resource Center (LRC) 129",
       "enrollment": {
         "capacity": 40,
-        "actual": 9,
-        "remaining": 31
+        "actual": 10,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41337,8 +41433,8 @@
       "location": "Pico Educational Center 401",
       "enrollment": {
         "capacity": 30,
-        "actual": 12,
-        "remaining": 18
+        "actual": 13,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41817,8 +41913,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 45,
-        "actual": 45,
-        "remaining": 0
+        "actual": 46,
+        "remaining": 1
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -42361,8 +42457,8 @@
       "location": "El Monte Aquatic Center",
       "enrollment": {
         "capacity": 30,
-        "actual": 17,
-        "remaining": 13
+        "actual": 16,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49209,8 +49305,8 @@
       "location": "Science 236",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 20,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -55833,8 +55929,8 @@
       "location": "Technology 121",
       "enrollment": {
         "capacity": 20,
-        "actual": 6,
-        "remaining": 14
+        "actual": 7,
+        "remaining": 13
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -56697,8 +56793,8 @@
       "location": "Administration of Justice 320",
       "enrollment": {
         "capacity": 35,
-        "actual": 29,
-        "remaining": 6
+        "actual": 31,
+        "remaining": 4
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -57032,7 +57128,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1782,
+    "total_courses": 1785,
     "departments": [
       "ACCT",
       "ADN",
