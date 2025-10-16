@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-15T22:31:09.099837Z",
+  "collection_timestamp": "2025-10-16T06:38:09.823832Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -6489,8 +6489,8 @@
       "location": "Business 012",
       "enrollment": {
         "capacity": 22,
-        "actual": 15,
-        "remaining": 7
+        "actual": 14,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -9817,8 +9817,8 @@
       "location": "Science 136",
       "enrollment": {
         "capacity": 24,
-        "actual": 12,
-        "remaining": 12
+        "actual": 11,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15321,8 +15321,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 31,
-        "remaining": 4
+        "actual": 30,
+        "remaining": 5
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -16505,8 +16505,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 32,
-        "actual": 24,
-        "remaining": 8
+        "actual": 23,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26233,10 +26233,10 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 34,
-        "remaining": 1
+        "actual": 35,
+        "remaining": 0
       },
-      "status": "OPEN",
+      "status": "Waitlisted",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -26972,7 +26972,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -28796,7 +28796,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Arranged",
@@ -31068,7 +31068,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -34201,8 +34201,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 25,
-        "actual": 17,
-        "remaining": 8
+        "actual": 15,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37145,8 +37145,8 @@
       "location": "Science 200",
       "enrollment": {
         "capacity": 35,
-        "actual": 20,
-        "remaining": 15
+        "actual": 19,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38777,8 +38777,8 @@
       "location": "Science 305",
       "enrollment": {
         "capacity": 25,
-        "actual": 16,
-        "remaining": 9
+        "actual": 15,
+        "remaining": 10
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -41561,8 +41561,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 50,
-        "actual": 45,
-        "remaining": 5
+        "actual": 46,
+        "remaining": 4
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -41913,8 +41913,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 45,
-        "actual": 46,
-        "remaining": 1
+        "actual": 47,
+        "remaining": 2
       },
       "status": "Waitlisted",
       "section_type": "LEC",
@@ -43385,8 +43385,8 @@
       "location": "North Park Middle School",
       "enrollment": {
         "capacity": 35,
-        "actual": 22,
-        "remaining": 13
+        "actual": 21,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44569,8 +44569,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 36,
-        "remaining": 4
+        "actual": 34,
+        "remaining": 6
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44954,7 +44954,7 @@
       "enrollment": {
         "capacity": 5,
         "actual": 3,
-        "remaining": 2
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51772,7 +51772,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "Waitlisted",
+      "status": "OPEN",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -56633,8 +56633,8 @@
       "location": "Technology 114",
       "enrollment": {
         "capacity": 24,
-        "actual": 19,
-        "remaining": 2
+        "actual": 20,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
