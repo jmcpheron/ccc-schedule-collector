@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-18T14:30:51.655626Z",
+  "collection_timestamp": "2025-10-18T22:31:02.276483Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -14265,8 +14265,8 @@
       "location": "Administration 207",
       "enrollment": {
         "capacity": 45,
-        "actual": 37,
-        "remaining": 8
+        "actual": 36,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14937,8 +14937,8 @@
       "location": "Business 107",
       "enrollment": {
         "capacity": 35,
-        "actual": 17,
-        "remaining": 18
+        "actual": 16,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15321,8 +15321,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 26,
-        "remaining": 9
+        "actual": 25,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41561,8 +41561,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 50,
-        "actual": 47,
-        "remaining": 3
+        "actual": 48,
+        "remaining": 2
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -49049,8 +49049,8 @@
       "location": "Learning Resource Center (LRC) 116",
       "enrollment": {
         "capacity": 26,
-        "actual": 22,
-        "remaining": 4
+        "actual": 21,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
