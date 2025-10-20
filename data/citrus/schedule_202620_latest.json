@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-10-20T07:20:05.459173Z",
+  "collection_timestamp": "2025-10-20T15:20:15.362955Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -1507,38 +1507,6 @@
       "weeks": 16,
       "start_date": "08/25",
       "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
-      "crn": "24710",
-      "subject": "ART",
-      "course_number": "150",
-      "title": "Computer Art Basics",
-      "units": 3.0,
-      "instructor": "Marquez, Gilbert",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "MW",
-          "start_time": "02:50PM",
-          "end_time": "03:55PM",
-          "is_arranged": false
-        }
-      ],
-      "location": "VA 210",
-      "enrollment": {
-        "capacity": 20,
-        "actual": 4,
-        "remaining": 16
-      },
-      "status": "Open",
-      "section_type": "LEC",
-      "zero_textbook_cost": true,
-      "delivery_method": "In-Person",
-      "weeks": 8,
-      "start_date": "10/20",
-      "end_date": "12/13",
       "additional_hours": null,
       "book_link": null
     },
@@ -13881,8 +13849,8 @@
       "location": "MA 124",
       "enrollment": {
         "capacity": 36,
-        "actual": 35,
-        "remaining": 1
+        "actual": 32,
+        "remaining": 4
       },
       "status": "Open",
       "section_type": "LEC",
@@ -14297,8 +14265,8 @@
       "location": "MA 124",
       "enrollment": {
         "capacity": 36,
-        "actual": 35,
-        "remaining": 1
+        "actual": 32,
+        "remaining": 4
       },
       "status": "Open",
       "section_type": "LEC",
@@ -15784,7 +15752,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 493,
+    "total_courses": 492,
     "departments": [
       "ACCT",
       "ANTH",
