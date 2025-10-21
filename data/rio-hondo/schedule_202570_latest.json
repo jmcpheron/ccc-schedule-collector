@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-20T22:31:51.462522Z",
+  "collection_timestamp": "2025-10-21T06:38:23.075380Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -12089,8 +12089,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 26,
-        "remaining": 19
+        "actual": 25,
+        "remaining": 20
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23449,8 +23449,8 @@
       "location": "Learning Resource Center (LRC) 119",
       "enrollment": {
         "capacity": 28,
-        "actual": 19,
-        "remaining": 9
+        "actual": 18,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -25913,8 +25913,8 @@
       "location": "Business 116",
       "enrollment": {
         "capacity": 35,
-        "actual": 26,
-        "remaining": 9
+        "actual": 22,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26169,8 +26169,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 42,
-        "remaining": 7
+        "actual": 41,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37145,8 +37145,8 @@
       "location": "Science 200",
       "enrollment": {
         "capacity": 35,
-        "actual": 18,
-        "remaining": 17
+        "actual": 17,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -40249,8 +40249,8 @@
       "location": "Modular Classrooms 10",
       "enrollment": {
         "capacity": 24,
-        "actual": 18,
-        "remaining": 6
+        "actual": 17,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -55257,8 +55257,8 @@
       "location": "Science 211",
       "enrollment": {
         "capacity": 35,
-        "actual": 32,
-        "remaining": 3
+        "actual": 31,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
