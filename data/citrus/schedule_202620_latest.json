@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-10-20T23:19:46.674903Z",
+  "collection_timestamp": "2025-10-21T07:20:21.379935Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -3929,8 +3929,8 @@
       "location": "MA 109",
       "enrollment": {
         "capacity": 45,
-        "actual": 35,
-        "remaining": 10
+        "actual": 34,
+        "remaining": 11
       },
       "status": "Open",
       "section_type": "LEC",
@@ -4185,8 +4185,8 @@
       "location": "ED 210",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 20,
+        "remaining": 4
       },
       "status": "Open",
       "section_type": "LEC",
@@ -5017,8 +5017,8 @@
       "location": "VA 236",
       "enrollment": {
         "capacity": 15,
-        "actual": 5,
-        "remaining": 10
+        "actual": 4,
+        "remaining": 11
       },
       "status": "Open",
       "section_type": "LEC",
@@ -6169,7 +6169,7 @@
       "location": "VT 323",
       "enrollment": {
         "capacity": 15,
-        "actual": 17,
+        "actual": 18,
         "remaining": 0
       },
       "status": "Closed",
@@ -7705,8 +7705,8 @@
       "location": "P1 101",
       "enrollment": {
         "capacity": 25,
-        "actual": 21,
-        "remaining": 4
+        "actual": 20,
+        "remaining": 5
       },
       "status": "Open",
       "section_type": "LEC",
@@ -8057,8 +8057,8 @@
       "location": "ED 215",
       "enrollment": {
         "capacity": 30,
-        "actual": 27,
-        "remaining": 3
+        "actual": 26,
+        "remaining": 4
       },
       "status": "Open",
       "section_type": "LEC",
@@ -9593,8 +9593,8 @@
       "location": "AP 110",
       "enrollment": {
         "capacity": 30,
-        "actual": 17,
-        "remaining": 13
+        "actual": 16,
+        "remaining": 14
       },
       "status": "Open",
       "section_type": "LEC",
