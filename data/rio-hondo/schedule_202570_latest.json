@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-21T06:38:23.075380Z",
+  "collection_timestamp": "2025-10-21T14:32:24.782312Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -10361,8 +10361,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 25,
-        "remaining": 1
+        "actual": 24,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10393,8 +10393,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14873,8 +14873,8 @@
       "location": "Business 115",
       "enrollment": {
         "capacity": 35,
-        "actual": 15,
-        "remaining": 20
+        "actual": 14,
+        "remaining": 21
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -19129,8 +19129,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 40,
-        "remaining": 5
+        "actual": 33,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23449,8 +23449,8 @@
       "location": "Learning Resource Center (LRC) 119",
       "enrollment": {
         "capacity": 28,
-        "actual": 18,
-        "remaining": 10
+        "actual": 17,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -24796,7 +24796,7 @@
         "actual": 0,
         "remaining": 40
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -45628,7 +45628,7 @@
         "actual": 0,
         "remaining": 30
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -46940,7 +46940,7 @@
         "actual": 0,
         "remaining": 30
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -47804,7 +47804,7 @@
         "actual": 0,
         "remaining": 30
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
@@ -47900,7 +47900,7 @@
         "actual": 0,
         "remaining": 48
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
