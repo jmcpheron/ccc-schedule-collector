@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-22T06:38:35.179795Z",
+  "collection_timestamp": "2025-10-22T14:35:50.931746Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -14809,8 +14809,8 @@
       "location": "Business 115",
       "enrollment": {
         "capacity": 35,
-        "actual": 14,
-        "remaining": 21
+        "actual": 13,
+        "remaining": 22
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17305,8 +17305,8 @@
       "location": "Business 109",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 24,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36249,8 +36249,8 @@
       "location": "Administration 211",
       "enrollment": {
         "capacity": 6,
-        "actual": 5,
-        "remaining": 1
+        "actual": 4,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37913,8 +37913,8 @@
       "location": "Science 203",
       "enrollment": {
         "capacity": 35,
-        "actual": 36,
-        "remaining": 1
+        "actual": 35,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48220,7 +48220,7 @@
         "actual": 0,
         "remaining": 30
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -55929,8 +55929,8 @@
       "location": "Technology 121",
       "enrollment": {
         "capacity": 20,
-        "actual": 9,
-        "remaining": 11
+        "actual": 10,
+        "remaining": 10
       },
       "status": "OPEN",
       "section_type": "LEC",
