@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-22T22:29:58.653755Z",
+  "collection_timestamp": "2025-10-23T06:38:33.300909Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -8345,8 +8345,8 @@
       "location": "Science 236",
       "enrollment": {
         "capacity": 62,
-        "actual": 37,
-        "remaining": 25
+        "actual": 36,
+        "remaining": 26
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10393,8 +10393,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10777,8 +10777,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 19,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11033,8 +11033,8 @@
       "location": "Science 136",
       "enrollment": {
         "capacity": 24,
-        "actual": 25,
-        "remaining": 1
+        "actual": 24,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11129,8 +11129,8 @@
       "location": "Science 221",
       "enrollment": {
         "capacity": 24,
-        "actual": 29,
-        "remaining": 5
+        "actual": 28,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15321,8 +15321,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 24,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23257,8 +23257,8 @@
       "location": "Administration 213",
       "enrollment": {
         "capacity": 28,
-        "actual": 16,
-        "remaining": 12
+        "actual": 15,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23641,8 +23641,8 @@
       "location": "Learning Resource Center (LRC) 124",
       "enrollment": {
         "capacity": 28,
-        "actual": 24,
-        "remaining": 4
+        "actual": 23,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -24761,8 +24761,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 40,
-        "actual": 0,
-        "remaining": 40
+        "actual": 9,
+        "remaining": 31
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -27641,8 +27641,8 @@
       "location": "Science 302",
       "enrollment": {
         "capacity": 26,
-        "actual": 8,
-        "remaining": 18
+        "actual": 7,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -32985,8 +32985,8 @@
       "location": "Pico Rivera Golf Course",
       "enrollment": {
         "capacity": 40,
-        "actual": 11,
-        "remaining": 29
+        "actual": 10,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36601,8 +36601,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 35,
-        "actual": 34,
-        "remaining": 1
+        "actual": 33,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37977,8 +37977,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 35,
-        "actual": 34,
-        "remaining": 1
+        "actual": 33,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38777,8 +38777,8 @@
       "location": "Science 305",
       "enrollment": {
         "capacity": 25,
-        "actual": 13,
-        "remaining": 12
+        "actual": 12,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41433,8 +41433,8 @@
       "location": "Pico Educational Center 401",
       "enrollment": {
         "capacity": 30,
-        "actual": 13,
-        "remaining": 17
+        "actual": 14,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44089,8 +44089,8 @@
       "location": "Pico Educational Center 201",
       "enrollment": {
         "capacity": 40,
-        "actual": 22,
-        "remaining": 18
+        "actual": 23,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44473,8 +44473,8 @@
       "location": "Pico Educational Center 701",
       "enrollment": {
         "capacity": 20,
-        "actual": 16,
-        "remaining": 4
+        "actual": 15,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50105,8 +50105,8 @@
       "location": "Science 224",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51225,8 +51225,8 @@
       "location": "Administration 207",
       "enrollment": {
         "capacity": 45,
-        "actual": 35,
-        "remaining": 10
+        "actual": 34,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
