@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-24T14:33:51.710418Z",
+  "collection_timestamp": "2025-10-24T22:32:24.243203Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -8551,6 +8551,262 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74195')"
     },
     {
+      "crn": "77913",
+      "subject": "ATMN",
+      "course_number": "101",
+      "title": "Introduction to Automation Applications",
+      "units": 3.0,
+      "instructor": "To Be  Assigned",
+      "instructor_email": "",
+      "meeting_times": [
+        {
+          "days": "S",
+          "start_time": "08:00am",
+          "end_time": "12:15pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 304",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 0,
+        "remaining": 24
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 6,
+      "start_date": "10/27",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77913')"
+    },
+    {
+      "crn": "78024",
+      "subject": "ATMN",
+      "course_number": "101",
+      "title": "Introduction to Automation Applications",
+      "units": 3.0,
+      "instructor": "To Be  Assigned",
+      "instructor_email": "",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 304",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 0,
+        "remaining": 24
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 6,
+      "start_date": "10/27",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78024')"
+    },
+    {
+      "crn": "77914",
+      "subject": "ATMN",
+      "course_number": "102",
+      "title": "Shop Safety and Measurements",
+      "units": 2.0,
+      "instructor": "Christopher  Hirunthanakorn",
+      "instructor_email": "chirunthanakorn@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 304",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 0,
+        "remaining": 24
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 6,
+      "start_date": "10/27",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77914')"
+    },
+    {
+      "crn": "78528",
+      "subject": "ATMN",
+      "course_number": "102",
+      "title": "Shop Safety and Measurements",
+      "units": 2.0,
+      "instructor": "Christopher  Hirunthanakorn",
+      "instructor_email": "chirunthanakorn@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "11:00am",
+          "end_time": "01:25pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 304",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 0,
+        "remaining": 24
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 6,
+      "start_date": "10/27",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78528')"
+    },
+    {
+      "crn": "78526",
+      "subject": "ATMN",
+      "course_number": "105",
+      "title": "Technical Writing and Communication",
+      "units": 2.0,
+      "instructor": "Heng  Chua",
+      "instructor_email": "HChua@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Technology 102",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 0,
+        "remaining": 24
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 6,
+      "start_date": "10/27",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78526')"
+    },
+    {
+      "crn": "78529",
+      "subject": "ATMN",
+      "course_number": "105",
+      "title": "Technical Writing and Communication",
+      "units": 2.0,
+      "instructor": "To Be  Assigned",
+      "instructor_email": "",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "04:50pm",
+          "end_time": "07:15pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Technology 121",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 0,
+        "remaining": 24
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 6,
+      "start_date": "10/27",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78529')"
+    },
+    {
+      "crn": "78527",
+      "subject": "ATMN",
+      "course_number": "115",
+      "title": "Print Reading with Geometric Dimensioning and Tolerancing",
+      "units": 2.0,
+      "instructor": "Oyekunle  Oyeyipo",
+      "instructor_email": "ooyeyipo@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "04:50pm",
+          "end_time": "07:15pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 306",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 0,
+        "remaining": 24
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 6,
+      "start_date": "10/27",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78527')"
+    },
+    {
+      "crn": "78530",
+      "subject": "ATMN",
+      "course_number": "115",
+      "title": "Print Reading with Geometric Dimensioning and Tolerancing",
+      "units": 2.0,
+      "instructor": "Christopher  Hirunthanakorn",
+      "instructor_email": "chirunthanakorn@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "S",
+          "start_time": "08:00am",
+          "end_time": "10:25am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 310",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 0,
+        "remaining": 24
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 6,
+      "start_date": "10/27",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78530')"
+    },
+    {
       "crn": "70353",
       "subject": "AUTO",
       "course_number": "101",
@@ -13689,8 +13945,8 @@
       "location": "Science 325",
       "enrollment": {
         "capacity": 24,
-        "actual": 13,
-        "remaining": 11
+        "actual": 12,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14105,8 +14361,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 19,
-        "remaining": 26
+        "actual": 20,
+        "remaining": 25
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -17177,8 +17433,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 24,
-        "remaining": 11
+        "actual": 23,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -19705,8 +19961,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 40,
-        "actual": 26,
-        "remaining": 14
+        "actual": 25,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21593,8 +21849,8 @@
       "location": "Administration 215",
       "enrollment": {
         "capacity": 28,
-        "actual": 22,
-        "remaining": 6
+        "actual": 21,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -33529,8 +33785,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 30,
-        "actual": 12,
-        "remaining": 18
+        "actual": 11,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39513,8 +39769,8 @@
       "location": "Modular Classrooms 03",
       "enrollment": {
         "capacity": 24,
-        "actual": 19,
-        "remaining": 5
+        "actual": 18,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -45369,8 +45625,8 @@
       "location": "AJ Annex",
       "enrollment": {
         "capacity": 30,
-        "actual": 17,
-        "remaining": 13
+        "actual": 18,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46169,8 +46425,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 16,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47120,13 +47376,13 @@
       "instructor_email": "mbutler@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
+          "days": "T",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
         }
       ],
-      "location": "Shooting Range",
+      "location": "TBA",
       "enrollment": {
         "capacity": 30,
         "actual": 0,
@@ -47135,10 +47391,10 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
+      "delivery_method": "In-Person",
       "weeks": 1,
-      "start_date": "10/20",
-      "end_date": "10/20",
+      "start_date": "10/21",
+      "end_date": "10/21",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78509')"
     },
@@ -48048,10 +48304,10 @@
       "instructor_email": "mbutler@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
         }
       ],
       "location": "TBA",
@@ -48063,10 +48319,10 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
+      "delivery_method": "In-Person",
       "weeks": 1,
-      "start_date": "10/22",
-      "end_date": "10/22",
+      "start_date": "10/23",
+      "end_date": "10/23",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78510')"
     },
@@ -48409,8 +48665,8 @@
       "location": "Administration of Justice 203",
       "enrollment": {
         "capacity": 48,
-        "actual": 0,
-        "remaining": 48
+        "actual": 21,
+        "remaining": 27
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48720,10 +48976,10 @@
       "instructor_email": "llopez@riohondo.edu",
       "meeting_times": [
         {
-          "days": "T",
-          "start_time": "08:00am",
-          "end_time": "11:50am",
-          "is_arranged": false
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
         }
       ],
       "location": "TBA",
@@ -48735,10 +48991,10 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
+      "delivery_method": "Arranged",
       "weeks": 1,
-      "start_date": "10/21",
-      "end_date": "10/21",
+      "start_date": "10/22",
+      "end_date": "10/22",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78511')"
     },
@@ -57704,7 +57960,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1803,
+    "total_courses": 1811,
     "departments": [
       "ACCT",
       "ADN",
@@ -57716,6 +57972,7 @@
       "ART",
       "ASL",
       "ASTR",
+      "ATMN",
       "AUTO",
       "BIOL",
       "BIOT",
