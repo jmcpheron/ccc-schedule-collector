@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-24T06:38:20.021862Z",
+  "collection_timestamp": "2025-10-24T14:33:51.710418Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -8551,38 +8551,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74195')"
     },
     {
-      "crn": "78526",
-      "subject": "ATMN",
-      "course_number": "105",
-      "title": "Technical Writing and Communication",
-      "units": 2.0,
-      "instructor": "To Be  Assigned",
-      "instructor_email": "",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "Science 304",
-      "enrollment": {
-        "capacity": 24,
-        "actual": 0,
-        "remaining": 24
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 8,
-      "start_date": "10/11",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78526')"
-    },
-    {
       "crn": "70353",
       "subject": "AUTO",
       "course_number": "101",
@@ -10777,8 +10745,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 19,
-        "remaining": 5
+        "actual": 18,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -19129,8 +19097,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 33,
-        "remaining": 12
+        "actual": 28,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22137,8 +22105,8 @@
       "location": "Learning Resource Center (LRC) 124",
       "enrollment": {
         "capacity": 28,
-        "actual": 28,
-        "remaining": 0
+        "actual": 25,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23513,8 +23481,8 @@
       "location": "Administration 206",
       "enrollment": {
         "capacity": 28,
-        "actual": 22,
-        "remaining": 6
+        "actual": 20,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48220,7 +48188,7 @@
         "actual": 0,
         "remaining": 30
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -57736,7 +57704,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1804,
+    "total_courses": 1803,
     "departments": [
       "ACCT",
       "ADN",
@@ -57748,7 +57716,6 @@
       "ART",
       "ASL",
       "ASTR",
-      "ATMN",
       "AUTO",
       "BIOL",
       "BIOT",
