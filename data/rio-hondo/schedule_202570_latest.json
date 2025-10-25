@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-25T14:31:13.560242Z",
+  "collection_timestamp": "2025-10-25T22:30:46.589949Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -11353,8 +11353,8 @@
       "location": "Science 221",
       "enrollment": {
         "capacity": 24,
-        "actual": 28,
-        "remaining": 4
+        "actual": 27,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
