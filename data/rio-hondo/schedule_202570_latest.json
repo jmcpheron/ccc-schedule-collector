@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-10-29T22:32:37.997751Z",
+  "collection_timestamp": "2025-10-30T06:38:18.490061Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -2553,8 +2553,8 @@
       "location": "Science 210",
       "enrollment": {
         "capacity": 40,
-        "actual": 31,
-        "remaining": 9
+        "actual": 30,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -8601,8 +8601,8 @@
       "location": "Science 304",
       "enrollment": {
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 5,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -8665,8 +8665,8 @@
       "location": "Science 304",
       "enrollment": {
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 5,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -8729,8 +8729,8 @@
       "location": "Technology 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 5,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -8761,8 +8761,8 @@
       "location": "Science 306",
       "enrollment": {
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 12,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -8793,8 +8793,8 @@
       "location": "Science 310",
       "enrollment": {
         "capacity": 24,
-        "actual": 0,
-        "remaining": 24
+        "actual": 5,
+        "remaining": 19
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -13369,8 +13369,8 @@
       "location": "Science 333",
       "enrollment": {
         "capacity": 24,
-        "actual": 19,
-        "remaining": 5
+        "actual": 18,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -20441,8 +20441,8 @@
       "location": "Administration 211",
       "enrollment": {
         "capacity": 28,
-        "actual": 18,
-        "remaining": 10
+        "actual": 17,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22649,8 +22649,8 @@
       "location": "Administration 211",
       "enrollment": {
         "capacity": 28,
-        "actual": 18,
-        "remaining": 10
+        "actual": 17,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -29305,8 +29305,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 22,
-        "remaining": 23
+        "actual": 21,
+        "remaining": 24
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -29753,8 +29753,8 @@
       "location": "Administration 225",
       "enrollment": {
         "capacity": 45,
-        "actual": 24,
-        "remaining": 21
+        "actual": 23,
+        "remaining": 22
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39737,8 +39737,8 @@
       "location": "Modular Classrooms 03",
       "enrollment": {
         "capacity": 24,
-        "actual": 17,
-        "remaining": 7
+        "actual": 16,
+        "remaining": 8
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41817,8 +41817,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 40,
-        "actual": 15,
-        "remaining": 25
+        "actual": 14,
+        "remaining": 26
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43641,8 +43641,8 @@
       "location": "Monte Vista Elem - El Monte",
       "enrollment": {
         "capacity": 35,
-        "actual": 27,
-        "remaining": 8
+        "actual": 24,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44581,6 +44581,102 @@
       "end_date": "10/11",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76738')"
+    },
+    {
+      "crn": "76739",
+      "subject": "NFIR",
+      "course_number": "015",
+      "title": "Practical Experience in Fire Suppression",
+      "units": 0.0,
+      "instructor": "Jay  Joiner",
+      "instructor_email": "jjoiner@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "S",
+          "start_time": "07:00am",
+          "end_time": "06:50pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 55,
+        "actual": 0,
+        "remaining": 55
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "11/08",
+      "end_date": "11/08",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76739')"
+    },
+    {
+      "crn": "76832",
+      "subject": "NFIR",
+      "course_number": "015",
+      "title": "Practical Experience in Fire Suppression",
+      "units": 0.0,
+      "instructor": "Jay  Joiner",
+      "instructor_email": "jjoiner@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "S",
+          "start_time": "07:00am",
+          "end_time": "06:50pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 55,
+        "actual": 0,
+        "remaining": 55
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "11/15",
+      "end_date": "11/15",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76832')"
+    },
+    {
+      "crn": "76861",
+      "subject": "NFIR",
+      "course_number": "015",
+      "title": "Practical Experience in Fire Suppression",
+      "units": 0.0,
+      "instructor": "Jay  Joiner",
+      "instructor_email": "jjoiner@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "S",
+          "start_time": "07:00am",
+          "end_time": "06:50pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 55,
+        "actual": 0,
+        "remaining": 55
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "11/22",
+      "end_date": "11/22",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76861')"
     },
     {
       "crn": "74267",
@@ -48121,8 +48217,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 19,
+        "remaining": 31
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -55833,8 +55929,8 @@
       "location": "Science 200",
       "enrollment": {
         "capacity": 35,
-        "actual": 19,
-        "remaining": 16
+        "actual": 18,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -57273,8 +57369,8 @@
       "location": "Technology 114",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -57928,7 +58024,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1810,
+    "total_courses": 1813,
     "departments": [
       "ACCT",
       "ADN",
