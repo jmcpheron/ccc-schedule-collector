@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-05T14:34:23.368729Z",
+  "collection_timestamp": "2025-11-05T22:32:53.792785Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -345,8 +345,8 @@
       "location": "Business 117",
       "enrollment": {
         "capacity": 45,
-        "actual": 31,
-        "remaining": 14
+        "actual": 30,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -4153,8 +4153,8 @@
       "location": "Science 334",
       "enrollment": {
         "capacity": 45,
-        "actual": 32,
-        "remaining": 13
+        "actual": 31,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -6105,8 +6105,8 @@
       "location": "Administration 230",
       "enrollment": {
         "capacity": 45,
-        "actual": 34,
-        "remaining": 11
+        "actual": 33,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -6553,8 +6553,8 @@
       "location": "Business 012",
       "enrollment": {
         "capacity": 30,
-        "actual": 16,
-        "remaining": 14
+        "actual": 15,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -8953,8 +8953,8 @@
       "location": "Technology 144",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 20,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10553,8 +10553,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 26,
-        "remaining": 2
+        "actual": 25,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10777,8 +10777,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 18,
-        "remaining": 6
+        "actual": 15,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11225,8 +11225,8 @@
       "location": "Science 136",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 20,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11321,8 +11321,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 19,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11385,8 +11385,8 @@
       "location": "Science 221",
       "enrollment": {
         "capacity": 24,
-        "actual": 22,
-        "remaining": 2
+        "actual": 21,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -13433,8 +13433,8 @@
       "location": "Science 333",
       "enrollment": {
         "capacity": 24,
-        "actual": 24,
-        "remaining": 0
+        "actual": 23,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -13689,8 +13689,8 @@
       "location": "Science 326",
       "enrollment": {
         "capacity": 24,
-        "actual": 16,
-        "remaining": 8
+        "actual": 15,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -13881,8 +13881,8 @@
       "location": "Science 331",
       "enrollment": {
         "capacity": 24,
-        "actual": 26,
-        "remaining": 2
+        "actual": 25,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14041,8 +14041,8 @@
       "location": "Science 325",
       "enrollment": {
         "capacity": 24,
-        "actual": 21,
-        "remaining": 3
+        "actual": 19,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -14905,8 +14905,8 @@
       "location": "Business 119",
       "enrollment": {
         "capacity": 35,
-        "actual": 20,
-        "remaining": 15
+        "actual": 19,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16281,8 +16281,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 28,
-        "actual": 25,
-        "remaining": 3
+        "actual": 24,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -20025,8 +20025,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 35,
-        "actual": 38,
-        "remaining": 3
+        "actual": 37,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -20537,8 +20537,8 @@
       "location": "Administration 216",
       "enrollment": {
         "capacity": 28,
-        "actual": 15,
-        "remaining": 13
+        "actual": 14,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -20697,8 +20697,8 @@
       "location": "Administration 215",
       "enrollment": {
         "capacity": 28,
-        "actual": 29,
-        "remaining": 1
+        "actual": 28,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21881,8 +21881,8 @@
       "location": "Administration 216",
       "enrollment": {
         "capacity": 28,
-        "actual": 15,
-        "remaining": 13
+        "actual": 14,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22361,8 +22361,8 @@
       "location": "Learning Resource Center (LRC) 124",
       "enrollment": {
         "capacity": 28,
-        "actual": 24,
-        "remaining": 4
+        "actual": 23,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22777,8 +22777,8 @@
       "location": "Administration 215",
       "enrollment": {
         "capacity": 28,
-        "actual": 26,
-        "remaining": 2
+        "actual": 25,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -23097,8 +23097,8 @@
       "location": "Administration 227",
       "enrollment": {
         "capacity": 28,
-        "actual": 12,
-        "remaining": 16
+        "actual": 11,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -25383,6 +25383,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78445')"
     },
     {
+      "crn": "78546",
+      "subject": "FAC",
+      "course_number": "043C",
+      "title": "Engine Company Operations",
+      "units": 0.3,
+      "instructor": "Stan  Bakey",
+      "instructor_email": "sbakey@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "09/22",
+      "end_date": "09/22",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78546')"
+    },
+    {
       "crn": "78435",
       "subject": "FAC",
       "course_number": "043D",
@@ -26873,8 +26905,8 @@
       "location": "Administration of Justice 320",
       "enrollment": {
         "capacity": 35,
-        "actual": 38,
-        "remaining": 3
+        "actual": 37,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -27737,8 +27769,8 @@
       "location": "Science 302",
       "enrollment": {
         "capacity": 26,
-        "actual": 14,
-        "remaining": 12
+        "actual": 13,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -27929,8 +27961,8 @@
       "location": "Science 302",
       "enrollment": {
         "capacity": 26,
-        "actual": 20,
-        "remaining": 6
+        "actual": 19,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -28249,8 +28281,8 @@
       "location": "Science 221",
       "enrollment": {
         "capacity": 72,
-        "actual": 39,
-        "remaining": 33
+        "actual": 38,
+        "remaining": 34
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -29401,8 +29433,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 36,
-        "remaining": 9
+        "actual": 35,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -33241,8 +33273,8 @@
       "location": "Pool",
       "enrollment": {
         "capacity": 40,
-        "actual": 17,
-        "remaining": 23
+        "actual": 16,
+        "remaining": 24
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36793,8 +36825,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 35,
-        "actual": 32,
-        "remaining": 3
+        "actual": 31,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36921,8 +36953,8 @@
       "location": "Science 330",
       "enrollment": {
         "capacity": 35,
-        "actual": 21,
-        "remaining": 14
+        "actual": 19,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -36953,8 +36985,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 35,
-        "actual": 18,
-        "remaining": 17
+        "actual": 17,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37721,8 +37753,8 @@
       "location": "Science 330",
       "enrollment": {
         "capacity": 35,
-        "actual": 21,
-        "remaining": 14
+        "actual": 19,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37977,8 +38009,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 35,
-        "actual": 35,
-        "remaining": 0
+        "actual": 34,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38073,8 +38105,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 35,
-        "actual": 18,
-        "remaining": 17
+        "actual": 17,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38169,8 +38201,8 @@
       "location": "Science 209",
       "enrollment": {
         "capacity": 35,
-        "actual": 32,
-        "remaining": 3
+        "actual": 31,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44601,8 +44633,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 55,
-        "actual": 12,
-        "remaining": 43
+        "actual": 15,
+        "remaining": 40
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44665,8 +44697,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 55,
-        "actual": 19,
-        "remaining": 36
+        "actual": 22,
+        "remaining": 33
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44729,8 +44761,8 @@
       "location": "Learning Resource Center (LRC) 128",
       "enrollment": {
         "capacity": 20,
-        "actual": 13,
-        "remaining": 7
+        "actual": 14,
+        "remaining": 6
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -47449,8 +47481,8 @@
       "location": "TBA",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 13,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48089,8 +48121,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 8,
+        "remaining": 42
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48153,8 +48185,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 10,
-        "remaining": 40
+        "actual": 27,
+        "remaining": 23
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48325,6 +48357,614 @@
       "end_date": "10/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78556')"
+    },
+    {
+      "crn": "78559",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "10/07",
+      "end_date": "10/07",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78559')"
+    },
+    {
+      "crn": "78560",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Marc  Butler",
+      "instructor_email": "mbutler@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "10/08",
+      "end_date": "10/08",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78560')"
+    },
+    {
+      "crn": "78561",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Hugo  Figueroa",
+      "instructor_email": "HFigueroa@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "10/09",
+      "end_date": "10/09",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78561')"
+    },
+    {
+      "crn": "78562",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "10/09",
+      "end_date": "10/09",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78562')"
+    },
+    {
+      "crn": "78563",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Marc  Butler",
+      "instructor_email": "mbutler@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "10/14",
+      "end_date": "10/14",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78563')"
+    },
+    {
+      "crn": "78564",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Hugo  Figueroa",
+      "instructor_email": "HFigueroa@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "10/15",
+      "end_date": "10/15",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78564')"
+    },
+    {
+      "crn": "78565",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "10/16",
+      "end_date": "10/16",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78565')"
+    },
+    {
+      "crn": "78566",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Marc  Butler",
+      "instructor_email": "mbutler@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "10/16",
+      "end_date": "10/16",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78566')"
+    },
+    {
+      "crn": "78567",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Hugo  Figueroa",
+      "instructor_email": "HFigueroa@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "10/17",
+      "end_date": "10/17",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78567')"
+    },
+    {
+      "crn": "78568",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "10/17",
+      "end_date": "10/17",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78568')"
+    },
+    {
+      "crn": "78569",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Marc  Butler",
+      "instructor_email": "mbutler@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "10/20",
+      "end_date": "10/20",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78569')"
+    },
+    {
+      "crn": "78570",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Hugo  Figueroa",
+      "instructor_email": "HFigueroa@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "10/22",
+      "end_date": "10/22",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78570')"
+    },
+    {
+      "crn": "78571",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "10/22",
+      "end_date": "10/22",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78571')"
+    },
+    {
+      "crn": "78572",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Marc  Butler",
+      "instructor_email": "mbutler@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "10/23",
+      "end_date": "10/23",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78572')"
+    },
+    {
+      "crn": "78573",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Hugo  Figueroa",
+      "instructor_email": "HFigueroa@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "10/23",
+      "end_date": "10/23",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78573')"
+    },
+    {
+      "crn": "78574",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "10/29",
+      "end_date": "10/29",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78574')"
+    },
+    {
+      "crn": "78575",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Marc  Butler",
+      "instructor_email": "mbutler@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "10/30",
+      "end_date": "10/30",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78575')"
+    },
+    {
+      "crn": "78576",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Hugo  Figueroa",
+      "instructor_email": "HFigueroa@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "11/03",
+      "end_date": "11/03",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78576')"
+    },
+    {
+      "crn": "78577",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Marc  Butler",
+      "instructor_email": "mbutler@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "11/04",
+      "end_date": "11/04",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78577')"
     },
     {
       "crn": "78476",
@@ -48645,6 +49285,38 @@
       "end_date": "10/20",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78544')"
+    },
+    {
+      "crn": "78578",
+      "subject": "PAC",
+      "course_number": "062",
+      "title": "First Aid/CPR",
+      "units": 0.3,
+      "instructor": "Marc  Butler",
+      "instructor_email": "mbutler@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "AJ Annex",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "11/07",
+      "end_date": "11/07",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78578')"
     },
     {
       "crn": "78494",
@@ -49049,8 +49721,8 @@
       "location": "TBA",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 16,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49125,6 +49797,102 @@
       "end_date": "12/12",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78558')"
+    },
+    {
+      "crn": "78579",
+      "subject": "PAC",
+      "course_number": "067",
+      "title": "PC 832 Communications and Arrest Methods",
+      "units": 0.3,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "TBA",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "11/06",
+      "end_date": "11/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78579')"
+    },
+    {
+      "crn": "78580",
+      "subject": "PAC",
+      "course_number": "067",
+      "title": "PC 832 Communications and Arrest Methods",
+      "units": 0.3,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "AJ Annex",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "11/12",
+      "end_date": "11/12",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78580')"
+    },
+    {
+      "crn": "78581",
+      "subject": "PAC",
+      "course_number": "067",
+      "title": "PC 832 Communications and Arrest Methods",
+      "units": 0.3,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "AJ Annex",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "11/14",
+      "end_date": "11/14",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78581')"
     },
     {
       "crn": "74450",
@@ -51225,8 +51993,8 @@
       "location": "Administration 212",
       "enrollment": {
         "capacity": 45,
-        "actual": 19,
-        "remaining": 26
+        "actual": 18,
+        "remaining": 27
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -52345,8 +53113,8 @@
       "location": "Administration 208",
       "enrollment": {
         "capacity": 45,
-        "actual": 34,
-        "remaining": 11
+        "actual": 33,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -53177,8 +53945,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 36,
-        "remaining": 9
+        "actual": 35,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -53241,8 +54009,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 39,
-        "remaining": 6
+        "actual": 38,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -53273,8 +54041,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 32,
-        "remaining": 13
+        "actual": 29,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -53625,8 +54393,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 33,
-        "remaining": 12
+        "actual": 31,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -55737,8 +56505,8 @@
       "location": "Science 330",
       "enrollment": {
         "capacity": 35,
-        "actual": 15,
-        "remaining": 20
+        "actual": 12,
+        "remaining": 23
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -56025,8 +56793,8 @@
       "location": "Science 200",
       "enrollment": {
         "capacity": 35,
-        "actual": 27,
-        "remaining": 8
+        "actual": 26,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -56281,8 +57049,8 @@
       "location": "Science 330",
       "enrollment": {
         "capacity": 35,
-        "actual": 15,
-        "remaining": 20
+        "actual": 12,
+        "remaining": 23
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -56377,8 +57145,8 @@
       "location": "Science 200",
       "enrollment": {
         "capacity": 35,
-        "actual": 10,
-        "remaining": 25
+        "actual": 9,
+        "remaining": 26
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -58024,7 +58792,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1813,
+    "total_courses": 1837,
     "departments": [
       "ACCT",
       "ADN",
