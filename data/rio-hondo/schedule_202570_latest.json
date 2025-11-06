@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-05T22:32:53.792785Z",
+  "collection_timestamp": "2025-11-06T06:38:29.921124Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -217,8 +217,8 @@
       "location": "Business 119",
       "enrollment": {
         "capacity": 45,
-        "actual": 33,
-        "remaining": 12
+        "actual": 32,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -7705,8 +7705,8 @@
       "location": "Business 010",
       "enrollment": {
         "capacity": 2,
-        "actual": 1,
-        "remaining": 1
+        "actual": 0,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -9113,8 +9113,8 @@
       "location": "Technology 103",
       "enrollment": {
         "capacity": 24,
-        "actual": 18,
-        "remaining": 6
+        "actual": 17,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -9913,8 +9913,8 @@
       "location": "Science 136",
       "enrollment": {
         "capacity": 24,
-        "actual": 13,
-        "remaining": 11
+        "actual": 12,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10521,8 +10521,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 19,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10553,8 +10553,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 25,
-        "remaining": 1
+        "actual": 24,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -10617,8 +10617,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 19,
-        "remaining": 5
+        "actual": 18,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11097,8 +11097,8 @@
       "location": "Science 221",
       "enrollment": {
         "capacity": 24,
-        "actual": 26,
-        "remaining": 2
+        "actual": 25,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -13785,8 +13785,8 @@
       "location": "Science 333",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 19,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -15737,8 +15737,8 @@
       "location": "Science 306",
       "enrollment": {
         "capacity": 24,
-        "actual": 22,
-        "remaining": 2
+        "actual": 21,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -16633,8 +16633,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 32,
-        "actual": 26,
-        "remaining": 6
+        "actual": 25,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -20601,8 +20601,8 @@
       "location": "Administration 214",
       "enrollment": {
         "capacity": 28,
-        "actual": 23,
-        "remaining": 5
+        "actual": 22,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -21177,8 +21177,8 @@
       "location": "Administration 215",
       "enrollment": {
         "capacity": 28,
-        "actual": 19,
-        "remaining": 9
+        "actual": 17,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22009,8 +22009,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 28,
-        "actual": 20,
-        "remaining": 8
+        "actual": 19,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22521,8 +22521,8 @@
       "location": "Administration 214",
       "enrollment": {
         "capacity": 28,
-        "actual": 23,
-        "remaining": 5
+        "actual": 22,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -27545,8 +27545,8 @@
       "location": "Administration 210",
       "enrollment": {
         "capacity": 32,
-        "actual": 8,
-        "remaining": 24
+        "actual": 7,
+        "remaining": 25
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -33433,8 +33433,8 @@
       "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
-        "actual": 14,
-        "remaining": 11
+        "actual": 13,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37433,8 +37433,8 @@
       "location": "Science 211",
       "enrollment": {
         "capacity": 35,
-        "actual": 4,
-        "remaining": 31
+        "actual": 3,
+        "remaining": 32
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38361,8 +38361,8 @@
       "location": "Science 203",
       "enrollment": {
         "capacity": 35,
-        "actual": 23,
-        "remaining": 12
+        "actual": 22,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -39769,8 +39769,8 @@
       "location": "Modular Classrooms 03",
       "enrollment": {
         "capacity": 24,
-        "actual": 16,
-        "remaining": 8
+        "actual": 15,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -45081,8 +45081,8 @@
       "location": "Science 202",
       "enrollment": {
         "capacity": 40,
-        "actual": 39,
-        "remaining": 1
+        "actual": 38,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48313,8 +48313,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 18,
+        "remaining": 32
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49113,8 +49113,8 @@
       "location": "AJ Annex",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 4,
+        "remaining": 26
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51225,8 +51225,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 24,
-        "actual": 12,
-        "remaining": 12
+        "actual": 11,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -53177,8 +53177,8 @@
       "location": "Administration 212",
       "enrollment": {
         "capacity": 45,
-        "actual": 21,
-        "remaining": 24
+        "actual": 18,
+        "remaining": 27
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -57529,8 +57529,8 @@
       "location": "Science 307",
       "enrollment": {
         "capacity": 24,
-        "actual": 10,
-        "remaining": 14
+        "actual": 8,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -57657,8 +57657,8 @@
       "location": "Business 110",
       "enrollment": {
         "capacity": 45,
-        "actual": 40,
-        "remaining": 5
+        "actual": 39,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
