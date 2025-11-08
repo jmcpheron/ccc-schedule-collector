@@ -1,6 +1,6 @@
-## Rio Hondo Collection Report - Fri Nov  7 22:32:07 UTC 2025
+## Rio Hondo Collection Report - Sat Nov  8 06:37:14 UTC 2025
 
-Total courses collected: 1837
+Total courses collected: 1841
 Departments: 103
 
 Top departments:
@@ -13,4 +13,4 @@ Top departments:
   - HIST: 53 courses
   - MATH: 53 courses
   - CD: 43 courses
-  - AJ: 38 courses
+  - FAC: 39 courses
