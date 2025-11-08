@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-08T06:37:11.766134Z",
+  "collection_timestamp": "2025-11-08T14:31:12.324235Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -11161,8 +11161,8 @@
       "location": "Science 132",
       "enrollment": {
         "capacity": 24,
-        "actual": 16,
-        "remaining": 8
+        "actual": 15,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11225,8 +11225,8 @@
       "location": "Science 136",
       "enrollment": {
         "capacity": 24,
-        "actual": 20,
-        "remaining": 4
+        "actual": 19,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -18585,8 +18585,8 @@
       "location": "Business 116",
       "enrollment": {
         "capacity": 24,
-        "actual": 6,
-        "remaining": 18
+        "actual": 5,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22009,8 +22009,8 @@
       "location": "Administration 218",
       "enrollment": {
         "capacity": 28,
-        "actual": 16,
-        "remaining": 12
+        "actual": 15,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22361,8 +22361,8 @@
       "location": "Learning Resource Center (LRC) 124",
       "enrollment": {
         "capacity": 28,
-        "actual": 22,
-        "remaining": 6
+        "actual": 21,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -29465,8 +29465,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 19,
-        "remaining": 26
+        "actual": 18,
+        "remaining": 27
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -29881,8 +29881,8 @@
       "location": "Administration 225",
       "enrollment": {
         "capacity": 45,
-        "actual": 43,
-        "remaining": 2
+        "actual": 42,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -34425,8 +34425,8 @@
       "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
-        "actual": 17,
-        "remaining": 13
+        "actual": 16,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -37465,8 +37465,8 @@
       "location": "Science 211",
       "enrollment": {
         "capacity": 35,
-        "actual": 16,
-        "remaining": 19
+        "actual": 15,
+        "remaining": 20
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38457,8 +38457,8 @@
       "location": "Science 211",
       "enrollment": {
         "capacity": 35,
-        "actual": 18,
-        "remaining": 17
+        "actual": 17,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44761,8 +44761,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 55,
-        "actual": 20,
-        "remaining": 35
+        "actual": 21,
+        "remaining": 34
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -49404,7 +49404,7 @@
         "actual": 0,
         "remaining": 30
       },
-      "status": "OPEN",
+      "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
