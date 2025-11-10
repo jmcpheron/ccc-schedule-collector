@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-10T14:33:56.938947Z",
+  "collection_timestamp": "2025-11-10T22:33:29.955893Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -25504,7 +25504,7 @@
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
-      "weeks": 1,
+      "weeks": 2,
       "start_date": "12/06",
       "end_date": "12/14",
       "additional_hours": null,
@@ -41913,8 +41913,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 50,
-        "actual": 41,
-        "remaining": 9
+        "actual": 32,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -42905,8 +42905,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 30,
-        "actual": 20,
-        "remaining": 10
+        "actual": 19,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43001,8 +43001,8 @@
       "location": "La Mirada Resource Center",
       "enrollment": {
         "capacity": 52,
-        "actual": 50,
-        "remaining": 2
+        "actual": 51,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44793,8 +44793,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 55,
-        "actual": 31,
-        "remaining": 24
+        "actual": 34,
+        "remaining": 21
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44825,8 +44825,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 55,
-        "actual": 25,
-        "remaining": 30
+        "actual": 26,
+        "remaining": 29
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -48793,8 +48793,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 11,
+        "remaining": 39
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48825,8 +48825,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 27,
+        "remaining": 23
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49145,8 +49145,8 @@
       "location": "AJ Annex",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 26,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -52409,8 +52409,8 @@
       "location": "Administration 207",
       "enrollment": {
         "capacity": 45,
-        "actual": 32,
-        "remaining": 13
+        "actual": 31,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -53401,8 +53401,8 @@
       "location": "Administration 208",
       "enrollment": {
         "capacity": 45,
-        "actual": 32,
-        "remaining": 13
+        "actual": 31,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
