@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-09T22:31:33.411656Z",
+  "collection_timestamp": "2025-11-10T06:39:26.120576Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -19353,8 +19353,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 27,
-        "remaining": 18
+        "actual": 26,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44825,8 +44825,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 55,
-        "actual": 24,
-        "remaining": 31
+        "actual": 25,
+        "remaining": 30
       },
       "status": "OPEN",
       "section_type": "LEC",
