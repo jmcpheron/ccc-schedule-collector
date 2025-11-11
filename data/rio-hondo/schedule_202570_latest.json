@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-10T22:33:29.955893Z",
+  "collection_timestamp": "2025-11-11T06:38:35.075665Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -19961,8 +19961,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 40,
-        "actual": 24,
-        "remaining": 16
+        "actual": 23,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -41913,8 +41913,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 50,
-        "actual": 32,
-        "remaining": 18
+        "actual": 33,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44825,8 +44825,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 55,
-        "actual": 26,
-        "remaining": 29
+        "actual": 27,
+        "remaining": 28
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -48889,8 +48889,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 10,
+        "remaining": 40
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48921,8 +48921,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 20,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48953,8 +48953,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 26,
+        "remaining": 24
       },
       "status": "CLOSED",
       "section_type": "LEC",
