@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-12T14:34:33.567621Z",
+  "collection_timestamp": "2025-11-12T22:31:50.358183Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -24473,8 +24473,8 @@
       "location": "Science 305",
       "enrollment": {
         "capacity": 24,
-        "actual": 14,
-        "remaining": 10
+        "actual": 13,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -43129,8 +43129,8 @@
       "location": "Pico Rivera Senior Center",
       "enrollment": {
         "capacity": 48,
-        "actual": 46,
-        "remaining": 2
+        "actual": 44,
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44313,8 +44313,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 18,
-        "remaining": 17
+        "actual": 17,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44665,8 +44665,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 15,
-        "remaining": 10
+        "actual": 17,
+        "remaining": 8
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -45656,9 +45656,9 @@
       ],
       "location": "AJ Annex",
       "enrollment": {
-        "capacity": 30,
+        "capacity": 31,
         "actual": 31,
-        "remaining": 1
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -45752,9 +45752,9 @@
       ],
       "location": "AJ Annex",
       "enrollment": {
-        "capacity": 30,
+        "capacity": 39,
         "actual": 39,
-        "remaining": 9
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -45848,9 +45848,9 @@
       ],
       "location": "AJ Annex",
       "enrollment": {
-        "capacity": 30,
+        "capacity": 53,
         "actual": 53,
-        "remaining": 23
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46038,7 +46038,7 @@
           "is_arranged": false
         }
       ],
-      "location": "AJ Annex",
+      "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
         "actual": 0,
@@ -46070,7 +46070,7 @@
           "is_arranged": true
         }
       ],
-      "location": "AJ Annex",
+      "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
         "actual": 0,
@@ -51929,8 +51929,8 @@
       "location": "Administration 212",
       "enrollment": {
         "capacity": 45,
-        "actual": 32,
-        "remaining": 13
+        "actual": 31,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -54105,8 +54105,8 @@
       "location": "Administration 229",
       "enrollment": {
         "capacity": 45,
-        "actual": 34,
-        "remaining": 11
+        "actual": 33,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
