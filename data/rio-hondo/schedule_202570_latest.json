@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-12T22:31:50.358183Z",
+  "collection_timestamp": "2025-11-13T06:38:31.667863Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -43129,8 +43129,8 @@
       "location": "Pico Rivera Senior Center",
       "enrollment": {
         "capacity": 48,
-        "actual": 44,
-        "remaining": 4
+        "actual": 43,
+        "remaining": 5
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44025,8 +44025,8 @@
       "location": "Mt View Family Center",
       "enrollment": {
         "capacity": 35,
-        "actual": 18,
-        "remaining": 17
+        "actual": 21,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44313,8 +44313,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 17,
-        "remaining": 18
+        "actual": 18,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44345,8 +44345,8 @@
       "location": "Dexter Middle School",
       "enrollment": {
         "capacity": 35,
-        "actual": 25,
-        "remaining": 10
+        "actual": 26,
+        "remaining": 9
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44697,8 +44697,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 2,
-        "remaining": 23
+        "actual": 3,
+        "remaining": 22
       },
       "status": "OPEN",
       "section_type": "LEC",
