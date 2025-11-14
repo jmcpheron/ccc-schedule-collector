@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-13T22:33:06.865147Z",
+  "collection_timestamp": "2025-11-14T06:38:33.914252Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -26201,8 +26201,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 150,
-        "actual": 25,
-        "remaining": 125
+        "actual": 33,
+        "remaining": 117
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26277,6 +26277,38 @@
       "end_date": "12/05",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78075')"
+    },
+    {
+      "crn": "78588",
+      "subject": "FAC",
+      "course_number": "051",
+      "title": "Fire Instructor II",
+      "units": 2.5,
+      "instructor": "Stan  Bakey",
+      "instructor_email": "sbakey@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "08:00am",
+          "end_time": "03:15pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 40,
+        "actual": 0,
+        "remaining": 40
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 2,
+      "start_date": "12/01",
+      "end_date": "12/05",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78588')"
     },
     {
       "crn": "74489",
@@ -44953,8 +44985,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 55,
-        "actual": 37,
-        "remaining": 18
+        "actual": 40,
+        "remaining": 15
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -47190,7 +47222,7 @@
           "is_arranged": false
         }
       ],
-      "location": "TBA",
+      "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
         "actual": 0,
@@ -47222,7 +47254,7 @@
           "is_arranged": false
         }
       ],
-      "location": "TBA",
+      "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
         "actual": 0,
@@ -47254,7 +47286,7 @@
           "is_arranged": true
         }
       ],
-      "location": "TBA",
+      "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
         "actual": 0,
@@ -49113,8 +49145,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 19,
+        "remaining": 31
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49241,8 +49273,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 19,
+        "remaining": 31
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49273,8 +49305,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 19,
+        "remaining": 31
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49305,8 +49337,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 24,
+        "remaining": 26
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49334,7 +49366,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Shooting Range",
+      "location": "TBA",
       "enrollment": {
         "capacity": 30,
         "actual": 0,
@@ -49878,7 +49910,7 @@
           "is_arranged": true
         }
       ],
-      "location": "AJ Annex",
+      "location": "TBA",
       "enrollment": {
         "capacity": 30,
         "actual": 0,
@@ -50507,7 +50539,7 @@
       "subject": "PAC",
       "course_number": "067",
       "title": "PC 832 Communications and Arrest Methods",
-      "units": 0.1,
+      "units": 0.3,
       "instructor": "Leon  Lopez",
       "instructor_email": "llopez@riohondo.edu",
       "meeting_times": [
@@ -50518,7 +50550,7 @@
           "is_arranged": false
         }
       ],
-      "location": "AJ Annex",
+      "location": "TBA",
       "enrollment": {
         "capacity": 30,
         "actual": 0,
@@ -59467,7 +59499,7 @@
       "subject": "WFT",
       "course_number": "290",
       "title": "Work Experience Education/Internship for Wildland Fire Technology-Related Fields",
-      "units": 2.0,
+      "units": 4.0,
       "instructor": "TBA",
       "instructor_email": null,
       "meeting_times": [
@@ -59496,7 +59528,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1859,
+    "total_courses": 1860,
     "departments": [
       "ACCT",
       "ADN",
