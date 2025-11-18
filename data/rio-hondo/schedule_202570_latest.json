@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-17T22:33:01.526797Z",
+  "collection_timestamp": "2025-11-18T06:38:28.359864Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -24473,8 +24473,8 @@
       "location": "Science 305",
       "enrollment": {
         "capacity": 24,
-        "actual": 13,
-        "remaining": 11
+        "actual": 12,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -25113,8 +25113,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 40,
-        "actual": 0,
-        "remaining": 40
+        "actual": 34,
+        "remaining": 6
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -25241,8 +25241,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 40,
-        "actual": 0,
-        "remaining": 40
+        "actual": 26,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26233,8 +26233,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 65,
-        "actual": 0,
-        "remaining": 65
+        "actual": 24,
+        "remaining": 41
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -26265,8 +26265,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 65,
-        "actual": 0,
-        "remaining": 65
+        "actual": 24,
+        "remaining": 41
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44313,8 +44313,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 20,
-        "remaining": 15
+        "actual": 19,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44377,8 +44377,8 @@
       "location": "Mt View Family Center",
       "enrollment": {
         "capacity": 50,
-        "actual": 38,
-        "remaining": 12
+        "actual": 39,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44441,8 +44441,8 @@
       "location": "Evergreen Elementary School",
       "enrollment": {
         "capacity": 40,
-        "actual": 19,
-        "remaining": 21
+        "actual": 20,
+        "remaining": 20
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44601,8 +44601,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 35,
-        "actual": 17,
-        "remaining": 18
+        "actual": 18,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -44857,8 +44857,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 17,
-        "remaining": 8
+        "actual": 18,
+        "remaining": 7
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -45017,8 +45017,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 55,
-        "actual": 29,
-        "remaining": 26
+        "actual": 30,
+        "remaining": 25
       },
       "status": "OPEN",
       "section_type": "LEC",
