@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-18T14:34:07.349456Z",
+  "collection_timestamp": "2025-11-18T22:33:17.930864Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -26201,8 +26201,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 150,
-        "actual": 33,
-        "remaining": 117
+        "actual": 66,
+        "remaining": 84
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26233,8 +26233,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 65,
-        "actual": 32,
-        "remaining": 33
+        "actual": 33,
+        "remaining": 32
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -26265,8 +26265,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 65,
-        "actual": 31,
-        "remaining": 34
+        "actual": 32,
+        "remaining": 33
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -39577,8 +39577,8 @@
       "location": "Pioneer High School",
       "enrollment": {
         "capacity": 32,
-        "actual": 26,
-        "remaining": 6
+        "actual": 25,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
