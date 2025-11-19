@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-18T22:33:17.930864Z",
+  "collection_timestamp": "2025-11-19T06:38:34.915319Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -24921,8 +24921,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 0,
-        "remaining": 25
+        "actual": 7,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -25145,8 +25145,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 40,
-        "actual": 0,
-        "remaining": 40
+        "actual": 25,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -25497,8 +25497,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 15,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26201,8 +26201,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 150,
-        "actual": 66,
-        "remaining": 84
+        "actual": 75,
+        "remaining": 75
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -26233,8 +26233,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 65,
-        "actual": 33,
-        "remaining": 32
+        "actual": 48,
+        "remaining": 17
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -26265,8 +26265,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 65,
-        "actual": 32,
-        "remaining": 33
+        "actual": 48,
+        "remaining": 17
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -44857,8 +44857,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 25,
-        "actual": 18,
-        "remaining": 7
+        "actual": 19,
+        "remaining": 6
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -45017,8 +45017,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 55,
-        "actual": 30,
-        "remaining": 25
+        "actual": 31,
+        "remaining": 24
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -45369,8 +45369,8 @@
       "location": "Learning Resource Center (LRC) 118",
       "enrollment": {
         "capacity": 80,
-        "actual": 51,
-        "remaining": 29
+        "actual": 52,
+        "remaining": 28
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48889,8 +48889,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 5,
+        "remaining": 45
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50681,8 +50681,8 @@
       "location": "AJ Annex",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 1,
+        "remaining": 29
       },
       "status": "CLOSED",
       "section_type": "LEC",
