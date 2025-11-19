@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-19T14:35:11.914876Z",
+  "collection_timestamp": "2025-11-19T22:32:34.997509Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -2361,8 +2361,8 @@
       "location": "Science 202",
       "enrollment": {
         "capacity": 40,
-        "actual": 31,
-        "remaining": 9
+        "actual": 30,
+        "remaining": 10
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -9561,8 +9561,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 24,
-        "actual": 27,
-        "remaining": 3
+        "actual": 26,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -9593,8 +9593,8 @@
       "location": "Online SYNC",
       "enrollment": {
         "capacity": 24,
-        "actual": 23,
-        "remaining": 1
+        "actual": 22,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -9625,8 +9625,8 @@
       "location": "Technology 103",
       "enrollment": {
         "capacity": 24,
-        "actual": 27,
-        "remaining": 3
+        "actual": 26,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -45017,8 +45017,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 55,
-        "actual": 31,
-        "remaining": 24
+        "actual": 32,
+        "remaining": 23
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -46937,8 +46937,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 10,
+        "remaining": 20
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48889,8 +48889,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 5,
-        "remaining": 45
+        "actual": 20,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48921,8 +48921,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 20,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48953,8 +48953,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 26,
+        "remaining": 24
       },
       "status": "CLOSED",
       "section_type": "LEC",
