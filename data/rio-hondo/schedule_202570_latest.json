@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-21T14:33:06.969326Z",
+  "collection_timestamp": "2025-11-21T22:32:36.677596Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -35018,7 +35018,7 @@
       "crn": "73786",
       "subject": "KINA",
       "course_number": "188",
-      "title": "Men's and/or Women's Intercollegiate Water Polo Team",
+      "title": "Intercollegiate Water Polo Team",
       "units": 3.0,
       "instructor": "TBA",
       "instructor_email": null,
@@ -35050,7 +35050,7 @@
       "crn": "74173",
       "subject": "KINA",
       "course_number": "188",
-      "title": "Men's and/or Women's Intercollegiate Water Polo Team",
+      "title": "Intercollegiate Water Polo Team",
       "units": 3.0,
       "instructor": "TBA",
       "instructor_email": null,
@@ -35082,7 +35082,7 @@
       "crn": "73705",
       "subject": "KINA",
       "course_number": "189",
-      "title": "Men's Intercollegiate Wrestling Team",
+      "title": "Intercollegiate Wrestling Team",
       "units": 3.0,
       "instructor": "TBA",
       "instructor_email": null,
@@ -39306,7 +39306,7 @@
       "crn": "78033",
       "subject": "MGMT",
       "course_number": "180",
-      "title": "Invention Principles I: Problem Discovery",
+      "title": "Introduction to Invention Principles",
       "units": 3.0,
       "instructor": "Marissa  Young",
       "instructor_email": "myoung@riohondo.edu",
@@ -45017,8 +45017,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 55,
-        "actual": 35,
-        "remaining": 20
+        "actual": 36,
+        "remaining": 19
       },
       "status": "OPEN",
       "section_type": "LEC",
@@ -47001,8 +47001,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 1,
-        "remaining": 29
+        "actual": 0,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
