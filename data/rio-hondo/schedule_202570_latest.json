@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-24T22:32:58.633439Z",
+  "collection_timestamp": "2025-11-25T06:38:55.801316Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -49017,8 +49017,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 19,
+        "remaining": 31
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50821,6 +50821,38 @@
       "end_date": "07/26",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76711')"
+    },
+    {
+      "crn": "77182",
+      "subject": "PAC",
+      "course_number": "083",
+      "title": "Pre-Academy Physical Fitness",
+      "units": 0.5,
+      "instructor": "Carley  Mitchell",
+      "instructor_email": "cmitchell@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "S",
+          "start_time": "07:00am",
+          "end_time": "08:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Administration of Justice",
+      "enrollment": {
+        "capacity": 70,
+        "actual": 0,
+        "remaining": 70
+      },
+      "status": "OPEN",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 4,
+      "start_date": "11/24",
+      "end_date": "12/20",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77182')"
     },
     {
       "crn": "70165",
@@ -59688,7 +59720,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1865,
+    "total_courses": 1866,
     "departments": [
       "ACCT",
       "ADN",
