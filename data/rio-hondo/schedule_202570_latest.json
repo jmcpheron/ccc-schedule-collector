@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-11-25T22:33:34.329731Z",
+  "collection_timestamp": "2025-11-26T06:38:44.168278Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -45530,7 +45530,7 @@
       "enrollment": {
         "capacity": 5,
         "actual": 1,
-        "remaining": 2
+        "remaining": 4
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46521,8 +46521,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 11,
-        "remaining": 19
+        "actual": 28,
+        "remaining": 2
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47065,8 +47065,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 16,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -59097,8 +59097,8 @@
       "location": "Technology 114",
       "enrollment": {
         "capacity": 20,
-        "actual": 21,
-        "remaining": 1
+        "actual": 17,
+        "remaining": 3
       },
       "status": "CLOSED",
       "section_type": "LEC",
