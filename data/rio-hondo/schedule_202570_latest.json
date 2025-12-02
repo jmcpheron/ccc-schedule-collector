@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-12-02T14:36:24.759568Z",
+  "collection_timestamp": "2025-12-02T22:32:14.734025Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -42681,8 +42681,8 @@
       "location": "Jack Crippen Senior Center",
       "enrollment": {
         "capacity": 30,
-        "actual": 18,
-        "remaining": 12
+        "actual": 19,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50617,8 +50617,8 @@
       "location": "AJ Annex",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 14,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50681,8 +50681,8 @@
       "location": "TBA",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 14,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50809,8 +50809,8 @@
       "location": "Administration of Justice 203",
       "enrollment": {
         "capacity": 48,
-        "actual": 0,
-        "remaining": 48
+        "actual": 30,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51193,8 +51193,8 @@
       "location": "TBA",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 14,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
