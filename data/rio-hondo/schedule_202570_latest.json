@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-12-03T14:36:03.367155Z",
+  "collection_timestamp": "2025-12-03T22:33:52.823358Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -27818,7 +27818,7 @@
       "crn": "73785",
       "subject": "FTEC",
       "course_number": "107",
-      "title": "Hazardous Materials I",
+      "title": "Hazardous Materials",
       "units": 3.0,
       "instructor": "TBA",
       "instructor_email": null,
@@ -42649,8 +42649,8 @@
       "location": "San Gabriel Valley Service Ctr",
       "enrollment": {
         "capacity": 30,
-        "actual": 16,
-        "remaining": 14
+        "actual": 17,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47161,8 +47161,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 13,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49753,8 +49753,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 23,
+        "remaining": 27
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49785,8 +49785,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 13,
+        "remaining": 37
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -52010,7 +52010,7 @@
       "crn": "77349",
       "subject": "PHIL",
       "course_number": "135",
-      "title": "Philosophy of Social Justice",
+      "title": "Philosophy of Justice",
       "units": 3.0,
       "instructor": "TBA",
       "instructor_email": null,
