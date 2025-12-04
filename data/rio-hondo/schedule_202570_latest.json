@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-12-04T14:35:51.695439Z",
+  "collection_timestamp": "2025-12-04T22:32:52.304587Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -41177,8 +41177,8 @@
       "location": "Administration of Justice 202",
       "enrollment": {
         "capacity": 60,
-        "actual": 0,
-        "remaining": 60
+        "actual": 11,
+        "remaining": 49
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46233,8 +46233,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 59,
+        "remaining": 29
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46265,8 +46265,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 7,
+        "remaining": 23
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46553,8 +46553,8 @@
       "location": "AJ Annex",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 19,
+        "remaining": 11
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47225,8 +47225,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 7,
+        "remaining": 23
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49689,8 +49689,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 20,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49721,8 +49721,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 16,
+        "remaining": 34
       },
       "status": "CLOSED",
       "section_type": "LEC",
