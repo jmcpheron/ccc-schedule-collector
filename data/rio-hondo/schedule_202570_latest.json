@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-12-09T14:36:23.343747Z",
+  "collection_timestamp": "2025-12-09T22:32:32.206711Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -46297,8 +46297,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 11,
-        "remaining": 19
+        "actual": 12,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47385,8 +47385,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 15,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -48537,8 +48537,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 27,
-        "remaining": 23
+        "actual": 30,
+        "remaining": 20
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49561,8 +49561,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 20,
+        "remaining": 30
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49593,8 +49593,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 15,
+        "remaining": 35
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49625,8 +49625,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 8,
+        "remaining": 42
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49657,8 +49657,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 25,
+        "remaining": 25
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49689,8 +49689,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 14,
-        "remaining": 36
+        "actual": 19,
+        "remaining": 31
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49881,8 +49881,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 7,
+        "remaining": 43
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49913,8 +49913,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 22,
+        "remaining": 28
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49945,8 +49945,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 9,
+        "remaining": 41
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49977,8 +49977,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 14,
+        "remaining": 36
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50009,8 +50009,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 17,
+        "remaining": 33
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50041,8 +50041,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 24,
+        "remaining": 26
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50233,8 +50233,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 21,
+        "remaining": 29
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50265,8 +50265,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 15,
+        "remaining": 35
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50297,8 +50297,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 24,
+        "remaining": 26
       },
       "status": "CLOSED",
       "section_type": "LEC",
