@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-12-10T14:36:18.447778Z",
+  "collection_timestamp": "2025-12-10T22:33:56.482138Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -10521,8 +10521,8 @@
       "location": "Science 121",
       "enrollment": {
         "capacity": 24,
-        "actual": 18,
-        "remaining": 6
+        "actual": 17,
+        "remaining": 7
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -11577,8 +11577,8 @@
       "location": "Science 100",
       "enrollment": {
         "capacity": 24,
-        "actual": 8,
-        "remaining": 16
+        "actual": 6,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -38681,8 +38681,8 @@
       "location": "Science 211",
       "enrollment": {
         "capacity": 35,
-        "actual": 17,
-        "remaining": 18
+        "actual": 16,
+        "remaining": 19
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46329,8 +46329,8 @@
       "location": "Administration of Justice",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 15,
+        "remaining": 15
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -46361,8 +46361,8 @@
       "location": "Administration of Justice",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 14,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -47385,8 +47385,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 15,
-        "remaining": 15
+        "actual": 14,
+        "remaining": 16
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51577,8 +51577,8 @@
       "location": "Administration of Justice",
       "enrollment": {
         "capacity": 70,
-        "actual": 0,
-        "remaining": 70
+        "actual": 1,
+        "remaining": 69
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -54969,8 +54969,8 @@
       "location": "Science 336",
       "enrollment": {
         "capacity": 45,
-        "actual": 24,
-        "remaining": 21
+        "actual": 23,
+        "remaining": 22
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -55289,8 +55289,8 @@
       "location": "Learning Resource Center (LRC) 123",
       "enrollment": {
         "capacity": 32,
-        "actual": 6,
-        "remaining": 26
+        "actual": 5,
+        "remaining": 27
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -57244,7 +57244,7 @@
         "actual": 0,
         "remaining": 0
       },
-      "status": "CLOSED",
+      "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Arranged",
