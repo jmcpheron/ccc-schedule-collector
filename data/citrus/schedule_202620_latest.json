@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2025-12-12T07:21:01.203427Z",
+  "collection_timestamp": "2025-12-12T15:20:56.896548Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -28,7 +28,7 @@
         "actual": 14,
         "remaining": 31
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -60,7 +60,7 @@
         "actual": 34,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -92,7 +92,7 @@
         "actual": 18,
         "remaining": 27
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -124,7 +124,7 @@
         "actual": 12,
         "remaining": 33
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -188,7 +188,7 @@
         "actual": 16,
         "remaining": 29
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -220,7 +220,7 @@
         "actual": 12,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -252,7 +252,7 @@
         "actual": 5,
         "remaining": 35
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -284,7 +284,7 @@
         "actual": 16,
         "remaining": 29
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -316,7 +316,7 @@
         "actual": 15,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -348,7 +348,7 @@
         "actual": 28,
         "remaining": 17
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -380,7 +380,7 @@
         "actual": 15,
         "remaining": 30
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -412,7 +412,7 @@
         "actual": 18,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LAB",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -444,7 +444,7 @@
         "actual": 14,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LAB",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -476,7 +476,7 @@
         "actual": 5,
         "remaining": 15
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -508,7 +508,7 @@
         "actual": 5,
         "remaining": 40
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -540,7 +540,7 @@
         "actual": 30,
         "remaining": 15
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -572,7 +572,7 @@
         "actual": 11,
         "remaining": 34
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -604,7 +604,7 @@
         "actual": 24,
         "remaining": 21
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -636,7 +636,7 @@
         "actual": 19,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -668,7 +668,7 @@
         "actual": 5,
         "remaining": 19
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -732,7 +732,7 @@
         "actual": 7,
         "remaining": 17
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -764,7 +764,7 @@
         "actual": 23,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -796,7 +796,7 @@
         "actual": 17,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -828,7 +828,7 @@
         "actual": 11,
         "remaining": 13
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -860,7 +860,7 @@
         "actual": 19,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -892,7 +892,7 @@
         "actual": 12,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -924,7 +924,7 @@
         "actual": 6,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -956,7 +956,7 @@
         "actual": 5,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -988,7 +988,7 @@
         "actual": 5,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1020,7 +1020,7 @@
         "actual": 1,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1052,7 +1052,7 @@
         "actual": 12,
         "remaining": 12
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1084,7 +1084,7 @@
         "actual": 13,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1116,7 +1116,7 @@
         "actual": 13,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1148,7 +1148,7 @@
         "actual": 13,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1180,7 +1180,7 @@
         "actual": 7,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1212,7 +1212,7 @@
         "actual": 20,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1244,7 +1244,7 @@
         "actual": 16,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1276,7 +1276,7 @@
         "actual": 14,
         "remaining": 10
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1308,7 +1308,7 @@
         "actual": 12,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1340,7 +1340,7 @@
         "actual": 11,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1372,7 +1372,7 @@
         "actual": 5,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1404,7 +1404,7 @@
         "actual": 1,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1436,7 +1436,7 @@
         "actual": 5,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1468,7 +1468,7 @@
         "actual": 15,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1500,7 +1500,7 @@
         "actual": 4,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1532,7 +1532,7 @@
         "actual": 4,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1564,7 +1564,7 @@
         "actual": 5,
         "remaining": 19
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1596,7 +1596,7 @@
         "actual": 17,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1628,7 +1628,7 @@
         "actual": 13,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1660,7 +1660,7 @@
         "actual": 3,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1692,7 +1692,7 @@
         "actual": 1,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1724,7 +1724,7 @@
         "actual": 2,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1756,7 +1756,7 @@
         "actual": 24,
         "remaining": 21
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -1788,7 +1788,7 @@
         "actual": 39,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -1820,7 +1820,7 @@
         "actual": 26,
         "remaining": 19
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -1852,7 +1852,7 @@
         "actual": 38,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -1884,7 +1884,7 @@
         "actual": 29,
         "remaining": 16
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -1916,7 +1916,7 @@
         "actual": 23,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1948,7 +1948,7 @@
         "actual": 1,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -1980,7 +1980,7 @@
         "actual": 1,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2012,7 +2012,7 @@
         "actual": 1,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2044,7 +2044,7 @@
         "actual": 3,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2076,7 +2076,7 @@
         "actual": 22,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -2108,7 +2108,7 @@
         "actual": 17,
         "remaining": 13
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -2140,7 +2140,7 @@
         "actual": 18,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -2172,7 +2172,7 @@
         "actual": 14,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -2204,7 +2204,7 @@
         "actual": 11,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -2236,7 +2236,7 @@
         "actual": 23,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -2268,7 +2268,7 @@
         "actual": 13,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -2300,7 +2300,7 @@
         "actual": 20,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -2332,7 +2332,7 @@
         "actual": 16,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -2364,7 +2364,7 @@
         "actual": 13,
         "remaining": 12
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -2396,7 +2396,7 @@
         "actual": 19,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -2428,7 +2428,7 @@
         "actual": 9,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -2460,7 +2460,7 @@
         "actual": 15,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2492,7 +2492,7 @@
         "actual": 18,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2524,7 +2524,7 @@
         "actual": 19,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2556,7 +2556,7 @@
         "actual": 19,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2588,7 +2588,7 @@
         "actual": 20,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2620,7 +2620,7 @@
         "actual": 22,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2652,7 +2652,7 @@
         "actual": 24,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2684,7 +2684,7 @@
         "actual": 18,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2716,7 +2716,7 @@
         "actual": 21,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2748,7 +2748,7 @@
         "actual": 18,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2780,7 +2780,7 @@
         "actual": 21,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2812,7 +2812,7 @@
         "actual": 19,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2844,7 +2844,7 @@
         "actual": 13,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2876,7 +2876,7 @@
         "actual": 19,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2908,7 +2908,7 @@
         "actual": 18,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2940,7 +2940,7 @@
         "actual": 17,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -2972,7 +2972,7 @@
         "actual": 13,
         "remaining": 10
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3004,7 +3004,7 @@
         "actual": 16,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3036,7 +3036,7 @@
         "actual": 21,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3068,7 +3068,7 @@
         "actual": 18,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3100,7 +3100,7 @@
         "actual": 18,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3132,7 +3132,7 @@
         "actual": 20,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3164,7 +3164,7 @@
         "actual": 21,
         "remaining": 27
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3196,7 +3196,7 @@
         "actual": 21,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3228,7 +3228,7 @@
         "actual": 26,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3260,7 +3260,7 @@
         "actual": 24,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3292,7 +3292,7 @@
         "actual": 20,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3324,7 +3324,7 @@
         "actual": 19,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3356,7 +3356,7 @@
         "actual": 21,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -3388,7 +3388,7 @@
         "actual": 20,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3420,7 +3420,7 @@
         "actual": 16,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3452,7 +3452,7 @@
         "actual": 24,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3484,7 +3484,7 @@
         "actual": 17,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3516,7 +3516,7 @@
         "actual": 16,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3548,7 +3548,7 @@
         "actual": 23,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3580,7 +3580,7 @@
         "actual": 25,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3612,7 +3612,7 @@
         "actual": 23,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3644,7 +3644,7 @@
         "actual": 22,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3676,7 +3676,7 @@
         "actual": 22,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3708,7 +3708,7 @@
         "actual": 25,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3740,7 +3740,7 @@
         "actual": 21,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3772,7 +3772,7 @@
         "actual": 10,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3804,7 +3804,7 @@
         "actual": 18,
         "remaining": 27
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3836,7 +3836,7 @@
         "actual": 8,
         "remaining": 37
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3868,7 +3868,7 @@
         "actual": 9,
         "remaining": 36
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3900,7 +3900,7 @@
         "actual": 20,
         "remaining": 25
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3932,7 +3932,7 @@
         "actual": 29,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -3964,7 +3964,7 @@
         "actual": 30,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -3996,7 +3996,7 @@
         "actual": 11,
         "remaining": 34
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -4028,7 +4028,7 @@
         "actual": 11,
         "remaining": 34
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -4060,7 +4060,7 @@
         "actual": 18,
         "remaining": 27
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4092,7 +4092,7 @@
         "actual": 20,
         "remaining": 25
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4124,7 +4124,7 @@
         "actual": 6,
         "remaining": 39
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -4156,7 +4156,7 @@
         "actual": 20,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4188,7 +4188,7 @@
         "actual": 22,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4220,7 +4220,7 @@
         "actual": 22,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4252,7 +4252,7 @@
         "actual": 22,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4284,7 +4284,7 @@
         "actual": 26,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4316,7 +4316,7 @@
         "actual": 18,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4348,7 +4348,7 @@
         "actual": 17,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4380,7 +4380,7 @@
         "actual": 17,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4412,7 +4412,7 @@
         "actual": 11,
         "remaining": 13
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4444,7 +4444,7 @@
         "actual": 24,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4476,7 +4476,7 @@
         "actual": 20,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4508,7 +4508,7 @@
         "actual": 22,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4540,7 +4540,7 @@
         "actual": 23,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4572,7 +4572,7 @@
         "actual": 26,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4604,7 +4604,7 @@
         "actual": 17,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4636,7 +4636,7 @@
         "actual": 18,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4668,7 +4668,7 @@
         "actual": 21,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4700,7 +4700,7 @@
         "actual": 23,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4732,7 +4732,7 @@
         "actual": 20,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4764,7 +4764,7 @@
         "actual": 17,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4796,7 +4796,7 @@
         "actual": 18,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4828,7 +4828,7 @@
         "actual": 17,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4860,7 +4860,7 @@
         "actual": 24,
         "remaining": 16
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4892,7 +4892,7 @@
         "actual": 20,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LAB",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4924,7 +4924,7 @@
         "actual": 29,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4956,7 +4956,7 @@
         "actual": 5,
         "remaining": 25
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -4988,7 +4988,7 @@
         "actual": 3,
         "remaining": 12
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -5020,7 +5020,7 @@
         "actual": 6,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -5052,7 +5052,7 @@
         "actual": 4,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -5084,7 +5084,7 @@
         "actual": 22,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -5116,7 +5116,7 @@
         "actual": 25,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5148,7 +5148,7 @@
         "actual": 24,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -5180,7 +5180,7 @@
         "actual": 20,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5212,7 +5212,7 @@
         "actual": 25,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -5244,7 +5244,7 @@
         "actual": 25,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -5276,7 +5276,7 @@
         "actual": 24,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -5308,7 +5308,7 @@
         "actual": 18,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5340,7 +5340,7 @@
         "actual": 18,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -5372,7 +5372,7 @@
         "actual": 20,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5404,7 +5404,7 @@
         "actual": 26,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5436,7 +5436,7 @@
         "actual": 21,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5468,7 +5468,7 @@
         "actual": 15,
         "remaining": 15
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5500,7 +5500,7 @@
         "actual": 13,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5532,7 +5532,7 @@
         "actual": 18,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -5564,7 +5564,7 @@
         "actual": 12,
         "remaining": 24
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Hybrid",
@@ -5596,7 +5596,7 @@
         "actual": 24,
         "remaining": 12
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Hybrid",
@@ -5628,7 +5628,7 @@
         "actual": 24,
         "remaining": 12
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Hybrid",
@@ -5660,7 +5660,7 @@
         "actual": 12,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5692,7 +5692,7 @@
         "actual": 17,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5724,7 +5724,7 @@
         "actual": 10,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5756,7 +5756,7 @@
         "actual": 6,
         "remaining": 14
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5788,7 +5788,7 @@
         "actual": 9,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5820,7 +5820,7 @@
         "actual": 15,
         "remaining": 10
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5852,7 +5852,7 @@
         "actual": 2,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5884,7 +5884,7 @@
         "actual": 2,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5916,7 +5916,7 @@
         "actual": 4,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5948,7 +5948,7 @@
         "actual": 4,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -5980,7 +5980,7 @@
         "actual": 6,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6012,7 +6012,7 @@
         "actual": 1,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6044,7 +6044,7 @@
         "actual": 3,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6076,7 +6076,7 @@
         "actual": 15,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6108,7 +6108,7 @@
         "actual": 8,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6172,7 +6172,7 @@
         "actual": 8,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6204,7 +6204,7 @@
         "actual": 1,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6236,7 +6236,7 @@
         "actual": 3,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6268,7 +6268,7 @@
         "actual": 5,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6300,7 +6300,7 @@
         "actual": 1,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6332,7 +6332,7 @@
         "actual": 9,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6364,7 +6364,7 @@
         "actual": 1,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Online Asynchronous",
@@ -6396,7 +6396,7 @@
         "actual": 1,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6428,7 +6428,7 @@
         "actual": 1,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6460,7 +6460,7 @@
         "actual": 8,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -6492,7 +6492,7 @@
         "actual": 28,
         "remaining": 17
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6524,7 +6524,7 @@
         "actual": 25,
         "remaining": 20
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6556,7 +6556,7 @@
         "actual": 10,
         "remaining": 35
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -6588,7 +6588,7 @@
         "actual": 8,
         "remaining": 37
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6620,7 +6620,7 @@
         "actual": 3,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -6652,7 +6652,7 @@
         "actual": 5,
         "remaining": 40
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6684,7 +6684,7 @@
         "actual": 11,
         "remaining": 34
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -6716,7 +6716,7 @@
         "actual": 24,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -6748,7 +6748,7 @@
         "actual": 24,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -6780,7 +6780,7 @@
         "actual": 29,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -6812,7 +6812,7 @@
         "actual": 20,
         "remaining": 10
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6844,7 +6844,7 @@
         "actual": 24,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -6876,7 +6876,7 @@
         "actual": 13,
         "remaining": 17
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6908,7 +6908,7 @@
         "actual": 16,
         "remaining": 14
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -6940,7 +6940,7 @@
         "actual": 25,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -6972,7 +6972,7 @@
         "actual": 20,
         "remaining": 10
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7004,7 +7004,7 @@
         "actual": 28,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7036,7 +7036,7 @@
         "actual": 7,
         "remaining": 23
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7068,7 +7068,7 @@
         "actual": 9,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7100,7 +7100,7 @@
         "actual": 5,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7132,7 +7132,7 @@
         "actual": 20,
         "remaining": 10
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7164,7 +7164,7 @@
         "actual": 7,
         "remaining": 23
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7196,7 +7196,7 @@
         "actual": 10,
         "remaining": 20
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7228,7 +7228,7 @@
         "actual": 19,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7260,7 +7260,7 @@
         "actual": 21,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7292,7 +7292,7 @@
         "actual": 26,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7324,7 +7324,7 @@
         "actual": 27,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7356,7 +7356,7 @@
         "actual": 21,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7388,7 +7388,7 @@
         "actual": 25,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7420,7 +7420,7 @@
         "actual": 22,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7452,7 +7452,7 @@
         "actual": 20,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7484,7 +7484,7 @@
         "actual": 26,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7516,7 +7516,7 @@
         "actual": 22,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7548,7 +7548,7 @@
         "actual": 16,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7580,7 +7580,7 @@
         "actual": 22,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7612,7 +7612,7 @@
         "actual": 20,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7644,7 +7644,7 @@
         "actual": 21,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7676,7 +7676,7 @@
         "actual": 20,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7708,7 +7708,7 @@
         "actual": 23,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7740,7 +7740,7 @@
         "actual": 19,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7772,7 +7772,7 @@
         "actual": 16,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7804,7 +7804,7 @@
         "actual": 22,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -7836,7 +7836,7 @@
         "actual": 19,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7868,7 +7868,7 @@
         "actual": 22,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7900,7 +7900,7 @@
         "actual": 22,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7932,7 +7932,7 @@
         "actual": 23,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7964,7 +7964,7 @@
         "actual": 11,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -7996,7 +7996,7 @@
         "actual": 20,
         "remaining": 10
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8028,7 +8028,7 @@
         "actual": 19,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8060,7 +8060,7 @@
         "actual": 14,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8092,7 +8092,7 @@
         "actual": 21,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8124,7 +8124,7 @@
         "actual": 23,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8156,7 +8156,7 @@
         "actual": 17,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8188,7 +8188,7 @@
         "actual": 11,
         "remaining": 19
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8220,7 +8220,7 @@
         "actual": 8,
         "remaining": 17
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8252,7 +8252,7 @@
         "actual": 7,
         "remaining": 18
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8284,7 +8284,7 @@
         "actual": 9,
         "remaining": 16
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8316,7 +8316,7 @@
         "actual": 7,
         "remaining": 18
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8348,7 +8348,7 @@
         "actual": 38,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8380,7 +8380,7 @@
         "actual": 28,
         "remaining": 17
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8412,7 +8412,7 @@
         "actual": 22,
         "remaining": 23
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8444,7 +8444,7 @@
         "actual": 14,
         "remaining": 31
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8476,7 +8476,7 @@
         "actual": 40,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8508,7 +8508,7 @@
         "actual": 31,
         "remaining": 14
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8540,7 +8540,7 @@
         "actual": 44,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8572,7 +8572,7 @@
         "actual": 35,
         "remaining": 10
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8604,7 +8604,7 @@
         "actual": 45,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8636,7 +8636,7 @@
         "actual": 20,
         "remaining": 25
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8668,7 +8668,7 @@
         "actual": 28,
         "remaining": 17
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8700,7 +8700,7 @@
         "actual": 13,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8732,7 +8732,7 @@
         "actual": 31,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8764,7 +8764,7 @@
         "actual": 4,
         "remaining": 21
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8796,7 +8796,7 @@
         "actual": 35,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8828,7 +8828,7 @@
         "actual": 35,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8860,7 +8860,7 @@
         "actual": 37,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8892,7 +8892,7 @@
         "actual": 19,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8924,7 +8924,7 @@
         "actual": 37,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -8956,7 +8956,7 @@
         "actual": 25,
         "remaining": 13
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -8988,7 +8988,7 @@
         "actual": 14,
         "remaining": 24
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9020,7 +9020,7 @@
         "actual": 19,
         "remaining": 19
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9052,7 +9052,7 @@
         "actual": 10,
         "remaining": 28
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -9084,7 +9084,7 @@
         "actual": 29,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -9116,7 +9116,7 @@
         "actual": 11,
         "remaining": 14
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -9148,7 +9148,7 @@
         "actual": 6,
         "remaining": 19
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -9180,7 +9180,7 @@
         "actual": 33,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9212,7 +9212,7 @@
         "actual": 10,
         "remaining": 28
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -9244,7 +9244,7 @@
         "actual": 18,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -9276,7 +9276,7 @@
         "actual": 7,
         "remaining": 38
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -9308,7 +9308,7 @@
         "actual": 12,
         "remaining": 33
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -9340,7 +9340,7 @@
         "actual": 18,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9372,7 +9372,7 @@
         "actual": 13,
         "remaining": 32
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -9404,7 +9404,7 @@
         "actual": 5,
         "remaining": 40
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -9468,7 +9468,7 @@
         "actual": 39,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -9500,7 +9500,7 @@
         "actual": 14,
         "remaining": 16
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9532,7 +9532,7 @@
         "actual": 22,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9564,7 +9564,7 @@
         "actual": 16,
         "remaining": 14
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9596,7 +9596,7 @@
         "actual": 14,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9628,7 +9628,7 @@
         "actual": 28,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9660,7 +9660,7 @@
         "actual": 21,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9692,7 +9692,7 @@
         "actual": 8,
         "remaining": 32
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -9724,7 +9724,7 @@
         "actual": 9,
         "remaining": 21
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9756,7 +9756,7 @@
         "actual": 12,
         "remaining": 18
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9788,7 +9788,7 @@
         "actual": 10,
         "remaining": 10
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9820,7 +9820,7 @@
         "actual": 14,
         "remaining": 16
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9852,7 +9852,7 @@
         "actual": 10,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9884,7 +9884,7 @@
         "actual": 11,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9916,7 +9916,7 @@
         "actual": 25,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9948,7 +9948,7 @@
         "actual": 15,
         "remaining": 15
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -9980,7 +9980,7 @@
         "actual": 21,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -10012,7 +10012,7 @@
         "actual": 19,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -10044,7 +10044,7 @@
         "actual": 17,
         "remaining": 18
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10076,7 +10076,7 @@
         "actual": 15,
         "remaining": 25
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10108,7 +10108,7 @@
         "actual": 34,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10140,7 +10140,7 @@
         "actual": 40,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10172,7 +10172,7 @@
         "actual": 27,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10204,7 +10204,7 @@
         "actual": 26,
         "remaining": 10
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10236,7 +10236,7 @@
         "actual": 33,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10268,7 +10268,7 @@
         "actual": 20,
         "remaining": 16
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10300,7 +10300,7 @@
         "actual": 28,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Online Asynchronous",
@@ -10332,7 +10332,7 @@
         "actual": 35,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -10364,7 +10364,7 @@
         "actual": 10,
         "remaining": 26
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10396,7 +10396,7 @@
         "actual": 18,
         "remaining": 18
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10428,7 +10428,7 @@
         "actual": 13,
         "remaining": 23
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10460,7 +10460,7 @@
         "actual": 24,
         "remaining": 12
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10492,7 +10492,7 @@
         "actual": 14,
         "remaining": 22
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10524,7 +10524,7 @@
         "actual": 13,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10556,7 +10556,7 @@
         "actual": 25,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -10588,7 +10588,7 @@
         "actual": 30,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10620,7 +10620,7 @@
         "actual": 29,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10652,7 +10652,7 @@
         "actual": 31,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10684,7 +10684,7 @@
         "actual": 18,
         "remaining": 18
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10716,7 +10716,7 @@
         "actual": 29,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10748,7 +10748,7 @@
         "actual": 21,
         "remaining": 19
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -10780,7 +10780,7 @@
         "actual": 11,
         "remaining": 25
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10812,7 +10812,7 @@
         "actual": 12,
         "remaining": 24
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10844,7 +10844,7 @@
         "actual": 20,
         "remaining": 16
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10876,7 +10876,7 @@
         "actual": 33,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10908,7 +10908,7 @@
         "actual": 8,
         "remaining": 28
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10940,7 +10940,7 @@
         "actual": 12,
         "remaining": 24
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -10972,7 +10972,7 @@
         "actual": 24,
         "remaining": 12
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -11004,7 +11004,7 @@
         "actual": 7,
         "remaining": 29
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -11036,7 +11036,7 @@
         "actual": 8,
         "remaining": 28
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -11068,7 +11068,7 @@
         "actual": 18,
         "remaining": 18
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11100,7 +11100,7 @@
         "actual": 35,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -11132,7 +11132,7 @@
         "actual": 26,
         "remaining": 10
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -11164,7 +11164,7 @@
         "actual": 28,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Online Asynchronous",
@@ -11196,7 +11196,7 @@
         "actual": 10,
         "remaining": 26
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11228,7 +11228,7 @@
         "actual": 31,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11260,7 +11260,7 @@
         "actual": 30,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11292,7 +11292,7 @@
         "actual": 18,
         "remaining": 18
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11324,7 +11324,7 @@
         "actual": 13,
         "remaining": 23
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11356,7 +11356,7 @@
         "actual": 24,
         "remaining": 12
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11388,7 +11388,7 @@
         "actual": 31,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11420,7 +11420,7 @@
         "actual": 19,
         "remaining": 17
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11452,7 +11452,7 @@
         "actual": 9,
         "remaining": 27
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11484,7 +11484,7 @@
         "actual": 14,
         "remaining": 22
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11516,7 +11516,7 @@
         "actual": 30,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -11548,7 +11548,7 @@
         "actual": 21,
         "remaining": 15
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11580,7 +11580,7 @@
         "actual": 29,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11612,7 +11612,7 @@
         "actual": 12,
         "remaining": 24
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11644,7 +11644,7 @@
         "actual": 12,
         "remaining": 24
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11676,7 +11676,7 @@
         "actual": 9,
         "remaining": 27
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11708,7 +11708,7 @@
         "actual": 42,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -11740,7 +11740,7 @@
         "actual": 30,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -11772,7 +11772,7 @@
         "actual": 31,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -11804,7 +11804,7 @@
         "actual": 16,
         "remaining": 20
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11836,7 +11836,7 @@
         "actual": 15,
         "remaining": 21
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11868,7 +11868,7 @@
         "actual": 16,
         "remaining": 20
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11900,7 +11900,7 @@
         "actual": 30,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -11932,7 +11932,7 @@
         "actual": 13,
         "remaining": 32
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11964,7 +11964,7 @@
         "actual": 20,
         "remaining": 25
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -11996,7 +11996,7 @@
         "actual": 19,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -12028,7 +12028,7 @@
         "actual": 18,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -12060,7 +12060,7 @@
         "actual": 17,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -12092,7 +12092,7 @@
         "actual": 20,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -12124,7 +12124,7 @@
         "actual": 16,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12156,7 +12156,7 @@
         "actual": 12,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12188,7 +12188,7 @@
         "actual": 18,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12220,7 +12220,7 @@
         "actual": 15,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12252,7 +12252,7 @@
         "actual": 11,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12284,7 +12284,7 @@
         "actual": 19,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12316,7 +12316,7 @@
         "actual": 14,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12348,7 +12348,7 @@
         "actual": 16,
         "remaining": 14
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -12380,7 +12380,7 @@
         "actual": 16,
         "remaining": 14
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -12508,7 +12508,7 @@
         "actual": 21,
         "remaining": 24
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12540,7 +12540,7 @@
         "actual": 33,
         "remaining": 12
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12572,7 +12572,7 @@
         "actual": 13,
         "remaining": 32
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12604,7 +12604,7 @@
         "actual": 26,
         "remaining": 19
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -12636,7 +12636,7 @@
         "actual": 20,
         "remaining": 25
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -12668,7 +12668,7 @@
         "actual": 30,
         "remaining": 15
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12700,7 +12700,7 @@
         "actual": 17,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -12732,7 +12732,7 @@
         "actual": 25,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12764,7 +12764,7 @@
         "actual": 19,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -12796,7 +12796,7 @@
         "actual": 18,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12828,7 +12828,7 @@
         "actual": 11,
         "remaining": 14
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12860,7 +12860,7 @@
         "actual": 21,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "Online Asynchronous",
@@ -12892,7 +12892,7 @@
         "actual": 41,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -12924,7 +12924,7 @@
         "actual": 31,
         "remaining": 14
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -12956,7 +12956,7 @@
         "actual": 31,
         "remaining": 14
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -12988,7 +12988,7 @@
         "actual": 12,
         "remaining": 33
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13020,7 +13020,7 @@
         "actual": 44,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13052,7 +13052,7 @@
         "actual": 11,
         "remaining": 34
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13084,7 +13084,7 @@
         "actual": 24,
         "remaining": 21
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13116,7 +13116,7 @@
         "actual": 8,
         "remaining": 37
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13148,7 +13148,7 @@
         "actual": 19,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13180,7 +13180,7 @@
         "actual": 13,
         "remaining": 32
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13212,7 +13212,7 @@
         "actual": 8,
         "remaining": 17
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13244,7 +13244,7 @@
         "actual": 38,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13276,7 +13276,7 @@
         "actual": 21,
         "remaining": 24
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13308,7 +13308,7 @@
         "actual": 17,
         "remaining": 28
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13340,7 +13340,7 @@
         "actual": 33,
         "remaining": 12
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13372,7 +13372,7 @@
         "actual": 10,
         "remaining": 15
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13404,7 +13404,7 @@
         "actual": 13,
         "remaining": 12
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13436,7 +13436,7 @@
         "actual": 19,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13468,7 +13468,7 @@
         "actual": 11,
         "remaining": 19
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13500,7 +13500,7 @@
         "actual": 22,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13532,7 +13532,7 @@
         "actual": 24,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13564,7 +13564,7 @@
         "actual": 28,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13596,7 +13596,7 @@
         "actual": 13,
         "remaining": 17
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13628,7 +13628,7 @@
         "actual": 21,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -13660,7 +13660,7 @@
         "actual": 27,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13692,7 +13692,7 @@
         "actual": 36,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13724,7 +13724,7 @@
         "actual": 30,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13756,7 +13756,7 @@
         "actual": 33,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13788,7 +13788,7 @@
         "actual": 31,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13820,7 +13820,7 @@
         "actual": 33,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13884,7 +13884,7 @@
         "actual": 35,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13916,7 +13916,7 @@
         "actual": 35,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13948,7 +13948,7 @@
         "actual": 35,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -13980,7 +13980,7 @@
         "actual": 26,
         "remaining": 10
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -14012,7 +14012,7 @@
         "actual": 32,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -14044,7 +14044,7 @@
         "actual": 14,
         "remaining": 22
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -14076,7 +14076,7 @@
         "actual": 12,
         "remaining": 24
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -14140,7 +14140,7 @@
         "actual": 30,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14172,7 +14172,7 @@
         "actual": 33,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14204,7 +14204,7 @@
         "actual": 35,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14236,7 +14236,7 @@
         "actual": 27,
         "remaining": 9
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14268,7 +14268,7 @@
         "actual": 25,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -14300,7 +14300,7 @@
         "actual": 4,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -14332,7 +14332,7 @@
         "actual": 9,
         "remaining": 11
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -14364,7 +14364,7 @@
         "actual": 12,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14396,7 +14396,7 @@
         "actual": 9,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14428,7 +14428,7 @@
         "actual": 27,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -14460,7 +14460,7 @@
         "actual": 17,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14492,7 +14492,7 @@
         "actual": 1,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14524,7 +14524,7 @@
         "actual": 1,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14556,7 +14556,7 @@
         "actual": 15,
         "remaining": 14
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -14588,7 +14588,7 @@
         "actual": 12,
         "remaining": 8
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14620,7 +14620,7 @@
         "actual": 14,
         "remaining": 6
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14652,7 +14652,7 @@
         "actual": 6,
         "remaining": 14
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14684,7 +14684,7 @@
         "actual": 16,
         "remaining": 4
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14716,7 +14716,7 @@
         "actual": 5,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14748,7 +14748,7 @@
         "actual": 7,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14780,7 +14780,7 @@
         "actual": 12,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -14812,7 +14812,7 @@
         "actual": 4,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -14844,7 +14844,7 @@
         "actual": 5,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -14876,7 +14876,7 @@
         "actual": 3,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "DISC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -14908,7 +14908,7 @@
         "actual": 8,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14940,7 +14940,7 @@
         "actual": 2,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -14972,7 +14972,7 @@
         "actual": 16,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15004,7 +15004,7 @@
         "actual": 7,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15036,7 +15036,7 @@
         "actual": 4,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15068,7 +15068,7 @@
         "actual": 2,
         "remaining": 2
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15100,7 +15100,7 @@
         "actual": 3,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15132,7 +15132,7 @@
         "actual": 2,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15164,7 +15164,7 @@
         "actual": 6,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15196,7 +15196,7 @@
         "actual": 2,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15228,7 +15228,7 @@
         "actual": 3,
         "remaining": 0
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15260,7 +15260,7 @@
         "actual": 2,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15292,7 +15292,7 @@
         "actual": 17,
         "remaining": 3
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15324,7 +15324,7 @@
         "actual": 5,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15356,7 +15356,7 @@
         "actual": 1,
         "remaining": 1
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15388,7 +15388,7 @@
         "actual": 13,
         "remaining": 7
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": true,
       "delivery_method": "In-Person",
@@ -15420,7 +15420,7 @@
         "actual": 6,
         "remaining": 29
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "Online Asynchronous",
@@ -15452,7 +15452,7 @@
         "actual": 16,
         "remaining": 19
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -15484,7 +15484,7 @@
         "actual": 25,
         "remaining": 10
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
@@ -15516,7 +15516,7 @@
         "actual": 30,
         "remaining": 5
       },
-      "status": "Open",
+      "status": "Closed",
       "section_type": "LEC",
       "zero_textbook_cost": false,
       "delivery_method": "In-Person",
