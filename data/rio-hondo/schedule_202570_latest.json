@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-12-15T14:37:31.204079Z",
+  "collection_timestamp": "2025-12-15T22:34:15.202858Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -50439,6 +50439,262 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78621')"
     },
     {
+      "crn": "78622",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "12/01",
+      "end_date": "12/01",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78622')"
+    },
+    {
+      "crn": "78623",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Marc  Butler",
+      "instructor_email": "mbutler@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "12/02",
+      "end_date": "12/02",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78623')"
+    },
+    {
+      "crn": "78624",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Hugo  Figueroa",
+      "instructor_email": "HFigueroa@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "12/03",
+      "end_date": "12/03",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78624')"
+    },
+    {
+      "crn": "78625",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "12/03",
+      "end_date": "12/03",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78625')"
+    },
+    {
+      "crn": "78626",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Marc  Butler",
+      "instructor_email": "mbutler@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "12/04",
+      "end_date": "12/04",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78626')"
+    },
+    {
+      "crn": "78627",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Hugo  Figueroa",
+      "instructor_email": "HFigueroa@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "12/04",
+      "end_date": "12/04",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78627')"
+    },
+    {
+      "crn": "78628",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Leon  Lopez",
+      "instructor_email": "llopez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "12/08",
+      "end_date": "12/08",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78628')"
+    },
+    {
+      "crn": "78629",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Marc  Butler",
+      "instructor_email": "mbutler@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 0,
+        "remaining": 50
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 1,
+      "start_date": "12/08",
+      "end_date": "12/08",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78629')"
+    },
+    {
       "crn": "78476",
       "subject": "PAC",
       "course_number": "062",
@@ -60456,7 +60712,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1889,
+    "total_courses": 1897,
     "departments": [
       "ACCT",
       "ADN",
