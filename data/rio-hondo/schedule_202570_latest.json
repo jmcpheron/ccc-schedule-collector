@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-12-18T14:36:08.678844Z",
+  "collection_timestamp": "2025-12-18T22:34:00.327553Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -47417,8 +47417,8 @@
       "location": "AJ Annex T",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 13,
+        "remaining": 17
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -49529,8 +49529,8 @@
       "location": "TBA",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 16,
+        "remaining": 14
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50649,8 +50649,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 18,
+        "remaining": 32
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -50681,8 +50681,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 18,
+        "remaining": 32
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51065,8 +51065,8 @@
       "location": "TBA",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 12,
+        "remaining": 18
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51833,8 +51833,8 @@
       "location": "Administration of Justice",
       "enrollment": {
         "capacity": 70,
-        "actual": 37,
-        "remaining": 33
+        "actual": 39,
+        "remaining": 31
       },
       "status": "CLOSED",
       "section_type": "LEC",
