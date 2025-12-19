@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2025-12-18T22:34:00.327553Z",
+  "collection_timestamp": "2025-12-19T06:38:47.194886Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -48121,8 +48121,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 23,
+        "remaining": 27
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51705,8 +51705,8 @@
       "location": "TBA",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 17,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -52748,7 +52748,7 @@
       "course_number": "120",
       "title": "Physics for Everyday Use",
       "units": 4.0,
-      "instructor": "Christian  Vaca",
+      "instructor": "Chris  Vaca",
       "instructor_email": "CVaca@riohondo.edu",
       "meeting_times": [
         {
@@ -52908,7 +52908,7 @@
       "course_number": "211",
       "title": "Physics for Scientists and Engineers - I",
       "units": 4.0,
-      "instructor": "Christian  Vaca",
+      "instructor": "Chris  Vaca",
       "instructor_email": "CVaca@riohondo.edu",
       "meeting_times": [
         {
@@ -52940,7 +52940,7 @@
       "course_number": "212",
       "title": "Physics for Scientists and Engineers - II",
       "units": 4.0,
-      "instructor": "Christian  Vaca",
+      "instructor": "Chris  Vaca",
       "instructor_email": "CVaca@riohondo.edu",
       "meeting_times": [
         {
@@ -52972,7 +52972,7 @@
       "course_number": "213",
       "title": "Physics for Scientists and Engineers - III",
       "units": 4.0,
-      "instructor": "Christian  Vaca",
+      "instructor": "Chris  Vaca",
       "instructor_email": "CVaca@riohondo.edu",
       "meeting_times": [
         {
@@ -53004,7 +53004,7 @@
       "course_number": "213",
       "title": "Physics for Scientists and Engineers - III",
       "units": 4.0,
-      "instructor": "Christian  Vaca",
+      "instructor": "Chris  Vaca",
       "instructor_email": "CVaca@riohondo.edu",
       "meeting_times": [
         {
