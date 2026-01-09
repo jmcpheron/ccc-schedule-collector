@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-01-08T22:35:24.570440Z",
+  "collection_timestamp": "2026-01-09T06:39:11.098526Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -18858,7 +18858,7 @@
       "crn": "70090",
       "subject": "ECON",
       "course_number": "101H",
-      "title": "Principles of Macroeconomics Honors",
+      "title": "Principles of Macroeconomics - Honors (formerly ECON 101H)",
       "units": 3.0,
       "instructor": "Mike  Javanmard",
       "instructor_email": "mjavanmard@riohondo.edu",
