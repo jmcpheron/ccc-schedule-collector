@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-01-14T14:37:11.101003Z",
+  "collection_timestamp": "2026-01-14T22:36:05.051392Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -50713,8 +50713,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 14,
-        "remaining": 36
+        "actual": 22,
+        "remaining": 28
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -51129,8 +51129,8 @@
       "location": "Shooting Range",
       "enrollment": {
         "capacity": 50,
-        "actual": 0,
-        "remaining": 50
+        "actual": 15,
+        "remaining": 35
       },
       "status": "CLOSED",
       "section_type": "LEC",
