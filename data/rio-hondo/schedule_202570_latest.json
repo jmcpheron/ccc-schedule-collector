@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-01-20T14:38:37.692371Z",
+  "collection_timestamp": "2026-01-20T22:34:40.520666Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -49287,38 +49287,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78598')"
     },
     {
-      "crn": "78632",
-      "subject": "PAC",
-      "course_number": "061",
-      "title": "Firearms",
-      "units": 0.1,
-      "instructor": "Hugo  Figueroa",
-      "instructor_email": "HFigueroa@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "Shooting Range",
-      "enrollment": {
-        "capacity": 50,
-        "actual": 19,
-        "remaining": 31
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 20,
-      "start_date": "12/10",
-      "end_date": "12/10",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78632')"
-    },
-    {
       "crn": "78633",
       "subject": "PAC",
       "course_number": "061",
@@ -49797,6 +49765,38 @@
       "end_date": "10/28",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78599')"
+    },
+    {
+      "crn": "78632",
+      "subject": "PAC",
+      "course_number": "061",
+      "title": "Firearms",
+      "units": 0.1,
+      "instructor": "Hugo  Figueroa",
+      "instructor_email": "HFigueroa@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Shooting Range",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 20,
+        "remaining": 30
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 20,
+      "start_date": "12/10",
+      "end_date": "12/10",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78632')"
     },
     {
       "crn": "78638",
