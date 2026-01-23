@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2026-01-22T23:20:34.327677Z",
+  "collection_timestamp": "2026-01-23T07:21:14.973329Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -14604,7 +14604,7 @@
       "course_number": "200",
       "title": "The Art of the Theatre",
       "units": 3.0,
-      "instructor": "Francescon, Jason",
+      "instructor": "Do Not Use, Use CC0602109",
       "instructor_email": null,
       "meeting_times": [
         {
@@ -14956,7 +14956,7 @@
       "course_number": "210",
       "title": "Rehearsal and Performance",
       "units": 3.0,
-      "instructor": "Francescon, Jason",
+      "instructor": "Do Not Use, Use CC0602109",
       "instructor_email": null,
       "meeting_times": [
         {
