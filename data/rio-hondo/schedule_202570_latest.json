@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-01-27T14:38:30.530726Z",
+  "collection_timestamp": "2026-01-27T22:35:33.901004Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -54,7 +54,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 40,
         "actual": 29,
@@ -63,7 +63,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -368,13 +368,13 @@
       "instructor_email": "MLuminarias@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 0,
         "actual": 0,
@@ -383,7 +383,7 @@
       "status": "Cancelled",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -598,7 +598,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 40,
         "actual": 20,
@@ -607,7 +607,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -624,13 +624,13 @@
       "instructor_email": "mking@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 45,
         "actual": 42,
@@ -639,7 +639,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -662,7 +662,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 45,
         "actual": 26,
@@ -671,7 +671,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -9552,13 +9552,13 @@
       "instructor_email": "tlinares@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 24,
         "actual": 26,
@@ -9567,7 +9567,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -9584,13 +9584,13 @@
       "instructor_email": "tlinares@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 24,
         "actual": 22,
@@ -9599,7 +9599,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -9654,7 +9654,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 24,
         "actual": 6,
@@ -9663,7 +9663,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -15056,13 +15056,13 @@
       "instructor_email": "sbijelic@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 25,
@@ -15071,7 +15071,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 8,
       "start_date": "08/16",
       "end_date": "10/10",
@@ -15254,7 +15254,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 22,
@@ -15263,7 +15263,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -15280,13 +15280,13 @@
       "instructor_email": "sliu@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 18,
@@ -15295,7 +15295,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -15344,13 +15344,13 @@
       "instructor_email": "cwrightjr@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 12,
@@ -15359,7 +15359,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -15472,13 +15472,13 @@
       "instructor_email": "sliu@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 7,
@@ -15487,7 +15487,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -15536,13 +15536,13 @@
       "instructor_email": "bharlow@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 23,
@@ -15551,7 +15551,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 8,
       "start_date": "10/11",
       "end_date": "12/06",
@@ -15926,7 +15926,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 32,
         "actual": 22,
@@ -15935,7 +15935,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -16272,13 +16272,13 @@
       "instructor_email": "mwoudenberg@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 32,
         "actual": 25,
@@ -16287,7 +16287,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": true,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -17046,7 +17046,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 20,
@@ -17055,7 +17055,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -17424,13 +17424,13 @@
       "instructor_email": "dpichardo@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 21,
@@ -17439,7 +17439,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -17488,13 +17488,13 @@
       "instructor_email": "AMartinez@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 15,
@@ -17503,7 +17503,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": true,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -17878,7 +17878,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 139",
+      "location": "Physical Education**DO NOT USE 139",
       "enrollment": {
         "capacity": 35,
         "actual": 8,
@@ -17910,7 +17910,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education",
+      "location": "Physical Education**DO NOT USE",
       "enrollment": {
         "capacity": 0,
         "actual": 0,
@@ -17942,7 +17942,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 141",
+      "location": "Physical Education**DO NOT USE 141",
       "enrollment": {
         "capacity": 45,
         "actual": 11,
@@ -18006,7 +18006,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 141",
+      "location": "Physical Education**DO NOT USE 141",
       "enrollment": {
         "capacity": 25,
         "actual": 15,
@@ -18038,7 +18038,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 141",
+      "location": "Physical Education**DO NOT USE 141",
       "enrollment": {
         "capacity": 35,
         "actual": 7,
@@ -18166,7 +18166,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 139",
+      "location": "Physical Education**DO NOT USE 139",
       "enrollment": {
         "capacity": 35,
         "actual": 2,
@@ -18262,7 +18262,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 105",
+      "location": "Physical Education**DO NOT USE 105",
       "enrollment": {
         "capacity": 20,
         "actual": 10,
@@ -18294,7 +18294,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 105",
+      "location": "Physical Education**DO NOT USE 105",
       "enrollment": {
         "capacity": 25,
         "actual": 1,
@@ -18422,7 +18422,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 105",
+      "location": "Physical Education**DO NOT USE 105",
       "enrollment": {
         "capacity": 20,
         "actual": 9,
@@ -18454,7 +18454,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 105",
+      "location": "Physical Education**DO NOT USE 105",
       "enrollment": {
         "capacity": 25,
         "actual": 8,
@@ -18486,7 +18486,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 141",
+      "location": "Physical Education**DO NOT USE 141",
       "enrollment": {
         "capacity": 20,
         "actual": 10,
@@ -18518,7 +18518,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 141",
+      "location": "Physical Education**DO NOT USE 141",
       "enrollment": {
         "capacity": 0,
         "actual": 0,
@@ -18550,7 +18550,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 141",
+      "location": "Physical Education**DO NOT USE 141",
       "enrollment": {
         "capacity": 10,
         "actual": 9,
@@ -21328,13 +21328,13 @@
       "instructor_email": "arhodes@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 28,
         "actual": 11,
@@ -21343,7 +21343,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -21360,13 +21360,13 @@
       "instructor_email": "rvelazquez@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 28,
         "actual": 11,
@@ -21375,7 +21375,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -21712,13 +21712,13 @@
       "instructor_email": "abriseno@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 28,
         "actual": 15,
@@ -21727,7 +21727,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -22960,13 +22960,13 @@
       "instructor_email": "msweeney@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 28,
         "actual": 23,
@@ -22975,7 +22975,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -23158,7 +23158,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 28,
         "actual": 25,
@@ -23167,7 +23167,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -23478,7 +23478,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 28,
         "actual": 5,
@@ -23487,7 +23487,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -31798,7 +31798,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 45,
         "actual": 20,
@@ -31807,7 +31807,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -31958,7 +31958,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 45,
         "actual": 15,
@@ -31967,7 +31967,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -32982,7 +32982,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 103",
+      "location": "Physical Education**DO NOT USE 103",
       "enrollment": {
         "capacity": 35,
         "actual": 11,
@@ -33014,7 +33014,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 103",
+      "location": "Physical Education**DO NOT USE 103",
       "enrollment": {
         "capacity": 35,
         "actual": 14,
@@ -33110,7 +33110,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 103",
+      "location": "Physical Education**DO NOT USE 103",
       "enrollment": {
         "capacity": 45,
         "actual": 24,
@@ -33302,7 +33302,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 105",
+      "location": "Physical Education**DO NOT USE 105",
       "enrollment": {
         "capacity": 45,
         "actual": 13,
@@ -33366,7 +33366,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Tennis Courts",
+      "location": "Tennis Courts**DONOTUSE see TC",
       "enrollment": {
         "capacity": 30,
         "actual": 8,
@@ -33398,7 +33398,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Tennis Courts",
+      "location": "Tennis Courts**DONOTUSE see TC",
       "enrollment": {
         "capacity": 30,
         "actual": 13,
@@ -33590,7 +33590,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 139",
+      "location": "Physical Education**DO NOT USE 139",
       "enrollment": {
         "capacity": 10,
         "actual": 4,
@@ -33686,7 +33686,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education",
+      "location": "Physical Education**DO NOT USE",
       "enrollment": {
         "capacity": 25,
         "actual": 0,
@@ -33718,7 +33718,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 25,
         "actual": 3,
@@ -33750,7 +33750,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 25,
         "actual": 4,
@@ -33782,7 +33782,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education",
+      "location": "Physical Education**DO NOT USE",
       "enrollment": {
         "capacity": 20,
         "actual": 0,
@@ -33814,7 +33814,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 25,
         "actual": 5,
@@ -33846,7 +33846,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 25,
         "actual": 8,
@@ -33878,7 +33878,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 25,
         "actual": 9,
@@ -33910,7 +33910,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 25,
         "actual": 11,
@@ -33942,7 +33942,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 20,
         "actual": 6,
@@ -33974,7 +33974,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 25,
         "actual": 11,
@@ -34006,7 +34006,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 25,
         "actual": 13,
@@ -34038,7 +34038,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 25,
         "actual": 13,
@@ -34070,7 +34070,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 301",
+      "location": "Physical Education**DO NOT USE 301",
       "enrollment": {
         "capacity": 45,
         "actual": 15,
@@ -34102,7 +34102,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 139",
+      "location": "Physical Education**DO NOT USE 139",
       "enrollment": {
         "capacity": 40,
         "actual": 9,
@@ -34134,7 +34134,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 12,
@@ -34143,7 +34143,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -34160,13 +34160,13 @@
       "instructor_email": "cmcdowell@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 30,
         "actual": 9,
@@ -34175,7 +34175,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -34198,7 +34198,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 139",
+      "location": "Physical Education**DO NOT USE 139",
       "enrollment": {
         "capacity": 25,
         "actual": 4,
@@ -34230,7 +34230,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 139",
+      "location": "Physical Education**DO NOT USE 139",
       "enrollment": {
         "capacity": 35,
         "actual": 25,
@@ -34326,7 +34326,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 45,
         "actual": 19,
@@ -34335,7 +34335,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -34550,7 +34550,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 137",
+      "location": "Physical Education**DO NOT USE 137",
       "enrollment": {
         "capacity": 30,
         "actual": 11,
@@ -34582,7 +34582,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 137",
+      "location": "Physical Education**DO NOT USE 137",
       "enrollment": {
         "capacity": 30,
         "actual": 12,
@@ -34614,7 +34614,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 137",
+      "location": "Physical Education**DO NOT USE 137",
       "enrollment": {
         "capacity": 30,
         "actual": 16,
@@ -34646,7 +34646,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 137",
+      "location": "Physical Education**DO NOT USE 137",
       "enrollment": {
         "capacity": 30,
         "actual": 16,
@@ -34678,7 +34678,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 137",
+      "location": "Physical Education**DO NOT USE 137",
       "enrollment": {
         "capacity": 30,
         "actual": 21,
@@ -34710,7 +34710,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education",
+      "location": "Physical Education**DO NOT USE",
       "enrollment": {
         "capacity": 45,
         "actual": 0,
@@ -34742,7 +34742,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education",
+      "location": "Physical Education**DO NOT USE",
       "enrollment": {
         "capacity": 45,
         "actual": 0,
@@ -34774,7 +34774,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 141",
+      "location": "Physical Education**DO NOT USE 141",
       "enrollment": {
         "capacity": 25,
         "actual": 7,
@@ -34806,7 +34806,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 139",
+      "location": "Physical Education**DO NOT USE 139",
       "enrollment": {
         "capacity": 25,
         "actual": 7,
@@ -34832,13 +34832,13 @@
       "instructor_email": "cmcdowell@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 25,
         "actual": 14,
@@ -34847,7 +34847,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -34870,7 +34870,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 25,
         "actual": 16,
@@ -34879,7 +34879,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -34902,7 +34902,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 139",
+      "location": "Physical Education**DO NOT USE 139",
       "enrollment": {
         "capacity": 10,
         "actual": 4,
@@ -35190,7 +35190,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Tennis Courts",
+      "location": "Tennis Courts**DONOTUSE see TC",
       "enrollment": {
         "capacity": 10,
         "actual": 4,
@@ -35318,7 +35318,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Tennis Courts",
+      "location": "Tennis Courts**DONOTUSE see TC",
       "enrollment": {
         "capacity": 40,
         "actual": 8,
@@ -35350,7 +35350,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education",
+      "location": "Physical Education**DO NOT USE",
       "enrollment": {
         "capacity": 10,
         "actual": 0,
@@ -35382,7 +35382,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education",
+      "location": "Physical Education**DO NOT USE",
       "enrollment": {
         "capacity": 10,
         "actual": 0,
@@ -35414,7 +35414,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 10,
         "actual": 1,
@@ -35446,7 +35446,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 10,
         "actual": 2,
@@ -35478,7 +35478,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 10,
         "actual": 3,
@@ -35510,7 +35510,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 10,
         "actual": 4,
@@ -35542,7 +35542,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 10,
         "actual": 4,
@@ -35574,7 +35574,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 10,
         "actual": 4,
@@ -35606,7 +35606,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 10,
         "actual": 5,
@@ -35638,7 +35638,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 10,
         "actual": 6,
@@ -35670,7 +35670,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 10,
         "actual": 7,
@@ -35702,7 +35702,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 15,
         "actual": 12,
@@ -35734,7 +35734,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35766,7 +35766,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35798,7 +35798,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35830,7 +35830,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education",
+      "location": "Physical Education**DO NOT USE",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35862,7 +35862,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35894,7 +35894,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35926,7 +35926,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education",
+      "location": "Physical Education**DO NOT USE",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35958,7 +35958,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35990,7 +35990,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36022,7 +36022,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 1,
@@ -36054,7 +36054,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 4,
@@ -36086,7 +36086,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 4,
@@ -36118,7 +36118,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36150,7 +36150,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36182,7 +36182,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36214,7 +36214,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36246,7 +36246,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education",
+      "location": "Physical Education**DO NOT USE",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36278,7 +36278,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36310,7 +36310,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36342,7 +36342,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education",
+      "location": "Physical Education**DO NOT USE",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36374,7 +36374,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36406,7 +36406,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36438,7 +36438,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 1,
@@ -36470,7 +36470,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 150",
+      "location": "Physical Education**DO NOT USE 150",
       "enrollment": {
         "capacity": 5,
         "actual": 1,
@@ -36502,7 +36502,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 139",
+      "location": "Physical Education**DO NOT USE 139",
       "enrollment": {
         "capacity": 15,
         "actual": 1,
@@ -36534,7 +36534,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 10,
         "actual": 3,
@@ -36543,7 +36543,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -36560,13 +36560,13 @@
       "instructor_email": "cmcdowell@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 10,
         "actual": 3,
@@ -36575,7 +36575,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -36598,7 +36598,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 139",
+      "location": "Physical Education**DO NOT USE 139",
       "enrollment": {
         "capacity": 10,
         "actual": 8,
@@ -36630,7 +36630,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 139",
+      "location": "Physical Education**DO NOT USE 139",
       "enrollment": {
         "capacity": 20,
         "actual": 1,
@@ -36662,7 +36662,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 20,
         "actual": 2,
@@ -36671,7 +36671,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -36688,13 +36688,13 @@
       "instructor_email": "cmcdowell@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 20,
         "actual": 3,
@@ -36703,7 +36703,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -36726,7 +36726,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education 141",
+      "location": "Physical Education**DO NOT USE 141",
       "enrollment": {
         "capacity": 20,
         "actual": 4,
@@ -39056,13 +39056,13 @@
       "instructor_email": "celam@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 45,
         "actual": 6,
@@ -39071,7 +39071,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -40534,7 +40534,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Lot 3 Bungalow 08",
+      "location": "Lot 3 Bungalow**DONOTUSE 08",
       "enrollment": {
         "capacity": 26,
         "actual": 0,
@@ -42000,13 +42000,13 @@
       "instructor_email": "LBarnhart@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 30,
         "actual": 26,
@@ -42015,7 +42015,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -42070,7 +42070,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 30,
         "actual": 24,
@@ -42079,7 +42079,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 12,
       "start_date": "09/01",
       "end_date": "11/22",
@@ -42096,13 +42096,13 @@
       "instructor_email": "asotelo@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 50,
         "actual": 33,
@@ -42111,7 +42111,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 5,
       "start_date": "10/20",
       "end_date": "11/22",
@@ -42128,13 +42128,13 @@
       "instructor_email": "asotelo@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 40,
         "actual": 32,
@@ -42143,7 +42143,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 5,
       "start_date": "08/25",
       "end_date": "09/26",
@@ -42192,13 +42192,13 @@
       "instructor_email": "rmorrison@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 40,
         "actual": 14,
@@ -42207,7 +42207,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -42230,7 +42230,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 40,
         "actual": 16,
@@ -42239,7 +42239,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -42262,7 +42262,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 40,
         "actual": 5,
@@ -42271,7 +42271,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 8,
       "start_date": "08/16",
       "end_date": "10/11",
@@ -42294,7 +42294,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 40,
         "actual": 14,
@@ -42303,7 +42303,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -42320,13 +42320,13 @@
       "instructor_email": "rmorrison@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 40,
         "actual": 25,
@@ -42335,7 +42335,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -42358,7 +42358,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 44,
         "actual": 43,
@@ -42367,7 +42367,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -42390,7 +42390,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 45,
         "actual": 22,
@@ -42399,7 +42399,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 8,
       "start_date": "10/13",
       "end_date": "12/06",
@@ -42416,13 +42416,13 @@
       "instructor_email": "rmorrison@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 52,
         "actual": 34,
@@ -42431,7 +42431,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -42448,13 +42448,13 @@
       "instructor_email": "rmccormick@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 40,
         "actual": 30,
@@ -42463,7 +42463,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 8,
       "start_date": "08/16",
       "end_date": "09/19",
@@ -42480,13 +42480,13 @@
       "instructor_email": "rmccormick@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 45,
         "actual": 46,
@@ -42495,7 +42495,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 8,
       "start_date": "10/13",
       "end_date": "11/21",
@@ -42646,7 +42646,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 30,
         "actual": 20,
@@ -42655,7 +42655,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -42768,13 +42768,13 @@
       "instructor_email": "CBaratta@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 30,
         "actual": 25,
@@ -42783,7 +42783,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -43062,7 +43062,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 30,
         "actual": 13,
@@ -43071,7 +43071,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 13,
       "start_date": "09/01",
       "end_date": "12/06",
@@ -43094,7 +43094,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 30,
         "actual": 15,
@@ -43103,7 +43103,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 14,
       "start_date": "08/25",
       "end_date": "12/06",
@@ -43254,7 +43254,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 30,
         "actual": 19,
@@ -43263,7 +43263,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 14,
       "start_date": "08/25",
       "end_date": "12/06",
@@ -43440,13 +43440,13 @@
       "instructor_email": "TBaughman@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 30,
         "actual": 17,
@@ -43455,7 +43455,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 14,
       "start_date": "08/25",
       "end_date": "12/06",
@@ -43472,13 +43472,13 @@
       "instructor_email": "pusary@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 23,
@@ -43487,7 +43487,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -43510,7 +43510,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 30,
         "actual": 18,
@@ -43519,7 +43519,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 14,
       "start_date": "08/25",
       "end_date": "12/06",
@@ -43542,7 +43542,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 30,
         "actual": 20,
@@ -43551,7 +43551,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -43574,7 +43574,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 30,
         "actual": 21,
@@ -43583,7 +43583,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -44278,7 +44278,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 22,
@@ -44287,7 +44287,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -44368,13 +44368,13 @@
       "instructor_email": "cdo@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 19,
@@ -44383,7 +44383,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -44528,13 +44528,13 @@
       "instructor_email": "LSolis@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 18,
@@ -44543,7 +44543,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -44624,13 +44624,13 @@
       "instructor_email": "ScRobertson@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 18,
@@ -44639,7 +44639,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -45200,13 +45200,13 @@
       "instructor_email": "DeSmith@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 10,
@@ -45215,7 +45215,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 8,
       "start_date": "08/16",
       "end_date": "10/11",
@@ -45232,13 +45232,13 @@
       "instructor_email": "DeSmith@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 40,
         "actual": 33,
@@ -45247,7 +45247,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 8,
       "start_date": "10/13",
       "end_date": "12/06",
@@ -45264,13 +45264,13 @@
       "instructor_email": "DeSmith@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 40,
         "actual": 17,
@@ -45279,7 +45279,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -45302,7 +45302,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 25,
@@ -45311,7 +45311,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -45334,7 +45334,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 40,
         "actual": 31,
@@ -45343,7 +45343,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 8,
       "start_date": "09/01",
       "end_date": "10/25",
@@ -45366,7 +45366,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 35,
         "actual": 19,
@@ -45375,7 +45375,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -52758,7 +52758,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 105",
+      "location": "Physical Education**DO NOT USE 105",
       "enrollment": {
         "capacity": 22,
         "actual": 14,
@@ -52790,7 +52790,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education 105",
+      "location": "Physical Education**DO NOT USE 105",
       "enrollment": {
         "capacity": 10,
         "actual": 3,
@@ -54838,7 +54838,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 45,
         "actual": 27,
@@ -54847,7 +54847,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
@@ -56112,13 +56112,13 @@
       "instructor_email": "wsloniger@riohondo.edu",
       "meeting_times": [
         {
-          "days": "TBA",
+          "days": "ASYNC",
           "start_time": null,
           "end_time": null,
           "is_arranged": true
         }
       ],
-      "location": "Online SYNC",
+      "location": "Online - Asynchronous SYNC",
       "enrollment": {
         "capacity": 32,
         "actual": 5,
@@ -56127,7 +56127,7 @@
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Online SYNC",
+      "delivery_method": "Online ASYNC",
       "weeks": 16,
       "start_date": "08/16",
       "end_date": "12/06",
