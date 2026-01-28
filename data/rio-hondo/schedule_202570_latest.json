@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-01-28T14:38:38.405179Z",
+  "collection_timestamp": "2026-01-28T22:37:56.149640Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -17878,7 +17878,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 139",
+      "location": "Physical Education 139",
       "enrollment": {
         "capacity": 35,
         "actual": 8,
@@ -17910,7 +17910,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE",
+      "location": "Physical Education",
       "enrollment": {
         "capacity": 0,
         "actual": 0,
@@ -17942,7 +17942,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 141",
+      "location": "Physical Education 141",
       "enrollment": {
         "capacity": 45,
         "actual": 11,
@@ -18006,7 +18006,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 141",
+      "location": "Physical Education 141",
       "enrollment": {
         "capacity": 25,
         "actual": 15,
@@ -18038,7 +18038,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 141",
+      "location": "Physical Education 141",
       "enrollment": {
         "capacity": 35,
         "actual": 7,
@@ -18166,7 +18166,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 139",
+      "location": "Physical Education 139",
       "enrollment": {
         "capacity": 35,
         "actual": 2,
@@ -18262,7 +18262,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 105",
+      "location": "Physical Education 105",
       "enrollment": {
         "capacity": 20,
         "actual": 10,
@@ -18294,7 +18294,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 105",
+      "location": "Physical Education 105",
       "enrollment": {
         "capacity": 25,
         "actual": 1,
@@ -18422,7 +18422,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 105",
+      "location": "Physical Education 105",
       "enrollment": {
         "capacity": 20,
         "actual": 9,
@@ -18454,7 +18454,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 105",
+      "location": "Physical Education 105",
       "enrollment": {
         "capacity": 25,
         "actual": 8,
@@ -18486,7 +18486,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 141",
+      "location": "Physical Education 141",
       "enrollment": {
         "capacity": 20,
         "actual": 10,
@@ -18518,7 +18518,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 141",
+      "location": "Physical Education 141",
       "enrollment": {
         "capacity": 0,
         "actual": 0,
@@ -18550,7 +18550,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 141",
+      "location": "Physical Education 141",
       "enrollment": {
         "capacity": 10,
         "actual": 9,
@@ -32982,7 +32982,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 103",
+      "location": "Physical Education 103",
       "enrollment": {
         "capacity": 35,
         "actual": 11,
@@ -33014,7 +33014,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 103",
+      "location": "Physical Education 103",
       "enrollment": {
         "capacity": 35,
         "actual": 14,
@@ -33110,7 +33110,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 103",
+      "location": "Physical Education 103",
       "enrollment": {
         "capacity": 45,
         "actual": 24,
@@ -33302,7 +33302,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 105",
+      "location": "Physical Education 105",
       "enrollment": {
         "capacity": 45,
         "actual": 13,
@@ -33366,7 +33366,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Tennis Courts**DONOTUSE see TC",
+      "location": "Tennis Courts",
       "enrollment": {
         "capacity": 30,
         "actual": 8,
@@ -33398,7 +33398,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Tennis Courts**DONOTUSE see TC",
+      "location": "Tennis Courts",
       "enrollment": {
         "capacity": 30,
         "actual": 13,
@@ -33590,7 +33590,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 139",
+      "location": "Physical Education 139",
       "enrollment": {
         "capacity": 10,
         "actual": 4,
@@ -33686,7 +33686,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE",
+      "location": "Physical Education",
       "enrollment": {
         "capacity": 25,
         "actual": 0,
@@ -33718,7 +33718,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
         "actual": 3,
@@ -33750,7 +33750,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
         "actual": 4,
@@ -33782,7 +33782,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE",
+      "location": "Physical Education",
       "enrollment": {
         "capacity": 20,
         "actual": 0,
@@ -33814,7 +33814,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
         "actual": 5,
@@ -33846,7 +33846,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
         "actual": 8,
@@ -33878,7 +33878,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
         "actual": 9,
@@ -33910,7 +33910,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
         "actual": 11,
@@ -33942,7 +33942,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 20,
         "actual": 6,
@@ -33974,7 +33974,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
         "actual": 11,
@@ -34006,7 +34006,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
         "actual": 13,
@@ -34038,7 +34038,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 25,
         "actual": 13,
@@ -34070,7 +34070,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 301",
+      "location": "Physical Education 301",
       "enrollment": {
         "capacity": 45,
         "actual": 15,
@@ -34102,7 +34102,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 139",
+      "location": "Physical Education 139",
       "enrollment": {
         "capacity": 40,
         "actual": 9,
@@ -34198,7 +34198,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 139",
+      "location": "Physical Education 139",
       "enrollment": {
         "capacity": 25,
         "actual": 4,
@@ -34230,7 +34230,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 139",
+      "location": "Physical Education 139",
       "enrollment": {
         "capacity": 35,
         "actual": 25,
@@ -34550,7 +34550,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 137",
+      "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
         "actual": 11,
@@ -34582,7 +34582,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 137",
+      "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
         "actual": 12,
@@ -34614,7 +34614,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 137",
+      "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
         "actual": 16,
@@ -34646,7 +34646,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 137",
+      "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
         "actual": 16,
@@ -34678,7 +34678,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 137",
+      "location": "Physical Education 137",
       "enrollment": {
         "capacity": 30,
         "actual": 21,
@@ -34710,7 +34710,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE",
+      "location": "Physical Education",
       "enrollment": {
         "capacity": 45,
         "actual": 0,
@@ -34742,7 +34742,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE",
+      "location": "Physical Education",
       "enrollment": {
         "capacity": 45,
         "actual": 0,
@@ -34774,7 +34774,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 141",
+      "location": "Physical Education 141",
       "enrollment": {
         "capacity": 25,
         "actual": 7,
@@ -34806,7 +34806,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 139",
+      "location": "Physical Education 139",
       "enrollment": {
         "capacity": 25,
         "actual": 7,
@@ -34902,7 +34902,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 139",
+      "location": "Physical Education 139",
       "enrollment": {
         "capacity": 10,
         "actual": 4,
@@ -35190,7 +35190,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Tennis Courts**DONOTUSE see TC",
+      "location": "Tennis Courts",
       "enrollment": {
         "capacity": 10,
         "actual": 4,
@@ -35318,7 +35318,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Tennis Courts**DONOTUSE see TC",
+      "location": "Tennis Courts",
       "enrollment": {
         "capacity": 40,
         "actual": 8,
@@ -35350,7 +35350,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE",
+      "location": "Physical Education",
       "enrollment": {
         "capacity": 10,
         "actual": 0,
@@ -35382,7 +35382,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE",
+      "location": "Physical Education",
       "enrollment": {
         "capacity": 10,
         "actual": 0,
@@ -35414,7 +35414,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 10,
         "actual": 1,
@@ -35446,7 +35446,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 10,
         "actual": 2,
@@ -35478,7 +35478,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 10,
         "actual": 3,
@@ -35510,7 +35510,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 10,
         "actual": 4,
@@ -35542,7 +35542,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 10,
         "actual": 4,
@@ -35574,7 +35574,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 10,
         "actual": 4,
@@ -35606,7 +35606,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 10,
         "actual": 5,
@@ -35638,7 +35638,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 10,
         "actual": 6,
@@ -35670,7 +35670,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 10,
         "actual": 7,
@@ -35702,7 +35702,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 15,
         "actual": 12,
@@ -35734,7 +35734,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35766,7 +35766,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35798,7 +35798,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35830,7 +35830,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE",
+      "location": "Physical Education",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35862,7 +35862,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35894,7 +35894,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35926,7 +35926,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE",
+      "location": "Physical Education",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35958,7 +35958,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -35990,7 +35990,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36022,7 +36022,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 1,
@@ -36054,7 +36054,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 4,
@@ -36086,7 +36086,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 4,
@@ -36118,7 +36118,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36150,7 +36150,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36182,7 +36182,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36214,7 +36214,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36246,7 +36246,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE",
+      "location": "Physical Education",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36278,7 +36278,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36310,7 +36310,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36342,7 +36342,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE",
+      "location": "Physical Education",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36374,7 +36374,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36406,7 +36406,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 0,
@@ -36438,7 +36438,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 1,
@@ -36470,7 +36470,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 150",
+      "location": "Physical Education 150",
       "enrollment": {
         "capacity": 5,
         "actual": 1,
@@ -36502,7 +36502,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 139",
+      "location": "Physical Education 139",
       "enrollment": {
         "capacity": 15,
         "actual": 1,
@@ -36598,7 +36598,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 139",
+      "location": "Physical Education 139",
       "enrollment": {
         "capacity": 10,
         "actual": 8,
@@ -36630,7 +36630,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 139",
+      "location": "Physical Education 139",
       "enrollment": {
         "capacity": 20,
         "actual": 1,
@@ -36726,7 +36726,7 @@
           "is_arranged": true
         }
       ],
-      "location": "Physical Education**DO NOT USE 141",
+      "location": "Physical Education 141",
       "enrollment": {
         "capacity": 20,
         "actual": 4,
@@ -52758,7 +52758,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 105",
+      "location": "Physical Education 105",
       "enrollment": {
         "capacity": 22,
         "actual": 14,
@@ -52790,7 +52790,7 @@
           "is_arranged": false
         }
       ],
-      "location": "Physical Education**DO NOT USE 105",
+      "location": "Physical Education 105",
       "enrollment": {
         "capacity": 10,
         "actual": 3,
