@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-01-29T14:39:27.552793Z",
+  "collection_timestamp": "2026-01-29T22:38:09.100352Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -29881,8 +29881,8 @@
       "location": "Administration 223",
       "enrollment": {
         "capacity": 45,
-        "actual": 34,
-        "remaining": 11
+        "actual": 33,
+        "remaining": 12
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -56057,8 +56057,8 @@
       "location": "Learning Resource Center (LRC) 123",
       "enrollment": {
         "capacity": 32,
-        "actual": 5,
-        "remaining": 27
+        "actual": 4,
+        "remaining": 28
       },
       "status": "CLOSED",
       "section_type": "LEC",
