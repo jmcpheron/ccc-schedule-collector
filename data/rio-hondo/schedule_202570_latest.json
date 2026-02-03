@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-02-02T14:40:19.536273Z",
+  "collection_timestamp": "2026-02-03T06:41:03.573293Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -24901,6 +24901,70 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78404')"
+    },
+    {
+      "crn": "74805",
+      "subject": "FAC",
+      "course_number": "043",
+      "title": "Advanced Fire Course",
+      "units": 1.7,
+      "instructor": "Michael  Stratton",
+      "instructor_email": "mstratton@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "12/01",
+      "end_date": "12/04",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74805')"
+    },
+    {
+      "crn": "76085",
+      "subject": "FAC",
+      "course_number": "043",
+      "title": "Advanced Fire Course",
+      "units": 2.1,
+      "instructor": "Michael  Stratton",
+      "instructor_email": "mstratton@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "12/08",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76085')"
     },
     {
       "crn": "77827",
@@ -61224,7 +61288,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1913,
+    "total_courses": 1915,
     "departments": [
       "ACCT",
       "ADN",
