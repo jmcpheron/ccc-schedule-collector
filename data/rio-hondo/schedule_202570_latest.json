@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-02-03T22:38:21.483227Z",
+  "collection_timestamp": "2026-02-04T06:41:18.686057Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -7289,8 +7289,8 @@
       "location": "Business 012",
       "enrollment": {
         "capacity": 15,
-        "actual": 14,
-        "remaining": 0
+        "actual": 13,
+        "remaining": 1
       },
       "status": "CLOSED",
       "section_type": "LEC",
@@ -22695,6 +22695,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78144')"
     },
     {
+      "crn": "78161",
+      "subject": "ENGL",
+      "course_number": "C1000",
+      "title": "Academic Reading and Writing (formerly ENGL 101)",
+      "units": 3.5,
+      "instructor": "Theresa  Freije",
+      "instructor_email": "tfreije@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Administration 210",
+      "enrollment": {
+        "capacity": 28,
+        "actual": 21,
+        "remaining": 7
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78161')"
+    },
+    {
       "crn": "78181",
       "subject": "ENGL",
       "course_number": "C1000",
@@ -22757,38 +22789,6 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78150')"
-    },
-    {
-      "crn": "78161",
-      "subject": "ENGL",
-      "course_number": "C1000",
-      "title": "Academic Reading and Writing (formerly ENGL 101)",
-      "units": 3.5,
-      "instructor": "Theresa  Freije",
-      "instructor_email": "tfreije@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "Administration 210",
-      "enrollment": {
-        "capacity": 28,
-        "actual": 22,
-        "remaining": 6
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": "08/16",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78161')"
     },
     {
       "crn": "78188",
@@ -55623,38 +55623,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78093')"
     },
     {
-      "crn": "78091",
-      "subject": "PSYC",
-      "course_number": "C1000",
-      "title": "Introduction to Psychology (formerly PSY 101)",
-      "units": 3.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "8",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": true,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78091')"
-    },
-    {
       "crn": "78269",
       "subject": "PSYC",
       "course_number": "C1000",
@@ -55685,6 +55653,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78269')"
+    },
+    {
+      "crn": "78091",
+      "subject": "PSYC",
+      "course_number": "C1000",
+      "title": "Introduction to Psychology (formerly PSY 101)",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "8",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78091')"
     },
     {
       "crn": "78225",
