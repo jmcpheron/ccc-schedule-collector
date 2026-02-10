@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-02-09T22:39:33.666903Z",
+  "collection_timestamp": "2026-02-10T06:46:54.036128Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -20199,38 +20199,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77998')"
     },
     {
-      "crn": "78002",
-      "subject": "EMT",
-      "course_number": "290",
-      "title": "Work Experience Education/Internship for Emergency Medical Technician-Related Fields",
-      "units": 6.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "17",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78002')"
-    },
-    {
       "crn": "77995",
       "subject": "EMT",
       "course_number": "290",
@@ -20421,6 +20389,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77993')"
+    },
+    {
+      "crn": "78002",
+      "subject": "EMT",
+      "course_number": "290",
+      "title": "Work Experience Education/Internship for Emergency Medical Technician-Related Fields",
+      "units": 6.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "17",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78002')"
     },
     {
       "crn": "76371",
