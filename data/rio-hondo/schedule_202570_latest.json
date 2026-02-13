@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-02-12T22:38:46.192047Z",
+  "collection_timestamp": "2026-02-13T06:42:29.243033Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -24921,8 +24921,8 @@
       "location": "Santa Fe Springs Training Ctr",
       "enrollment": {
         "capacity": 30,
-        "actual": 0,
-        "remaining": 30
+        "actual": 1,
+        "remaining": 29
       },
       "status": "CLOSED",
       "section_type": "LEC",
