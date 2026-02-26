@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-02-26T14:41:27.058804Z",
+  "collection_timestamp": "2026-02-26T22:38:48.509375Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -24903,38 +24903,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78404')"
     },
     {
-      "crn": "74805",
-      "subject": "FAC",
-      "course_number": "043",
-      "title": "Advanced Fire Course",
-      "units": 1.7,
-      "instructor": "Michael  Stratton",
-      "instructor_email": "mstratton@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "08:00am",
-          "end_time": "11:50am",
-          "is_arranged": false
-        }
-      ],
-      "location": "Santa Fe Springs Training Ctr",
-      "enrollment": {
-        "capacity": 30,
-        "actual": 1,
-        "remaining": 29
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 1,
-      "start_date": "12/01",
-      "end_date": "12/04",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74805')"
-    },
-    {
       "crn": "77827",
       "subject": "FAC",
       "course_number": "043",
@@ -25189,6 +25157,38 @@
       "end_date": "12/14",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74674')"
+    },
+    {
+      "crn": "74805",
+      "subject": "FAC",
+      "course_number": "043",
+      "title": "Advanced Fire Course",
+      "units": 1.7,
+      "instructor": "Michael  Stratton",
+      "instructor_email": "mstratton@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "08:00am",
+          "end_time": "11:50am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Santa Fe Springs Training Ctr",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 22,
+        "remaining": 8
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 1,
+      "start_date": "12/01",
+      "end_date": "12/04",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74805')"
     },
     {
       "crn": "76085",
