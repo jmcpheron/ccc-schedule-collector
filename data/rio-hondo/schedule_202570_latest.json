@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-03-02T22:37:57.330020Z",
+  "collection_timestamp": "2026-03-03T06:40:58.955856Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -31372,8 +31372,8 @@
       "course_number": "050L",
       "title": "Nurse Assistant Pre-Certification Training Course Lab",
       "units": 2.5,
-      "instructor": "Samantha  Young",
-      "instructor_email": "syoung@riohondo.edu",
+      "instructor": "Allan  Abutin",
+      "instructor_email": "aabutin@riohondo.edu",
       "meeting_times": [
         {
           "days": "T",
@@ -31390,7 +31390,7 @@
       },
       "status": "CLOSED",
       "section_type": "LEC",
-      "zero_textbook_cost": false,
+      "zero_textbook_cost": true,
       "delivery_method": "In-Person",
       "weeks": 16,
       "start_date": "08/16",
