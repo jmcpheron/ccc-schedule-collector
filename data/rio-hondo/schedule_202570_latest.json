@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-03-04T14:39:15.448680Z",
+  "collection_timestamp": "2026-03-04T22:38:36.284347Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -2533,38 +2533,6 @@
       "end_date": "10/10",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78350')"
-    },
-    {
-      "crn": "78355",
-      "subject": "ADN",
-      "course_number": "234",
-      "title": "Nursing Health and Illness Concepts IV",
-      "units": 2.0,
-      "instructor": "Kimberly  Gonzalez",
-      "instructor_email": "kgonzalez@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "Science 210",
-      "enrollment": {
-        "capacity": 40,
-        "actual": 30,
-        "remaining": 10
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 8,
-      "start_date": "10/11",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78355')"
     },
     {
       "crn": "78371",
@@ -61288,7 +61256,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1915,
+    "total_courses": 1914,
     "departments": [
       "ACCT",
       "ADN",
