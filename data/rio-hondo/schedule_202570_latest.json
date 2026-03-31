@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-03-31T14:49:18.143218Z",
+  "collection_timestamp": "2026-03-31T22:38:48.411091Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -10759,6 +10759,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77663')"
     },
     {
+      "crn": "70655",
+      "subject": "BIOL",
+      "course_number": "125",
+      "title": "Human Anatomy",
+      "units": 4.0,
+      "instructor": "Shirley  Isaac",
+      "instructor_email": "scisaac@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "08:00am",
+          "end_time": "09:25am",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 121",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 16,
+        "remaining": 8
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70655')"
+    },
+    {
       "crn": "70652",
       "subject": "BIOL",
       "course_number": "125",
@@ -10821,38 +10853,6 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70654')"
-    },
-    {
-      "crn": "70655",
-      "subject": "BIOL",
-      "course_number": "125",
-      "title": "Human Anatomy",
-      "units": 4.0,
-      "instructor": "Shirley  Isaac",
-      "instructor_email": "scisaac@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "08:00am",
-          "end_time": "09:25am",
-          "is_arranged": false
-        }
-      ],
-      "location": "Science 121",
-      "enrollment": {
-        "capacity": 24,
-        "actual": 17,
-        "remaining": 7
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/16",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70655')"
     },
     {
       "crn": "70656",
