@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-04-29T22:42:19.241628Z",
+  "collection_timestamp": "2026-04-30T07:15:53.802167Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -22398,7 +22398,7 @@
       },
       "status": "CLOSED",
       "section_type": "LEC",
-      "zero_textbook_cost": false,
+      "zero_textbook_cost": true,
       "delivery_method": "In-Person",
       "weeks": 16,
       "start_date": "08/16",
