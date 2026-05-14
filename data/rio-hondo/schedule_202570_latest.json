@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-05-14T15:11:53.257043Z",
+  "collection_timestamp": "2026-05-14T22:44:07.410211Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -13703,6 +13703,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70724')"
     },
     {
+      "crn": "75145",
+      "subject": "CHEM",
+      "course_number": "120",
+      "title": "Introduction to Chemistry",
+      "units": 5.0,
+      "instructor": "Allen  Leung",
+      "instructor_email": "aleung@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "01:40pm",
+          "end_time": "03:45pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Science 333",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 18,
+        "remaining": 6
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75145')"
+    },
+    {
       "crn": "70725",
       "subject": "CHEM",
       "course_number": "120",
@@ -13733,38 +13765,6 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70725')"
-    },
-    {
-      "crn": "75145",
-      "subject": "CHEM",
-      "course_number": "120",
-      "title": "Introduction to Chemistry",
-      "units": 5.0,
-      "instructor": "Allen  Leung",
-      "instructor_email": "aleung@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "01:40pm",
-          "end_time": "03:45pm",
-          "is_arranged": false
-        }
-      ],
-      "location": "Science 333",
-      "enrollment": {
-        "capacity": 24,
-        "actual": 19,
-        "remaining": 5
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/16",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75145')"
     },
     {
       "crn": "77037",
@@ -38471,6 +38471,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77072')"
     },
     {
+      "crn": "71320",
+      "subject": "MATH",
+      "course_number": "190",
+      "title": "Calculus I",
+      "units": 4.0,
+      "instructor": "Miguel  Jimenez Bravo",
+      "instructor_email": "mjimenezbravo@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 209",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 30,
+        "remaining": 5
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71320')"
+    },
+    {
       "crn": "76570",
       "subject": "MATH",
       "course_number": "190",
@@ -38501,38 +38533,6 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76570')"
-    },
-    {
-      "crn": "71320",
-      "subject": "MATH",
-      "course_number": "190",
-      "title": "Calculus I",
-      "units": 4.0,
-      "instructor": "Miguel  Jimenez Bravo",
-      "instructor_email": "mjimenezbravo@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "Science 209",
-      "enrollment": {
-        "capacity": 35,
-        "actual": 31,
-        "remaining": 4
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": "08/16",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71320')"
     },
     {
       "crn": "71319",
