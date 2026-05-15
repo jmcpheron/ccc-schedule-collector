@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-05-15T15:10:24.699655Z",
+  "collection_timestamp": "2026-05-15T22:41:47.702076Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -9863,6 +9863,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70503')"
     },
     {
+      "crn": "70475",
+      "subject": "BIOL",
+      "course_number": "101",
+      "title": "General Biology",
+      "units": 4.0,
+      "instructor": "Thomas  Ryan",
+      "instructor_email": "TRyan@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science 136",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 20,
+        "remaining": 4
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70475')"
+    },
+    {
       "crn": "70482",
       "subject": "BIOL",
       "course_number": "101",
@@ -9925,38 +9957,6 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70486')"
-    },
-    {
-      "crn": "70475",
-      "subject": "BIOL",
-      "course_number": "101",
-      "title": "General Biology",
-      "units": 4.0,
-      "instructor": "Thomas  Ryan",
-      "instructor_email": "TRyan@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "Science 136",
-      "enrollment": {
-        "capacity": 24,
-        "actual": 21,
-        "remaining": 3
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": "08/16",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70475')"
     },
     {
       "crn": "75138",
@@ -16007,6 +16007,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78402')"
     },
     {
+      "crn": "78135",
+      "subject": "COMM",
+      "course_number": "C1000",
+      "title": "Introduction to Public Speaking (formerly SPCH 101)",
+      "units": 3.0,
+      "instructor": "Libby  Curiel",
+      "instructor_email": "lcuriel@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "02:20pm",
+          "end_time": "03:45pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Administration 218",
+      "enrollment": {
+        "capacity": 32,
+        "actual": 23,
+        "remaining": 9
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78135')"
+    },
+    {
       "crn": "78137",
       "subject": "COMM",
       "course_number": "C1000",
@@ -16165,38 +16197,6 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78133')"
-    },
-    {
-      "crn": "78135",
-      "subject": "COMM",
-      "course_number": "C1000",
-      "title": "Introduction to Public Speaking (formerly SPCH 101)",
-      "units": 3.0,
-      "instructor": "Libby  Curiel",
-      "instructor_email": "lcuriel@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "02:20pm",
-          "end_time": "03:45pm",
-          "is_arranged": false
-        }
-      ],
-      "location": "Administration 218",
-      "enrollment": {
-        "capacity": 32,
-        "actual": 24,
-        "remaining": 8
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": true,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/16",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78135')"
     },
     {
       "crn": "78136",
@@ -24677,6 +24677,38 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=72757')"
+    },
+    {
+      "crn": "70754",
+      "subject": "ET",
+      "course_number": "271",
+      "title": "Wastewater Treatment Plant Operations II",
+      "units": 3.0,
+      "instructor": "Scott  Partridge",
+      "instructor_email": "spartridge@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Science",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 0,
+        "remaining": 30
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70754')"
     },
     {
       "crn": "74353",
@@ -61288,7 +61320,7 @@
     }
   ],
   "metadata": {
-    "total_courses": 1915,
+    "total_courses": 1916,
     "departments": [
       "ACCT",
       "ADN",
