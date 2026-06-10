@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-06-10T15:39:34.510026Z",
+  "collection_timestamp": "2026-06-10T22:59:05.858386Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -940,7 +940,7 @@
       "course_number": "130L",
       "title": "Foundational Concepts of Nursing Lab",
       "units": 1.5,
-      "instructor": "Gladys  Quintero",
+      "instructor": "Ms.  Quintero",
       "instructor_email": "gquintero@riohondo.edu",
       "meeting_times": [
         {
@@ -60428,7 +60428,7 @@
       "course_number": "073",
       "title": "Basic Pharmacology",
       "units": 2.0,
-      "instructor": "Gladys  Quintero",
+      "instructor": "Ms.  Quintero",
       "instructor_email": "gquintero@riohondo.edu",
       "meeting_times": [
         {
@@ -60460,7 +60460,7 @@
       "course_number": "078",
       "title": "Vocational Nursing I",
       "units": 9.0,
-      "instructor": "Gladys  Quintero",
+      "instructor": "Ms.  Quintero",
       "instructor_email": "gquintero@riohondo.edu",
       "meeting_times": [
         {
