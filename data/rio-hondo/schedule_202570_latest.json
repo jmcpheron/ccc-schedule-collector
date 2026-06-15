@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-06-15T16:11:51.703519Z",
+  "collection_timestamp": "2026-06-15T23:06:53.901304Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -58188,7 +58188,7 @@
       "course_number": "100",
       "title": "Interpersonal Communication",
       "units": 3.0,
-      "instructor": "Gilbert  Puga",
+      "instructor": "Gil  Puga",
       "instructor_email": "gpuga@riohondo.edu",
       "meeting_times": [
         {
@@ -58732,7 +58732,7 @@
       "course_number": "140",
       "title": "Argumentation and Debate",
       "units": 3.0,
-      "instructor": "Gilbert  Puga",
+      "instructor": "Gil  Puga",
       "instructor_email": "gpuga@riohondo.edu",
       "meeting_times": [
         {
