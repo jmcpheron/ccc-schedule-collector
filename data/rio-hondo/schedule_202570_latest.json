@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202570",
-  "collection_timestamp": "2026-07-09T15:32:32.126197Z",
+  "collection_timestamp": "2026-07-09T22:51:41.222011Z",
   "source_url": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_listthislist",
   "college_id": "rio-hondo",
   "collector_version": "1.0.0",
@@ -69,38 +69,6 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77649')"
-    },
-    {
-      "crn": "71278",
-      "subject": "ACCT",
-      "course_number": "101",
-      "title": "Financial Accounting",
-      "units": 4.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "16",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71278')"
     },
     {
       "crn": "71216",
@@ -389,6 +357,38 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74147')"
+    },
+    {
+      "crn": "71278",
+      "subject": "ACCT",
+      "course_number": "101",
+      "title": "Financial Accounting",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71278')"
     },
     {
       "crn": "76990",
@@ -2823,70 +2823,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70386')"
     },
     {
-      "crn": "71609",
-      "subject": "AJ",
-      "course_number": "101",
-      "title": "Introduction to Administration of Justice",
-      "units": 3.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "16",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71609')"
-    },
-    {
-      "crn": "74268",
-      "subject": "AJ",
-      "course_number": "101",
-      "title": "Introduction to Administration of Justice",
-      "units": 3.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "14",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74268')"
-    },
-    {
       "crn": "72296",
       "subject": "AJ",
       "course_number": "101",
@@ -3111,6 +3047,70 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70390')"
     },
     {
+      "crn": "71609",
+      "subject": "AJ",
+      "course_number": "101",
+      "title": "Introduction to Administration of Justice",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71609')"
+    },
+    {
+      "crn": "74268",
+      "subject": "AJ",
+      "course_number": "101",
+      "title": "Introduction to Administration of Justice",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "14",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74268')"
+    },
+    {
       "crn": "70393",
       "subject": "AJ",
       "course_number": "102",
@@ -3173,38 +3173,6 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75291')"
-    },
-    {
-      "crn": "75664",
-      "subject": "AJ",
-      "course_number": "102",
-      "title": "Criminal Procedures",
-      "units": 3.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "14",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75664')"
     },
     {
       "crn": "71538",
@@ -3301,6 +3269,38 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70398')"
+    },
+    {
+      "crn": "75664",
+      "subject": "AJ",
+      "course_number": "102",
+      "title": "Criminal Procedures",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "14",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75664')"
     },
     {
       "crn": "70399",
@@ -3463,38 +3463,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70406')"
     },
     {
-      "crn": "73269",
-      "subject": "AJ",
-      "course_number": "105",
-      "title": "Community Relations/Multicultural Issues Within Public Service",
-      "units": 3.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "14",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73269')"
-    },
-    {
       "crn": "70405",
       "subject": "AJ",
       "course_number": "105",
@@ -3525,6 +3493,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70405')"
+    },
+    {
+      "crn": "73269",
+      "subject": "AJ",
+      "course_number": "105",
+      "title": "Community Relations/Multicultural Issues Within Public Service",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "14",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73269')"
     },
     {
       "crn": "75641",
@@ -4935,70 +4935,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77323')"
     },
     {
-      "crn": "75212",
-      "subject": "ANTH",
-      "course_number": "102",
-      "title": "Introduction to Cultural Anthropology",
-      "units": 3.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "14",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75212')"
-    },
-    {
-      "crn": "75315",
-      "subject": "ANTH",
-      "course_number": "102",
-      "title": "Introduction to Cultural Anthropology",
-      "units": 3.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "14",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75315')"
-    },
-    {
       "crn": "70026",
       "subject": "ANTH",
       "course_number": "102",
@@ -5061,6 +4997,70 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70025')"
+    },
+    {
+      "crn": "75212",
+      "subject": "ANTH",
+      "course_number": "102",
+      "title": "Introduction to Cultural Anthropology",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "14",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75212')"
+    },
+    {
+      "crn": "75315",
+      "subject": "ANTH",
+      "course_number": "102",
+      "title": "Introduction to Cultural Anthropology",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "14",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75315')"
     },
     {
       "crn": "74296",
@@ -8807,38 +8807,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78527')"
     },
     {
-      "crn": "74310",
-      "subject": "AUTO",
-      "course_number": "101",
-      "title": "Introduction to Automotive Service and Repair: Underhood Service",
-      "units": 3.0,
-      "instructor": "Andrew  Gold",
-      "instructor_email": "agold@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "03:45pm",
-          "end_time": "04:55pm",
-          "is_arranged": false
-        }
-      ],
-      "location": "Pico Educational Center 201",
-      "enrollment": {
-        "capacity": 24,
-        "actual": 12,
-        "remaining": 12
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/18",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74310')"
-    },
-    {
       "crn": "70353",
       "subject": "AUTO",
       "course_number": "101",
@@ -8933,6 +8901,38 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74491')"
+    },
+    {
+      "crn": "74310",
+      "subject": "AUTO",
+      "course_number": "101",
+      "title": "Introduction to Automotive Service and Repair: Underhood Service",
+      "units": 3.0,
+      "instructor": "Andrew  Gold",
+      "instructor_email": "agold@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "03:45pm",
+          "end_time": "04:55pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Pico Educational Center 201",
+      "enrollment": {
+        "capacity": 24,
+        "actual": 12,
+        "remaining": 12
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/18",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74310')"
     },
     {
       "crn": "70349",
@@ -11655,38 +11655,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71285')"
     },
     {
-      "crn": "78020",
-      "subject": "BUSL",
-      "course_number": "110",
-      "title": "Legal Environment of Business",
-      "units": 3.0,
-      "instructor": "Eric  Bladh",
-      "instructor_email": "ebladh@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "R",
-          "start_time": "08:30am",
-          "end_time": "09:55am",
-          "is_arranged": false
-        }
-      ],
-      "location": "El Rancho High School",
-      "enrollment": {
-        "capacity": 45,
-        "actual": 20,
-        "remaining": 25
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/18",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78020')"
-    },
-    {
       "crn": "73794",
       "subject": "BUSL",
       "course_number": "110",
@@ -11911,6 +11879,38 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71001')"
     },
     {
+      "crn": "78020",
+      "subject": "BUSL",
+      "course_number": "110",
+      "title": "Legal Environment of Business",
+      "units": 3.0,
+      "instructor": "Eric  Bladh",
+      "instructor_email": "ebladh@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:30am",
+          "end_time": "09:55am",
+          "is_arranged": false
+        }
+      ],
+      "location": "El Rancho High School",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 20,
+        "remaining": 25
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/18",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78020')"
+    },
+    {
       "crn": "77610",
       "subject": "CD",
       "course_number": "102",
@@ -12069,102 +12069,6 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75810')"
-    },
-    {
-      "crn": "75793",
-      "subject": "CD",
-      "course_number": "106",
-      "title": "Child Growth and Development",
-      "units": 3.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "13",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75793')"
-    },
-    {
-      "crn": "75790",
-      "subject": "CD",
-      "course_number": "106",
-      "title": "Child Growth and Development",
-      "units": 3.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "14",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75790')"
-    },
-    {
-      "crn": "75791",
-      "subject": "CD",
-      "course_number": "106",
-      "title": "Child Growth and Development",
-      "units": 3.0,
-      "instructor": "Allyson  Ventura",
-      "instructor_email": "AVentura@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "La Serna High School",
-      "enrollment": {
-        "capacity": 45,
-        "actual": 19,
-        "remaining": 26
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 14,
-      "start_date": "09/01",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75791')"
     },
     {
       "crn": "70055",
@@ -12453,6 +12357,102 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70046')"
+    },
+    {
+      "crn": "75790",
+      "subject": "CD",
+      "course_number": "106",
+      "title": "Child Growth and Development",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "14",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75790')"
+    },
+    {
+      "crn": "75791",
+      "subject": "CD",
+      "course_number": "106",
+      "title": "Child Growth and Development",
+      "units": 3.0,
+      "instructor": "Allyson  Ventura",
+      "instructor_email": "AVentura@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "La Serna High School",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 19,
+        "remaining": 26
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 14,
+      "start_date": "09/01",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75791')"
+    },
+    {
+      "crn": "75793",
+      "subject": "CD",
+      "course_number": "106",
+      "title": "Child Growth and Development",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "13",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75793')"
     },
     {
       "crn": "78480",
@@ -12775,38 +12775,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75696')"
     },
     {
-      "crn": "71481",
-      "subject": "CD",
-      "course_number": "208",
-      "title": "Child, Family, and Community",
-      "units": 3.0,
-      "instructor": "Grace  Gallogly",
-      "instructor_email": "GGallogly@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "El Monte High School",
-      "enrollment": {
-        "capacity": 45,
-        "actual": 17,
-        "remaining": 28
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 14,
-      "start_date": "09/01",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71481')"
-    },
-    {
       "crn": "70072",
       "subject": "CD",
       "course_number": "208",
@@ -12997,6 +12965,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74302')"
+    },
+    {
+      "crn": "71481",
+      "subject": "CD",
+      "course_number": "208",
+      "title": "Child, Family, and Community",
+      "units": 3.0,
+      "instructor": "Grace  Gallogly",
+      "instructor_email": "GGallogly@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "El Monte High School",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 17,
+        "remaining": 28
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 14,
+      "start_date": "09/01",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=71481')"
     },
     {
       "crn": "73731",
@@ -14343,70 +14343,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77605')"
     },
     {
-      "crn": "75140",
-      "subject": "CHST",
-      "course_number": "101",
-      "title": "Introduction to Chicana/o/x Studies",
-      "units": 3.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "16",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75140')"
-    },
-    {
-      "crn": "77073",
-      "subject": "CHST",
-      "course_number": "101",
-      "title": "Introduction to Chicana/o/x Studies",
-      "units": 3.0,
-      "instructor": "Guadalupe  Cardona",
-      "instructor_email": "gycarrasco@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "08:45am",
-          "end_time": "10:10am",
-          "is_arranged": false
-        }
-      ],
-      "location": "South El Monte High School",
-      "enrollment": {
-        "capacity": 45,
-        "actual": 34,
-        "remaining": 11
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/16",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77073')"
-    },
-    {
       "crn": "76988",
       "subject": "CHST",
       "course_number": "101",
@@ -14533,38 +14469,6 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70036')"
-    },
-    {
-      "crn": "76482",
-      "subject": "CHST",
-      "course_number": "101",
-      "title": "Introduction to Chicana/o/x Studies",
-      "units": 3.0,
-      "instructor": "Monica  Serafin",
-      "instructor_email": "mserafin@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "08:45am",
-          "end_time": "10:10am",
-          "is_arranged": false
-        }
-      ],
-      "location": "South El Monte High School",
-      "enrollment": {
-        "capacity": 45,
-        "actual": 37,
-        "remaining": 8
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/16",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76482')"
     },
     {
       "crn": "77762",
@@ -14789,6 +14693,102 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77671')"
+    },
+    {
+      "crn": "75140",
+      "subject": "CHST",
+      "course_number": "101",
+      "title": "Introduction to Chicana/o/x Studies",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75140')"
+    },
+    {
+      "crn": "77073",
+      "subject": "CHST",
+      "course_number": "101",
+      "title": "Introduction to Chicana/o/x Studies",
+      "units": 3.0,
+      "instructor": "Guadalupe  Cardona",
+      "instructor_email": "gycarrasco@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "08:45am",
+          "end_time": "10:10am",
+          "is_arranged": false
+        }
+      ],
+      "location": "South El Monte High School",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 34,
+        "remaining": 11
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77073')"
+    },
+    {
+      "crn": "76482",
+      "subject": "CHST",
+      "course_number": "101",
+      "title": "Introduction to Chicana/o/x Studies",
+      "units": 3.0,
+      "instructor": "Monica  Serafin",
+      "instructor_email": "mserafin@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "08:45am",
+          "end_time": "10:10am",
+          "is_arranged": false
+        }
+      ],
+      "location": "South El Monte High School",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 37,
+        "remaining": 8
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76482')"
     },
     {
       "crn": "70038",
@@ -15815,38 +15815,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77912')"
     },
     {
-      "crn": "78387",
-      "subject": "COMM",
-      "course_number": "C1000",
-      "title": "Introduction to Public Speaking (formerly SPCH 101)",
-      "units": 3.0,
-      "instructor": "Angela  Williamson",
-      "instructor_email": "awilliamson@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "03:30pm",
-          "end_time": "05:20pm",
-          "is_arranged": false
-        }
-      ],
-      "location": "La Serna High School",
-      "enrollment": {
-        "capacity": 32,
-        "actual": 12,
-        "remaining": 20
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 14,
-      "start_date": "09/01",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78387')"
-    },
-    {
       "crn": "78173",
       "subject": "COMM",
       "course_number": "C1000",
@@ -16295,38 +16263,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78246')"
     },
     {
-      "crn": "78386",
-      "subject": "COMM",
-      "course_number": "C1000",
-      "title": "Introduction to Public Speaking (formerly SPCH 101)",
-      "units": 3.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "16",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78386')"
-    },
-    {
       "crn": "78241",
       "subject": "COMM",
       "course_number": "C1000",
@@ -16743,6 +16679,70 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78141')"
     },
     {
+      "crn": "78387",
+      "subject": "COMM",
+      "course_number": "C1000",
+      "title": "Introduction to Public Speaking (formerly SPCH 101)",
+      "units": 3.0,
+      "instructor": "Angela  Williamson",
+      "instructor_email": "awilliamson@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "03:30pm",
+          "end_time": "05:20pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "La Serna High School",
+      "enrollment": {
+        "capacity": 32,
+        "actual": 12,
+        "remaining": 20
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 14,
+      "start_date": "09/01",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78387')"
+    },
+    {
+      "crn": "78386",
+      "subject": "COMM",
+      "course_number": "C1000",
+      "title": "Introduction to Public Speaking (formerly SPCH 101)",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78386')"
+    },
+    {
       "crn": "78339",
       "subject": "COMM",
       "course_number": "C1000H",
@@ -16901,38 +16901,6 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74556')"
-    },
-    {
-      "crn": "73266",
-      "subject": "COUN",
-      "course_number": "101",
-      "title": "College and Life Success (Same as EDEV 101)",
-      "units": 3.0,
-      "instructor": "Monica  Villa",
-      "instructor_email": "MVilla@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "Ledesma High School",
-      "enrollment": {
-        "capacity": 35,
-        "actual": 14,
-        "remaining": 21
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 14,
-      "start_date": "09/01",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73266')"
     },
     {
       "crn": "74412",
@@ -17127,38 +17095,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77354')"
     },
     {
-      "crn": "70581",
-      "subject": "COUN",
-      "course_number": "101",
-      "title": "College and Life Success (Same as EDEV 101)",
-      "units": 3.0,
-      "instructor": "Cindy  Osorio",
-      "instructor_email": "cosorio@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "03:15pm",
-          "end_time": "05:05pm",
-          "is_arranged": false
-        }
-      ],
-      "location": "Pioneer High School",
-      "enrollment": {
-        "capacity": 35,
-        "actual": 25,
-        "remaining": 10
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 14,
-      "start_date": "09/01",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70581')"
-    },
-    {
       "crn": "70602",
       "subject": "COUN",
       "course_number": "101",
@@ -17189,70 +17125,6 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70602')"
-    },
-    {
-      "crn": "74440",
-      "subject": "COUN",
-      "course_number": "101",
-      "title": "College and Life Success (Same as EDEV 101)",
-      "units": 3.0,
-      "instructor": "Cynthia  Bernal",
-      "instructor_email": "cbernal@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "South El Monte High School",
-      "enrollment": {
-        "capacity": 35,
-        "actual": 26,
-        "remaining": 9
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": "08/16",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74440')"
-    },
-    {
-      "crn": "74508",
-      "subject": "COUN",
-      "course_number": "101",
-      "title": "College and Life Success (Same as EDEV 101)",
-      "units": 3.0,
-      "instructor": "Nicole  Morales",
-      "instructor_email": "nmorales@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "South El Monte High School",
-      "enrollment": {
-        "capacity": 35,
-        "actual": 26,
-        "remaining": 9
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": "08/16",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74508')"
     },
     {
       "crn": "73838",
@@ -17319,38 +17191,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70589')"
     },
     {
-      "crn": "75360",
-      "subject": "COUN",
-      "course_number": "101",
-      "title": "College and Life Success (Same as EDEV 101)",
-      "units": 3.0,
-      "instructor": "Igor  Daza",
-      "instructor_email": "idaza@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "South El Monte High School",
-      "enrollment": {
-        "capacity": 35,
-        "actual": 32,
-        "remaining": 3
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": "08/16",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75360')"
-    },
-    {
       "crn": "74536",
       "subject": "COUN",
       "course_number": "101",
@@ -17381,6 +17221,166 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74536')"
+    },
+    {
+      "crn": "70581",
+      "subject": "COUN",
+      "course_number": "101",
+      "title": "College and Life Success (Same as EDEV 101)",
+      "units": 3.0,
+      "instructor": "Cindy  Osorio",
+      "instructor_email": "cosorio@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "03:15pm",
+          "end_time": "05:05pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Pioneer High School",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 25,
+        "remaining": 10
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 14,
+      "start_date": "09/01",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70581')"
+    },
+    {
+      "crn": "73266",
+      "subject": "COUN",
+      "course_number": "101",
+      "title": "College and Life Success (Same as EDEV 101)",
+      "units": 3.0,
+      "instructor": "Monica  Villa",
+      "instructor_email": "MVilla@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "Ledesma High School",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 14,
+        "remaining": 21
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 14,
+      "start_date": "09/01",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73266')"
+    },
+    {
+      "crn": "74440",
+      "subject": "COUN",
+      "course_number": "101",
+      "title": "College and Life Success (Same as EDEV 101)",
+      "units": 3.0,
+      "instructor": "Cynthia  Bernal",
+      "instructor_email": "cbernal@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "South El Monte High School",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 26,
+        "remaining": 9
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74440')"
+    },
+    {
+      "crn": "74508",
+      "subject": "COUN",
+      "course_number": "101",
+      "title": "College and Life Success (Same as EDEV 101)",
+      "units": 3.0,
+      "instructor": "Nicole  Morales",
+      "instructor_email": "nmorales@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "South El Monte High School",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 26,
+        "remaining": 9
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74508')"
+    },
+    {
+      "crn": "75360",
+      "subject": "COUN",
+      "course_number": "101",
+      "title": "College and Life Success (Same as EDEV 101)",
+      "units": 3.0,
+      "instructor": "Igor  Daza",
+      "instructor_email": "idaza@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "South El Monte High School",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 32,
+        "remaining": 3
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75360')"
     },
     {
       "crn": "78418",
@@ -17445,38 +17445,6 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76395')"
-    },
-    {
-      "crn": "73825",
-      "subject": "COUN",
-      "course_number": "151",
-      "title": "Career Exploration and Life Planning (Same as EDEV 151)",
-      "units": 3.0,
-      "instructor": "Matthew  Tremper",
-      "instructor_email": "MTremper@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "California High School",
-      "enrollment": {
-        "capacity": 35,
-        "actual": 15,
-        "remaining": 20
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 14,
-      "start_date": "09/01",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73825')"
     },
     {
       "crn": "76652",
@@ -17797,6 +17765,38 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75828')"
+    },
+    {
+      "crn": "73825",
+      "subject": "COUN",
+      "course_number": "151",
+      "title": "Career Exploration and Life Planning (Same as EDEV 151)",
+      "units": 3.0,
+      "instructor": "Matthew  Tremper",
+      "instructor_email": "MTremper@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "California High School",
+      "enrollment": {
+        "capacity": 35,
+        "actual": 15,
+        "remaining": 20
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 14,
+      "start_date": "09/01",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73825')"
     },
     {
       "crn": "76963",
@@ -31623,38 +31623,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70152')"
     },
     {
-      "crn": "76484",
-      "subject": "HUM",
-      "course_number": "125",
-      "title": "Introduction to Mexican Culture",
-      "units": 3.0,
-      "instructor": "Albert  Ocon",
-      "instructor_email": "aocon@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "03:15pm",
-          "end_time": "05:05pm",
-          "is_arranged": false
-        }
-      ],
-      "location": "Pioneer High School",
-      "enrollment": {
-        "capacity": 45,
-        "actual": 27,
-        "remaining": 18
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 13,
-      "start_date": "09/01",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76484')"
-    },
-    {
       "crn": "70146",
       "subject": "HUM",
       "course_number": "125",
@@ -31749,6 +31717,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70153')"
+    },
+    {
+      "crn": "76484",
+      "subject": "HUM",
+      "course_number": "125",
+      "title": "Introduction to Mexican Culture",
+      "units": 3.0,
+      "instructor": "Albert  Ocon",
+      "instructor_email": "aocon@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "03:15pm",
+          "end_time": "05:05pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Pioneer High School",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 27,
+        "remaining": 18
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 13,
+      "start_date": "09/01",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76484')"
     },
     {
       "crn": "70154",
@@ -33159,38 +33159,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74354')"
     },
     {
-      "crn": "77302",
-      "subject": "KIN",
-      "course_number": "194",
-      "title": "Introduction to Kinesiology",
-      "units": 3.0,
-      "instructor": "Jodi  Senk",
-      "instructor_email": "jsenk@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "T",
-          "start_time": "03:35pm",
-          "end_time": "05:25pm",
-          "is_arranged": false
-        }
-      ],
-      "location": "Santa Fe High School",
-      "enrollment": {
-        "capacity": 45,
-        "actual": 23,
-        "remaining": 22
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 14,
-      "start_date": "09/01",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77302')"
-    },
-    {
       "crn": "74346",
       "subject": "KIN",
       "course_number": "194",
@@ -33317,6 +33285,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77127')"
+    },
+    {
+      "crn": "77302",
+      "subject": "KIN",
+      "course_number": "194",
+      "title": "Introduction to Kinesiology",
+      "units": 3.0,
+      "instructor": "Jodi  Senk",
+      "instructor_email": "jsenk@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "T",
+          "start_time": "03:35pm",
+          "end_time": "05:25pm",
+          "is_arranged": false
+        }
+      ],
+      "location": "Santa Fe High School",
+      "enrollment": {
+        "capacity": 45,
+        "actual": 23,
+        "remaining": 22
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 14,
+      "start_date": "09/01",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77302')"
     },
     {
       "crn": "73787",
@@ -37799,38 +37799,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77925')"
     },
     {
-      "crn": "78399",
-      "subject": "MATH",
-      "course_number": "170",
-      "title": "Elements of Calculus",
-      "units": 4.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "16",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78399')"
-    },
-    {
       "crn": "74534",
       "subject": "MATH",
       "course_number": "170",
@@ -38021,6 +37989,38 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78459')"
+    },
+    {
+      "crn": "78399",
+      "subject": "MATH",
+      "course_number": "170",
+      "title": "Elements of Calculus",
+      "units": 4.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78399')"
     },
     {
       "crn": "76530",
@@ -39687,36 +39687,36 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75217')"
     },
     {
-      "crn": "77590",
+      "crn": "78021",
       "subject": "MSCM",
       "course_number": "128",
       "title": "Mass Media in Modern Society",
       "units": 3.0,
-      "instructor": "Aldore  Collier",
-      "instructor_email": "acollier@riohondo.edu",
+      "instructor": "TBA",
+      "instructor_email": null,
       "meeting_times": [
         {
-          "days": "TR",
-          "start_time": "03:35pm",
-          "end_time": "05:40pm",
-          "is_arranged": false
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
         }
       ],
-      "location": "Ledesma High School",
+      "location": "16",
       "enrollment": {
-        "capacity": 32,
-        "actual": 19,
-        "remaining": 13
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
       },
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 14,
-      "start_date": "09/01",
-      "end_date": "12/06",
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77590')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78021')"
     },
     {
       "crn": "77563",
@@ -39751,36 +39751,36 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77563')"
     },
     {
-      "crn": "78021",
+      "crn": "77590",
       "subject": "MSCM",
       "course_number": "128",
       "title": "Mass Media in Modern Society",
       "units": 3.0,
-      "instructor": "TBA",
-      "instructor_email": null,
+      "instructor": "Aldore  Collier",
+      "instructor_email": "acollier@riohondo.edu",
       "meeting_times": [
         {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
+          "days": "TR",
+          "start_time": "03:35pm",
+          "end_time": "05:40pm",
+          "is_arranged": false
         }
       ],
-      "location": "16",
+      "location": "Ledesma High School",
       "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
+        "capacity": 32,
+        "actual": 19,
+        "remaining": 13
       },
       "status": "CLOSED",
       "section_type": "LEC",
       "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
+      "delivery_method": "In-Person",
+      "weeks": 14,
+      "start_date": "09/01",
+      "end_date": "12/06",
       "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=78021')"
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77590')"
     },
     {
       "crn": "77113",
@@ -40007,70 +40007,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76741')"
     },
     {
-      "crn": "74492",
-      "subject": "MUS",
-      "course_number": "133",
-      "title": "Music Appreciation",
-      "units": 3.0,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "16",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74492')"
-    },
-    {
-      "crn": "74317",
-      "subject": "MUS",
-      "course_number": "133",
-      "title": "Music Appreciation",
-      "units": 3.0,
-      "instructor": "Andrew  Zacharias",
-      "instructor_email": "AZacharias@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "R",
-          "start_time": "08:30am",
-          "end_time": "09:55am",
-          "is_arranged": false
-        }
-      ],
-      "location": "El Rancho High School",
-      "enrollment": {
-        "capacity": 50,
-        "actual": 25,
-        "remaining": 25
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/18",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74317')"
-    },
-    {
       "crn": "70810",
       "subject": "MUS",
       "course_number": "133",
@@ -40101,70 +40037,6 @@
       "end_date": "12/06",
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70810')"
-    },
-    {
-      "crn": "77045",
-      "subject": "MUS",
-      "course_number": "133",
-      "title": "Music Appreciation",
-      "units": 3.0,
-      "instructor": "Kim  Mendez",
-      "instructor_email": "KMendez@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "South El Monte High School",
-      "enrollment": {
-        "capacity": 50,
-        "actual": 28,
-        "remaining": 22
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": "08/16",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77045')"
-    },
-    {
-      "crn": "73829",
-      "subject": "MUS",
-      "course_number": "133",
-      "title": "Music Appreciation",
-      "units": 3.0,
-      "instructor": "Brandon  Bernstein",
-      "instructor_email": "BBernstein@riohondo.edu",
-      "meeting_times": [
-        {
-          "days": "TBA",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "South El Monte High School",
-      "enrollment": {
-        "capacity": 50,
-        "actual": 31,
-        "remaining": 19
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": "08/16",
-      "end_date": "12/06",
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73829')"
     },
     {
       "crn": "72304",
@@ -40357,6 +40229,134 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=76769')"
+    },
+    {
+      "crn": "74317",
+      "subject": "MUS",
+      "course_number": "133",
+      "title": "Music Appreciation",
+      "units": 3.0,
+      "instructor": "Andrew  Zacharias",
+      "instructor_email": "AZacharias@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "R",
+          "start_time": "08:30am",
+          "end_time": "09:55am",
+          "is_arranged": false
+        }
+      ],
+      "location": "El Rancho High School",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 25,
+        "remaining": 25
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/18",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74317')"
+    },
+    {
+      "crn": "74492",
+      "subject": "MUS",
+      "course_number": "133",
+      "title": "Music Appreciation",
+      "units": 3.0,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "16",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74492')"
+    },
+    {
+      "crn": "77045",
+      "subject": "MUS",
+      "course_number": "133",
+      "title": "Music Appreciation",
+      "units": 3.0,
+      "instructor": "Kim  Mendez",
+      "instructor_email": "KMendez@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "South El Monte High School",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 28,
+        "remaining": 22
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=77045')"
+    },
+    {
+      "crn": "73829",
+      "subject": "MUS",
+      "course_number": "133",
+      "title": "Music Appreciation",
+      "units": 3.0,
+      "instructor": "Brandon  Bernstein",
+      "instructor_email": "BBernstein@riohondo.edu",
+      "meeting_times": [
+        {
+          "days": "TBA",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "South El Monte High School",
+      "enrollment": {
+        "capacity": 50,
+        "actual": 31,
+        "remaining": 19
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": "08/16",
+      "end_date": "12/06",
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=73829')"
     },
     {
       "crn": "70812",
@@ -57543,38 +57543,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75773')"
     },
     {
-      "crn": "75800",
-      "subject": "SPAN",
-      "course_number": "101",
-      "title": "Spanish I",
-      "units": 4.5,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "14",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75800')"
-    },
-    {
       "crn": "71016",
       "subject": "SPAN",
       "course_number": "101",
@@ -57637,38 +57605,6 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=74658')"
-    },
-    {
-      "crn": "75774",
-      "subject": "SPAN",
-      "course_number": "101",
-      "title": "Spanish I",
-      "units": 4.5,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "14",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75774')"
     },
     {
       "crn": "77017",
@@ -57799,38 +57735,6 @@
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=70906')"
     },
     {
-      "crn": "75605",
-      "subject": "SPAN",
-      "course_number": "101",
-      "title": "Spanish I",
-      "units": 4.5,
-      "instructor": "TBA",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "ARR",
-          "start_time": null,
-          "end_time": null,
-          "is_arranged": true
-        }
-      ],
-      "location": "14",
-      "enrollment": {
-        "capacity": 0,
-        "actual": 0,
-        "remaining": 0
-      },
-      "status": "CLOSED",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "Arranged",
-      "weeks": 16,
-      "start_date": null,
-      "end_date": null,
-      "additional_hours": null,
-      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75605')"
-    },
-    {
       "crn": "75776",
       "subject": "SPAN",
       "course_number": "101",
@@ -57893,6 +57797,102 @@
       "end_date": null,
       "additional_hours": null,
       "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75772')"
+    },
+    {
+      "crn": "75800",
+      "subject": "SPAN",
+      "course_number": "101",
+      "title": "Spanish I",
+      "units": 4.5,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "14",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75800')"
+    },
+    {
+      "crn": "75774",
+      "subject": "SPAN",
+      "course_number": "101",
+      "title": "Spanish I",
+      "units": 4.5,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "14",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75774')"
+    },
+    {
+      "crn": "75605",
+      "subject": "SPAN",
+      "course_number": "101",
+      "title": "Spanish I",
+      "units": 4.5,
+      "instructor": "TBA",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "ARR",
+          "start_time": null,
+          "end_time": null,
+          "is_arranged": true
+        }
+      ],
+      "location": "14",
+      "enrollment": {
+        "capacity": 0,
+        "actual": 0,
+        "remaining": 0
+      },
+      "status": "CLOSED",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "Arranged",
+      "weeks": 16,
+      "start_date": null,
+      "end_date": null,
+      "additional_hours": null,
+      "book_link": "JavaScript:winOpen('https://www.bkstr.com/webApp/discoverView?bookstore_id-1=890&term_id-1=202570&crn-1=75605')"
     },
     {
       "crn": "77592",
