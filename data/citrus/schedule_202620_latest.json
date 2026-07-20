@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2026-07-20T15:49:58.904043Z",
+  "collection_timestamp": "2026-07-20T23:33:15.048352Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -11737,8 +11737,8 @@
       "location": "ONLINE",
       "enrollment": {
         "capacity": 36,
-        "actual": 30,
-        "remaining": 6
+        "actual": 29,
+        "remaining": 7
       },
       "status": "Closed",
       "section_type": "LEC",
@@ -14576,13 +14576,13 @@
       "instructor_email": null,
       "meeting_times": [
         {
-          "days": "MW",
-          "start_time": "08:20AM",
-          "end_time": "09:45AM",
+          "days": "TR",
+          "start_time": "08:00AM",
+          "end_time": "09:30AM",
           "is_arranged": false
         }
       ],
-      "location": "VA 210",
+      "location": "VT 319",
       "enrollment": {
         "capacity": 20,
         "actual": 12,
