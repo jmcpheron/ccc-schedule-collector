@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2026-07-27T16:00:22.095651Z",
+  "collection_timestamp": "2026-07-27T23:34:48.466073Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -14576,9 +14576,9 @@
       "instructor_email": null,
       "meeting_times": [
         {
-          "days": "TR",
-          "start_time": "08:00AM",
-          "end_time": "09:30AM",
+          "days": "MW",
+          "start_time": "08:20AM",
+          "end_time": "09:45AM",
           "is_arranged": false
         }
       ],
