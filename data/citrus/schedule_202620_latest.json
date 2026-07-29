@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2026-07-29T15:49:51.141860Z",
+  "collection_timestamp": "2026-07-29T23:33:22.621315Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -6695,6 +6695,102 @@
       "book_link": null
     },
     {
+      "crn": "24887",
+      "subject": "ENGL",
+      "course_number": "1001",
+      "title": "Critical Thinking and Writing",
+      "units": 3.0,
+      "instructor": "Curran, Mick",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "MW",
+          "start_time": "09:55AM",
+          "end_time": "11:20AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "ED 215",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 20,
+        "remaining": 10
+      },
+      "status": "Closed",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24888",
+      "subject": "ENGL",
+      "course_number": "1001",
+      "title": "Critical Thinking and Writing",
+      "units": 3.0,
+      "instructor": "Hernandez, Adrianna",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "01:05PM",
+          "end_time": "02:30PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "ED 215",
+      "enrollment": {
+        "capacity": 30,
+        "actual": 19,
+        "remaining": 11
+      },
+      "status": "Closed",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 8,
+      "start_date": "10/20",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
+      "crn": "24892",
+      "subject": "ENGL",
+      "course_number": "1001H",
+      "title": "Crit Think and Writing Honors",
+      "units": 3.0,
+      "instructor": "Rudd, Becky",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "M",
+          "start_time": "11:30AM",
+          "end_time": "12:55PM",
+          "is_arranged": false
+        }
+      ],
+      "location": "TC 123",
+      "enrollment": {
+        "capacity": 20,
+        "actual": 14,
+        "remaining": 6
+      },
+      "status": "Closed",
+      "section_type": "LEC",
+      "zero_textbook_cost": true,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
       "crn": "22720",
       "subject": "ENGL",
       "course_number": "103",
@@ -7963,102 +8059,6 @@
         "capacity": 20,
         "actual": 10,
         "remaining": 10
-      },
-      "status": "Closed",
-      "section_type": "LEC",
-      "zero_textbook_cost": true,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
-      "crn": "24887",
-      "subject": "ENGL",
-      "course_number": "C1001",
-      "title": "Literature of the Bible",
-      "units": 3.0,
-      "instructor": "Curran, Mick",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "MW",
-          "start_time": "09:55AM",
-          "end_time": "11:20AM",
-          "is_arranged": false
-        }
-      ],
-      "location": "ED 215",
-      "enrollment": {
-        "capacity": 30,
-        "actual": 20,
-        "remaining": 10
-      },
-      "status": "Closed",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
-      "crn": "24888",
-      "subject": "ENGL",
-      "course_number": "C1001",
-      "title": "Literature of the Bible",
-      "units": 3.0,
-      "instructor": "Hernandez, Adrianna",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "01:05PM",
-          "end_time": "02:30PM",
-          "is_arranged": false
-        }
-      ],
-      "location": "ED 215",
-      "enrollment": {
-        "capacity": 30,
-        "actual": 19,
-        "remaining": 11
-      },
-      "status": "Closed",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 8,
-      "start_date": "10/20",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
-      "crn": "24892",
-      "subject": "ENGL",
-      "course_number": "C1001H",
-      "title": "Literature of the Bible",
-      "units": 3.0,
-      "instructor": "Rudd, Becky",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "M",
-          "start_time": "11:30AM",
-          "end_time": "12:55PM",
-          "is_arranged": false
-        }
-      ],
-      "location": "TC 123",
-      "enrollment": {
-        "capacity": 20,
-        "actual": 14,
-        "remaining": 6
       },
       "status": "Closed",
       "section_type": "LEC",
@@ -12489,8 +12489,8 @@
     {
       "crn": "24752",
       "subject": "POLS",
-      "course_number": "C1000",
-      "title": "Team-Based Research Physics II",
+      "course_number": "1000",
+      "title": "American Gov & Politics",
       "units": 3.0,
       "instructor": "Ramos Bernal, Natasha",
       "instructor_email": null,
@@ -12521,8 +12521,8 @@
     {
       "crn": "24836",
       "subject": "POLS",
-      "course_number": "C1000",
-      "title": "Team-Based Research Physics II",
+      "course_number": "1000",
+      "title": "American Gov & Politics",
       "units": 3.0,
       "instructor": "Ramos Bernal, Natasha",
       "instructor_email": null,
@@ -12553,8 +12553,8 @@
     {
       "crn": "24839",
       "subject": "POLS",
-      "course_number": "C1000",
-      "title": "Team-Based Research Physics II",
+      "course_number": "1000",
+      "title": "American Gov & Politics",
       "units": 3.0,
       "instructor": "Andrew, Stephen",
       "instructor_email": null,
@@ -12585,8 +12585,8 @@
     {
       "crn": "24841",
       "subject": "POLS",
-      "course_number": "C1000",
-      "title": "Team-Based Research Physics II",
+      "course_number": "1000",
+      "title": "American Gov & Politics",
       "units": 3.0,
       "instructor": "Alameddine, Zein",
       "instructor_email": null,
@@ -12617,8 +12617,8 @@
     {
       "crn": "24847",
       "subject": "POLS",
-      "course_number": "C1000",
-      "title": "Team-Based Research Physics II",
+      "course_number": "1000",
+      "title": "American Gov & Politics",
       "units": 3.0,
       "instructor": "Alameddine, Zein",
       "instructor_email": null,
@@ -13639,10 +13639,42 @@
       "book_link": null
     },
     {
+      "crn": "25018",
+      "subject": "STAT",
+      "course_number": "1000H",
+      "title": "Honors Statistics",
+      "units": 4.0,
+      "instructor": "Nguyen, Jennifer",
+      "instructor_email": null,
+      "meeting_times": [
+        {
+          "days": "TR",
+          "start_time": "09:15AM",
+          "end_time": "11:20AM",
+          "is_arranged": false
+        }
+      ],
+      "location": "MA 207",
+      "enrollment": {
+        "capacity": 3,
+        "actual": 3,
+        "remaining": 0
+      },
+      "status": "Closed",
+      "section_type": "LEC",
+      "zero_textbook_cost": false,
+      "delivery_method": "In-Person",
+      "weeks": 16,
+      "start_date": "08/25",
+      "end_date": "12/12",
+      "additional_hours": null,
+      "book_link": null
+    },
+    {
       "crn": "24958",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Berberyan, Toros",
       "instructor_email": null,
@@ -13674,7 +13706,7 @@
       "crn": "25003",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Gonzalez, Rudy",
       "instructor_email": null,
@@ -13706,7 +13738,7 @@
       "crn": "24972",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Berberyan, Toros",
       "instructor_email": null,
@@ -13738,7 +13770,7 @@
       "crn": "24999",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Swan, Alfie",
       "instructor_email": null,
@@ -13770,7 +13802,7 @@
       "crn": "25009",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Swan, Alfie",
       "instructor_email": null,
@@ -13802,7 +13834,7 @@
       "crn": "24962",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Berberyan, Toros",
       "instructor_email": null,
@@ -13834,7 +13866,7 @@
       "crn": "25017",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Nguyen, Jennifer",
       "instructor_email": null,
@@ -13866,7 +13898,7 @@
       "crn": "25005",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Nguyen, Tracy",
       "instructor_email": null,
@@ -13898,7 +13930,7 @@
       "crn": "24967",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Berberyan, Toros",
       "instructor_email": null,
@@ -13930,7 +13962,7 @@
       "crn": "25007",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Swan, Alfie",
       "instructor_email": null,
@@ -13962,7 +13994,7 @@
       "crn": "24991",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Everest, Rob",
       "instructor_email": null,
@@ -13994,7 +14026,7 @@
       "crn": "25011",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Nguyen, Tracy",
       "instructor_email": null,
@@ -14026,7 +14058,7 @@
       "crn": "25013",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Chun, Mina",
       "instructor_email": null,
@@ -14058,7 +14090,7 @@
       "crn": "25015",
       "subject": "STAT",
       "course_number": "C1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 4.0,
       "instructor": "Chau, Evelyn",
       "instructor_email": null,
@@ -14087,42 +14119,10 @@
       "book_link": null
     },
     {
-      "crn": "25018",
-      "subject": "STAT",
-      "course_number": "C1000H",
-      "title": "Small Group Communication",
-      "units": 4.0,
-      "instructor": "Nguyen, Jennifer",
-      "instructor_email": null,
-      "meeting_times": [
-        {
-          "days": "TR",
-          "start_time": "09:15AM",
-          "end_time": "11:20AM",
-          "is_arranged": false
-        }
-      ],
-      "location": "MA 207",
-      "enrollment": {
-        "capacity": 3,
-        "actual": 3,
-        "remaining": 0
-      },
-      "status": "Closed",
-      "section_type": "LEC",
-      "zero_textbook_cost": false,
-      "delivery_method": "In-Person",
-      "weeks": 16,
-      "start_date": "08/25",
-      "end_date": "12/12",
-      "additional_hours": null,
-      "book_link": null
-    },
-    {
       "crn": "24971",
       "subject": "STAT",
       "course_number": "S1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 2.0,
       "instructor": "Berberyan, Toros",
       "instructor_email": null,
@@ -14154,7 +14154,7 @@
       "crn": "24961",
       "subject": "STAT",
       "course_number": "S1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 2.0,
       "instructor": "Berberyan, Toros",
       "instructor_email": null,
@@ -14186,7 +14186,7 @@
       "crn": "24966",
       "subject": "STAT",
       "course_number": "S1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 2.0,
       "instructor": "Berberyan, Toros",
       "instructor_email": null,
@@ -14218,7 +14218,7 @@
       "crn": "24957",
       "subject": "STAT",
       "course_number": "S1000",
-      "title": "Small Group Communication",
+      "title": "Honors Statistics",
       "units": 2.0,
       "instructor": "Berberyan, Toros",
       "instructor_email": null,
