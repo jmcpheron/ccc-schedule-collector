@@ -1,7 +1,7 @@
 {
   "term": "Fall 2025",
   "term_code": "202620",
-  "collection_timestamp": "2026-08-05T15:52:18.890911Z",
+  "collection_timestamp": "2026-08-05T23:31:50.524573Z",
   "source_url": "https://ssb.citruscollege.edu/PROD/az_tw_zipsched.P_SEARCH?term=202620",
   "college_id": "citrus",
   "collector_version": "1.0.0",
@@ -13497,8 +13497,8 @@
       "location": "ED 212",
       "enrollment": {
         "capacity": 30,
-        "actual": 21,
-        "remaining": 9
+        "actual": 20,
+        "remaining": 10
       },
       "status": "Closed",
       "section_type": "LEC",
