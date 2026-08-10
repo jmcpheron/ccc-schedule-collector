@@ -22,7 +22,7 @@ on:
         type: boolean
         default: false
   schedule:
-    - cron: '26 3 * * *'
+    #- cron: '26 3 * * *'
 
 jobs:
   collect-details:

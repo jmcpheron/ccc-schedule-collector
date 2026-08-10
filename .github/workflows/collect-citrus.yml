@@ -10,7 +10,7 @@ on:
   schedule:
     # Run at different times than Rio Hondo to spread load
     # 7:14 AM, 3:14 PM, 11:14 PM UTC
-    - cron: '14 7,15,23 * * *'
+    # - cron: '14 7,15,23 * * *'
 
 jobs:
   collect:

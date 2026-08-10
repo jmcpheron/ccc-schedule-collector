@@ -10,7 +10,7 @@ on:
   schedule:
     # Run 3 times per day at offset minutes to be polite to servers
     # 6:26 AM, 2:26 PM, 10:26 PM UTC
-    - cron: '26 6,14,22 * * *'
+    #- cron: '26 6,14,22 * * *'
 
 jobs:
   collect:
